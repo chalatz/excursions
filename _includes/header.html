@@ -1,5 +1,35 @@
 <header class="site-header">
 
-    
+    <div class="site-logo">
+        <div class="container">
+            <div class="site-logo__headings">
+                <h1 class="site-logo__heading">
+                    <a href="{{- '/' | relative_url -}}" class="site-logo__heading-link">
+                        RhodesShoreExcursions.com
+                    </a>
+                </h1>
+        
+                <h2 class="site-logo__subheading">
+                    <a href="{{- '/' | relative_url -}}" class="site-logo__heading-link site-logo__heading-link--subheading">
+                        Rhodes Shore Excursions and Rhodes Private Tours in Rhodes Greece
+                    </a>
+                </h2>
+            </div>
+        </div>
+    </div>
+
+    <nav class="site-nav">
+        <div class="container">
+            <ul class="site-nav__items">
+                {%- for item in site.data.nav.main.items -%}
+                    <li class="site-nav__item{% if page.type == item.type %} site-nav__item--active{% endif %}">
+                        <a href="{{- item.url | relative_url -}}" class="site-nav__item-link">
+                            {{- item.title | upcase -}}
+                        </a>
+                    </li>
+                {%- endfor -%}
+            </ul>
+        </div>
+    </nav>
 
 </header>
