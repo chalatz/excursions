@@ -32,16 +32,58 @@
 
     background-color: $lightblue;
 
+    &__container {
+        @include breakpoint(large) {
+            padding-left: 0;
+            padding-right: 0;
+        }
+    }
+
     &__items {
         list-style: none;
         padding: 0;
         margin: 0;
+        @include breakpoint(large) {
+            display: none;
+        }
     }
     
     &__item {
         display: inline-block;
         &--active {
             background-color: $black;
+        }
+        &--with-sublinks {
+            position: relative;
+            &:hover {
+                .site-nav__subitems {
+                    display: block;
+                    @include breakpoint(large) {
+                        display: block;
+                    }
+                }
+            }
+        }
+        &--burger {
+            display: none;
+            padding-left: 8px;
+            padding-right: 8px;
+            cursor: pointer;
+            color: #fff;
+            font-size: 1.2rem;
+            padding-top: 16px;
+            padding-bottom: 16px;
+            &:hover {
+                & + .site-nav__items {
+                    display: block;
+                }
+            }
+            @include breakpoint(large) {
+                display: block;
+            }
+        }
+        @include breakpoint(large) {
+            display: block;
         }
     }
     
@@ -51,10 +93,24 @@
         display: block;
         padding: 14px 9px;
         font-size: 1.1rem;
-        letter-spacing: 1px;
-        transition: background-color .1s linear;
+        letter-spacing: 1.5px;
+        transition: color .1s linear;
         &:hover {
-            background-color: $black;
+            color: $yellow;
+        }
+        &--sublink {
+            white-space: nowrap;
+        }
+    }
+
+    &__subitems {
+        display: none;
+        position: absolute;
+        background-color: $darkblue;
+        padding: 0;
+        @include breakpoint(large) {
+            position: static;
+            padding-left: 20px;
         }
     }
 

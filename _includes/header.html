@@ -19,13 +19,28 @@
     </div>
 
     <nav class="site-nav">
-        <div class="container">
+        <div class="container site-nav__container">
+            <div class="site-nav__item site-nav__item--burger">
+                MENU
+            </div>
             <ul class="site-nav__items">
                 {%- for item in site.data.nav.main.items -%}
-                    <li class="site-nav__item{% if page.type == item.type %} site-nav__item--active{% endif %}">
+                    {%- assign sublinks_size = item.sublinks | size -%}
+                    <li class="site-nav__item{% if page.type == item.type %} site-nav__item--active{% endif %}{% if sublinks_size > 0 %} site-nav__item--with-sublinks{% endif %}">
                         <a href="{{- item.url | relative_url -}}" class="site-nav__item-link">
                             {{- item.title | upcase -}}
                         </a>
+                        {%- if sublinks_size > 0 -%}
+                            <ul class="site-nav__subitems">
+                                {%- for subitem in item.sublinks -%}
+                                    <li class="site-nav__item site-nav__item--sublink">
+                                        <a href="{{- subitem.url | relative_url -}}" class="site-nav__item-link site-nav__item-link--sublink">
+                                            {{- subitem.title -}}
+                                        </a>
+                                    </li>
+                                {%- endfor -%}
+                            </ul>
+                        {%- endif -%}
                     </li>
                 {%- endfor -%}
             </ul>
