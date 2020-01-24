@@ -7,22 +7,25 @@ $yellow: #d4af37;
 $black: #151e2e;
 
 @mixin breakpoint($point) {
-    @if $point == smaller {
-        @media (max-width: 425px) { @content; }
+    @if $point == larger {
+      @media (min-width: 1200px) { @content; }
     }
-    @if $point == small {
-        @media (max-width: 576px) { @content; }
-    }
-    @if $point == medium {
-        @media (max-width: 768px) { @content; }
+    @if $point == semi_large {
+      @media (min-width: 1120px) { @content; }
     }
     @if $point == large {
-        @media (max-width: 990px) { @content; }
+      @media (min-width: 990px) { @content; }
     }
-    @else if $point == larger {
-        @media (max-width: 1200px) { @content; }
+    @if $point == medium {
+      @media (min-width: 768px) { @content; }
     }
-}
+    @else if $point == small {
+      @media (min-width: 576px) { @content; }
+    }
+    @else if $point == smaller {
+      @media (min-width: 425px) { @content; }
+    }
+  }
 
 @mixin clearfix {
     &:after {

@@ -1,54 +1,54 @@
 - title: Best Rhodes Shore Excursion
   url: '/'
   thumb:
-    img: '/img/home/tours/1-thumb.jpg'
+    img: './img/home/tours/1-thumb.jpg'
     alt_text: ''
   home_page: true
 - title: Rhodes in a Day
   url: '/'
   thumb:
-    img: '/img/home/tours/2-thumb.jpg'
+    img: './img/home/tours/2-thumb.jpg'
     alt_text: ''
   home_page: true
 - title: Rhodes West Coast
   url: '/'
   thumb:
-    img: '/img/home/tours/3-thumb.jpg'
+    img: './img/home/tours/3-thumb.jpg'
     alt_text: ''
   home_page: true
 - title: Jewish Tour Rhodes
   url: '/'
   thumb:
-    img: '/img/home/tours/4-thumb.jpg'
+    img: './img/home/tours/4-thumb.jpg'
     alt_text: ''
   home_page: true
 - title: Wine Tour Rhodes
   url: '/'
   thumb:
-    img: '/img/home/tours/5-thumb.jpg'
+    img: './img/home/tours/5-thumb.jpg'
     alt_text: ''
   home_page: true
 - title: Rhodes Beach Tour
   url: '/'
   thumb:
-    img: '/img/home/tours/6-thumb.jpg'
+    img: './img/home/tours/6-thumb.jpg'
     alt_text: ''
   home_page: true
 - title: Family Tour Rhodes
   url: '/'
   thumb:
-    img: '/img/home/tours/7-thumb.jpg'
+    img: './img/home/tours/7-thumb.jpg'
     alt_text: ''
   home_page: true
 - title: Rhodes Custom Tour
   url: '/'
   thumb:
-    img: '/img/home/tours/8-thumb.jpg'
+    img: './img/home/tours/8-thumb.jpg'
     alt_text: ''
   home_page: true
 - title: Rhodes Green Tour
   url: '/'
   thumb:
-    img: '/img/home/tours/9-thumb.jpg'
+    img: './img/home/tours/9-thumb.jpg'
     alt_text: ''
   home_page: true

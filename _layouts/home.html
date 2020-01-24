@@ -3,7 +3,7 @@ layout: default
 ---
 
 <section class="head-photo head-photo--home">
-    <img src="{{- page.head_photo.img | relative_url -}}" alt="{{- page.head_photo.alt_text -}}" class="head-photo__img">
+    <img src="{{- page.head_photo.img -}}" alt="{{- page.head_photo.alt_text -}}" class="head-photo__img">
 </section>
 
 <section class="section section--home section--dark">
@@ -13,13 +13,13 @@ layout: default
                 <div class="home__tour-wrapper col col--1-3">
                     <div class="home__tour">
                         <div class="home__tour-img-wrapper">
-                            <a href="{{- tour.url | relative_url -}}" class="home__tour-img-link">
-                                <img src="{{- tour.thumb.img | relative_url -}}" alt="{{- tour.thumb.alt_text -}}" class="home__tour-img">
+                            <a href="{{- tour.url -}}" class="home__tour-img-link">
+                                <img src="{{- tour.thumb.img -}}" alt="{{- tour.thumb.alt_text -}}" class="home__tour-img">
                             </a>
                         </div>
                         <div class="home__tour-text">
                             <h3 class="home__tour-title">
-                                <a href="{{- tour.url | relative_url -}}" class="home__tour-title-link">
+                                <a href="{{- tour.url -}}" class="home__tour-title-link">
                                     {{- tour.title -}}
                                 </a>
                             </h3>
