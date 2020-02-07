@@ -5,12 +5,18 @@
     &__container {
         padding-left: 0;
         padding-right: 0;
+        position: relative;
     }
 
     &__items {
         list-style: none;
         padding: 0;
         margin: 0;
+        position: absolute;
+        top: 52px;
+        left: 0;
+        width: 100%;
+        background-color: $darkblue;
     }
     
     &__item {
@@ -54,6 +60,7 @@
     &__subitems {
         background-color: $darkblue;
         padding-left: 20px;
+        display: none;
     }
 
     &__burger-icon {
