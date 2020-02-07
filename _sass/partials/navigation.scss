@@ -20,18 +20,11 @@
         }
 
         &--burger {
-            padding-left: 8px;
-            padding-right: 8px;
+            padding: 8px;
             cursor: pointer;
             color: #fff;
             font-size: 1.2rem;
-            padding-top: 16px;
-            padding-bottom: 16px;
-            &:hover {
-                & + .site-nav__items {
-                    display: block;
-                }
-            }
+            
             @include breakpoint(large) {
                 display: none;
             }
@@ -61,6 +54,11 @@
     &__subitems {
         background-color: $darkblue;
         padding-left: 20px;
+    }
+
+    &__burger-icon {
+        fill: #fff;
+        stroke: $lightblue;
     }
 
 }
