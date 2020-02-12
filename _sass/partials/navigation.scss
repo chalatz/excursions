@@ -59,6 +59,11 @@
         transition: color .1s linear;
         &:hover {
             color: $yellow;
+            & + .site-nav__chevron {
+                .chevron-icon {
+                    fill: $yellow;
+                }
+            }
         }
         &--sublink {
             white-space: nowrap;
