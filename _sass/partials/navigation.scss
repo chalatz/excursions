@@ -6,6 +6,10 @@
         padding-left: 0;
         padding-right: 0;
         position: relative;
+        @include breakpoint(large) {
+            padding-left: 20px;
+            padding-right: 20px;
+        }
     }
 
     &__items {
@@ -20,6 +24,15 @@
         background-color: $darkblue;
         &--opened {
             box-shadow: 0 6px 11px -6px $yellow;
+            @include breakpoint(large) {
+                box-shadow: none;
+            }
+        }
+        @include breakpoint(large) {
+            display: block !important;
+            position: static;
+            top: auto;
+            background-color: $lightblue;
         }
     }
     
@@ -29,6 +42,10 @@
             background-color: $black;
         }
 
+        @include breakpoint(large) {
+            display: inline-block;
+        }
+        
         &--burger {
             padding: 8px;
             cursor: pointer;
@@ -39,14 +56,17 @@
                 display: none;
             }
         }
-
-        @include breakpoint(large) {
-            display: block;
-        }
-
+                
         &--with-sublinks {
             position: relative;
         }
+
+        &--sublink {
+            @include breakpoint(large) {
+                display: block;
+            }
+        }
+
     }
     
     &__item-link {
@@ -74,6 +94,11 @@
         background-color: $darkblue;
         padding-left: 20px;
         display: none;
+        @include breakpoint(large) {
+            position: absolute;
+            padding-left: 0;
+            top: 48px;
+        }
     }
 
     &__burger-icon {
@@ -85,6 +110,9 @@
         position: absolute;
         top: 0;
         right: 0;
+        @include breakpoint(large) {
+            display: none;
+        }
     }
 
     .chevron-icon {

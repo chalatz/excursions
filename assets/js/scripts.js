@@ -1,5 +1,18 @@
 (function($){
 
+    var waitForFinalEvent = (function () {
+        var timers = {};
+        return function (callback, ms, uniqueId) {
+          if (!uniqueId) {
+            uniqueId = "Don't call this twice without a uniqueId";
+          }
+          if (timers[uniqueId]) {
+            clearTimeout (timers[uniqueId]);
+          }
+          timers[uniqueId] = setTimeout(callback, ms);
+        };
+      })();
+
     // Toggles the sliding of the mobile menu
     var handle_menu = function() {
 
@@ -19,25 +32,42 @@
     var handle_submenu = function() {
     
         var parent_item = $('.site-nav__item-link--with-sublinks');
-
-        parent_item.on('click', function(e){
-            e.preventDefault();                
-            var $this = $(this),
-                submenu = $this.siblings('.site-nav__subitems'),
-                chevron_icon = $this.siblings('.site-nav__chevron').find('.chevron-icon');
-
-            $this.children().on('click', function(e){
-                e.stopPropagation();
+        
+        if(window.innerWidth < 990) {
+            parent_item.on('click', function(e){
+                e.preventDefault();                
+                var $this = $(this),
+                    submenu = $this.siblings('.site-nav__subitems'),
+                    chevron_icon = $this.siblings('.site-nav__chevron').find('.chevron-icon');
+    
+                $this.children().on('click', function(e){
+                    e.stopPropagation();
+                });
+                
+                chevron_icon.toggleClass('rotate-180');
+                
+                submenu.slideToggle();
             });
-            
-            chevron_icon.toggleClass('rotate-180');
-            
-            submenu.slideToggle();
-        });
+        } else {
+            var parent_item = $('.site-nav__item--with-sublinks');
+            parent_item.hoverIntent(function(){
+                var $this = $(this),
+                    submenu = $this.find('.site-nav__subitems');
+        
+                submenu.slideToggle();
+            });
+        }
+
 
     }
 
     handle_menu();
     handle_submenu();
+    
+    $(window).resize(function () {
+        waitForFinalEvent(function(){
+            handle_submenu();
+        }, 500, "some unique string");
+      });
 
 })(jQuery);
