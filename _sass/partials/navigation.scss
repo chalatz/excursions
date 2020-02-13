@@ -1,6 +1,9 @@
 .site-nav {
 
     background-color: $lightblue;
+    position: sticky;
+    top: 0;
+    z-index: 1;
 
     &__container {
         padding-left: 0;
