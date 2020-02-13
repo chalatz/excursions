@@ -45,7 +45,7 @@ layout: default
 </section>
 
 <section class="section section--home section--light">
-    <div class="container home__tours-container">
+    <div class="container">
         <h2 class="home__destinations-title">
             {{- site.data.destinations.title -}}
         </h2>
@@ -59,6 +59,20 @@ layout: default
                         {{- dest.title -}}
                     </span>
                 </a>
+            {%- endfor -%}
+        </div>
+    </div>
+</section>
+
+<section class="section section--home">
+    <div class="container">
+        <div class="home__banners">
+            {%- for banner in site.data.home_banners.items -%}
+                <div class="home__banner">
+                    <a href="{{- banner.url -}}" class="home__banner-link">
+                        <img src="{{ banner.image.path }}" alt="{{- banner.image.alt -}}" class="home__banner-img">
+                    </a>
+                </div>
             {%- endfor -%}
         </div>
     </div>

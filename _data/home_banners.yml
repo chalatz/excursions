@@ -1,0 +1,21 @@
+items:
+  - image:
+      path: ./img/home/banners/rick_steves_logo.png
+      alt: RICK STEVES EUROPE - RHODES
+    url: '/'
+  - image:
+      path: ./img/home/banners/luxury-travel-guide-2019-small.jpg
+      alt: Luxury Travel Guide Europe for Rhodes
+    url: '/'
+  - image:
+      path: ./img/home/banners/thirty_years_experience_small.png
+      alt: Rhodes tours with experienced tour guides
+    url: '/'
+  - image:
+      path: ./img/home/banners/trip_advisor_comments_left_menu2.gif
+      alt: Verified reviews and comments for Rhodes Private Tours
+    url: '/'
+  - image:
+      path: ./img/home/banners/recommended_matt_barrett.gif
+      alt: Rhodes tours recommended by Matt Barrett Greece Travel Guide
+    url: '/'
