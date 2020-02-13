@@ -71,7 +71,14 @@
         text-align: center;
         &-title {
             text-align: center;
-            letter-spacing: 1.5px;
+            letter-spacing: 1.8px;
+        }
+        @include breakpoint(large) {
+            @supports(display: flex) {
+                display: flex;
+                flex-wrap: wrap;
+                justify-content: center;
+            }
         }
     }
 
@@ -84,18 +91,27 @@
         font-size: 18px;
         text-decoration: none;
         border-radius: 10px;
-        margin-right: 12px;
+        margin-right: 0;
         margin-bottom: 16px;
-        width: 46%;
+        width: 100%;
         line-height: 1.3;
         transition: background-color .1s linear, color .1s linear;
+        @include breakpoint(small) {
+            margin-right: 18px;
+            width: 46%;
+        }
         @include breakpoint(medium) {
             width: 30%;
         }
-        @include breakpoint(larger) {
+        @include breakpoint(large) {
             width: 14%;
             vertical-align: middle;
             min-height: 64px;
+            @supports(display: flex) {
+                min-height: auto;
+                display: flex;
+                align-items: center;
+            }
         }
 
         &:hover {
@@ -113,12 +129,12 @@
             @include breakpoint(medium) {
                 margin-right: 0;
             }
-            @include breakpoint(larger) {
+            @include breakpoint(large) {
                 margin-right: 12px;
             }
         }
         &--six {
-            @include breakpoint(larger) {
+            @include breakpoint(large) {
                 margin-right: 0;
             }
         }
