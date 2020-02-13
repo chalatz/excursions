@@ -12,8 +12,6 @@ main:
           url: '/'
         - title: VIP Tour Services
           url: '/'
-        - title: Rhodes Taxi Tours
-          url: '/'
     - title: Private Excursions
       url: '/'
       type: private
