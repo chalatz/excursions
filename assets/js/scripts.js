@@ -40,6 +40,7 @@
                     submenu = $this.siblings('.site-nav__subitems'),
                     chevron_icon = $this.siblings('.site-nav__chevron').find('.chevron-icon');
     
+                e.stopPropagation();
                 $this.children().on('click', function(e){
                     e.stopPropagation();
                 });
@@ -68,6 +69,6 @@
         waitForFinalEvent(function(){
             handle_submenu();
         }, 500, "some unique string");
-      });
+    });
 
 })(jQuery);

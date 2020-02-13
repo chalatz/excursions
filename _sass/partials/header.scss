@@ -9,6 +9,13 @@
 
     &__heading {
         margin: 0;
+        font-size: 22px;
+        @include breakpoint(smaller) {
+            font-size: 26px;
+        }
+        @include breakpoint(small) {
+            font-size: 32px;
+        }
     }
 
     &__subheading {
