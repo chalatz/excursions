@@ -19,4 +19,14 @@ img {
         color: white;
     }
 
+    &--light {
+        background-color: $lightblue;
+        color: white;
+    }
+
+    &--lighter {
+        background-color: $lighterblue;
+        color: white;
+    }
+
 }
