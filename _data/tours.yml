@@ -4,51 +4,60 @@
     img: './img/home/tours/1-thumb.jpg'
     alt_text: ''
   home_page: true
+  duration: 5:00 HOURS
 - title: Rhodes in a Day
   url: '/'
   thumb:
     img: './img/home/tours/2-thumb.jpg'
     alt_text: ''
   home_page: true
+  duration: 8:00 HOURS
 - title: Rhodes West Coast
   url: '/'
   thumb:
     img: './img/home/tours/3-thumb.jpg'
     alt_text: ''
   home_page: true
+  duration: 5:30 HOURS
 - title: Jewish Tour Rhodes
   url: '/'
   thumb:
     img: './img/home/tours/4-thumb.jpg'
     alt_text: ''
   home_page: true
+  duration: 6:00 HOURS
 - title: Wine Tour Rhodes
   url: '/'
   thumb:
     img: './img/home/tours/5-thumb.jpg'
     alt_text: ''
   home_page: true
+  duration: 6:00 HOURS
 - title: Rhodes Beach Tour
   url: '/'
   thumb:
     img: './img/home/tours/6-thumb.jpg'
     alt_text: ''
   home_page: true
+  duration: 5:00 HOURS
 - title: Family Tour Rhodes
   url: '/'
   thumb:
     img: './img/home/tours/7-thumb.jpg'
     alt_text: ''
   home_page: true
+  duration: 4:30 HOURS
 - title: Rhodes Custom Tour
   url: '/'
   thumb:
     img: './img/home/tours/8-thumb.jpg'
     alt_text: ''
   home_page: true
+  duration: 5:00 - 8:00 HOURS
 - title: Rhodes Green Tour
   url: '/'
   thumb:
     img: './img/home/tours/9-thumb.jpg'
     alt_text: ''
   home_page: true
+  duration: 5:00 HOURS

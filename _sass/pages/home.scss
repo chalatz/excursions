@@ -1,5 +1,14 @@
 .home {
 
+    &__tour-wrapper {
+        @include breakpoint(small) {
+            min-height: 426px;
+            @supports (display: flex) {
+                min-height: auto;
+            }
+        }
+    }
+
     &__tour {
 
         background-color: #fff;
@@ -24,7 +33,7 @@
 
         &-text {
             text-align: center;
-            padding: 20px 0 25px
+            padding: 20px 6px 25px
         }
 
         &-title {
@@ -32,7 +41,7 @@
             margin: 0;
             padding: 0;
             font-weight: normal;
-            font-size: 20px;
+            font-size: 24px;
         }
 
         &-title-link {
@@ -42,6 +51,12 @@
             &:hover {
                 color: darken($yellow, 15%);
             }
+        }
+
+        &-duration {
+            font-weight: bold;
+            font-size: 18px;
+            margin-bottom: 0;
         }
 
     }

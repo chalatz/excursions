@@ -22,6 +22,11 @@ layout: default
                                 <a href="{{- tour.url -}}" class="home__tour-title-link">
                                     {{- tour.title -}}
                                 </a>
+                                {%- if tour.duration and tour.duration.size > 0 -%}
+                                    <p class="home__tour-duration">
+                                        {{ tour.duration }}
+                                    </p>
+                                {%- endif -%}
                             </h3>
                         </div>
                     </div>
