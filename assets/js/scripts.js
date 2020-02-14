@@ -49,7 +49,7 @@
 
                 chevron_icon.toggleClass('rotate-180');
 
-                submenu.slideToggle();
+                submenu.toggleClass('site-nav__subitems--opened');
 
             });            
 
