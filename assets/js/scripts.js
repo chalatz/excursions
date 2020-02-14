@@ -37,7 +37,7 @@
 
             parent_item.on('click', function(e){
 
-                e.preventDefault();
+                // e.preventDefault();
 
                 var $this = $(this),
                     submenu = $this.find('.site-nav__subitems'),

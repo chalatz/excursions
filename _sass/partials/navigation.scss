@@ -75,7 +75,7 @@
     &__item-link {
         text-decoration: none;
         color: #fff;
-        display: block;
+        display: inline-block;
         padding: 14px 9px;
         font-size: 1.1rem;
         letter-spacing: 1.5px;
@@ -88,8 +88,10 @@
                 }
             }
         }
-        &--sublink {
+        &--sublinks {
+            pointer-events: none;
             white-space: nowrap;
+            
         }
     }
 
