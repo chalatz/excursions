@@ -43,9 +43,9 @@
                     submenu = $this.find('.site-nav__subitems'),
                     chevron_icon = $this.find('.site-nav__chevron').find('.chevron-icon');
 
-                // $this.children().on('click', function(e){
-                //     e.stopPropagation();
-                // });
+                $this.children().on('click', function(e){
+                    e.stopPropagation();
+                });
 
                 chevron_icon.toggleClass('rotate-180');
 

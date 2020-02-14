@@ -91,6 +91,9 @@
         &--sublink {
             white-space: nowrap;
         }
+        &--with-sublinks {
+            pointer-events: none;
+        }
     }
 
     &__subitems {
