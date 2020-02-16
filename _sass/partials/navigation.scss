@@ -25,12 +25,12 @@
         left: 0;
         width: 100%;
         background-color: $darkblue;
-        // &--opened {
-        //     box-shadow: 0 6px 11px -6px $yellow;
-        //     @include breakpoint(large) {
-        //         box-shadow: none;
-        //     }
-        // }
+        &--opened {
+            box-shadow: 0 6px 11px -6px $yellow;
+            @include breakpoint(large) {
+                box-shadow: none;
+            }
+        }
         @include breakpoint(large) {
             display: block !important;
             position: static;
@@ -62,6 +62,7 @@
                 
         &--with-sublinks {
             position: relative;
+            cursor: pointer;
         }
 
         &--sublink {
@@ -91,6 +92,18 @@
         &--sublink {
             white-space: nowrap;
         }
+        &--with-sublinks {
+            pointer-events: none;
+        }
+    }
+
+    &__item:hover {
+        .site-nav__item-link--with-sublinks {
+            color: $yellow;
+        }
+        .chevron-icon {
+            fill: $yellow;
+        }
     }
 
     &__subitems {
@@ -113,6 +126,7 @@
         position: absolute;
         top: 0;
         right: 8px;
+        pointer-events: none;
         @include breakpoint(large) {
             display: none;
         }
