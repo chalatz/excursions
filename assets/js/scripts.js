@@ -37,7 +37,7 @@
 
             parent_item.on('click', function(e){
 
-                e.preventDefault();
+                // e.preventDefault();
 
                 var $this = $(this),
                     submenu = $this.find('.site-nav__subitems'),
@@ -49,7 +49,7 @@
 
                 chevron_icon.toggleClass('rotate-180');
 
-                submenu.slideToggle();
+                submenu.toggleClass('site-nav__subitems--opened');
 
             });            
 
