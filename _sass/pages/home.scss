@@ -1,8 +1,10 @@
 .home {
 
     &__tour-wrapper {
+        margin-bottom: 65px;
         @include breakpoint(small) {
             min-height: 426px;
+            margin-bottom: 12px;
             @supports (display: flex) {
                 min-height: auto;
             }

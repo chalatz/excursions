@@ -6,6 +6,14 @@ layout: default
     <img src="{{- page.head_photo.img -}}" alt="{{- page.head_photo.alt_text -}}" class="head-photo__img">
 </section>
 
+<section class="section section--home">
+    <div class="container home__tours-container">
+        <div class="home__content centered">
+            {{ page.intro | markdownify }}
+        </div>
+    </div>
+</section>
+
 <section class="section section--home section--dark">
     <div class="container home__tours-container">
         <div class="home__tours-items grid">

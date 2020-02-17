@@ -67,13 +67,14 @@
 
     }
 
+    
+    // $(window).resize(function () {
+    //     waitForFinalEvent(function(){
+    //         handle_submenu();
+    //     }, 600, "some unique string");
+    // });
+    
     handle_menu();
     handle_submenu();
-    
-    $(window).resize(function () {
-        waitForFinalEvent(function(){
-            handle_submenu();
-        }, 500, "some unique string");
-    });
 
 })(jQuery);

@@ -10,16 +10,16 @@ meta:
   keywords: Rhodes Shore Excursions Greece, Shore Excursions in Rhodes Greece, Rhodes Private Tours, Rhodes Cruise Excursions, Best Shore Excursions in Rhodes Greece
   description: Rhodes Shore Excursions Greece, Shore Excursions in Rhodes Greece, Rhodes Private Tours, Rhodes Cruise Excursions, Best Shore Excursions in Rhodes Greece
   abstract: Rhodes Shore Excursions Greece, Rhodes Private Tours  
+intro: |-
+  Are you a cruiser and first-time visitor to Rhodes? Looking for a way to maximize your short time on the island?
+
+  If Yes, then you came to the right place. **Welcome to Rhodes Shore Excursions!**
 ---
+{:.centered}
+**Get help from true insiders.**
 
 {:.centered}
-Are you a cruiser and first-time visitor to Rhodes? Looking for a way to maximize your short time on the island?
-
-{:.centered}
-If Yes, then you came to the right place. **Welcome to Rhodes Shore Excursions!**
-
-{:.centered}
-Get help from true insiders. Let our knowledgeable, professional tour-drivers and licensed tour-guides help you experience a dream shore tour.
+Let our knowledgeable, professional tour-drivers and licensed tour-guides help you experience a dream shore tour.
 
 We are dedicated to providing custom-tailored shore excursions for cruise ship passengers docking at Rhodes cruise port. You can choose from a number of our shore tours where we will take you to the best historic and cultural spots and the best Rhodes destinations. You can explore Rhodes town highlights and Lindos. We can also suggest a lot of "things to do and see in Rhodes" so you can cover as many sights as possible during your short visit.  You can add or delete pieces of the itinerary as you wish. Individuals will be driven in Mercedes Sedan Cars and groups can be accommodated in Minibuses and Coaches.
 

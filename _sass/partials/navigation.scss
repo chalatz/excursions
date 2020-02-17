@@ -89,6 +89,12 @@
                 }
             }
         }
+        @include breakpoint(large) {
+            font-size: 1rem;
+        }
+        @include breakpoint(semi_large) {
+            font-size: 1.1rem;
+        }
         &--sublinks {
             white-space: nowrap;
         }
@@ -115,6 +121,9 @@
         @include breakpoint(large) {
             position: absolute;
             padding-left: 0;
+            top: 46px;
+        }
+        @include breakpoint(semi_large) {
             top: 48px;
         }
         &--opened {

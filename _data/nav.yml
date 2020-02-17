@@ -5,44 +5,48 @@ main:
       type: home
       sublinks: []
     - title: About Us
-      url: '/'
+      url: '#'
       type: about
       sublinks:
         - title: Our Story
-          url: '/'
+          url: '#'
         - title: VIP Tour Services
-          url: '/'
+          url: '#'
     - title: Private Excursions
-      url: '/'
+      url: '#'
       type: private
       sublinks:
         - title: Best Rhodes shore Excursions
-          url: '/'
+          url: '#'
         - title: Rhodes in a Day
-          url: '/'
+          url: '#'
         - title: Rhodes West Coast
-          url: '/'
+          url: '#'
         - title: Jewish Tour Rhodes
-          url: '/'
+          url: '#'
         - title: Wine Tour Rhodes
-          url: '/'
+          url: '#'
         - title: Rhodes Beach Tour
-          url: '/'
+          url: '#'
         - title: Family Tour Rhodes
-          url: '/'
+          url: '#'
         - title: Rhodes Custom Tour
-          url: '/'
+          url: '#'
         - title: Rhodes Green Tour
-          url: '/'
-    - title: Accessible Excursions
-      url: '/'
+          url: '#'
+    - title: Group Excursions
+      url: '#'
+      type: group
+      sublinks: []
+    - title: Accessible
+      url: '#'
       type: accessible
       sublinks: []
     - title: Reviews
-      url: '/'
+      url: '#'
       type: reviews
       sublinks: []
     - title: Contact Us
-      url: '/'
+      url: '#'
       type: contact
       sublinks: []
