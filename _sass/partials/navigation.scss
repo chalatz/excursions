@@ -140,6 +140,10 @@
     &--mobile {
         height: 100vh;
         overflow-y: auto;
+        @include breakpoint(large) {
+            height: auto;
+            overflow-y: visible;
+        }
     }
 
     .chevron-icon {
