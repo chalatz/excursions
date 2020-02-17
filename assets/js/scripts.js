@@ -50,16 +50,16 @@
                 chevron_icon.toggleClass('rotate-180');
 
                 submenu.toggleClass('site-nav__subitems--opened');
-
+                
             });            
-
+            
         } else {
-
+            
             parent_item.hoverIntent(function(){
                 var $this = $(this),
                 submenu = $this.find('.site-nav__subitems');
-
-                submenu.slideToggle();
+                
+                submenu.toggleClass('site-nav__subitems--opened');                
 
             });
 
