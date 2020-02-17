@@ -111,7 +111,7 @@
         padding-left: 20px;
         max-height: 0;
         overflow: hidden;
-        transition: max-height .3s linear;
+        transition: all .5s ease-in;
         @include breakpoint(large) {
             position: absolute;
             padding-left: 0;
