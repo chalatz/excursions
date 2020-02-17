@@ -76,7 +76,7 @@
     &__item-link {
         text-decoration: none;
         color: #fff;
-        display: block;
+        display: inline-block;
         padding: 14px 9px;
         font-size: 1.1rem;
         letter-spacing: 1.5px;
@@ -89,7 +89,7 @@
                 }
             }
         }
-        &--sublink {
+        &--sublinks {
             white-space: nowrap;
         }
         &--with-sublinks {
@@ -109,11 +109,16 @@
     &__subitems {
         background-color: $darkblue;
         padding-left: 20px;
-        display: none;
+        max-height: 0;
+        overflow: hidden;
+        transition: max-height .3s linear;
         @include breakpoint(large) {
             position: absolute;
             padding-left: 0;
             top: 48px;
+        }
+        &--opened {
+            max-height: 800px;
         }
     }
 
@@ -134,7 +139,7 @@
 
     .chevron-icon {
         fill: #fff;
-        transition: all .3s linear;
+        // transition: all .2s linear;
     }
 
 }
