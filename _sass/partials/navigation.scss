@@ -25,12 +25,12 @@
         left: 0;
         width: 100%;
         background-color: $darkblue;
-        &--opened {
-            box-shadow: 0 6px 11px -6px $yellow;
-            @include breakpoint(large) {
-                box-shadow: none;
-            }
-        }
+        // &--opened {
+        //     box-shadow: 0 6px 11px -6px $yellow;
+        //     @include breakpoint(large) {
+        //         box-shadow: none;
+        //     }
+        // }
         @include breakpoint(large) {
             display: block !important;
             position: static;
@@ -135,6 +135,11 @@
         @include breakpoint(large) {
             display: none;
         }
+    }
+
+    &--mobile {
+        height: 100vh;
+        overflow-y: auto;
     }
 
     .chevron-icon {
