@@ -43,11 +43,6 @@
 
 .desktop-only {
     display: none;
-    &--inline {
-        @include breakpoint(small) {
-            display: inline;
-        }
-    }
     &--block {
         @include breakpoint(small) {
             display: block;
@@ -60,6 +55,25 @@
     }
     &--inline-block {
         @include breakpoint(small) {
+            display: inline-block;
+        }
+    }
+}
+
+.mid-desktop-only {
+    display: none;
+    &--block {
+        @include breakpoint(large) {
+            display: block;
+        }
+    }
+    &--inline {
+        @include breakpoint(large) {
+            display: inline;
+        }
+    }
+    &--inline-block {
+        @include breakpoint(large) {
             display: inline-block;
         }
     }

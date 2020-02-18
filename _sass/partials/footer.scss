@@ -171,6 +171,9 @@
         font-size: 20px;
         margin: 0;
         margin-bottom: 8px;
+        @include breakpoint(large) {
+            margin-bottom: 14px;
+        }
     }
 
     &__list {
@@ -181,6 +184,9 @@
             margin-top: 0;
             margin-bottom: 6px;
             line-height: 1.4;
+            @include breakpoint(large) {
+                margin-bottom: 12px;
+            }
             a {
                 color: #fff;
                 text-decoration: none;
@@ -201,8 +207,14 @@
         letter-spacing: .5px;
         text-align: center;
         line-height: 1.5;
+        @include breakpoint(large) {
+            margin-top: 6px;
+        }
         &-item {
             display: block;
+            @include breakpoint(large) {
+                display: inline;
+            }
         }
     }
 
