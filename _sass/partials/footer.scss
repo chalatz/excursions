@@ -16,11 +16,13 @@
     }
 
     &__copyright {
+        padding-top: 16px;
         margin-top: 0;
-        padding: 0 .5rem;
         text-align: center;
-        font-size: .95rem;
+        font-size: 15px;
         line-height: 1.6;
+        font-weight: bold;
+        letter-spacing: 1.7px;
     }
 
     &__info {
@@ -53,8 +55,9 @@
 
     &__info-col {
 
+        margin-top: 8px;
         margin-bottom: 1.8rem;
-        font-size: 1rem;
+        font-size: 18px;
 
         @include breakpoint(small) {
             //font-size: .85rem;
@@ -97,8 +100,10 @@
 
         p {
             margin-top: 0;
-            margin-bottom: 0.5rem;
-            line-height: 1.6;
+            margin-bottom: 6px;
+            line-height: 1.4;
+            font-size: 18px;
+            letter-spacing: .5px;
         }
 
         .just-text {
@@ -161,4 +166,51 @@
         }
     }
 
+    &__col-title {
+        letter-spacing: 1.5px;
+        font-size: 20px;
+        margin: 0;
+        margin-bottom: 8px;
+    }
+
+    &__list {
+        list-style: none;
+        padding: 0;
+        margin: 0;
+        li {
+            margin-top: 0;
+            margin-bottom: 6px;
+            line-height: 1.4;
+            a {
+                color: #fff;
+                text-decoration: none;
+                font-size: 18px;
+                letter-spacing: .5px;
+                &:hover {
+                    text-decoration: underline;
+                }
+            }
+        }
+    }
+
+    &__bottom-info {
+        margin-top: 0;
+        margin-bottom: 6px;
+        line-height: 1.4;
+        font-size: 18px;
+        letter-spacing: .5px;
+        text-align: center;
+        line-height: 1.5;
+        &-item {
+            display: block;
+        }
+    }
+
+}
+
+.koinonika {
+    margin-top: 24px;
+    a {
+        font-size: 20px;
+    }
 }

@@ -53,6 +53,11 @@
             display: block;
         }
     }
+    &--inline {
+        @include breakpoint(small) {
+            display: inline;
+        }
+    }
     &--inline-block {
         @include breakpoint(small) {
             display: inline-block;
