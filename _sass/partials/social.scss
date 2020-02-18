@@ -1,0 +1,38 @@
+.koinonika {
+
+    margin-top: 24px;
+
+    a {
+        font-size: 20px;
+    }
+
+    &__link {
+        display: inline-block;
+        background-color: #404040;
+        border-radius: 100%;
+        padding: 12px 10px;
+        transition: background-color .2s linear;
+        margin-right: 12px;
+        &:last-child {
+            margin-right: 0;
+        }
+        &--fatsobiblio:hover {
+            background-color: #3b5999;
+        }
+        &--titivisma:hover {
+            background-color: #55acee;
+        }
+        &--sindesi_mesa:hover {
+            background-color: #55acee;
+        }
+        &--karfitsoste:hover {
+            background-color: #bd081c;
+        }
+    }
+
+    &__icon {
+        fill: #fff;
+        height: 22px;
+    }
+
+}
