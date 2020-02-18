@@ -10,3 +10,52 @@
 .centered {
     text-align: center;
 }
+
+.mobile-only {
+    &--inline {
+        display: inline;
+    }
+    &--block {
+        display: block;
+    }
+    &--inline-block {
+        display: inline-block;
+    }
+    @include breakpoint(small) {
+        display: none;
+    }
+}
+
+.tablet-only {
+    &--inline {
+        display: inline;
+    }
+    &--block {
+        display: block;
+    }
+    &--inline-block {
+        display: inline-block;
+    }
+    @include breakpoint(large) {
+        display: none;
+    }
+}
+
+.desktop-only {
+    display: none;
+    &--inline {
+        @include breakpoint(small) {
+            display: inline;
+        }
+    }
+    &--block {
+        @include breakpoint(small) {
+            display: block;
+        }
+    }
+    &--inline-block {
+        @include breakpoint(small) {
+            display: inline-block;
+        }
+    }
+}
