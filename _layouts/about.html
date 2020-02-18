@@ -1,0 +1,22 @@
+---
+layout: page
+---
+{{ content }}
+
+<section class="about__profile">
+
+    <h2 class="about__profile-title">
+        {{- page.profile.title -}}
+    </h2>
+
+    <div class="about__profile-info">
+        <div class="about__profile-img-wrapper">
+            <img src="{{- page.profile.image.image | relative_url -}}" alt="{{- page.profile.image.alt_text -}}" class="about__profile-img">
+        </div>
+        <div class="about__profile-text">
+            {{ page.profile.text | markdownify }}
+        </div>
+    </div>
+
+
+</section>  

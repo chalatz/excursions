@@ -1,0 +1,34 @@
+.about {
+
+    &__profile {
+
+        &-title {
+            font-size: 1.5rem;
+        }
+
+        &-info {
+            @include clearfix;
+        }
+
+        &-img-wrapper {
+            text-align: center;
+            @include breakpoint(large) {
+                float: left;
+                width: 20%;
+            }
+        }
+        
+        &-text {
+            @include breakpoint(large) {
+                float: right;
+                width: 75%;
+                p:first-child {
+                    margin-top: 0;
+                }
+            }
+        }
+
+
+    }
+
+}

@@ -1,0 +1,47 @@
+.page {
+
+    padding: 1.5rem 0;
+
+    &__header {
+        text-align: center;
+    }
+
+    &__title {
+        font-size: 1.8rem;
+    }
+
+    &__subtitle {
+        font-size: 1.5rem;
+    }
+
+    &__content {
+        padding: 1rem 0;
+        line-height: 1.5;
+        font-size: 1.2rem;
+
+        h1,
+        h2,
+        h3,
+        h4,
+        h5,
+        h6 {
+            text-align: center;
+            margin-top: 0;
+        }
+        h3 {
+            font-size: 1.3rem;
+        }
+        a {
+            color: $blue;
+            transition: color .1s linear;
+            &:visited,
+            &:active {
+                color: $blue;
+            }
+            &:hover {
+                color: $yellow;
+            }
+        }
+    }
+
+}
