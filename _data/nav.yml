@@ -9,7 +9,7 @@ main:
       type: about
       sublinks:
         - title: Our Story
-          url: '#'
+          url: '/private-shore-excursions-on-rhodes-greece/'
         - title: VIP Tour Services
           url: '#'
     - title: Private Excursions
