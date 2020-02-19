@@ -45,3 +45,43 @@
     }
 
 }
+
+.page__gallery {
+
+    overflow: hidden;
+
+    &-item {
+        display: block;
+        text-align: center;
+        margin: 0;
+        margin-bottom: 2rem;
+        &:last-child {
+            margin-bottom: 0;
+        }
+        @include breakpoint(medium) {
+            display: inline-block;
+            vertical-align: top;
+        }
+        &--of-5 {
+            @include breakpoint(medium) {                
+                width: 20%;
+                padding-left: 8px;
+                padding-right: 8px;
+            }
+        }
+    }
+    
+    &-item-img {
+        display: block;
+        text-align: center;
+        width: 100%;
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+    &-item-caption {
+        margin-top: .5rem;
+        line-height: 1.4;
+    }
+
+}

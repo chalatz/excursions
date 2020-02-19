@@ -3,12 +3,13 @@ layout: about
 type: about
 permalink: /private-shore-excursions-on-rhodes-greece/
 redirect_from: taxi_services.htm
+has_gallery: true
 meta:
-  title: Rhodes Shore Excursions Greece, Shore Excursions in Rhodes Greece, Rhodes Private Tours
-  http_desc: Rhodes Shore Excursions Greece, Shore Excursions in Rhodes Greece, Rhodes Private Tours, Rhodes Cruise Excursions, Best Shore Excursions in Rhodes Greece
-  keywords: Rhodes Shore Excursions Greece, Shore Excursions in Rhodes Greece, Rhodes Private Tours, Rhodes Cruise Excursions, Best Shore Excursions in Rhodes Greece
-  description: Rhodes Shore Excursions Greece, Shore Excursions in Rhodes Greece, Rhodes Private Tours, Rhodes Cruise Excursions, Best Shore Excursions in Rhodes Greece
-  abstract: Rhodes Shore Excursions Greece, Rhodes Private Tours  
+  title: Private Shore Excursions on Rhodes Greece
+  http_desc: Private Shore Excursions on Rhodes Greece, Shore Excursions on Rhodes Island Greece
+  keywords: Private Shore Excursions on Rhodes Greece, Shore Excursions on Rhodes Island Greece
+  description: Private Shore Excursions on Rhodes Greece, Shore Excursions on Rhodes Island Greece
+  abstract: Private Shore Excursions on Rhodes Greece 
 title: Rhodes Shore Excursions
 subtitle: Private Shore Excursions on Rhodes Island Greece
 profile:
@@ -20,8 +21,49 @@ profile:
 
     Both Nick and Michael are fluent in Greek, speak and write near-perfect English and Arabic, speak comprehensible Spanish, German, and Italian, and can even manage a bit of French---enough for basic conversation.
   image:
-    image: /img/home/pages/about/nicholas.jpg
+    image: /img/pages/about/nicholas.jpg
     alt_text: Nicholas - Rhodes Private Day Tours
+gallery:
+  items_per_row: 5
+  items:
+  - image:
+      thumb: "/img/pages/about/1-thumb.jpg"
+      href: "/img/pages/about/1.jpg"
+      alt: Nicholas with Rick Steves in Rhodes island while planning, writing and
+        filming for the TV show Rick Steves Europe
+    caption: Nicholas with Rick Steves in Rhodes island while planning, writing and
+      filming for the TV show "Rick Steves Europe"
+  - image:
+      thumb: "/img/pages/about/2-thumb.jpg"
+      href: "/img/pages/about/2.jpg"
+      alt: Nicholas and Michael helped Matt Barrett (the Greece Travel Expert) to
+        explore Rhodes island for his Greece Travel Guide
+    caption: Nicholas and Michael helped Matt Barrett (the Greece Travel Expert) to
+      explore Rhodes island for his "Greece Travel Guide"
+  - image:
+      thumb: "/img/pages/about/4-thumb.jpg"
+      href: "/img/pages/about/4.jpg"
+      alt: Nicholas helped Winston and Gail Ramsay to find the locations where the
+        “Guns of Navarone” filmed in Rhodes, (for their magazine After the Battle
+        www.afterthebattle.com  Issue 177)
+    caption: Nicholas helped Winston and Gail Ramsay to find the locations where the
+      "Guns of Navarone” filmed in Rhodes, for their magazine "After the Battle" Issue
+      177
+  - image:
+      thumb: "/img/pages/about/Nicholas_Rhodes-Celina_Prag-Ana Santl-thumb.jpg"
+      href: "/img/pages/about/Nicholas_Rhodes-Celina_Prag-Ana Santl.jpg"
+      alt: 'Nicholas with the Writer Celina Prag and the Photographer Ana Santl, while
+        shooting and writing about Rhodes Island  '
+    caption: 'Nicholas with the Writer Celina Prag and the Photographer Ana Santl,
+      while shooting and writing about Rhodes Island  '
+  - image:
+      thumb: "/img/pages/about/5-thumb.jpg"
+      href: "/img/pages/about/5.jpg"
+      alt: Nicholas with India Pearson the Production Manager of Holiday Extras Travel
+        Guides, while filming in Rhodes
+    caption: Nicholas with India Pearson, the Production Manager of "Holiday Extras
+      Travel Guides", while filming in Rhodes
+
 ---
 ### We have been in business since 1984, (online since 1998) providing outstanding Private Tour Services to travelers from all over the world.
 

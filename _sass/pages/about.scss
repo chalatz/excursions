@@ -28,7 +28,12 @@
             }
         }
 
+    }
 
+    &__gallery {
+        &-item-caption {
+            font-style: italic;
+        }
     }
 
 }
