@@ -1,0 +1,4 @@
+# bundle exec jekyll build --config _config.yml,_config.test.yml
+
+baseurl: "/workplace-alatzas100" # the subpath of your site, e.g. /blog
+url: "http://www.rhodesdaytours.com" # the base hostname & protocol for your site, e.g. http://example.com
