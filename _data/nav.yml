@@ -10,8 +10,10 @@ main:
       sublinks:
         - title: Our Story
           url: '/private-shore-excursions-on-rhodes-greece/'
+          parent: about
         - title: VIP Tour Services
           url: '/vip_tours/'
+          parent: about
     - title: Private Excursions
       url: '#'
       type: private
@@ -39,7 +41,7 @@ main:
       type: group
       sublinks: []
     - title: Accessible
-      url: '#'
+      url: '/wheelchair_accessible_greece/'
       type: accessible
       sublinks: []
     - title: Reviews
