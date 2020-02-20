@@ -59,8 +59,12 @@
         margin-bottom: 1.8rem;
         font-size: 18px;
 
-        @include breakpoint(small) {
-            //font-size: .85rem;
+        @include breakpoint(large) {
+            font-size: 1rem;
+        }
+
+        @include breakpoint(larger) {
+            font-size: 1.08rem;
         }
 
         @include breakpoint(large) {
@@ -194,6 +198,13 @@
                 letter-spacing: .5px;
                 &:hover {
                     text-decoration: underline;
+                }
+                @include breakpoint(large) {
+                    font-size: 1rem;
+                }
+                
+                @include breakpoint(larger) {
+                    font-size: 1.08rem;
                 }
             }
         }
