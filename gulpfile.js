@@ -50,7 +50,7 @@ gulp.task('css', function () {
 gulp.task('js', function () {
     gulp.src('_site/js/scripts.js')
         .pipe(uglify()) 
-        .pipe(gulp.dest('dist/js/scripts.js'));
+        .pipe(gulp.dest('dist/js'));
 });
 
 
