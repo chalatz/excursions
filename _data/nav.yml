@@ -11,7 +11,7 @@ main:
         - title: Our Story
           url: '/private-shore-excursions-on-rhodes-greece/'
         - title: VIP Tour Services
-          url: '#'
+          url: '/vip_tours/'
     - title: Private Excursions
       url: '#'
       type: private
