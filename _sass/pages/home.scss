@@ -69,6 +69,19 @@
         line-height: 1.6;
     }
 
+    &__intro {
+        font-size: 19px;
+        line-height: 1.6;
+        text-align: center;
+        p {
+            margin: 0;
+            margin-bottom: 12px;
+            &:last-child {
+                margin-bottom: 0;
+            }
+        }
+    }
+
     &__destinations {
         text-align: center;
         &-title {

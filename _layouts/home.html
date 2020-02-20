@@ -8,16 +8,11 @@ layout: default
     </section>
 {%- endif -%}
 
-<section class="section section--home">
-    <div class="container home__tours-container">
-        <div class="home__content centered">
-            {{ page.intro | markdownify }}
-        </div>
-    </div>
-</section>
-
 <section class="section section--home section--dark">
     <div class="container home__tours-container">
+        <div class="home__intro">
+            {{ page.intro | markdownify }}
+        </div>
         <div class="home__tours-items grid">
             {%- for tour in site.data.tours -%}
                 <div class="home__tour-wrapper col col--1-3">
