@@ -2,7 +2,7 @@
 layout: home
 type: home
 head_photo:
-  img: ./img/home/head-photo.png
+  img: /img/home/head-photo.png
   alt_text: ''
 meta:
   title: Rhodes Shore Excursions Greece, Shore Excursions in Rhodes Greece, Rhodes Private Tours

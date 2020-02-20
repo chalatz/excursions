@@ -2,9 +2,11 @@
 layout: default
 ---
 
-<section class="head-photo head-photo--home">
-    <img src="{{- page.head_photo.img -}}" alt="{{- page.head_photo.alt_text -}}" class="head-photo__img">
-</section>
+{%- if page.head_photo and page.head_photo.img.size > 0 -%}
+    <section class="head-photo head-photo--home">
+        <img src="{{- page.head_photo.img | relative_url -}}" alt="{{- page.head_photo.alt_text -}}" class="head-photo__img">
+    </section>
+{%- endif -%}
 
 <section class="section section--home">
     <div class="container home__tours-container">
