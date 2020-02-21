@@ -14,6 +14,7 @@ title: Limited Walking Mobility
 subtitle: Wheelchair Accessible Shore Excursions in Rhodes Greece
 head_photo:
   img: /img/pages/accessible/head-photo.jpg
+  mobile: /img/pages/accessible/head-photo-mobile.jpg
   alt_text: ''
 outro: Handicap Accessible Private Tours in Rhodes Island Greece
 ---
