@@ -7,7 +7,7 @@ layout: default
           <picture>
             <source srcset="{{ page.head_photo.img | relative_url }}"
                     media="(min-width: 576px)">
-            <img src="{{ page.head_photo.mobile | relative_url }}" />
+            <img src="{{ page.head_photo.mobile | relative_url }}" alt="{{- page.head_photo.alt_text -}}" class="head-photo__img">
           </picture>
         {%- else -%}
           <img src="{{- page.head_photo.img | relative_url -}}" alt="{{- page.head_photo.alt_text -}}" class="head-photo__img">
