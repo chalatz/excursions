@@ -7,7 +7,7 @@
             {%- for item in site.data.nav.main.items -%}
                 {%- assign sublinks_size = item.sublinks | size -%}
                 <li itemprop="name" class="site-nav__item{% if page.type == item.type %} site-nav__item--active{% endif %}{% if sublinks_size > 0 %} site-nav__item--with-sublinks{% endif %}">
-                    <a itemprop="url" href="{{- item.url | relative_url -}}" class="site-nav__item-link{% if sublinks_size > 0 %} site-nav__item-link--with-sublinks{% endif %}">
+                    <a itemprop="url" href="{{- item.url | relative_url -}}" class="site-nav__item-link{% if sublinks_size > 0 %} site-nav__item-link--with-sublinks{% else %} site-nav__item-link--no-sublinks{% endif %}">
                         {{- item.title | upcase -}}
                     </a>
                     {%- if sublinks_size > 0 -%}

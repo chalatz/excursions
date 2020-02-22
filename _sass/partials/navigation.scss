@@ -101,6 +101,11 @@
         &--with-sublinks {
             pointer-events: none;
         }
+
+        &--no-sublinks,
+        &--sublink {
+            display: block;
+        }
     }
 
     &__item:hover {
