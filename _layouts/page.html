@@ -3,15 +3,12 @@ layout: default
 ---
 {%- if page.head_photo and page.head_photo.img.size > 0 -%}
     <section class="head-photo head-photo--page head-photo--{{ page.type }}">
-        {%- if page.head_photo.mobile and page.head_photo.mobile.size > 0 -%}          
-          <img
-            srcset="{{ page.head_photo.img | relative_url }} 2000w,
-                    {{ page.head_photo.mobile | relative_url }} 580w"
-            sizes="(max-width: 576px) 580px,
-                   2000px"
-            src="{{- page.head_photo.img | relative_url -}}" alt="{{- page.head_photo.alt_text -}}"
-            class="head-photo__img"
-          >
+        {%- if page.head_photo.mobile and page.head_photo.mobile.size > 0 -%} 
+          <picture>
+            <source srcset="{{ page.head_photo.img | relative_url }}"
+                    media="(min-width: 576px)">
+            <img src="{{ page.head_photo.mobile | relative_url }}" />
+          </picture>
         {%- else -%}
           <img src="{{- page.head_photo.img | relative_url -}}" alt="{{- page.head_photo.alt_text -}}" class="head-photo__img">
         {%- endif -%}
