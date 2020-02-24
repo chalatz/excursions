@@ -9,6 +9,9 @@
     &__title {
         font-size: 1.8rem;
         margin-top: 0;
+        &--no-subtitle {
+            margin-bottom: 0;
+        }
     }
 
     &__subtitle {

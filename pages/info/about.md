@@ -14,6 +14,7 @@ title: Rhodes Shore Excursions
 subtitle: Private Shore Excursions on Rhodes Island Greece
 head_photo:
   img: /img/pages/about/head-photo.jpg
+  mobile: /img/pages/about/head-photo-mobile.jpg
   alt_text: ''
 profile:
   title: Biography

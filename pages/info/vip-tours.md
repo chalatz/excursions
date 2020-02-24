@@ -13,6 +13,7 @@ meta:
 title: VIP Tour Services in Rhodes Greece
 head_photo:
   img: /img/pages/vip/head-photo.jpg
+  mobile: /img/pages/vip/head-photo-mobile.jpg
   alt_text: ''
 outro: VIP Private Tours and Shore Excursions in Rhodes Island Greece
 ---
