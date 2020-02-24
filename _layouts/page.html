@@ -50,7 +50,14 @@ layout: default
       {%- endif -%}
     </div>
     
-
   </div>
 
 </article>
+
+{%- if page.has_destinations == true -%}
+  {%- include partials/destinations.html -%}
+{%- endif -%}
+
+{%- if page.has_banners == true -%}
+  {%- include partials/banners.html -%}
+{%- endif -%}

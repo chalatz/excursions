@@ -57,36 +57,6 @@ layout: default
     </div>
 </section>
 
-<section class="section section--home section--light">
-    <div class="container">
-        <h2 class="home__destinations-title">
-            {{- site.data.destinations.title -}}
-        </h2>
-        <div class="home__destinations">
-            {%- for dest in site.data.destinations.items -%}
-                {%- assign modulo_two = forloop.index | modulo: 2 -%}
-                {%- assign modulo_three = forloop.index | modulo: 3 -%}
-                {%- assign modulo_six = forloop.index | modulo: 6 -%}
-                <a class="home__destination{% if modulo_two == 0 %} home__destination--two{% endif %}{% if modulo_three == 0 %} home__destination--three{% endif %}{% if modulo_six == 0 %} home__destination--six{% endif %}" href="{{- dest.url -}}">
-                    <span class="home__destination-text">
-                        {{- dest.title -}}
-                    </span>
-                </a>
-            {%- endfor -%}
-        </div>
-    </div>
-</section>
+{%- include partials/destinations.html -%}
 
-<section class="section section--home">
-    <div class="container">
-        <div class="home__banners">
-            {%- for banner in site.data.home_banners.items -%}
-                <div class="home__banner">
-                    <a href="{{- banner.url -}}" class="home__banner-link">
-                        <img src="{{ banner.image.path }}" alt="{{- banner.image.alt -}}" class="home__banner-img">
-                    </a>
-                </div>
-            {%- endfor -%}
-        </div>
-    </div>
-</section>
+{%- include partials/banners.html -%}

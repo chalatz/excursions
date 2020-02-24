@@ -17,6 +17,8 @@ head_photo:
   mobile: /img/pages/why-tour-with-us/head-photo-mobile.jpg
   alt_text: ''
 outro: ''
+has_destinations: true
+has_banners: true
 ---
 #### Direct Local Price
 
