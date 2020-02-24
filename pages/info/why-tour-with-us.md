@@ -1,6 +1,6 @@
 ---
 layout: page
-type: info-page
+type: why-us
 permalink: /independent-greece/
 redirect_from: Independent_greece.htm
 has_gallery: false
