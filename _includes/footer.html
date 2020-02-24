@@ -4,67 +4,46 @@
 
         <div class="site-footer__info-row">
 
+            {%- assign footer_nav = site.data.navigation.footer -%}
+
             <div class="site-footer__info-col">
                 <h3 class="site-footer__col-title">
-                    Know Before You Go
+                    {{- footer_nav.col_1.title -}}
                 </h3>
-
                 <ul class="site-footer__list">
-                    <li>
-                        <a href="/private-shore-excursions-on-rhodes-greece/">
-                            Our Story
-                        </a>
-                    </li>
-                    <li>
-                        <a href="#">Why Tour with Us</a>
-                    </li>
-                    <li>
-                        <a href="#">Rhodes Private Tours</a>
-                    </li>
-                    <li>
-                        <a href="#">Excursions Worry Free</a>
-                    </li>
-                    <li>
-                        <a href="#">Excursion Quality</a>
-                    </li>
-                    <li>
-                        <a href="#">Cruises to Rhodes</a>
-                    </li>
-                    <li>
-                        <a href="#">Rhodes Quick Facts</a>
-                    </li>
+                    {%- for item in footer_nav.col_1.items -%}
+                        <li>
+                            {%- if item.url and item.url.size > 0 -%}
+                                <a href="{{- item.url | relative_url -}}">
+                                    {{- item.title -}}
+                                </a>
+                            {%- else -%}
+                                    {{- item.title -}}
+                            {%- endif -%}
+                        </li>
+                    {%- endfor -%}                    
                 </ul>
             </div>
 
             <div class="site-footer__info-col site-footer__info-col--middle">
                 <div class="site-footer__info-col__middle-wrapper">
                     <h3 class="site-footer__col-title">
-                        Things to do in Rhodes
+                        {{- footer_nav.col_2.title -}}
                     </h3>
                 
                     <ul class="site-footer__list">
-                        <li>
-                            <a href="#">Rhodes Pottery</a>
-                        </li>
-                        <li>
-                            <a href="#">Rhodes Food Tour</a>
-                        </li>
-                        <li>
-                            <a href="#">The Jewish Quarter</a>
-                        </li>
-                        <li>
-                            <a href="#">Byzantine Monuments</a>
-                        </li>
-                        <li>
-                            <a href="#">The Knights of Rhodes</a>
-                        </li>
-                        <li>
-                            <a href="#">Ottoman Sights</a>
-                        </li>
-                        <li>
-                            <a href="#">Italian Architecture</a>
-                        </li>
-                    </ul>
+                        {%- for item in footer_nav.col_2.items -%}
+                            <li>
+                                {%- if item.url and item.url.size > 0 -%}
+                                    <a href="{{- item.url | relative_url -}}">
+                                        {{- item.title -}}
+                                    </a>
+                                {%- else -%}
+                                        {{- item.title -}}
+                                {%- endif -%}
+                            </li>
+                        {%- endfor -%}                    
+                    </ul>                    
                 </div>
             </div>
 
@@ -89,7 +68,6 @@
                         Within Greece: <a class="mobile-only mobile-only--inline" href="tel:6934596990">6934596990</a><span class="desktop-only desktop-only--inline">6934596990</span>
                     </li>                    
                 </ul>
-
                 <div class="koinonika">
                     <h3 class="site-footer__info-title site-footer__info-title--follow-us">
                         <a href="mailto:request@RhodesShoreExcursions.com">request@RhodesShoreExcursions.com</a>

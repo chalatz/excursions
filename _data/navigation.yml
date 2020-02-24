@@ -52,3 +52,39 @@ main:
       url: '#'
       type: contact
       sublinks: []
+
+footer:
+  col_1:
+    title: Know Before You Go
+    items:
+      - title: Our Story
+        url: /private-shore-excursions-on-rhodes-greece/
+      - title: Why Tour with Us
+        url: '/independent-greece/'
+      - title: Rhodes Private Tours
+        url: '/'
+      - title: Excursions Worry Free
+        url: '/'
+      - title: Excursion Quality
+        url: '/'
+      - title: Cruises to Rhodes
+        url: '/'
+      - title: Rhodes Quick Facts
+        url: '/'
+  col_2:
+    title: Things to do in Rhodes
+    items:
+      - title: Rhodes Pottery
+        url: '/'
+      - title: Rhodes Food Tour
+        url: '/'
+      - title: The Jewish Quarter
+        url: '/'
+      - title: Byzantine Monuments
+        url: '/'
+      - title: The Knights of Rhodes
+        url: '/'
+      - title: Ottoman Sights
+        url: '/'
+      - title: Italian Architecture
+        url: '/'     
