@@ -37,8 +37,8 @@ main:
         - title: Rhodes Green Tour
           url: '#'
     - title: Group Excursions
-      url: '#'
-      type: group
+      url: '/rhodes-groups-excursions/'
+      type: groups
       sublinks: []
     - title: Accessible
       url: '/wheelchair_accessible_greece/'
