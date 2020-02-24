@@ -14,7 +14,7 @@ items:
   - image:
       path: /img/home/banners/verified2.gif
       alt: Rhodes Excursions Tour Company in Bussiness since 1984
-    url: '#'
+    url: '/reviews-tripadvisor/'
   - image:
       path: /img/home/banners/recommended_matt_barrett.gif
       alt: Greece Travel Guide, Matt Barrett

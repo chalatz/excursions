@@ -1,0 +1,38 @@
+.reviews {
+
+    &__intro {
+        text-align: center;
+    }
+
+    &__content {
+        font-size: 1.1rem;
+    }
+
+    &__icon {
+        display: inline-block;
+        text-align: center;
+        text-decoration: none;
+        
+        &--first {
+            @include breakpoint(smaller) {
+                margin-right: 12px;
+            }
+            @include breakpoint(small) {
+                margin-right: 50px;
+            }
+            @include breakpoint(medium) {
+                margin-right: 100px;
+            }
+        }
+    }
+
+    &__icon-text {
+        color: $black;
+        font-weight: bold;
+    }
+
+    &__cta {
+        text-align: center;
+    }
+
+}

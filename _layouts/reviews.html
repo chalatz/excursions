@@ -1,0 +1,80 @@
+---
+layout: default
+---
+{%- if page.head_photo and page.head_photo.img.size > 0 -%}
+    <section class="head-photo head-photo--page head-photo--{{ page.type }}">
+        {%- if page.head_photo.mobile and page.head_photo.mobile.size > 0 -%} 
+          <picture>
+            <source srcset="{{- page.head_photo.mobile | relative_url -}}"
+                    media="(max-width: 576px)">
+            <img src="{{- page.head_photo.img | relative_url -}}" alt="{{- page.head_photo.alt_text -}}" class="head-photo__img">
+          </picture>
+        {%- else -%}
+          <img src="{{- page.head_photo.img | relative_url -}}" alt="{{- page.head_photo.alt_text -}}" class="head-photo__img">
+        {%- endif -%}
+    </section>
+{%- endif -%}
+
+<article class="page reviews">
+
+    <div class="container">
+
+        {%- assign has_subtitle = false -%}
+        {%- if page.subtitle and page.subtitle.size > 0 -%}
+            {%- assign has_subtitle = true -%}
+        {%- endif -%}
+
+        {%- if page.title.size > 0 or page.subtitle.size > 0 -%}
+            <div class="page__header">
+                {%- if page.title.size > 0 -%}
+                    <h1 class="page__title{% if has_subtitle == false %} page__title--no-subtitle{% endif %}">
+                    {{- page.title -}}
+                    </h1>
+                {%- endif -%}
+                {%- if page.subtitle.size > 0 -%}
+                    <h2 class="page__subtitle">
+                    {{- page.subtitle -}}
+                    </h2>
+                {%- endif -%}
+            </div>
+        {%- endif -%}
+
+        <div class="page__content reviews__content">
+
+            <div class="reviews__intro">
+                <div class="reviews__intro-text">
+                    {{ page.intro.text | markdownify }}
+                </div>
+                <div class="reviews__intro-icons">
+                    {%- for icon in page.intro.icons -%}
+                        <a class="reviews__icon{% if forloop.first %} reviews__icon--first{% endif %}" href="{{- icon.url -}}" target="_blank">
+                            <img src="{{- icon.path | relative_url -}}" alt="{{- icon.alt_text -}}" class="reviews__icon-img">
+                            <p class="reviews__icon-text">
+                                {{- icon.text -}}
+                            </p>
+                        </a>
+                    {%- endfor -%}
+                </div>
+            </div>
+
+            <p class="reviews__cta">
+                {{- page.cta -}}
+            </p>
+
+            <div class="reviews__trip-advisor">
+                {%- include partials/trip-advisor.html -%}
+            </div>
+
+        </div>
+        
+    </div>
+
+</article>
+
+{%- if page.has_destinations == true -%}
+  {%- include partials/destinations.html -%}
+{%- endif -%}
+
+{%- if page.has_banners == true -%}
+  {%- include partials/banners.html -%}
+{%- endif -%}

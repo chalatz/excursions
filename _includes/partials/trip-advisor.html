@@ -1,0 +1,7 @@
+<div class="trip-advisor__items">
+    {%- for img in site.data.trip_advisor.images -%}
+        <a class="trip-advisor__item" href="{{- site.data.trip_advisor.url -}}" target="_blank">
+            <img class="trip-advisor__img" src="{{ img.path | relative_url }}" alt="{{- img.alt_text -}}">
+        </a>
+    {%- endfor -%}
+</div>
