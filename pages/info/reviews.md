@@ -157,7 +157,7 @@ reviews:
 
       Hi Nicholas, Thanks again for a wonderful day in Rhodes. We loved the tour and the lunch stop at Argo was fantastic. I will do a TripAdvisor review as well for you and again thank you for making our day special. The group all commented how great a day it was. Kindest regards  Pam (Sept 18th) Arlington, Texas
 
-      Hey Nicholas, We had a great time visiting Rhodes. It is a beautiful island and Mike did a great job showing us around and telling us all about the island. Thank you again for everything. Sharon (Sept 16th) | Cruise & Vacation Consultant.  Expedia Cruise Ship Centers
+      Hey Nicholas, We had a great time visiting Rhodes. It is a beautiful island and Mike did a great job showing us around and telling us all about the island. Thank you again for everything. Sharon (Sept 16th) \| Cruise & Vacation Consultant.  Expedia Cruise Ship Centers
 
       Nicholas, Our tour and or driver exceeded our expectations. Stamatis was knowledgeable and helpful. He showed us the highlights of Rhodes and tailored the tour to what we wanted to see. He was able to answer all our questions and provide us with great info about Rhodes and the surrounding areas. Thanks for the service and the Stamatis. We have recommended your service to others who may be going to Rhodes in the future. David (Sept 14th) Denver, Colo.
 

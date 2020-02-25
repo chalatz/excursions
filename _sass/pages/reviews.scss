@@ -90,4 +90,31 @@
         }
     }
 
+    &__list-item-content {
+        font-size: 1.15rem;
+        line-height: 1.5;
+    }
+
+    &__go-to-top {
+        margin: 2rem 0;
+    }
+
+    &__go-to-top-link {
+        background-color: $blue;
+        padding: 8px 12px;
+        color: #fff;
+        text-decoration: none;
+        border-radius: 6px;
+        font-size: 1.1rem;
+        transition:  background-color .1s linear;
+        &:hover {
+            background-color: $yellow;
+        }
+    }
+
+    &__go-to-top-arrow {
+        position: relative;
+        bottom: 3px;
+    }
+
 }

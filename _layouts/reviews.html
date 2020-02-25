@@ -84,7 +84,8 @@ layout: default
 
     <section class="section section--dark">
         <div class="container">
-        
+
+            <span class="anchor-section" id="reviews-top"></span>
             <h3 class="reviews__years-list-heading">
                 {{- page.years_list_heading -}}
             </h3>
@@ -97,8 +98,31 @@ layout: default
                         </a>
                     </li>
                 {%- endfor -%}
-            </ul>
+            </ul>       
 
+        </div>
+    </section>
+
+    <section class="section">
+        <div class="container reviews__list">
+        
+            {%- for review in page.reviews -%}
+                <div class="reviews__list-item">
+                    <span class="anchor-section" id="{{- review.year -}}"></span>
+                    <h3 class="reviews__list-item-heading">
+                        REVIEWS - TESTIMONIALS {{ review.year }}
+                    </h3>
+                    <div class="reviews__list-item-content">
+                        {{ review.text | markdownify }}
+                    </div>
+                    <div class="reviews__go-to-top">
+                        <a href="#reviews-top" class="reviews__go-to-top-link">
+                            <span class="reviews__go-to-top-arrow">&uarr;</span> Back to the top <span class="reviews__go-to-top-arrow">&uarr;</span>
+                        </a>
+                    </div>
+                </div>
+            {%- endfor -%}
+        
         </div>
     </section>
 
