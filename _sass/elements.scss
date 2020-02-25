@@ -30,3 +30,12 @@ img {
     }
 
 }
+
+.separator {
+    display: block;
+    width: 100%;
+    height: 2rem;
+    &--darkblue {
+        background-color: $darkblue;
+    }
+}

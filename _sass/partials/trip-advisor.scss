@@ -4,9 +4,23 @@
         text-align: center;
     }
 
+    &__img {
+        padding: 2px;
+        border: 2px solid transparent;
+        transition: border-color .2s linear;
+    }
+
     &__item {
         display: inline-block;
         text-align: center;
+        margin: 0 15px 15px 15px;
+        
+        &:hover {
+            .trip-advisor__img {
+                border-color: $yellow;
+            } 
+        }
     }
+
 
 }
