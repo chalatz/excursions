@@ -83,11 +83,21 @@ layout: default
     </div>
 
     <section class="section section--dark">
-        <div class="container reviews__years">
+        <div class="container">
         
-            <h3 class="reviews__years-desc">
-                {{- page.years.heading -}}
+            <h3 class="reviews__years-list-heading">
+                {{- page.years_list_heading -}}
             </h3>
+
+            <ul class="reviews__years-list">
+                {%- for review in page.reviews -%}
+                    <li class="reviews__years-list-item">
+                        <a href="#{{- review.year -}}" class="reviews__years-list-link">
+                            {{- review.year -}}
+                        </a>
+                    </li>
+                {%- endfor -%}
+            </ul>
 
         </div>
     </section>

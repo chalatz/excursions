@@ -59,10 +59,35 @@
 
     }
 
-    &__years-desc {
+    &__years-list-heading {
         font-weight: normal;
         text-align: center;
     }
 
+    &__years-list {
+        text-align: center;
+        list-style: none;
+    }
+
+    &__years-list-item {
+        display: inline-block;
+        margin: 0 8px 16px 8px;
+    }
+
+    &__years-list-link {
+        display: block;
+        color: $black;
+        padding: 5px 16px;
+        text-decoration: none;
+        background-color: #ffffff;
+        border: 3px solid $yellow;
+        font-size: 1.2rem;
+        border-radius: 6px;
+        transition: background-color .2s linear;
+        &:hover {
+            background-color: $yellow;
+            color: #fff;
+        }
+    }
 
 }

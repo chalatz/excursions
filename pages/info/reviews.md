@@ -28,8 +28,7 @@ intro:
       url: https://www.tripadvisor.com/Attraction_Review-g635613-d2645553-Reviews-Rhodes_Private_Tours-Rhodes_Town_Rhodes_Dodecanese_South_Aegean.html
       alt_text: Tripadvisor Hall of Fame 2018
 cta: Please visit the links (above and below) to read what our Valued Clients are saying about us
-years:
-  heading: Reviews and Comments as we received them, nice to know we are appreciated!!
+years_list_heading: Reviews and Comments as we received them, nice to know we are appreciated!!
 reviews:
   - year: '2019'
     text: |-
