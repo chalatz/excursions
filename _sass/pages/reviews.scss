@@ -93,6 +93,13 @@
     &__list-item-content {
         font-size: 1.15rem;
         line-height: 1.5;
+        p {
+            padding: 8px;
+            &:nth-child(2n) {
+                background-color: #ebebeb;
+                border-radius: 5px;
+            }
+        }
     }
 
     &__go-to-top {
