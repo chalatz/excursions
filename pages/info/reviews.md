@@ -4,6 +4,7 @@ type: reviews
 permalink: reviews-tripadvisor/
 redirect_from: reviews_tripadvisor.htm
 has_gallery: false
+has_carousel: true
 meta:
   title: Reviews
   http_desc: Reviews

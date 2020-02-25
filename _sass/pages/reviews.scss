@@ -35,4 +35,29 @@
         text-align: center;
     }
 
+    .flickity-prev-next-button {
+        width: 30px;
+        height: 30px;
+    }
+
+    &__carousel {
+        margin-bottom: 1rem;
+    }
+
+    &__carousel-item {
+        img {
+            width: 100%;
+        }
+        width: 100%;
+        @include breakpoint(medium) {
+            width: 50%;
+            margin-right: 10px;
+        }
+        @include breakpoint(large) {
+            width: 25%;
+        }
+
+    }
+
+
 }

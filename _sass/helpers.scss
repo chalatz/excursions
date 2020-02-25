@@ -11,6 +11,10 @@
     text-align: center;
 }
 
+.hidden {
+    visibility: hidden;
+}
+
 .mobile-only {
     &--inline {
         display: inline;

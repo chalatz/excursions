@@ -71,6 +71,17 @@ layout: default
 
     <div class="separator separator--darkblue"></div>
 
+    <div class="container page__content reviews__content">
+        <section class="section reviews__carousel">
+            {%- for i in (1..10) -%}
+                {%- capture img -%}/img/pages/reviews/{{- i -}}.jpg{%- endcapture -%}
+                <div class="reviews__carousel-item hidden">
+                    <img src="{{- img | relative_url -}}" alt="">
+                </div>
+            {%- endfor -%}
+        </section>    
+    </div>
+
 </article>
 
 {%- if page.has_destinations == true -%}

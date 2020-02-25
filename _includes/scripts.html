@@ -18,4 +18,24 @@
     </script>
 {%- endif -%}
 
+{%- if page.has_carousel == true -%}
+    <script src="https://unpkg.com/flickity@2/dist/flickity.pkgd.min.js"></script>
+    <script>
+        (function($){
+            var $carousel = $('.reviews__carousel');
+            $carousel.on( 'ready.flickity', function() {
+                $('.reviews__carousel-item').removeClass('hidden');
+            });
+            $carousel.flickity({
+                // options
+                wrapAround: true,
+                autoPlay: 3000,
+                pageDots: false,
+                cellAlign: 'left',
+                contain: true
+            });
+        })(jQuery);
+    </script>
+{%- endif -%}
+
 <script src="{{- '/js/scripts.js' | relative_url -}}"></script>
