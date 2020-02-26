@@ -15,10 +15,12 @@ main:
           url: '/vip_tours/'
           parent: about
     - title: Private Excursions
-      url: '#'
+      url: '/rhodes-cruise-excursions/'
       type: private
       sublinks:
-        - title: Best Rhodes shore Excursions
+        - title: View All Shore Excursions
+          url: '/rhodes-cruise-excursions/'
+        - title: Best Rhodes Shore Excursions
           url: '#'
         - title: Rhodes in a Day
           url: '#'

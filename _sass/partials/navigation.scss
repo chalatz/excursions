@@ -4,6 +4,11 @@
     position: sticky;
     top: -1px;
     z-index: 1;
+    border-bottom: 2px solid $yellow;
+
+    &--mobile {
+        border: none;
+    }
 
     &__container {
         padding-left: 0;
