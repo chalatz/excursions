@@ -1,7 +1,6 @@
 ---
 layout: default
 ---
-
 {%- if page.head_photo and page.head_photo.img.size > 0 -%}
     <section class="head-photo head-photo--page head-photo--{{ page.type }}">
         {%- if page.head_photo.mobile and page.head_photo.mobile.size > 0 -%} 
@@ -16,11 +15,25 @@ layout: default
     </section>
 {%- endif -%}
 
+<div class="separator"></div>
+
 <section class="section section--home section--dark">
     <div class="container home__tours-container">
-        <div class="home__intro">
-            {{ page.intro | markdownify }}
-        </div>
+        
+        {%- if page.title.size > 0 or page.subtitle.size > 0 -%}
+            <div class="page__header">
+            {%- if page.title.size > 0 -%}
+                <h1 class=" page__title--cruises{% if has_subtitle == false %} page__title--no-subtitle{% endif %}">
+                {{- page.title -}}
+                </h1>
+            {%- endif -%}
+            {%- if page.subtitle.size > 0 -%}
+                <h2 class="page__subtitle page__subtitle--cruises">
+                {{- page.subtitle -}}
+                </h2>
+            {%- endif -%}
+            </div>
+        {%- endif -%}
         <div class="home__tours-items grid">
             {%- for tour in site.data.tours -%}
                 <div class="home__tour-wrapper col col--1-3">
@@ -31,16 +44,14 @@ layout: default
                             </a>
                         </div>
                         <div class="home__tour-text">
-                            <h3 class="home__tour-title">
+                            <h3 class="home__tour-title home__tour-title--cruises">
                                 <a href="{{- tour.url | relative_url -}}" class="home__tour-title-link">
                                     {{- tour.title -}}
                                 </a>
                             </h3>
-                            {%- if tour.duration and tour.duration.size > 0 -%}
-                                <p class="home__tour-duration">
-                                    {{ tour.duration }}
-                                </p>
-                        {%- endif -%}
+                            <p class="home__tour-desc">
+                                {{ tour.desc }}
+                            </p>
                         </div>
                     </div>
                 </div>
@@ -49,14 +60,12 @@ layout: default
     </div>
 </section>
 
-<section class="section section--home">
-    <div class="container home__tours-container">
-        <div class="home__content">
-            {{ content }}
-        </div>
-    </div>
-</section>
+<div class="separator"></div>
 
-{%- include partials/destinations.html -%}
+{%- if page.has_destinations == true -%}
+  {%- include partials/destinations.html -%}
+{%- endif -%}
 
-{%- include partials/banners.html -%}
+{%- if page.has_banners == true -%}
+  {%- include partials/banners.html -%}
+{%- endif -%}

@@ -12,11 +12,17 @@
         &--no-subtitle {
             margin-bottom: 0;
         }
+        &--cruises {
+            list-style-position: 1px;
+        }
     }
-
+    
     &__subtitle {
         font-size: 1.5rem;
         margin: 0;
+        &--cruises {
+            list-style-position: 1px;
+        }
     }
 
     &__content {
