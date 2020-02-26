@@ -61,6 +61,7 @@ footer:
     items:
       - title: Our Story
         url: /private-shore-excursions-on-rhodes-greece/
+        type: about
       - title: Why Tour with Us
         url: '/independent-greece/'
       - title: Rhodes Private Tours
