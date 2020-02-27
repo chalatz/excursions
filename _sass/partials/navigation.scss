@@ -132,6 +132,10 @@
             position: absolute;
             padding-left: 0;
             top: 46px;
+            border: 2px solid $yellow;
+            border-top: none;
+            border-bottom-left-radius: 6px;
+            border-bottom-right-radius: 6px;
         }
         @include breakpoint(semi_large) {
             top: 48px;
