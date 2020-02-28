@@ -2,6 +2,7 @@
 layout: about
 type: info_page
 id: our_story
+parent: about
 permalink: /private-shore-excursions-on-rhodes-greece/
 redirect_from: taxi_services.htm
 has_gallery: true

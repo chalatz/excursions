@@ -6,7 +6,19 @@
         <ul id="site-nav__items" class="site-nav__items" itemscope itemtype="http://www.schema.org/SiteNavigationElement">
             {%- for item in site.data.navigation.main.items -%}
                 {%- assign sublinks_size = item.sublinks | size -%}
-                <li itemprop="name" class="site-nav__item{% if page.type == item.type %} site-nav__item--active{% endif %}{% if sublinks_size > 0 %} site-nav__item--with-sublinks{% endif %}">
+
+                {%- assign is_active = false -%}
+                {%- if item.type == 'single' -%}
+                    {%- if item.id == page.id -%}
+                        {%- assign is_active = true -%}
+                    {%- endif -%}
+                {%- elsif item.type == 'parent' -%}
+                    {%- if item.parent_name == page.parent -%}
+                        {%- assign is_active = true -%}
+                    {%- endif -%}
+                {%- endif -%}
+
+                <li itemprop="name" class="site-nav__item{% if is_active %} site-nav__item--active{% endif %}{% if sublinks_size > 0 %} site-nav__item--with-sublinks{% endif %}">
                     <a itemprop="url" href="{{- item.url | relative_url -}}" class="site-nav__item-link{% if sublinks_size > 0 %} site-nav__item-link--with-sublinks{% else %} site-nav__item-link--no-sublinks{% endif %}">
                         {{- item.title | upcase -}}
                     </a>

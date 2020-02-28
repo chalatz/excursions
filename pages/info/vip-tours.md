@@ -2,6 +2,7 @@
 layout: page
 type: info_page
 id: vip
+parent: about
 permalink: /vip_tours/
 redirect_from: vip_tours.htm
 has_gallery: false

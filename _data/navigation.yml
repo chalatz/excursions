@@ -52,7 +52,7 @@ main:
       id: accessible
       sublinks: []
     - title: Reviews
-      url: '#'
+      url: '/reviews-tripadvisor/'
       type: single
       id: reviews
       sublinks: []
@@ -68,7 +68,7 @@ footer:
     items:
       - title: Our Story
         url: /private-shore-excursions-on-rhodes-greece/
-        type: about
+        id: our_story
       - title: Why Tour with Us
         url: '/independent-greece/'
       - title: Rhodes Private Tours

@@ -195,7 +195,8 @@
                 text-decoration: none;
                 font-size: 18px;
                 letter-spacing: .5px;
-                &:hover {
+                &:hover,
+                &.active {
                     color: $yellow;
                 }
                 @include breakpoint(large) {
