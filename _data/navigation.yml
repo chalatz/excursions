@@ -71,8 +71,10 @@ footer:
         id: our_story
       - title: Why Tour with Us
         url: '/independent-greece/'
+        id: why-us
       - title: Rhodes Private Tours
         url: '/rhodes-private-tours/'
+        id: private_tours
       - title: Excursions Worry Free
         url: '/'
       - title: Excursion Quality
