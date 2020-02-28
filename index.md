@@ -1,6 +1,7 @@
 ---
 layout: home
 type: home
+id: home
 head_photo:
   img: /img/home/head-photo.jpg
   mobile: /img/home/head-photo-mobile.jpg

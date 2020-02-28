@@ -60,4 +60,6 @@ layout: default
 
 {%- if page.has_banners == true -%}
   {%- include partials/banners.html -%}
+{%- elsif page.has_banners == false and page.has_destinations == true -%}
+  <div class="separator"></div>
 {%- endif -%}

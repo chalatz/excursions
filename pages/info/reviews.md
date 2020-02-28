@@ -1,5 +1,6 @@
 ---
 layout: reviews
+type: info_page
 type: reviews
 permalink: reviews-tripadvisor/
 redirect_from: reviews_tripadvisor.htm

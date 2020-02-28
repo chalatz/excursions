@@ -1,9 +1,12 @@
 ---
 layout: about
-type: about
+type: info_page
+id: our_story
 permalink: /private-shore-excursions-on-rhodes-greece/
 redirect_from: taxi_services.htm
 has_gallery: true
+has_destinations: true
+has_banners: true
 meta:
   title: Private Shore Excursions on Rhodes Greece
   http_desc: Private Shore Excursions on Rhodes Greece, Shore Excursions on Rhodes Island Greece

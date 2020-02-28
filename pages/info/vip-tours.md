@@ -1,9 +1,12 @@
 ---
 layout: page
-type: vip
+type: info_page
+id: vip
 permalink: /vip_tours/
 redirect_from: vip_tours.htm
 has_gallery: false
+has_destinations: true
+has_banners: true
 meta:
   title: VIP Tours Rhodes Greece, VIP Shore Excursions
   http_desc: VIP Tours Rhodes Greece, VIP Shore Excursions, VIP Rhodes Private Tours, Taxi Tours, VIP Tour Services

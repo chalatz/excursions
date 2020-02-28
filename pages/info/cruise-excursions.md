@@ -1,6 +1,7 @@
 ---
 layout: cruises
 type: cruises
+id: cruise_excursions
 permalink: /rhodes-cruise-excursions/
 has_gallery: false
 has_destinations: true

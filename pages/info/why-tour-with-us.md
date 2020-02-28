@@ -1,9 +1,12 @@
 ---
 layout: page
-type: why-us
+type: info_page
+id: why-us
 permalink: /independent-greece/
 redirect_from: Independent_greece.htm
 has_gallery: false
+has_destinations: true
+has_banners: false
 meta:
   title: Independent Shore Excursions in Rhodes Greece
   http_desc: Independent Shore Excursions in Rhodes Greece
@@ -17,8 +20,6 @@ head_photo:
   mobile: /img/pages/why-tour-with-us/head-photo-mobile.jpg
   alt_text: ''
 outro: ''
-has_destinations: true
-has_banners: true
 ---
 #### Direct Local Price
 

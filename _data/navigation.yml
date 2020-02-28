@@ -2,11 +2,13 @@ main:
   items:
     - title: Home
       url: '/'
-      type: home
+      id: home
+      type: single
       sublinks: []
     - title: About Us
       url: '#'
-      type: about
+      type: parent
+      parent_name: about
       sublinks:
         - title: Our Story
           url: '/private-shore-excursions-on-rhodes-greece/'
@@ -16,7 +18,8 @@ main:
           parent: about
     - title: Private Excursions
       url: '/rhodes-cruise-excursions/'
-      type: private
+      type: parent
+      parent_name: cruises
       sublinks:
         - title: View All Shore Excursions
           url: '/rhodes-cruise-excursions/'
@@ -40,19 +43,23 @@ main:
           url: '#'
     - title: Group Excursions
       url: '/rhodes-groups-excursions/'
-      type: groups
+      type: single
+      id: groups
       sublinks: []
     - title: Accessible
       url: '/wheelchair_accessible_greece/'
-      type: accessible
+      type: single
+      id: accessible
       sublinks: []
     - title: Reviews
       url: '#'
-      type: reviews
+      type: single
+      id: reviews
       sublinks: []
     - title: Contact Us
       url: '#'
-      type: contact
+      type: single
+      id: contact
       sublinks: []
 
 footer:

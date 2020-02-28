@@ -1,9 +1,12 @@
 ---
 layout: page
-type: groups
+type: info_page
+id: groups
 permalink: /rhodes-groups-excursions/
 redirect_from: groups.htm
 has_gallery: false
+has_destinations: true
+has_banners: true
 meta:
   title: Rhodes Groups Excursions, Group Shore Excursions in Rhodes Greece
   http_desc: Rhodes Groups Excursions, Group Shore Excursions in Rhodes Island Greece

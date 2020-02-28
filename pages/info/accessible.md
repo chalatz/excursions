@@ -1,9 +1,12 @@
 ---
 layout: page
-type: accessible
+type: info_page
+id: accessible
 permalink: /wheelchair_accessible_greece/
 redirect_from: wheelchair_accessible_greece.htm
 has_gallery: false
+has_destinations: true
+has_banners: true
 meta:
   title: Limited Walking Mobility in Rhodes, Wheelchair Accessible Shore Excursions in Rhodes
   http_desc: Limited Walking Mobility in Rhodes, Wheelchair Accessible Shore Excursions in Rhodes Greece, Electric Wheelchair, Motorized Scooter Handicap
