@@ -87,6 +87,13 @@
             display: inline-block;
             vertical-align: top;
         }
+        &--of-4 {
+            @include breakpoint(medium) {                
+                width: 25%;
+                padding-left: 8px;
+                padding-right: 8px;
+            }
+        }
         &--of-5 {
             @include breakpoint(medium) {                
                 width: 20%;
@@ -107,6 +114,7 @@
     &-item-caption {
         margin-top: .5rem;
         line-height: 1.4;
+        font-style: italic;
     }
 
 }

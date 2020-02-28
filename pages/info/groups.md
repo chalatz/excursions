@@ -1,10 +1,10 @@
 ---
-layout: page
+layout: groups
 type: info_page
 id: groups
 permalink: /rhodes-groups-excursions/
 redirect_from: groups.htm
-has_gallery: false
+has_gallery: true
 has_destinations: true
 has_banners: true
 meta:
@@ -20,6 +20,34 @@ head_photo:
   mobile: /img/pages/groups/head-photo-mobile.jpg
   alt_text: ''
 outro: Group Shore Excursions in Rhodes Island Greece
+gallery:
+  items_per_row: 4
+  items:
+    - image:
+        thumb: '/img/pages/groups/1_thumb.jpg'
+        href: '/img/pages/groups/1.jpg'
+        alt: 'Rhodes group tours, Mercedes Minibus'
+        is_link: false
+      caption: 'Mercedes Luxury Minibus'
+    - image:
+        thumb: '/img/pages/groups/2_thumb.jpg'
+        href: '/img/pages/groups/2.jpg'
+        alt: 'Rhodes Minibus Tours, Mercedes Minibus'
+        is_link: false
+      caption: 'Mercedes Luxury Minibus'
+    - image:
+        thumb: '/img/pages/groups/3_thumb.jpg'
+        href: '/img/pages/groups/3.jpg'
+        alt: 'Rhodes Bus Tours, Mercedes minibus'
+        is_link: false
+      caption: 'Mercedes Luxury Minibus'
+    - image:
+        thumb: '/img/pages/groups/4_thumb.jpg'
+        href: '/img/pages/groups/4.jpg'
+        alt: 'Rhodes Bus Tours, Mercedes Bus'
+        is_link: false
+      caption: 'Mercedes Touring Coach'
+
 ---
 #### Experience
 

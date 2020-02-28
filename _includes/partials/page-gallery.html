@@ -1,0 +1,16 @@
+<section class="page__gallery">
+    <div class="container">
+
+        {%- for item in page.gallery.items -%}
+            <figure class="page__gallery-item page__gallery-item--{{ forloop.index }} page__gallery-item--{{ forloop.index }}-of-{{ page.gallery.items_per_row }} page__gallery-item--of-{{ page.gallery.items_per_row }}">
+                <a href="{{- item.image.href | relative_url -}}" data-fancybox="page-gallery" data-caption="{{- item.caption | escape -}}">
+                    <img class="page__gallery-item-img" src="{{- item.image.thumb | relative_url -}}" alt="{{- item.image.alt -}}">
+                </a>
+                <figcaption class="page__gallery-item-caption">
+                    {{- item.caption -}}
+                </figcaption>
+            </figure>
+        {%- endfor -%}
+    
+    </div>
+</section>
