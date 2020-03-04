@@ -32,10 +32,13 @@
                 autoPlay: 3000,
                 pageDots: false,
                 cellAlign: 'left',
-                contain: true,
-                adaptiveHeight: true
+                contain: true
             });
         })(jQuery);
+        $( window ).on( 'load', function() {
+            var $carousel = $('.reviews__carousel');
+            $carousel.flickity('resize');
+        });
     </script>
 {%- endif -%}
 

@@ -46,9 +46,12 @@
 
     &__carousel-item {
         img {
+            display: block;
             width: 100%;
+            height: auto;
         }
         width: 100%;
+        height: auto;
         @include breakpoint(medium) {
             width: 50%;
             margin-right: 10px;
