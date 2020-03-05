@@ -85,7 +85,7 @@ footer:
         url: '/rhodes-on-your-own-from-cruise-ship/'
         id: cruises_to_rhodes
       - title: Rhodes Quick Facts
-        url: '/'
+        url: '/facts-about-rhodes-greece/'
         id: quick_facts
   col_2:
     title: Things to do in Rhodes
