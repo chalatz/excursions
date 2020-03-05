@@ -79,7 +79,7 @@ footer:
         url: '/worry-free/'
         id: worry_free
       - title: Excursion Quality
-        url: '/'
+        url: '/quality-greece/'
         id: excursion_quality
       - title: Cruises to Rhodes
         url: '/'
