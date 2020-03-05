@@ -26,6 +26,14 @@
         }
     }
 
+    &__intro {
+        font-size: 1.3rem;
+        text-align: center;
+        p {
+            margin: 14px 8px;
+        }
+    }
+
     &__content {
         padding: 1rem 0;
         line-height: 1.5;
@@ -43,6 +51,7 @@
         }
         h3 {
             font-size: 1.3rem;
+            padding: 6px 0;
         }
         a {
             color: $blue;
