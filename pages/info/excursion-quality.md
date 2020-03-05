@@ -14,8 +14,8 @@ meta:
 title: Quality Shore Excursions in Rhodes Greece
 subtitle: Personalized customer service from beginning to end.
 head_photo:
-  img: /img/pages/worry-free/head-photo.jpg
-  mobile: /img/pages/worry-free/head-photo-mobile.jpg
+  img: /img/pages/excursion-quality/head-photo.jpg
+  mobile: /img/pages/excursion-quality/head-photo-mobile.jpg
   alt_text: ''
 outro: 'Worry Free Cruise Shore Excursions in Rhodes Greece'
 has_destinations: true
