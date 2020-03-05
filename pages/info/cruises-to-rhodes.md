@@ -14,8 +14,8 @@ meta:
 title: Rhodes on Your Own from Cruise Ship
 subtitle: Personalized customer service from beginning to end.
 head_photo:
-  img: /img/pages/excursion-quality/head-photo.jpg
-  mobile: /img/pages/excursion-quality/head-photo-mobile.jpg
+  img: /img/pages/cruises-to-rhodes/head-photo.jpg
+  mobile: /img/pages/cruises-to-rhodes/head-photo-mobile.jpg
   alt_text: ''
 outro: 'Cruise Shore Excursions in Greek Isles'
 has_destinations: true
