@@ -71,18 +71,21 @@ footer:
         id: our_story
       - title: Why Tour with Us
         url: '/independent-greece/'
-        id: why-us
+        id: why_us
       - title: Rhodes Private Tours
         url: '/rhodes-private-tours/'
         id: private_tours
       - title: Excursions Worry Free
-        url: '/'
+        url: '/worry-free/'
+        id: worry_free
       - title: Excursion Quality
         url: '/'
+        id: excursion_quality
       - title: Cruises to Rhodes
         url: '/'
       - title: Rhodes Quick Facts
         url: '/'
+        id: quick_facts
   col_2:
     title: Things to do in Rhodes
     items:
