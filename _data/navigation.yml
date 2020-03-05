@@ -82,7 +82,8 @@ footer:
         url: '/quality-greece/'
         id: excursion_quality
       - title: Cruises to Rhodes
-        url: '/'
+        url: '/rhodes-on-your-own-from-cruise-ship/'
+        id: cruises_to_rhodes
       - title: Rhodes Quick Facts
         url: '/'
         id: quick_facts
