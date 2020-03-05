@@ -2,7 +2,7 @@
 layout: page
 type: info_page
 id: cruises_to_rhodes
-permalink: /rhodes-on-your-own-from-cruise-ship/
+permalink: /discount-cruise/
 redirect_from: discount_cruise.htm
 has_gallery: false
 meta:
