@@ -30,7 +30,7 @@
                     {%- if sublinks_size > 0 -%}
                         <ul class="site-nav__subitems">
                             {%- for subitem in item.sublinks -%}
-                                <li class="site-nav__item site-nav__item--sublink">
+                                <li class="site-nav__item site-nav__item--sublink{% if forloop.last %} site-nav__item--sublink-last{% endif %}">
                                     <a href="{{- subitem.url | relative_url -}}" class="site-nav__item-link site-nav__item-link--sublink">
                                         {{- subitem.title -}}
                                     </a>

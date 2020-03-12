@@ -76,6 +76,12 @@
             }
         }
 
+        &--sublink-last {
+            border-bottom-left-radius: 3px;
+            border-bottom-right-radius: 3px;
+            border-bottom: 2px solid $yellow;
+        }
+
     }
     
     &__item-link {
@@ -133,6 +139,7 @@
             padding-left: 0;
             top: 46px;
             border: 2px solid $yellow;
+            border-bottom: none;
             border-top: none;
             border-bottom-left-radius: 6px;
             border-bottom-right-radius: 6px;
