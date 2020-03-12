@@ -91,7 +91,8 @@ footer:
     title: Things to do in Rhodes
     items:
       - title: Rhodes Pottery
-        url: '/'
+        url: '/rhodes-lindos-pottery/'
+        id: pottery
       - title: Rhodes Food Tour
         url: '/'
       - title: The Jewish Quarter

@@ -72,3 +72,25 @@ layout: default
 {%- elsif page.has_banners == false and page.has_destinations == true -%}
   <div class="separator"></div>
 {%- endif -%}
+
+{%- if page.has_gallery == true -%}
+  {%- if page.gallery -%}
+    {%- assign gallery_size = page.gallery.size | size -%}
+    {%- if gallery_size > 0 -%}
+      <div class="preload">
+        {%- for gallery_item in page.gallery.items -%}
+          <img src="{{- gallery_item.image.href | relative_url -}}" width="1" height="1">
+        {%- endfor -%}
+      </div>
+    {%- endif -%}
+  {%- endif -%}
+{%- endif -%}
+
+{%- if page.sections -%}
+  {%- assign sections_size = page.sections | size -%}
+  {%- if sections_size > 0 -%}
+    {%- for section in page.sections -%}
+      
+    {%- endfor -%}
+  {%- endif -%}
+{%- endif -%}

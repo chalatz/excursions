@@ -46,3 +46,9 @@ img {
     margin-top: -30px;
     visibility: hidden;
 }
+
+.preload {
+    position: absolute;
+    left: -9999px;
+    top: -9999px;
+}
