@@ -90,7 +90,16 @@ layout: default
   {%- assign sections_size = page.sections | size -%}
   {%- if sections_size > 0 -%}
     {%- for section in page.sections -%}
-      
+      {%- if section.gallery -%}
+        {%- assign gallery_size = section.gallery.items | size -%}
+        {%- if gallery_size > 0 -%}
+          <div class="preload">
+            {%- for section_gallery_item in section.gallery.items -%}
+              <img src="{{- section_gallery_item.image.href | relative_url -}}" width="1" height="1">
+            {%- endfor -%}
+          </div>
+        {%- endif -%}
+      {%- endif -%}
     {%- endfor -%}
   {%- endif -%}
 {%- endif -%}
