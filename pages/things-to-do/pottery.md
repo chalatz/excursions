@@ -14,6 +14,10 @@ meta:
   description: Rhodes Ceramics, Rhodes Lindos Pottery, Rhodes Pottery Greece, Handmade potteries in Rhodes Island Greece
   abstract: Rhodes Ceramics Greece, Lindos Pottery
 title: Rhodes Ceramics - Rhodes Lindos Pottery
+head_photo:
+  img: /img/pages/pottery/head-photo.jpg
+  mobile: /img/pages/pottery/head-photo-mobile.jpg
+  alt_text: ''
 sections:
   - text: |-
       "Culture", both a particular stage of civilization and the characteristics of its people, can be seen in its language, religion, cuisine, social habits, and arts. Greek culture has long been understood through its architecture and its artifacts, including its pottery. As an important record of ancient Greek history, pottery paints a picture of every aspect of Greek life: daily life and cooking; celebrations, like banquets and weddings; religious ceremonies, including funerals; and even sporting events. The island of Rhodes is known for its pottery and ceramics, and documentation shows that clay bricks from Rhodes were used to build the dome of Constantinople's "Agia Sofia" Byzantine church.
