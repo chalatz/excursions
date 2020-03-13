@@ -18,7 +18,7 @@ layout: page
             {%- if section.gallery -%}
                 {%- assign gallery_size = section.gallery.items | size -%}
                 {%- if gallery_size > 0 -%}
-                    {%- include partials/page-gallery.html the_gallery = section.gallery -%}
+                    {%- include partials/page-gallery.html the_gallery = section.gallery classes='gallery-page__gallery' -%}
                 {%- endif -%}
             {%- endif -%}
         </div>

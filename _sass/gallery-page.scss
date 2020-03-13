@@ -1,0 +1,16 @@
+.gallery-page {
+
+    &__gallery {
+
+        .page__gallery-item{
+            &--following {
+                display: none;
+                @include breakpoint(medium) {
+                    display: inline-block;    
+                }
+            }
+        }
+
+    }
+
+}

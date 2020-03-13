@@ -1,4 +1,4 @@
-<section class="page__gallery">
+<section class="page__gallery{% if include.classes %} {{ include.classes }}{% endif %}">
 
 
     {%- if include.the_gallery -%}
@@ -8,7 +8,7 @@
     {%- endif -%}
 
     {%- for item in the_gallery.items -%}
-        <figure class="page__gallery-item page__gallery-item--{{ forloop.index }} page__gallery-item--{{ forloop.index }}-of-{{ the_gallery.items_per_row }} page__gallery-item--of-{{ the_gallery.items_per_row }}">
+        <figure class="page__gallery-item page__gallery-item--{{ forloop.index }} page__gallery-item--{{ forloop.index }}-of-{{ the_gallery.items_per_row }} page__gallery-item--of-{{ the_gallery.items_per_row }}{% if forloop.first %} page__gallery-item--first{% else %} page__gallery-item--following{% endif %}">
             <a class="page__gallery-item-link" href="{{- item.image.href | relative_url -}}" data-fancybox="page-gallery" data-caption="{{- item.caption | escape -}}">
                 <img class="page__gallery-item-img" src="{{- item.image.thumb | relative_url -}}" alt="{{- item.image.alt -}}">
             </a>
