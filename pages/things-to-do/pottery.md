@@ -1,6 +1,6 @@
 ---
 layout: gallery-page
-type: gallery_page
+type: gallery-page
 id: pottery
 permalink: /rhodes-lindos-pottery/
 redirect_from: greek_pottery.htm

@@ -94,7 +94,8 @@ footer:
         url: '/rhodes-lindos-pottery/'
         id: pottery
       - title: Rhodes Food Tour
-        url: '/'
+        url: '/rhodes-cuisine-greece/'
+        id: food
       - title: The Jewish Quarter
         url: '/'
       - title: Byzantine Monuments
