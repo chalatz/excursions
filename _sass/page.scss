@@ -126,6 +126,7 @@
 
     & &-item-link {
         transition: opacity .2s linear;
+        display: block;
         &:hover {
             opacity: .8;
         }

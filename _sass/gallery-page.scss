@@ -1,0 +1,37 @@
+.gallery-page {
+
+    .page__gallery {
+
+        &-wrapper-of-two {
+            display: block;
+            @include breakpoint(medium) {
+                display: inline-block;
+                width: 50%;
+            }
+        }
+
+        &-item {
+            &--of-5 {
+                display: none;
+                &.first {
+                    display: block;
+                    @include breakpoint(medium) {
+                        display: inline-block;
+                    }
+                }
+                @include breakpoint(medium) {
+                    display: inline-block;
+                }
+            }
+
+            &--of-4 {
+                display: inline-block;
+                width: 50%;
+                padding: 0 8px;
+                vertical-align: top;
+            }
+        }
+
+    }
+
+}
