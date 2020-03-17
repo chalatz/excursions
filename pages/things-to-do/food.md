@@ -14,10 +14,10 @@ meta:
   description: Rhodes Food Tour, Rhodes Cuisine Greece, Greek Food in Rhodes Island, Traditional Greek Appetizers in Rhodes
   abstract: Rhodes Food Tour
 title: Rhodes Food Tour
-# head_photo:
-#   img: /img/pages/pottery/head-photo.jpg
-#   mobile: /img/pages/pottery/head-photo-mobile.jpg
-#   alt_text: ''
+head_photo:
+  img: /img/pages/food-tour/head-photo.jpg
+  mobile: /img/pages/food-tour/head-photo-mobile.jpg
+  alt_text: ''
 outro: Greek Food in Rhodes Island
 sections:
   - text: |-
