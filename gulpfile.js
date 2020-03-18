@@ -53,6 +53,12 @@ gulp.task('js', function () {
         .pipe(gulp.dest('dist/js'));
 });
 
+gulp.task('js_libs', function () {
+    gulp.src('_site/js/libs/*.js')
+        .pipe(uglify()) 
+        .pipe(gulp.dest('dist/js/libs'));
+});
+
 
 gulp.task('markup', function(){
     return gulp.src('_site/**/*.+(html|htm)')
@@ -73,7 +79,7 @@ gulp.task('php', function(){
 
 gulp.task('build', function (callback) {
     runSequence('clean:dist', 
-        ['markup', 'css', 'js', 'root_files', 'php', 'images'],
+        ['markup', 'css', 'js','js_libs', 'root_files', 'php', 'images'],
         callback
     )
 });
