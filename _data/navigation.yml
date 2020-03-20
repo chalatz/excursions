@@ -97,7 +97,8 @@ footer:
         url: '/rhodes-cuisine-greece/'
         id: food
       - title: The Jewish Quarter
-        url: '/'
+        url: '/jewish-quarter-juderia/'
+        id: juderia
       - title: Byzantine Monuments
         url: '/'
       - title: The Knights of Rhodes
