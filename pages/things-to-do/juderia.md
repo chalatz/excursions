@@ -14,10 +14,10 @@ meta:
   description: Jewish Quarter in Rhodes, Synagogue and Jewish Museum, Jewish Cemetery Rhodes Greece, square of the Jewish martyrs in Rhodes, the Jewish Community of Rhodes
   abstract: Jewish Quarter, Rhodes Synagogue and Jewish Museum, Jewish Cemetery Rhodes Greece
 title: The Jewish Quarter
-# head_photo:
-#   img: /img/pages/pottery/head-photo.jpg
-#   mobile: /img/pages/pottery/head-photo-mobile.jpg
-#   alt_text: ''
+head_photo:
+  img: /img/pages/jewish-quarter/head-photo.jpg
+  mobile: /img/pages/jewish-quarter/head-photo-mobile.jpg
+  alt_text: ''
 outro: '"La Juderia" the Jewish Quarter of Rhodes Greece'
 sections:
   - text: |-
