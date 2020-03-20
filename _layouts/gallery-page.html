@@ -21,6 +21,12 @@ layout: page
                     {%- include partials/page-gallery.html the_gallery = section.gallery -%}
                 {%- endif -%}
             {%- endif -%}
+            {%- if section.gallery2 -%}
+                {%- assign gallery2_size = section.gallery2.items | size -%}
+                {%- if gallery2_size > 0 -%}
+                    {%- include partials/page-gallery.html the_gallery = section.gallery2 -%}
+                {%- endif -%}
+            {%- endif -%}
         </div>
     {%- endfor -%}
 {%- endif -%}    

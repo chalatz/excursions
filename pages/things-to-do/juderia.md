@@ -18,6 +18,7 @@ title: The Jewish Quarter
 #   img: /img/pages/pottery/head-photo.jpg
 #   mobile: /img/pages/pottery/head-photo-mobile.jpg
 #   alt_text: ''
+outro: '"La Juderia" the Jewish Quarter of Rhodes Greece'
 sections:
   - text: |-
       The Jewish Community of the Island of Rhodes has a rich history that dates back to the second century BC, with the earliest reference to it appearing in the book of Maccabees. Other references to the Jewish presence in the Island are found in the writings of the Jewish historian Josephus Flavius. The Jews of Rhodes like the other Jews living in Greece and in its Islands spoke Greek and conducted the religious services in Greek, following the Romaniote rite, which is distinct from Sephardi, Ashkenaz, and Italian rites.
@@ -155,5 +156,82 @@ sections:
             href: /img/pages/jewish-quarter/la_juderia_20.jpg
             alt: Jewish Museum of Rhodes Tour
           caption: ''
-      
+  - text: |-
+      **Aron Hasson - The founder of Rhodes Jewish Museum.** He was born in Los Angeles and he is a 3rd generation “Rhodesli”. He is an attorney in L.A. where he has been practicing immigration law since 1980. He was inspired to go to the island of Rhodes in 1975 by stories told to him by his grandparents. Its special charm and history fascinated him. Several years later, in 1995, he came back to Rhodes together with his family for his children to find out  of their family heritage. It was during that visit that he noticed the requirement of advancing the general public awareness and appreciation of its unique history unfortunately devastated by the Holocaust.
+    gallery:
+      items_per_row: 4
+      items:
+        - image: 
+            thumb: /img/pages/jewish-quarter/la_juderia_25_thumb.jpg
+            href: /img/pages/jewish-quarter/la_juderia_25.jpg
+            alt: Aron Hasson, the founder of the Jewish Museum of Rhodes
+          caption: Aron Hasson, the founder of the Jewish Museum of Rhodes
+        - image: 
+            thumb: /img/pages/jewish-quarter/la_juderia_26_thumb.jpg
+            href: /img/pages/jewish-quarter/la_juderia_26.jpg
+            alt: The Rhodes Jewish Historical Foundation
+          caption: The Rhodes Jewish Historical Foundation was established to preserve
+            the unique history of the Jews of Rhodes.
+        - image: 
+            thumb: /img/pages/jewish-quarter/la_juderia_27_thumb.jpg
+            href: /img/pages/jewish-quarter/la_juderia_27.jpg
+            alt: Aron Hasson
+          caption: Museum Established in 1997 - Aron on 1st day
+        - image: 
+            thumb: /img/pages/jewish-quarter/la_juderia_28_thumb.jpg
+            href: /img/pages/jewish-quarter/la_juderia_28.jpg
+            alt: Nicholas with Aron Hasson on Rhodes Island
+          caption: Nicholas with Aron Hasson on Rhodes Island
+  - text: |-
+      _I recently met Aron Hasson in Rhodes. It was my pleasure and honor to meet the person who spearheaded the movement to preserve the vital history of the Jews of Rhodes. I respect those trying to keep alive Rhodian history. In 1997, Hasson founded the Rhodes Jewish Historical Foundation, a non-profit organization established to preserve the unique history and cultural background of the Jews of Rhodes, and to function as a link between the past, present and future generations of “Rhodeslis” around the world._
+  - text: |-
+      **The Jewish Cemetery.** Originally the Jewish cemeteries were located inside the Old City of Rhodes. In the 1930s, the Italian government forced the relocation of the cemeteries from the Juderia to an area outside the Old City walls and into its present location in the new city . The Jewish Cemetery is one of the best preserved in Europe and contains tombstones from the 1500s to the present. It is located outside the Old City of Rhodes along the main road towards Kalitheas and Faliraki. Excavations of additional tombstones are continuing. During the last five years over 300 burial stones have been uncovered.
+    gallery:
+      items_per_row: 4
+      items:
+        - image:
+            thumb: /img/pages/jewish-quarter/la_juderia_29_thumb.jpg
+            href: /img/pages/jewish-quarter/la_juderia_29.jpg
+            alt: Rhodes Jewish Cemetery
+          caption: A marble monument identifies the 2,000 Jews of Rhodes and Kos killed during the Holocaust
+        - image:
+            thumb: /img/pages/jewish-quarter/la_juderia_30_thumb.jpg
+            href: /img/pages/jewish-quarter/la_juderia_30.jpg
+            alt: The Jewish Cemetery of Rhodes Greece
+          caption: Excavated tombstones lined up ready for translating and viewing in the Jewish Cemetery
+        - image:
+            thumb: /img/pages/jewish-quarter/la_juderia_31_thumb.jpg
+            href: /img/pages/jewish-quarter/la_juderia_31.jpg
+            alt: Rhodes Jewish Cemetery
+          caption: The Jewish Cemetery
+        - image:
+            thumb: /img/pages/jewish-quarter/la_juderia_32_thumb.jpg
+            href: /img/pages/jewish-quarter/la_juderia_32.jpg
+            alt: Rhodes Greece Jewish Cemetery
+          caption: 1938 Relocation of the Jewish Cemetery to its present site
+    gallery2:
+      items_per_row: 4
+      items:
+        - image:
+            thumb: /img/pages/jewish-quarter/la_juderia_33_thumb.jpg
+            href: /img/pages/jewish-quarter/la_juderia_33.jpg
+            alt: The Jewish Cemetery of the Jewish Community of Rhodes
+          caption: The Jewish Cemetery
+        - image:
+            thumb: /img/pages/jewish-quarter/la_juderia_34_thumb.jpg
+            href: /img/pages/jewish-quarter/la_juderia_34.jpg
+            alt: Jewish Cemetery Rhodes Greece
+          caption: The main path in the Jewish Cemetery
+        - image:
+            thumb: /img/pages/jewish-quarter/la_juderia_35_thumb.jpg
+            href: /img/pages/jewish-quarter/la_juderia_35.jpg
+            alt: Rhodes Greece Jewish Cemetery
+          caption: The Jewish Cemetery
+        - image:
+            thumb: /img/pages/jewish-quarter/la_juderia_36_thumb.jpg
+            href: /img/pages/jewish-quarter/la_juderia_36.jpg
+            alt: Rhodes Jewish Cemetery of the Jewish Community
+          caption: The Jewish Cemetery
+  - text: |-
+      **The "Rhodesli"** are a little-known Sephardic sect that moved to the Mediterranean island of Rhodes in 1492 following their expulsion from Spain and Portugal. They lived on Rhodes until WW2. Their culture, which is began in 800 B.C. survives as a little émigré community in Los Angeles. Their complex ethnic and spiritual heritage is exclusive in the world today. The Rhodesli are Jews who speak an uncommon medieval Spanish dialect (Ladino) and detect traditions derived from Turkish, Moorish, Spanish, and Jewish sources that remain mostly unchanged from centuries past.
 ---

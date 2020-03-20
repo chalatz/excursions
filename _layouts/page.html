@@ -100,6 +100,16 @@ layout: default
           </div>
         {%- endif -%}
       {%- endif -%}
+      {%- if section.gallery2 -%}
+        {%- assign gallery2_size = section.gallery2.items | size -%}
+        {%- if gallery2_size > 0 -%}
+          <div class="preload">
+            {%- for section_gallery2_item in section.gallery2.items -%}
+              <img src="{{- section_gallery2_item.image.href | relative_url -}}" width="1" height="1">
+            {%- endfor -%}
+          </div>
+        {%- endif -%}
+      {%- endif -%}
     {%- endfor -%}
   {%- endif -%}
 {%- endif -%}
