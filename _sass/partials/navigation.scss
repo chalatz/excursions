@@ -77,9 +77,11 @@
         }
 
         &--sublink-last {
-            border-bottom-left-radius: 3px;
-            border-bottom-right-radius: 3px;
-            border-bottom: 2px solid $yellow;
+            @include breakpoint(large) {                
+                border-bottom-left-radius: 3px;
+                border-bottom-right-radius: 3px;
+                border-bottom: 2px solid $yellow;
+            }
         }
 
     }
