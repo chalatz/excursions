@@ -100,7 +100,8 @@ footer:
         url: '/jewish-quarter-juderia/'
         id: juderia
       - title: Byzantine Monuments
-        url: '/'
+        url: '/byzantine/'
+        id: byzantine
       - title: The Knights of Rhodes
         url: '/'
       - title: Ottoman Sights
