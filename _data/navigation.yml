@@ -103,7 +103,8 @@ footer:
         url: '/byzantine/'
         id: byzantine
       - title: The Knights of Rhodes
-        url: '/'
+        url: 'knights-of-st-john'
+        id: knights
       - title: Ottoman Sights
         url: '/'
       - title: Italian Architecture

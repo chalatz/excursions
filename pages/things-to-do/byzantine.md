@@ -12,7 +12,6 @@ meta:
   http_desc: Rhodes Tours, Byzantine Monuments in Rhodes Greece, Rhodes Historical Tours
   keywords: Rhodes Tours, Byzantine Monuments in Rhodes Greece, Rhodes Historical Tours
   description: Rhodes Tours, Byzantine Monuments in Rhodes Greece, Rhodes Historical Tours, Byzantine Archaeological Sights Landmarks and Architecture
-  copyright: NK for Rhodes Private Tours,2018
   abstract: Rhodes Tours, Byzantine Monuments in Rhodes
 title: Byzantine Monuments in Rhodes
 head_photo:

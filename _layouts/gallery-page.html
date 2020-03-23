@@ -10,6 +10,11 @@ layout: page
                     {{- section.title -}}
                 </h2>
             {%- endif -%}
+            {%- if section.subtitle and section.subtitle.size > 0 -%}
+                <h3 class="page__section-subtitle">
+                    {{- section.subtitle -}}
+                </h3>
+            {%- endif -%}
             {%- if section.text and section.text.size > 0 -%}
                 <div class="page__section-text">
                     {{ section.text | markdownify }}
