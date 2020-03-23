@@ -15,8 +15,8 @@ meta:
   abstract: Ottoman Sites in Rhodes Greece
 title: Ottoman Sites in Rhodes
 head_photo:
-  img: /img/pages/byzantine-monuments/head-photo.jpg
-  mobile: /img/pages/byzantine-monuments/head-photo-mobile.jpg
+  img: /img/pages/ottoman-sites/head-photo.jpg
+  mobile: /img/pages/ottoman-sites/head-photo-mobile.jpg
   alt_text: ''
 sections:
   - text: |-
