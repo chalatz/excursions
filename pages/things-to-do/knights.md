@@ -15,8 +15,8 @@ meta:
   abstract: Knights of St John of Rhodes
 title: The Knights of Rhodes
 head_photo:
-  img: /img/pages//knights-of-rhodes/head-photo.jpg
-  mobile: /img/pages//knights-of-rhodes/head-photo-mobile.jpg
+  img: /img/pages/knights-of-rhodes/head-photo.jpg
+  mobile: /img/pages/knights-of-rhodes/head-photo-mobile.jpg
   alt_text: ''
 sections:
   - text: |-
