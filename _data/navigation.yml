@@ -106,6 +106,7 @@ footer:
         url: 'knights-of-st-john'
         id: knights
       - title: Ottoman Sights
-        url: '/'
+        url: '/ottoman-sites/'
+        id: ottoman
       - title: Italian Architecture
         url: '/'     
