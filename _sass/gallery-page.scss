@@ -32,6 +32,16 @@
             }
         }
 
+        &-item-link {
+            border: 2px solid $lightblue;
+            border-radius: 4px;
+            box-shadow: 0 10px 10px -12px $darkblue;
+        }
+
+        &-item-img {
+            border-radius: 2px;
+        }
+
     }
 
 }
