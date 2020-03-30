@@ -8,7 +8,7 @@
                 {%- assign modulo_two = forloop.index | modulo: 2 -%}
                 {%- assign modulo_three = forloop.index | modulo: 3 -%}
                 {%- assign modulo_six = forloop.index | modulo: 6 -%}
-                <a class="home__destination{% if modulo_two == 0 %} home__destination--two{% endif %}{% if modulo_three == 0 %} home__destination--three{% endif %}{% if modulo_six == 0 %} home__destination--six{% endif %}{% if dest.id == page.id %} home__destination--active{% endif %}" href="{{- dest.url -}}">
+                <a class="home__destination{% if modulo_two == 0 %} home__destination--two{% endif %}{% if modulo_three == 0 %} home__destination--three{% endif %}{% if modulo_six == 0 %} home__destination--six{% endif %}{% if dest.id == page.id %} home__destination--active{% endif %}" href="{{- dest.url | relative_url -}}">
                     <span class="home__destination-text">
                         {{- dest.title -}}
                     </span>
