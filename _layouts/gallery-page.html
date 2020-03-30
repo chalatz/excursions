@@ -15,6 +15,11 @@ layout: page
                     {{- section.subtitle -}}
                 </h3>
             {%- endif -%}
+            {%- if section.description and section.description.size > 0 -%}
+                <p class="centered page__section-description">
+                    {{- section.description -}}
+                </p>
+            {%- endif -%}
             {%- if section.text and section.text.size > 0 -%}
                 <div class="page__section-text">
                     {{ section.text | markdownify }}
