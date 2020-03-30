@@ -15,8 +15,8 @@ meta:
   abstract: Butterfly Valley Rhodes Greece, Valley of the Butterflies, Rhodes Butterfly Excursion, Petaloudes
 title: The Butterfly Valley, Petaloudes
 head_photo:
-  img: /img/pages/lindos-acropolis/head-photo.jpg
-  mobile: /img/pages/lindos-acropolis/head-photo-mobile.jpg
+  img: /img/pages/valley-of-the-butterflies/head-photo.jpg
+  mobile: /img/pages/valley-of-the-butterflies/head-photo-mobile.jpg
   alt_text: ''
 sections:
   - text: |-
