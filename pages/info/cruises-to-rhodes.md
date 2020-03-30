@@ -6,13 +6,12 @@ permalink: /discount-cruise/
 redirect_from: discount_cruise.htm
 has_gallery: false
 meta:
-  title: Rhodes on Your Own from Cruise Ship
-  http_desc: Rhodes on Your Own from Cruise Ship, Rhodes Greece Cruise Port Information, Cruise Ships Visiting Rhodes
-  keywords: Rhodes on Your Own from Cruise Ship, Rhodes Greece Cruise Port Information, Cruise Ships Visiting Rhodes
-  description: Rhodes on Your Own from Cruise Ship, Rhodes Greece Cruise Port Information, Cruise Ships Visiting Rhodes
-  abstract: Rhodes on Your Own from Cruise Ship, Rhodes Greece Cruise Port Information
+  title: Rhodes on Your Own from Cruise Ship, Rhodes Cruise Port
+  http_desc: Rhodes on Your Own from Cruise Ship, Rhodes Cruise Port, Rhodes Port Excursions, Cruise Ships Visiting Rhodes
+  keywords: Rhodes on Your Own from Cruise Ship, Rhodes Cruise Port, Rhodes Port Excursions, Cruise Ships Visiting Rhodes
+  description: Rhodes on Your Own from Cruise Ship, Rhodes Cruise Port, Rhodes Port Excursions, Cruise Ships Visiting Rhodes
+  abstract: Rhodes on Your Own from Cruise Ship, Rhodes Cruise Port
 title: Rhodes on Your Own from Cruise Ship
-subtitle: Personalized customer service from beginning to end.
 head_photo:
   img: /img/pages/cruises-to-rhodes/head-photo.jpg
   mobile: /img/pages/cruises-to-rhodes/head-photo-mobile.jpg
@@ -33,9 +32,21 @@ Some cruise lines offer discount cruise packages to Greek Isles at the beginning
 
 The cruise port is located in the east of Rhodes Town, very close to the Medieval City and a 10 min walk from the Marine Gate (or St. Catherine's Gate). The cruise terminal located in the center of the harbor, opposite to the ferry terminal. Rhodes is a dock port, no tender, so it's easy to disembark. The local port authorities usually clear the ship in 30 min.
 
-### What is the name of the port in Rhodes?
+### Which cruise lines go to Rhodes Greece?
 
-Rhodes (Rodos) Central Port: serves domestic and international traffic (Coordinates: 36°26'49.77"N - 28°13'47.89"E).
+Many luxury cruise ships visit Rhodes from March through November.
+
+Greek Islands cruises generally range from 4, 7 to 12 nights, sometimes up to 21 nights (some cruise itineraries cover both the Western and Eastern Mediterranean Sea).
+
+The Eastern Mediterranean cruises focus mostly on Italy, Greece and Turkey. These itineraries typically depart from or return to Rome, Venice and Athens.
+
+The following cruise lines offer itineraries and schedules to Rhodes during the tourist season - mid March to end November.
+
+One or two times a week: **Celestyal Cruises**
+
+One or two times a month: **Norwegian Cruise Line, Celebrity Cruises, Oceania Cruise Line, Holland America Cruise Line.Azamara.**
+
+Four or five times a year: **P&O Cruises, Radisson Seven Seas, Crystal Cruises, Silversea Cruises, Cunard Cruise Line, Seabourn Cruise Line, Royal Caribbean International, Carnival Cruise Lines, Disney Cruises, Princess Cruises, Costa Cruises, Wind Star Cruises, Star Clippers, MSC Cruises**
 
 ### Rhodes and the Greek Isles continues to rank among the world's top cruise destinations.
 

@@ -20,7 +20,7 @@ outro: 'Worry Free Cruise Shore Excursions in Rhodes Greece'
 has_destinations: true
 has_banners: true
 ---
-#### Back to the ship on time
+### Back to the ship on time
 
 ##### Enjoy a Worry-Free shore excursion in Rhodes Island with our detailed arrangements from the beginning to the end.
 
@@ -32,10 +32,18 @@ Our associate fleet of cars is maintained and kept in quality condition. In the 
 
 Bon Voyage!
 
-#### Shore Excursion Safety
+### Shore Excursion Safety
 
 #### Your safety is of the utmost importance to us.
 
-Planning your own shore excursion means going where you want to go!!  We offer fully-customizable shore excursions to suit your special needs, including no strenuous walking or climbing for people with physical limitations. You can change or extend the itinerary in advance (or on the go) of your private shore excursion as you wish. You may also add attractions or plan your own small group shore excursion: consider, for example, scenic shore excursions, cultural shore excursions, or water sports excursions.  
+Our excursions are conducted only by our associate licensed, experienced professional chauffeurs / drivers. Our experience allows us to drive you with precision and care, and we ensure that you make the most of your short visit on Rhodes Island. We carry cellular phones and radios for constant communication. In addition to being at your service for the duration, your driver will be courteous and knowledgeable to make your excursion with us memorable.
 
-If you like, you can extend your half day excursion and add lunch time at a seaside village, right on the water's edge, or at a traditional local tavern and taste the Rhodian cuisine and our excellent local wines. We are very flexible and we design the excursions according to your wishes...
+Our fleet is consistently maintained, inspected, and updated for your safety and comfort. Our cars are all comfortable, air-conditioned luxury vehicles which are equipped with a wide variety of safety features and are fully insured. These Mercedes Benz Sedan Limos hold 4 passengers comfortably, plus the driver.
+
+### Shore Excursion Flexibility:
+
+#### Our service is the best way to enhance your cruise experience while off the ship.
+
+Planning your own shore excursion means going where you want to go!! We offer fully-customizable shore excursions to suit your special needs, including no strenuous walking or climbing for people with physical limitations. You can change or extend the itinerary in advance (or on the go) of your private shore excursion as you wish. You may also add attractions or plan your own small group shore excursion: consider, for example, scenic shore excursions, cultural shore excursions, or water sports excursions.
+
+If you like, you can extend your half day excursion and add lunch time at a seaside village, right on the water’s edge, or at a traditional local tavern and taste the Rhodian cuisine and our excellent local wines. We are very flexible and we design the excursions according to your wishes…
