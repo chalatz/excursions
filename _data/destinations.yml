@@ -4,7 +4,8 @@ items:
   url: '/lindos-acropolis/'
   id: lindos
 - title: Rhodes Old Town
-  url: '/'
+  url: '/old-town/'
+  id: old_town
 - title: Butterfly Valley
   url: '/'
 - title: Rhodes New Town
