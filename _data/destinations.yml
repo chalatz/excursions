@@ -1,7 +1,8 @@
 title: FIND A SHORE EXCURSION BY DESTINATION
 items:
 - title: Acropolis of Lindos
-  url: '/'
+  url: '/lindos-acropolis/'
+  id: lindos
 - title: Rhodes Old Town
   url: '/'
 - title: Butterfly Valley
