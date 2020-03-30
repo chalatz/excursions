@@ -1,19 +1,19 @@
 ---
 layout: gallery-page
 type: gallery-page
-id: lindos
-permalink: /lindos-acropolis/
-redirect_from: lindos_acropolis.htm
+id: butterflies
+permalink: /valley-of-the-butterflies/
+redirect_from: valley_of_the_butterflies.htm
 has_gallery: true
 has_destinations: true
 has_banners: false
 meta:
-  title: Rhodes Lindos Tour, Rhodes Lindos Excursion
-  http_desc: Rhodes Lindos Tour, Rhodes Lindos Excursion, Lindos Acropolis Excursions, Rhodes Shore Excursions
-  keywords: Rhodes Lindos Tour, Rhodes Lindos Excursion, Lindos Acropolis Excursions, Rhodes Shore Excursions
-  description: Rhodes Lindos Tour, Rhodes Lindos Excursion, Lindos Acropolis Excursions, Rhodes Shore Excursions
-  abstract: Rhodes Lindos Tour, Rhodes Lindos Excursion
-title: Rhodes Lindos Tour
+  title: Butterfly Valley Rhodes Greece, Valley of the Butterflies
+  http_desc: Butterfly Valley Rhodes Greece, Valley of the Butterflies, Rhodes Butterfly Excursion, Petaloudes
+  keywords: Butterfly Valley Rhodes Greece, Valley of the Butterflies, Rhodes Butterfly Excursion, Petaloudes
+  description: Butterfly Valley Rhodes Greece, Valley of the Butterflies, Rhodes Butterfly Excursion, Petaloudes
+  abstract: Butterfly Valley Rhodes Greece, Valley of the Butterflies, Rhodes Butterfly Excursion, Petaloudes
+title: The Butterfly Valley, Petaloudes
 head_photo:
   img: /img/pages/lindos-acropolis/head-photo.jpg
   mobile: /img/pages/lindos-acropolis/head-photo-mobile.jpg
