@@ -19,7 +19,6 @@ head_photo:
   mobile: /img/pages/lindos-acropolis/head-photo-mobile.jpg
   alt_text: ''
 outro: Rhodes Lindos Excursion
-published: false
 sections:
   - text: |-
      The picturesque village of Lindos is located 55km / 34mi south of Rhodes town on the east coast of the island. According to Homer, Lindos was built by the Dorians at the same time as Kamiros and Ialyssos in the 12th century B.C. The town reached the height of its power in the 6th century B.C. during the reign of Tyrant Kleovoulos - Cleobulus (one of the seven wise men of antiquity) who ruled for more than 40 years.

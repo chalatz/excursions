@@ -13,7 +13,7 @@ meta:
   keywords: Rhodes Old Town Tour, Rhodes Old Town Excursion, Medieval City, Excursions
   description: Rhodes Old Town Tour, Rhodes Old Town Excursion, Medieval City of Rhodes Tour, Rhodes Medieval city Excursions
   abstract: Rhodes Old Town Tour, Rhodes Old Town Excursion
-title: RHODES OLD TOWN TOUR
+title: Rhodes Old Town Tour
 head_photo:
   img: /img/pages/old-town/head-photo.jpg
   mobile: /img/pages/old-town/head-photo-mobile.jpg
@@ -22,7 +22,7 @@ outro: Medieval City of Rhodes Greece
 sections:
   - text: |-
       The old town of Rhodes is contained within the 4 km / 2.5 miles of defensive walls that the Knights of St John built on Byzantine fortification. A typical example of the techniques of fortification of the 14th - 15th century. Massive towers and bastions project from several place and they are decorated with elaborate stonework, while a wide dry moat provided the first line of defence.
-  - title: THE WALL
+  - title: The Wall
     text: |-
      The old town of Rhodes is contained within the 4 km / 2.5 miles of defensive walls that the Knights of St John built on Byzantine fortification. A typical example of the techniques of fortification of the 14th - 15th century. Massive towers and bastions project from several place and they are decorated with elaborate stonework, while a wide dry moat provided the first line of defence.
     gallery:
@@ -48,7 +48,7 @@ sections:
             href: /img/pages/old-town/4.jpg
             alt: Rhodes Old Town - The Wall
           caption: 'The Wall'
-  - title: THE GATES
+  - title: The Gates
     text: |-
      The Medieval City had seven Gates. The St Catherine's Gate (or Marine Gate) was the main gate of the town. The D'Amboise Gate the most impressive Gate, The St Anthony's Gate, The St John's Gate, The Apostle Paul Gate, The St Athanasius Gate and the Port or Mills Gate.
     gallery:
@@ -74,7 +74,7 @@ sections:
             href: /img/pages/old-town/8.jpg
             alt: Rhodes Old Town - The Wall
           caption: 'The Apostle Paul Gate'     
-  - title: THE COLLACHIO (CASTLE)
+  - title: The Collachio (Castle)
     text: |-
      The most beautiful part of the old town is the so called **"Street of the Knights"**. Is a set-piece Italian restoration of the enclave created by the Knights of St John as their main thoroughfare. Several Langues had their palaces along the street. The street links the **"Hospital of the Knights"** now houses the "Archeological Museum of Rhodes" to the **"Palace of the Grand Masters"** now houses a museum.
     gallery:
@@ -100,7 +100,7 @@ sections:
             href: /img/pages/old-town/12.jpg
             alt: The Archaeological Museum - cruise excursions in Mediterranean Sea
           caption: The Archaeological Museum                
-  - title: THE BURGO (TOWN)
+  - title: The Burgo (Town)
     text: |-
      The larger southern quarter was the town itself, known as the **Burgo**, **Burgus**, **Burgum** or **Hora**. Here lived a blend of races, with the Greeks in the majority.
     gallery:
