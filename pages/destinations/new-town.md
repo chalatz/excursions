@@ -15,8 +15,8 @@ meta:
   abstract: Rhodes New Town Tour
 title: Rhodes New Town Tour
 head_photo:
-  img: /img/pages/lindos-acropolis/head-photo.jpg
-  mobile: /img/pages/lindos-acropolis/head-photo-mobile.jpg
+  img: /img/pages/new-town/head-photo.jpg
+  mobile: /img/pages/new-town/head-photo-mobile.jpg
   alt_text: ''
 outro: Rhodes Lindos Excursion
 sections:
