@@ -10,7 +10,8 @@ items:
   url: '/valley-of-the-butterflies/'
   id: butterflies
 - title: Rhodes New Town
-  url: '/'
+  url: '/new-town/'
+  id: new_town
 - title: Filerimos Monastery
   url: '/'
 - title: Monte Smith
