@@ -18,7 +18,6 @@ head_photo:
   img: /img/pages/old-town/head-photo.jpg
   mobile: /img/pages/old-town/head-photo-mobile.jpg
   alt_text: ''
-outro: Medieval City of Rhodes Greece
 sections:
   - text: |-
       The old town of Rhodes is contained within the 4 km / 2.5 miles of defensive walls that the Knights of St John built on Byzantine fortification. A typical example of the techniques of fortification of the 14th - 15th century. Massive towers and bastions project from several place and they are decorated with elaborate stonework, while a wide dry moat provided the first line of defence.

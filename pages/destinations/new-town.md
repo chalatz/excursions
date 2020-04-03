@@ -18,7 +18,6 @@ head_photo:
   img: /img/pages/new-town/head-photo.jpg
   mobile: /img/pages/new-town/head-photo-mobile.jpg
   alt_text: ''
-outro: Rhodes Lindos Excursion
 sections:
   - text: |-
      The new town of Rhodes developed outside the walls of mediaeval city (North West of the old town) and throbs with life even during offseason.
