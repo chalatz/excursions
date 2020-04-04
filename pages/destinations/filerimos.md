@@ -21,7 +21,7 @@ head_photo:
 sections:
   - text: |-
       Filerimos Mountain located just out of Rhodes Town about 14 km / 8 miles on the west coast of the island.  This place is an important archaeological site, here once stood the Acropolis of the Ancient Ialyssos with an important temple dedicated to Athena Polias.
-  - title: 'The Church of "Our Lady of Filerimos'
+  - title: 'The Church of "Our Lady of Filerimos"'
     text: |-
       The hill took its name from a monk who came from Jerusalem in the 13th century bringing with him an icon of the Blessed Virgin painted by the Apostle Luke. The small church he built later became a basilica and then in the 14th century under the rule of the Knights of St. John a Monastery was built, surrounded by cloisters and cells and a number of chapels. There is where the miracle-working icon is so reverently kept. When the island came into the possession of the Ottoman Turks, the icon was taken by the Knights to France and from there to Italy , then Malta and Russia , where it stayed until the 1917 revolution. Since 2002, it has been kept in the Blue Chapel of the National Museum of Montenegro and a copy has been put in its place.
     gallery:
