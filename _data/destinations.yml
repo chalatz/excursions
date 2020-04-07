@@ -19,7 +19,8 @@ items:
   url: '/monte-smith/'
   id: monte_smith
 - title: Embonas Village
-  url: '/'
+  url: '/embonas-village-rhodes/'
+  id: embonas
 - title: Kallithea Springs
   url: '/'
 - title: Ancient Kamiros

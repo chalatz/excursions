@@ -102,7 +102,5 @@ sections:
             thumb: /img/pages/monte-smith/12-thumb.jpg
             href: /img/pages/monte-smith/12.jpg
             alt: The Views, independent cruise excursions in Rhodes Greece
-          caption: ''
-  
-                     
+          caption: ''                     
 ---
