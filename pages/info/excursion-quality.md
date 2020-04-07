@@ -17,7 +17,7 @@ head_photo:
   img: /img/pages/excursion-quality/head-photo.jpg
   mobile: /img/pages/excursion-quality/head-photo-mobile.jpg
   alt_text: ''
-outro: 'Worry Free Cruise Shore Excursions in Rhodes Greece'
+outro: Rhodes High Quality Shore Excursions
 has_destinations: true
 has_banners: true
 ---
