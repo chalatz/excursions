@@ -4,13 +4,28 @@ layout: page
 {%- assign sections_size = page.sections | size -%}    
 {%- if sections_size > 0 -%}
     {%- for section in page.sections -%}
-        <div class="page__section">
-            {%- if section.title and section.title.size > 0 -%}
+        {%- if section.title and section.title.size > 0 -%}
+            {%- assign section_has_title = true -%}
+        {%- else -%}
+            {%- assign section_has_title = false -%}
+        {%- endif -%}
+        {%- if section.subtitle and section.subtitle.size > 0 -%}
+            {%- assign section_has_subtitle = true -%}
+        {%- else -%}
+            {%- assign section_has_subtitle = false -%}
+        {%- endif -%}
+        {%- if section_has_title == false and section_has_subtitle == false -%}
+            {%- assign no_titles = true -%}
+        {%- else -%}
+            {%- assign no_titles = false -%}
+        {%- endif -%}
+        <div class="page__section{% if forloop.first and no_titles == true %} page__section--intro{% endif %}">
+            {%- if section_has_title == true -%}
                 <h2 class="page__section-title">
                     {{- section.title -}}
                 </h2>
             {%- endif -%}
-            {%- if section.subtitle and section.subtitle.size > 0 -%}
+            {%- if section_has_subtitle == true -%}
                 <h3 class="page__section-subtitle">
                     {{- section.subtitle -}}
                 </h3>
