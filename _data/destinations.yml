@@ -16,7 +16,8 @@ items:
   url: '/filerimos/'
   id: filerimos
 - title: Monte Smith
-  url: '/'
+  url: '/monte-smith/'
+  id: monte_smith
 - title: Embonas Village
   url: '/'
 - title: Kallithea Springs
