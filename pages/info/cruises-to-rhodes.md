@@ -11,12 +11,12 @@ meta:
   keywords: Rhodes on Your Own from Cruise Ship, Rhodes Cruise Port, Rhodes Port Excursions, Cruise Ships Visiting Rhodes
   description: Rhodes on Your Own from Cruise Ship, Rhodes Cruise Port, Rhodes Port Excursions, Cruise Ships Visiting Rhodes
   abstract: Rhodes on Your Own from Cruise Ship, Rhodes Cruise Port
-title: Rhodes on Your Own from Cruise Ship
+title: Rhodes on Your Own from Cruise Ship - Rhodes Cruise Port
 head_photo:
   img: /img/pages/cruises-to-rhodes/head-photo.jpg
   mobile: /img/pages/cruises-to-rhodes/head-photo-mobile.jpg
   alt_text: ''
-outro: 'Cruise Shore Excursions in Greek Isles'
+outro: Rhodes High Quality Shore Excursions
 has_destinations: true
 has_banners: true
 ---

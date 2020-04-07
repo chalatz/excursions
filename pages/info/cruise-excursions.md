@@ -13,8 +13,8 @@ meta:
   keywords: Rhodes Cruise Excursions, Private Cruise Excursions in Rhodes Greece
   description: Rhodes Cruise Excursions, Private Cruise Excursions in Rhodes Greece
   abstract: Rhodes Cruise Excursions
-title:  RHODES CRUISE EXCURSIONS
-subtitle: Private Cruise Excursions in Rhodes Greece
+title: Private Excursions in Rhodes Greece
+subtitle: Rhodes Cruise Excursions
 head_photo:
   img: /img/pages/rhodes-cruise-excursions/head-photo.jpg
   mobile: /img/pages/rhodes-cruise-excursions/head-photo-mobile.jpg
