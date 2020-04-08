@@ -22,7 +22,8 @@ items:
   url: '/embonas-village-rhodes/'
   id: embonas
 - title: Kallithea Springs
-  url: '/'
+  url: '/kallithea-springs-rhodes-greece/'
+  id: kallithea
 - title: Ancient Kamiros
   url: '/'
 - title: Seven Springs
