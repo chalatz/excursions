@@ -1,7 +1,7 @@
 ---
 layout: gallery-page
 type: gallery-page
-id: new_town
+id: filerimos
 permalink: /filerimos/
 redirect_from: filerimos_mountain.htm
 has_gallery: true
