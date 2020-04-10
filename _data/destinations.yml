@@ -25,7 +25,8 @@ items:
   url: '/kallithea-springs-rhodes-greece/'
   id: kallithea
 - title: Ancient Kamiros
-  url: '/'
+  url: '/ancient-kamiros/'
+  id: kamiros
 - title: Seven Springs
   url: '/'
 - title: Kritinia Castle
