@@ -28,7 +28,8 @@ items:
   url: '/ancient-kamiros/'
   id: kamiros
 - title: Seven Springs
-  url: '/'
+  url: '/seven-springs-epta-piges/'
+  id: seven_springs
 - title: Kritinia Castle
   url: '/'
 - title: Castle of Monolithos
