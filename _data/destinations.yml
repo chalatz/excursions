@@ -31,7 +31,8 @@ items:
   url: '/seven-springs-epta-piges/'
   id: seven_springs
 - title: Kritinia Castle
-  url: '/'
+  url: '/kritinia-castle-rhodes-greece/'
+  id: kritinia
 - title: Castle of Monolithos
   url: '/'
 - title: Lindos Beach
