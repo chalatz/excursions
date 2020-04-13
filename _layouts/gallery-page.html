@@ -52,6 +52,9 @@ layout: page
                     {%- include partials/page-gallery.html the_gallery = section.gallery2 -%}
                 {%- endif -%}
             {%- endif -%}
+            {%- if section.footer_text and section.footer_text.size > 0 -%}
+                {{ section.footer_text | markdownify }}
+            {%- endif -%}
         </div>
     {%- endfor -%}
 {%- endif -%}    

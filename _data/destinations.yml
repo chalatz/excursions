@@ -34,7 +34,8 @@ items:
   url: '/kritinia-castle-rhodes-greece/'
   id: kritinia
 - title: Castle of Monolithos
-  url: '/'
+  url: 'castle-monolithos-rhodes-greece/'
+  id: monolithos
 - title: Lindos Beach
   url: '/'
 - title: Tsambika Beach
