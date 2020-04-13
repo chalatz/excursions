@@ -37,7 +37,8 @@ items:
   url: 'castle-monolithos-rhodes-greece/'
   id: monolithos
 - title: Lindos Beach
-  url: '/'
+  url: '/lindos-beach-rhodes/'
+  id: lindos_beach
 - title: Tsambika Beach
   url: '/'
 - title: Anthony Quinn Bay
