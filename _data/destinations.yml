@@ -2,7 +2,7 @@ title: FIND A SHORE EXCURSION BY DESTINATION
 items:
 - title: Acropolis of Lindos
   url: '/lindos-acropolis/'
-  id: lindos
+  id: lindos_acropolis
 - title: Rhodes Old Town
   url: '/old-town/'
   id: old_town

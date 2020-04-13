@@ -1,7 +1,7 @@
 ---
 layout: gallery-page
 type: gallery-page
-id: lindos
+id: lindos_acropolis
 permalink: /lindos-acropolis/
 redirect_from: lindos_acropolis.htm
 has_gallery: true
