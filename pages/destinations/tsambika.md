@@ -19,7 +19,7 @@ head_photo:
   alt_text: ''
 sections:
   - text: |-
-      Considered to be one the most beautiful beaches on the island, Tsambika Beach (or Tsampika Beach) is located on the eastern coast just 26km (17miles) from Rhodes town. The name was derived from the name of a small monastery called the Virgin of Tsambika, which lies 340 meters up a hill. You should visit the place, especially if you want to see a panoramic view of the bay.  Tsambika looks like it was taken straight from a postcard. The pristine beach stretches over 800 meters, it boasts fine golden sand and only a few stones so you can go barefoot. The water is crystal clear so you will have an unforgettable swimming experience. 
+      Considered to be one the most beautiful beaches on the island, Tsambika Beach (or Tsampika Beach) is located on the eastern coast just 26km (17miles) from Rhodes town. The name was derived from the name of a small monastery called the Virgin of Tsambika, which lies 340 meters up a hill. You should visit the place, especially if you want to see a panoramic view of the bay.  Tsambika looks like it was taken straight from a postcard. The pristine beach stretches over 800 meters, it boasts fine golden sand and only a few stones so you can go barefoot. The water is crystal clear so you will have an unforgettable swimming experience.
     gallery:
       items_per_row: 4
       items:

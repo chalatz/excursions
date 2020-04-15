@@ -43,9 +43,10 @@ items:
   url: '/tsambika-beach-rhodes/'
   id: tsambika
 - title: Anthony Quinn Bay
-  url: '/'
+  url: '/anthony-quinn-beach-rhodes/'
+  id: anthony_quinn
 - title: St Paul’s Bay
-  url: '/'
+  url: '/anthony-quinn-beach-rhodes/'
 - title: Faliraki Beach
   url: '/'
 - title: Rhodes Town Beach
