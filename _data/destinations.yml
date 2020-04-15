@@ -40,7 +40,8 @@ items:
   url: '/lindos-beach-rhodes/'
   id: lindos_beach
 - title: Tsambika Beach
-  url: '/'
+  url: '/tsambika-beach-rhodes/'
+  id: tsambika
 - title: Anthony Quinn Bay
   url: '/'
 - title: St Paul’s Bay
