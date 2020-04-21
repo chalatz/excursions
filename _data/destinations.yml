@@ -52,4 +52,5 @@ items:
   url: '/faliraki-beach-rhodes/'
   id: faliraki_beach
 - title: Rhodes Town Beach
-  url: '/'
+  url: '/rhodes-town-beach/'
+  id: elli_beach
