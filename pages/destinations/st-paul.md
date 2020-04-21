@@ -8,10 +8,10 @@ has_destinations: true
 has_banners: false
 meta:
   title: St Paul’s Bay Beach in Rhodes Greece
-  http_desc: St Paul’s Bay Beach in Rhodes Greece, St Paul’s Bay in Lindoss
-  keywords: St Paul’s Bay Beach in Rhodes Greece, St Paul’s Bay in Lindoss
-  description: St Paul’s Bay Beach in Rhodes Greece, St Paul’s Bay in Lindoss
-  abstract: St Paul’s Bay Beach in Rhodes Greece, St Paul’s Bay in Lindoss
+  http_desc: St Paul’s Bay Beach in Rhodes Greece, St Paul’s Bay in Lindos
+  keywords: St Paul’s Bay Beach in Rhodes Greece, St Paul’s Bay in Lindos
+  description: St Paul’s Bay Beach in Rhodes Greece, St Paul’s Bay in Lindos
+  abstract: St Paul’s Bay Beach in Rhodes Greece, St Paul’s Bay in Lindos
 title: St Paul’s Bay Beach in Rhodes
 head_photo:
   img: /img/pages/st-pauls-bay-beach/head-photo.jpg

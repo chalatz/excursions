@@ -49,6 +49,7 @@ items:
   url: '/st-pauls-bay-beach-rhodes/'
   id: st_paul
 - title: Faliraki Beach
-  url: '/'
+  url: '/faliraki-beach-rhodes/'
+  id: faliraki_beach
 - title: Rhodes Town Beach
   url: '/'
