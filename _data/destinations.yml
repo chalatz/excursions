@@ -46,7 +46,8 @@ items:
   url: '/anthony-quinn-beach-rhodes/'
   id: anthony_quinn
 - title: St Paul’s Bay
-  url: '/anthony-quinn-beach-rhodes/'
+  url: '/st-pauls-bay-beach-rhodes/'
+  id: st_paul
 - title: Faliraki Beach
   url: '/'
 - title: Rhodes Town Beach
