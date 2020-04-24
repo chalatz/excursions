@@ -21,6 +21,7 @@ gem "jekyll", "~> 3.8.6"
 group :jekyll_plugins do
   gem 'jekyll-sitemap'
   gem 'jekyll-redirect-from'
+  gem 'jekyll-include-cache'
 end
 
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem

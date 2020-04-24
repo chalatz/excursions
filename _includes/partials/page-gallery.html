@@ -1,12 +1,10 @@
 <section class="page__gallery">
 
-
     {%- if include.the_gallery -%}
         {%- assign the_gallery = include.the_gallery -%}
     {%- else -%}
         {%- assign the_gallery = page.gallery -%}
     {%- endif -%}
-
 
     {%- for item in the_gallery.items -%}
         {%- if the_gallery.items_per_row == 4 -%}
