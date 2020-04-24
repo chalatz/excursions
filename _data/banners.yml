@@ -2,7 +2,7 @@ items:
   - image:
       path: /img/home/banners/rick_steves_logo.png
       alt: Rick Steves Rhodes Greece, Rick Steves Excursions
-    url: '#'
+    url: '/rick-steves/'
   - image:
       path: /img/home/banners/rpt_hall_of_fame_2019.png
       alt: Rhodes Shore Excursions, Rhodes Private Tours Greece, Private Excursions

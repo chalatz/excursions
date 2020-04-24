@@ -1,7 +1,7 @@
 <section class="section section--home">
     <div class="container">
         <div class="home__banners">
-            {%- for banner in site.data.home_banners.items -%}
+            {%- for banner in site.data.banners.items -%}
                 <div class="home__banner">
                     <a href="{{- banner.url | relative_url -}}" class="home__banner-link">
                         <img src="{{ banner.image.path | relative_url }}" alt="{{- banner.image.alt -}}" class="home__banner-img">

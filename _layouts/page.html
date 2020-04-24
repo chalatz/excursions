@@ -52,12 +52,26 @@ layout: default
 
       {{ content }}
 
+      {%- if page.gallery -%}
+        {%- assign page_gallery_size = page.gallery.size | size -%}
+        {%- if page_gallery_size > 0 -%}
+          {%- include partials/page-gallery.html the_gallery= page.gallery -%}
+        {%- endif -%}
+      {%- endif -%}
+
+      {%- if page.footer and page.footer.text.size > 0 -%}
+        <div class="page__footer{% if page.footer.centered == true %} centered{% endif %}">
+          {{ page.footer.text | markdownify }}
+        </div>
+      {%- endif -%}
+
       {%- if page.outro and page.outro.size > 0 -%}
         <h3>
           {{- page.outro -}}
         </h3>
       {%- endif -%}
     </div>
+
     
   </div>
 

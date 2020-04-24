@@ -13,16 +13,20 @@
         {%- if the_gallery.items_per_row == 4 and modulo_two == 1 -%}
             <div class="page__gallery-wrapper-of-two">            
         {%- endif -%}
-                <figure class="page__gallery-item page__gallery-item--{{ forloop.index }} page__gallery-item--{{ forloop.index }}-of-{{ the_gallery.items_per_row }} page__gallery-item--of-{{ the_gallery.items_per_row }}{% if forloop.first %} page__gallery-item--first first{% else %} page__gallery-item--following{% endif %}">
+            <figure class="page__gallery-item page__gallery-item--{{ forloop.index }} page__gallery-item--{{ forloop.index }}-of-{{ the_gallery.items_per_row }} page__gallery-item--of-{{ the_gallery.items_per_row }}{% if forloop.first %} page__gallery-item--first first{% else %} page__gallery-item--following{% endif %}">
+                {%- if item.image.href and item.image.href.size > 0 -%}
                     <a class="page__gallery-item-link" href="{{- item.image.href | relative_url -}}" data-fancybox="page-gallery" data-caption="{{- item.caption | escape -}}">
                         <img class="page__gallery-item-img" src="{{- item.image.thumb | relative_url -}}" alt="{{- item.image.alt -}}">
                     </a>
-                    {%- if item.caption and item.caption.size > 0 -%}
-                        <figcaption class="page__gallery-item-caption">
-                            {{- item.caption -}}
-                        </figcaption>
-                    {%- endif -%}
-                </figure>
+                {%- else -%}
+                    <img class="page__gallery-item-img page__gallery-item-img--no-link" src="{{- item.image.thumb | relative_url -}}" alt="{{- item.image.alt -}}">                   
+                {%- endif -%}
+                {%- if item.caption and item.caption.size > 0 -%}
+                    <figcaption class="page__gallery-item-caption">
+                        {{- item.caption -}}
+                    </figcaption>
+                {%- endif -%}
+            </figure>
         {%- if the_gallery.items_per_row == 4 and modulo_two == 0 -%}
             </div>
         {%- endif -%}
