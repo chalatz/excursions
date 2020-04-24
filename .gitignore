@@ -5,3 +5,4 @@ vendor
 .jekyll-metadata
 node_modules
 dist
+Gemfile.lock
