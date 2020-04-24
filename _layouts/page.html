@@ -64,11 +64,11 @@ layout: default
 </article>
 
 {%- if page.has_destinations == true -%}
-  {%- include_cached partials/destinations.html -%}
+  {%- include partials/destinations.html -%}
 {%- endif -%}
 
 {%- if page.has_banners == true -%}
-  {%- include partials/banners.html -%}
+  {%- include_cached partials/banners.html -%}
 {%- elsif page.has_banners == false and page.has_destinations == true -%}
   <div class="separator"></div>
 {%- endif -%}
