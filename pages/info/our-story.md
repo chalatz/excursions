@@ -31,7 +31,7 @@ profile:
   image:
     image: /img/pages/about/nicholas.jpg
     alt_text: Nicholas - Rhodes Private Day Tours
-gallery:
+about_gallery:
   items_per_row: 5
   items:
   - image:

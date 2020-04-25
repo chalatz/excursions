@@ -1,5 +1,5 @@
 ---
-layout: groups
+layout: page
 type: info_page
 id: groups
 permalink: /rhodes-groups-excursions/
