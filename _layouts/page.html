@@ -2,6 +2,11 @@
 layout: default
 ---
 {%- if page.head_photo and page.head_photo.img.size > 0 -%}
+  {%- assign has_head_photo = true -%}
+{%- else -%}
+  {%- assign has_head_photo = false -%}
+{%- endif -%}
+{%- if has_head_photo == true -%}
     <section class="head-photo head-photo--page head-photo--{{ page.type }}">
         {%- if page.head_photo.mobile and page.head_photo.mobile.size > 0 -%} 
           <picture>
@@ -25,7 +30,7 @@ layout: default
     {%- endif -%}
 
     {%- if page.title.size > 0 or page.subtitle.size > 0 -%}
-      <div class="page__header">
+      <div class="page__header{% if has_head_photo == false %} page__header--no-head-photo{% endif %}">
 
         {%- if page.title and page.title.size > 0 -%}
           <h1 class="page__title{% if has_subtitle == false %} page__title--no-subtitle{% endif %}">
