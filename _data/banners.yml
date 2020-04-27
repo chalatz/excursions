@@ -6,7 +6,7 @@ items:
   - image:
       path: /img/home/banners/rpt_hall_of_fame_2019.png
       alt: Rhodes Shore Excursions, Rhodes Private Tours Greece, Private Excursions
-    url: '#'
+    url: '/reviews-tripadvisor/'
   - image:
       path: /img/home/banners/thirty_years_experience_small.png
       alt: Rhodes Private Shore Excursions
