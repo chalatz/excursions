@@ -4,7 +4,7 @@ type: info_page
 id: rick_steves
 permalink: /rick-steves/
 redirect_from: rick_steves.htm
-has_gallery: false
+has_gallery: true
 has_destinations: false
 has_banners: false
 meta:
@@ -24,18 +24,22 @@ gallery:
   items:
     - image:
         thumb: /img/pages/rick-steves/rick_steves_1.jpg
+        href: /img/pages/rick-steves/rick_steves_1.jpg
         alt: Nicholas and Rick Steves on Rhodes Island Greece
       caption: Nicholas and Rick Steves on Rhodes island
     - image:
         thumb: /img/pages/rick-steves/rick_steves_2.jpg
+        href: /img/pages/rick-steves/rick_steves_2.jpg
         alt: Nicholas with Rick Steves' crew in Rhodes Greece
       caption: Nicholas with Rick Steves' crew, watching what they'd filmed
     - image:
         thumb: /img/pages/rick-steves/rick_steves_3.jpg
+        href: /img/pages/rick-steves/rick_steves_3.jpg
         alt: Rick Steves in Rhodes Greece
       caption: It was a very busy and productive day... Thank you, Rick, for showing Rhodes on your program. It was a pleasure working with you!
     - image:
         thumb: /img/pages/rick-steves/rick_steves_4.jpg
+        href: /img/pages/rick-steves/rick_steves_4.jpg
         alt: Rick Steves' New Episode about Rhodes Greece
       caption: Rick Steves' New Episode
 footer:
