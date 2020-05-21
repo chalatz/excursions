@@ -1,0 +1,66 @@
+---
+layout: default
+---
+
+<div class="page__header tour__header">
+    <div class="container">
+        <h1 class="page__title tour__title">
+            “{{- page.title -}}”
+        </h1>
+        <div class="page__intro tour__intro">
+            {{ page.intro | markdownify }}
+        </div>
+    </div>
+</div>
+
+<article class="page{% if page.type and page.type.size > 0 %} {{ page.type }}{% endif %}">
+
+    <div class="container">
+    
+        <div class="page__content tour__content">
+        
+            <ul class="tour__section_titles">
+                {%- for section in page.sections -%}
+                    <li class="tour__section_title">
+                        <a href="#{{- section.title | slugify -}}" class="tour__section_anchor">
+                            {{- section.title -}}
+                        </a>
+                    </li>
+                {%- endfor -%}
+            </ul>
+
+            <div class="tour__sections">
+                <section class="tour_section tour__section--itinerary">
+                    <h2 class="tour__section-header">
+                        {{- page.itinerary.title -}}
+                    </h2>
+
+                    <div class="tour__section-headings">
+                        <h3 class="tour__section-heading">
+                            {{- page.itinerary.heading -}}
+                        </h3>
+                        {%- if page.itinerary.description and page.itinerary.description.size > 0 -%}
+                            <p class="tour__section-description">
+                                {{- page.itinerary.description -}}
+                            </p>
+                        {%- endif -%}
+                        <div class="tour__section-content">
+                            {{ content }}
+                        </div>
+                    
+                    </div>
+
+                </section>
+
+            </div>
+
+        </div>
+
+        <aside class="tour__aside">
+            Aside content
+        </aside>
+
+    </div>
+
+
+</article>

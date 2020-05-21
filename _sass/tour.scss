@@ -1,0 +1,29 @@
+.tour {
+
+    @include clearfix;
+
+    &__header {
+        background-color: $gray;
+        padding: 1.5rem;
+    }
+
+    &__intro {
+        font-size: 1.2rem;
+        line-height: 1.6;
+    }
+
+    &__section_titles {
+        display: none;
+        list-style: none;
+        padding: 0;
+    }
+
+    &__section_title {
+        display: inline-block;
+    }
+
+    &__section_anchor {
+        text-decoration: none;
+    }
+
+}
