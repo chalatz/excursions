@@ -27,9 +27,17 @@ layout: default
                         </a>
                     </li>
                 {%- endif -%}
+                {%- if page.route_map and page.route_map.title.size > 0 -%}
+                    <li class="tour__section_title">
+                        <a href="#route-map" class="tour__section_anchor">
+                            {{- page.route_map.title -}}
+                        </a>
+                    </li>
+                {%- endif -%}
             </ul>
 
             <div class="tour__sections">
+
                 <section class="tour_section tour__section--itinerary" id="itinerary">
                     <h2 class="tour__section-header">
                         {{- page.itinerary.title -}}
@@ -53,10 +61,30 @@ layout: default
                     <div class="tour__section-details">
                         {{ page.itinerary.details | markdownify }}
                     </div>
+                </section>
+
+                <div class="tour__section-separator"></div>
+
+                <section class="tour_section tour__section--route-map" id="route-map">
+                    <h2 class="tour__section-header">
+                        {{- page.route_map.title -}}
+                    </h2>
+
+                    <div class="tour__section-headings">            
+                        <p class="tour__section-description centered">
+                            {{- page.route_map.description -}}
+                        </p>
+                    </div>
+
+                    <div class="tour__section-content">
+                        <div class="tour__section-route-map-wrapper">
+                            <img src="{{- page.route_map.map.path | relative_url -}}" alt="page.route_map.map.alt" class="tour__section-route-map-img">
+                        </div>
+                    </div>
 
                 </section>
 
-            </div>
+            </div> {%- comment -%} tour__sections {%- endcomment -%}
 
         </div>
 

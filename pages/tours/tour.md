@@ -36,6 +36,12 @@ itinerary:
     **(Stop Pictures)** = Stop and get out of the car for pictures from outside of the Sight/building
 
     **(Stop Visit Pictures)** = Stop and visit - go inside the sight/building for pictures
+route_map:
+  title: Route Map
+  description: Roundtrip Approximately 120km / 74,5miles
+  map:
+    path: /img/tours/best-rhodes/best_rhodes_greece_route_map_new.jpg
+    alt: 'BEST RHODES SHORE EXCURSION - Route map'
 ---
 ### RHODES MEDIEVAL CITY
 
