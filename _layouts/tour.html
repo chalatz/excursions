@@ -20,17 +20,17 @@ layout: default
         <div class="page__content tour__content">
         
             <ul class="tour__section_titles">
-                {%- for section in page.sections -%}
+                {%- if page.itinerary and page.itinerary.title.size > 0 -%}
                     <li class="tour__section_title">
-                        <a href="#{{- section.title | slugify -}}" class="tour__section_anchor">
-                            {{- section.title -}}
+                        <a href="#itinerary" class="tour__section_anchor">
+                            {{- page.itinerary.title -}}
                         </a>
                     </li>
-                {%- endfor -%}
+                {%- endif -%}
             </ul>
 
             <div class="tour__sections">
-                <section class="tour_section tour__section--itinerary">
+                <section class="tour_section tour__section--itinerary" id="itinerary">
                     <h2 class="tour__section-header">
                         {{- page.itinerary.title -}}
                     </h2>
@@ -44,10 +44,14 @@ layout: default
                                 {{- page.itinerary.description -}}
                             </p>
                         {%- endif -%}
-                        <div class="tour__section-content">
-                            {{ content }}
-                        </div>
-                    
+                    </div>
+
+                    <div class="tour__section-content">
+                        {{ content }}
+                    </div>
+
+                    <div class="tour__section-details">
+                        {{ page.itinerary.details | markdownify }}
                     </div>
 
                 </section>

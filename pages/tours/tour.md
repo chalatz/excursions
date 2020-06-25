@@ -29,7 +29,7 @@ itinerary:
 
     **Departure Time:** Depend on your cruise ship dock time. If the ship arrives late into port, we'll adjust our schedules, and the rental time will start from the moment you meet your driver.
 
-    **Starting Point:** We meet at the pier/dock. **(or anywhere else)
+    **Starting Point:** We meet at the pier/dock. (or anywhere else)
 
     **Excursion Extensions:** You may extend this excursion and add lunch time at a seaside village at the Mediterranean Sea right on the water's edge (scenic) with fresh seafood, Rhodian cuisine and excellent local wines. Or just extend it for a swim (June - September) at a sandy established beach with facilities for changing clothes.
 
