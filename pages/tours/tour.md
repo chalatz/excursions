@@ -2,8 +2,8 @@
 layout: tour
 type: tour
 id: test_tour
-permalink: /tour/
-# redirect_from: rhodes_cuisine_greece.htm
+permalink: /best-rhodes-greece/
+redirect_from: best_rhodes_greece.htm
 has_gallery: true
 has_destinations: true
 has_banners: true
