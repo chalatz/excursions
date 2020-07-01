@@ -13,28 +13,31 @@ layout: default
     </div>
 </div>
 
+<div class="container tour__nav">
+    <ul class="tour__nav-titles">
+        {%- if page.itinerary and page.itinerary.title.size > 0 -%}
+            <li class="tour__nav-title">
+                <a href="#itinerary" class="tour__nav-anchor">
+                    {{- page.itinerary.title -}}
+                </a>
+            </li>
+        {%- endif -%}
+        {%- if page.route_map and page.route_map.title.size > 0 -%}
+            <li class="tour__nav-title">
+                <a href="#route-map" class="tour__nav-anchor">
+                    {{- page.route_map.title -}}
+                </a>
+            </li>
+        {%- endif -%}
+    </ul>
+</div>
+
 <article class="page{% if page.type and page.type.size > 0 %} {{ page.type }}{% endif %}">
 
     <div class="container">
     
         <div class="page__content tour__content">
         
-            <ul class="tour__section_titles">
-                {%- if page.itinerary and page.itinerary.title.size > 0 -%}
-                    <li class="tour__section_title">
-                        <a href="#itinerary" class="tour__section_anchor">
-                            {{- page.itinerary.title -}}
-                        </a>
-                    </li>
-                {%- endif -%}
-                {%- if page.route_map and page.route_map.title.size > 0 -%}
-                    <li class="tour__section_title">
-                        <a href="#route-map" class="tour__section_anchor">
-                            {{- page.route_map.title -}}
-                        </a>
-                    </li>
-                {%- endif -%}
-            </ul>
 
             <div class="tour__sections">
 

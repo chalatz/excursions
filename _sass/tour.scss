@@ -12,40 +12,38 @@
         line-height: 1.6;
     }
 
-    &__section_titles {
-        display: none;
+    &__nav {
+        position: sticky;
+        top: 52px;
+        background-color: $darkblue;
+    }
+
+    &__nav-titles {
         list-style: none;
         padding: 0;
-        @include breakpoint(medium) {
-            display: block;
+        font-size: 1.2rem;
+        margin: 0;
+        .tour__nav-title {
+            border-right: 1px solid $yellow;
+            display: inline-block;
         }
-    }
-
-    .tour__section_title {
-        margin-right: 1px;
-    }
-
-    .tour__section_anchor {
-        &:visited,
-        &:active {
+        .tour__nav-anchor {
+            &:visited,
+            &:active {
+                color: #fff;
+            }
+            background-color: $darkblue;
             color: #fff;
+            display: block;
+            padding: 8px 12px;
+            text-decoration: none;
+            &:hover {
+                color: $yellow;
+            }
+            &.active {
+                color: $yellow;
+            }
         }
-        background-color: $darkblue;
-        color: #fff;
-        display: block;
-        padding: 8px 12px;
-        &:hover {
-            color: $yellow;
-        }
-    }
-
-
-    &__section_title {
-        display: inline-block;
-    }
-
-    &__section_anchor {
-        text-decoration: none;
     }
 
     &__section-details {

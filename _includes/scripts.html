@@ -39,4 +39,14 @@
     </script>
 {%- endif -%}
 
+{%- if page.layout == 'tour' -%}
+    {%- include libs/scrollnav.html -%}
+    <script>
+        new ScrollMenu('a.tour__nav-anchor',{
+            activeOffset: 125,
+            scrollOffset: 110
+        });
+    </script>
+{%- endif -%}
+
 <script src="{{- '/js/scripts.js' | relative_url -}}"></script>
