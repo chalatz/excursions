@@ -11,6 +11,12 @@
     &-item {
         &--of-5 {
             display: none;
+            &.show-on-mobile {
+                display: block;
+                @include breakpoint(medium) {
+                    display: inline-block;
+                }
+            }
             &.first {
                 display: block;
                 @include breakpoint(medium) {

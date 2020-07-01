@@ -33,6 +33,7 @@ profile:
     alt_text: Nicholas - Rhodes Private Day Tours
 gallery:
   items_per_row: 5
+  show_on_mobile: true
   items:
   - image:
       thumb: "/img/pages/about/1-thumb.jpg"
