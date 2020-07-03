@@ -77,6 +77,24 @@
         }
     }
 
+    &__section-content {
+        ol {
+            // list-style: none;
+            // counter-reset: tour-content-ol-counter;
+            // padding: 0;
+            li {
+                &::marker {
+                    font-weight: bold;
+                }
+                // counter-increment: tour-content-ol-counter;
+                // &::marker {
+                //     content: counter(tour-content-ol-counter) ". ";
+                //     font-weight: bold;
+                // }
+            }
+        }
+    }
+
     &__section-details {
         font-style: oblique;
         line-height: 1.4;

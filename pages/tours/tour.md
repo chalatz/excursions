@@ -46,13 +46,13 @@ route_map:
 useful:
   title: Useful Info
   text: |-
-    1. Entrance Fees Acropolis of Lindos 12 Euros per person, Seniors 6 Euros per person, Children under 18 years old free, No charge to enter Lindos village.
-    2. To reach the Acropolis of Lindos you will be required to climb 292 steps, or ride on a donkey. The donkey does not eliminate all the steps, there are over 80 to go when you get off the donkey. The donkeys go by a slightly different path so the stairs, and the soles of your shoes, will be quite clean if you wish to walk up. The risers of the stairs are 5-7 inches and the treads 18-24 inches. No handrail on either side.
-    3. If you have elderly people in your group, we can drive them down on the beautiful beach of Lindos have a drink and a nice discuss with the driver and enjoy the panoramic view while they are waiting for you to climb up the Acropolis of Lindos.
-    4. If you have kids in your group the "**Best of Rhodes Shore Excursion**" it is also an Educational and Entertainment Excursion, and of course they will love the donkey ride up to the Acropolis of Lindos!!
-    5. You may prefer to use ATM machines when you need cash. ATMs are everywhere.
-    6. Rhodes known for [Traditional Appetizers](http://rhodesshoreexcursions.com/rhodes_cuisine_greece.htm), desserts, [Wines](http://rhodesshoreexcursions.com/wine_tours_greece.htm), the famous handmade [Rhodes Pottery - Ceramics](http://rhodesshoreexcursions.com/greek_pottery.htm) and the beautiful [Rhodes Beaches](http://rhodesshoreexcursions.com/rhodes_beaches.htm).
-    7. More info in [Rhodes Private Tours](http://rhodesshoreexcursions.com/rhodes_private_tours.htm) F.A.Q.
+    1. Entrance Fees Acropolis of Lindos 12 Euros per person, Seniors 6 Euros per person, Children under 18 years old free, No charge to enter Lindos village.
+    2. To reach the Acropolis of Lindos you will be required to climb 292 steps, or ride on a donkey. The donkey does not eliminate all the steps, there are over 80 to go when you get off the donkey. The donkeys go by a slightly different path so the stairs, and the soles of your shoes, will be quite clean if you wish to walk up. The risers of the stairs are 5-7 inches and the treads 18-24 inches. No handrail on either side.
+    3. If you have elderly people in your group, we can drive them down on the beautiful beach of Lindos have a drink and a nice discuss with the driver and enjoy the panoramic view while they are waiting for you to climb up the Acropolis of Lindos.
+    4. If you have kids in your group the "**Best of Rhodes Shore Excursion**" it is also an Educational and Entertainment Excursion, and of course they will love the donkey ride up to the Acropolis of Lindos!!
+    5. You may prefer to use ATM machines when you need cash. ATMs are everywhere.
+    6. Rhodes known for [Traditional Appetizers](http://rhodesshoreexcursions.com/rhodes_cuisine_greece.htm), desserts, [Wines](http://rhodesshoreexcursions.com/wine_tours_greece.htm), the famous handmade [Rhodes Pottery - Ceramics](http://rhodesshoreexcursions.com/greek_pottery.htm) and the beautiful [Rhodes Beaches](http://rhodesshoreexcursions.com/rhodes_beaches.htm).
+    7. More info in [Rhodes Private Tours](http://rhodesshoreexcursions.com/rhodes_private_tours.htm) F.A.Q.
 
 inclusions:
   title: Inclusions

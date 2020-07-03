@@ -106,6 +106,9 @@ layout: default
                     <h2 class="tour__section-header">
                         {{- page.useful.title -}}
                     </h2>
+                    <div class="tour__section-content">
+                        {{ page.useful.text | markdownify }}
+                    </div>
                 </section>
                 
                 <div class="tour__section-separator"></div>
