@@ -1,0 +1,26 @@
+.form {
+
+    &__group {
+        margin-bottom: 1rem;
+    }
+
+    &__label {
+        display: block;
+        margin-bottom: 0.4rem;
+    }
+
+    &__input {
+        &--text {
+            display: block;
+            width: 100%;
+            padding: .5rem .8rem;
+            border: 3px solid $yellow;
+            transition: box-shadow .2s linear;
+            &:focus {
+                box-shadow: 0 0 5px $yellow;
+                outline: none;
+            }
+        }
+    }
+
+}

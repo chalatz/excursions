@@ -47,100 +47,118 @@ layout: default
 
 <article class="page{% if page.type and page.type.size > 0 %} {{ page.type }}{% endif %}">
 
-    <div class="container">
     
-        <div class="page__content tour__content">
-        
+        <div class="page__content tour__content">        
 
             <div class="tour__sections">
 
-                <section class="tour_section tour__section--itinerary" id="itinerary">
-                    <h2 class="tour__section-header">
-                        {{- page.itinerary.title -}}
-                    </h2>
+                <section class="tour__section tour__section--itinerary" id="itinerary">
+                    <div class="container">
+                        <h2 class="tour__section-header">
+                            {{- page.itinerary.title -}}
+                        </h2>
 
-                    <div class="tour__section-headings">
-                        <h3 class="tour__section-heading">
-                            {{- page.itinerary.heading -}}
-                        </h3>
-                        {%- if page.itinerary.description and page.itinerary.description.size > 0 -%}
-                            <p class="tour__section-description">
-                                {{- page.itinerary.description -}}
-                            </p>
-                        {%- endif -%}
-                    </div>
+                        <div class="tour__section-headings">
+                            <h3 class="tour__section-heading">
+                                {{- page.itinerary.heading -}}
+                            </h3>
+                            {%- if page.itinerary.description and page.itinerary.description.size > 0 -%}
+                                <p class="tour__section-description">
+                                    {{- page.itinerary.description -}}
+                                </p>
+                            {%- endif -%}
+                        </div>
 
-                    <div class="tour__section-content">
-                        {{ content }}
-                    </div>
+                        <div class="tour__section-content">
+                            {{ content }}
+                        </div>
 
-                    <div class="tour__section-details">
-                        {{ page.itinerary.details | markdownify }}
-                    </div>
-                </section>
-
-                <div class="tour__section-separator"></div>
-
-                <section class="tour_section tour__section--route-map" id="route-map">
-                    <h2 class="tour__section-header">
-                        {{- page.route_map.title -}}
-                    </h2>
-
-                    <div class="tour__section-headings">            
-                        <p class="tour__section-description centered">
-                            {{- page.route_map.description -}}
-                        </p>
-                    </div>
-
-                    <div class="tour__section-content">
-                        <div class="tour__section-route-map-wrapper">
-                            <img src="{{- page.route_map.map.path | relative_url -}}" alt="page.route_map.map.alt" class="tour__section-route-map-img">
+                        <div class="tour__section-details">
+                            {{ page.itinerary.details | markdownify }}
                         </div>
                     </div>
-
                 </section>
 
                 <div class="tour__section-separator"></div>
 
-                <section class="tour_section tour__section--useful" id="useful-info">
-                    <h2 class="tour__section-header">
-                        {{- page.useful.title -}}
-                    </h2>
-                    <div class="tour__section-content">
-                        {{ page.useful.text | markdownify }}
+                <section class="tour__section tour__section--route-map" id="route-map">
+                    <div class="container">
+                        <h2 class="tour__section-header">
+                            {{- page.route_map.title -}}
+                        </h2>
+
+                        <div class="tour__section-headings">            
+                            <p class="tour__section-description centered">
+                                {{- page.route_map.description -}}
+                            </p>
+                        </div>
+
+                        <div class="tour__section-content">
+                            <div class="tour__section-route-map-wrapper">
+                                <img src="{{- page.route_map.map.path | relative_url -}}" alt="page.route_map.map.alt" class="tour__section-route-map-img">
+                            </div>
+                        </div>
+                    </div>
+                </section>
+
+                <div class="tour__section-separator"></div>
+
+                <section class="tour__section tour__section--useful" id="useful-info">
+                    <div class="container">
+                        <h2 class="tour__section-header">
+                            {{- page.useful.title -}}
+                        </h2>
+                        <div class="tour__section-content">
+                            {{ page.useful.text | markdownify }}
+                        </div>
                     </div>
                 </section>
                 
                 <div class="tour__section-separator"></div>
 
-                <section class="tour_section tour__section--inclusions" id="inclusions">
-                    <h2 class="tour__section-header">
-                        {{- page.inclusions.title -}}
-                    </h2>
-                    <div class="tour__section-content">
-                        {%- for item in page.inclusions.items -%}
-                            <div class="tour__inclusion-item">
-                                <span class="tour__inclusion-item-icon">
-                                    {%- if item.included == true -%}
-                                        {%- include svg/done.html -%}
-                                    {%- elsif item.included == false -%}
-                                        {%- include svg/clear.html -%}
-                                    {%- endif -%}
-                                </span>
-                                <span class="tour__inclusion-item-desc">
-                                    {{- item.desc -}}
-                                </span>
-                            </div>
-                        {%- endfor -%}
+                <section class="tour__section tour__section--inclusions" id="inclusions">
+                    <div class="container">
+                        <h2 class="tour__section-header">
+                            {{- page.inclusions.title -}}
+                        </h2>
+                        <div class="tour__section-content">
+                            {%- for item in page.inclusions.included -%}
+                                <div class="tour__inclusion-item">
+                                    <span class="tour__inclusion-item-icon">
+                                        {%- include svg/done.html -%}                                    
+                                    </span>
+                                    <span class="tour__inclusion-item-desc">
+                                        {{- item -}}
+                                    </span>
+                                </div>
+                            {%- endfor -%}
+                            {%- assign not_included_size = page.inclusions.not_included | size -%}
+                            {%- if not_included_size > 0 -%}
+                                {%- for item in page.inclusions.not_included -%}
+                                    <div class="tour__inclusion-item">
+                                        <span class="tour__inclusion-item-icon">
+                                            {%- include svg/clear.html -%}                                    
+                                        </span>
+                                        <span class="tour__inclusion-item-desc tour__inclusion-item-desc--not-included">
+                                            {{- item -}}
+                                        </span>
+                                    </div>
+                                {%- endfor -%}                            
+                            {%- endif -%}
+                        </div>
                     </div>
                 </section>
 
+                {%- include partials/tour-form.html -%}
+
                 <div class="tour__section-separator"></div>
 
-                <section class="tour_section tour__section--gallery" id="gallery">
-                    <h2 class="tour__section-header">
-                        {{- page.gallery.title -}}
-                    </h2>
+                <section class="tour__section tour__section--gallery" id="gallery">
+                    <div class="container">
+                        <h2 class="tour__section-header">
+                            {{- page.gallery.title -}}
+                        </h2>
+                    </div>
                 </section>
 
             </div> {%- comment -%} tour__sections {%- endcomment -%}
@@ -151,7 +169,6 @@ layout: default
             Aside content
         </aside>
 
-    </div>
 
 
 </article>

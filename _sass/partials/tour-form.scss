@@ -1,0 +1,26 @@
+.tour-form {
+
+    margin: 2rem auto;
+
+    &__header {
+        background-color: $gray;
+        padding: 1.5rem 0;
+        text-align: center;
+    }
+    
+    &__form-wrapper {
+        padding: 1.5rem 0;
+        background-color: $darkblue;
+        color: #fff;
+    }
+
+    &__form-header {
+        text-align: center;
+    }
+
+    &__form {
+        margin: 1.5rem auto;
+        max-width: 600px;
+    }
+
+}
