@@ -16,6 +16,13 @@
         position: sticky;
         top: 52px;
         background-color: $darkblue;
+        margin-top: -1rem;
+        @include breakpoint(large) {
+            top: 46px;            
+        }
+        @include breakpoint(semi_large) {
+            top: 48px;            
+        }
     }
 
     &__nav-titles {
@@ -23,9 +30,10 @@
         padding: 0;
         font-size: 1.2rem;
         margin: 0;
+        @include clearfix;
         .tour__nav-title {
             border-right: 1px solid $yellow;
-            display: inline-block;
+            float: left;
         }
         .tour__nav-anchor {
             &:visited,
@@ -35,13 +43,36 @@
             background-color: $darkblue;
             color: #fff;
             display: block;
-            padding: 8px 12px;
+            padding: 8px 4px;
             text-decoration: none;
+            min-height: 62px;
+            .space {
+                display: block;
+            }
             &:hover {
                 color: $yellow;
             }
             &.active {
                 color: $yellow;
+            }
+            @include breakpoint(smaller) {
+                padding: 8px 6px;
+            }
+            @include breakpoint(small) {
+                padding: 8px 16px;
+            }
+            @include breakpoint(smallish) {
+                min-height: auto;
+                padding: 8px 6px;                
+                .space {
+                    display: inline;
+                }
+            }
+            @include breakpoint(medium) {
+                padding: 8px 12px;                
+            }
+            &--first {
+                padding-left: 0;
             }
         }
     }

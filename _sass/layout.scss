@@ -3,6 +3,10 @@ html,
     box-sizing: border-box;
 }
 
+.row {
+    @include clearfix;
+}
+
 .container {
     max-width: 1140px;
     margin-left: auto;

@@ -13,23 +13,36 @@ layout: default
     </div>
 </div>
 
-<div class="container tour__nav">
-    <ul class="tour__nav-titles">
-        {%- if page.itinerary and page.itinerary.title.size > 0 -%}
+<div class="tour__nav">
+    <div class="container">
+        <ul class="tour__nav-titles">
             <li class="tour__nav-title">
-                <a href="#itinerary" class="tour__nav-anchor">
-                    {{- page.itinerary.title -}}
+                <a href="#itinerary" class="tour__nav-anchor tour__nav-anchor--first">
+                    Excursion<span class="space"> </span>Itinerary
                 </a>
             </li>
-        {%- endif -%}
-        {%- if page.route_map and page.route_map.title.size > 0 -%}
             <li class="tour__nav-title">
                 <a href="#route-map" class="tour__nav-anchor">
-                    {{- page.route_map.title -}}
+                    Route<span class="space"> </span>Map
                 </a>
             </li>
-        {%- endif -%}
-    </ul>
+            <li class="tour__nav-title">
+                <a href="#useful-info" class="tour__nav-anchor">
+                    Useful<span class="space"> </span>Info
+                </a>
+            </li>
+            <li class="tour__nav-title">
+                <a href="#inclusions" class="tour__nav-anchor">
+                    Inclusions
+                </a>
+            </li>
+            <li class="tour__nav-title">
+                <a href="#gallery" class="tour__nav-anchor">
+                    Gallery
+                </a>
+            </li>
+        </ul>
+    </div>
 </div>
 
 <article class="page{% if page.type and page.type.size > 0 %} {{ page.type }}{% endif %}">
@@ -85,6 +98,29 @@ layout: default
                         </div>
                     </div>
 
+                </section>
+
+                <div class="tour__section-separator"></div>
+
+                <section class="tour_section tour__section--useful" id="useful-info">
+                    <h2 class="tour__section-header">
+                        {{- page.useful.title -}}
+                    </h2>
+                </section>
+                
+                <div class="tour__section-separator"></div>
+
+                <section class="tour_section tour__section--inclusions" id="inclusions">
+                    <h2 class="tour__section-header">
+                        {{- page.inclusions.title -}}
+                    </h2>
+                </section>
+
+                <div class="tour__section-separator"></div>
+                <section class="tour_section tour__section--gallery" id="gallery">
+                    <h2 class="tour__section-header">
+                        {{- page.gallery.title -}}
+                    </h2>
                 </section>
 
             </div> {%- comment -%} tour__sections {%- endcomment -%}
