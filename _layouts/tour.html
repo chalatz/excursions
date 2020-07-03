@@ -117,9 +117,26 @@ layout: default
                     <h2 class="tour__section-header">
                         {{- page.inclusions.title -}}
                     </h2>
+                    <div class="tour__section-content">
+                        {%- for item in page.inclusions.items -%}
+                            <div class="tour__inclusion-item">
+                                <span class="tour__inclusion-item-icon">
+                                    {%- if item.included == true -%}
+                                        {%- include svg/done.html -%}
+                                    {%- elsif item.included == false -%}
+                                        {%- include svg/clear.html -%}
+                                    {%- endif -%}
+                                </span>
+                                <span class="tour__inclusion-item-desc">
+                                    {{- item.desc -}}
+                                </span>
+                            </div>
+                        {%- endfor -%}
+                    </div>
                 </section>
 
                 <div class="tour__section-separator"></div>
+
                 <section class="tour_section tour__section--gallery" id="gallery">
                     <h2 class="tour__section-header">
                         {{- page.gallery.title -}}

@@ -51,12 +51,29 @@ useful:
     3. If you have elderly people in your group, we can drive them down on the beautiful beach of Lindos have a drink and a nice discuss with the driver and enjoy the panoramic view while they are waiting for you to climb up the Acropolis of Lindos.
     4. If you have kids in your group the "**Best of Rhodes Shore Excursion**" it is also an Educational and Entertainment Excursion, and of course they will love the donkey ride up to the Acropolis of Lindos!!
     5. You may prefer to use ATM machines when you need cash. ATMs are everywhere.
-    6. Rhodes known for [Traditional Appetizers](http://rhodesshoreexcursions.com/rhodes_cuisine_greece.htm), desserts, [Wines](http://rhodesshoreexcursions.com/wine_tours_greece.htm), the famous handmade [Rhodes Pottery - Ceramics](http://rhodesshoreexcursions.com/greek_pottery.htm) and the beautiful [Rhodes Beaches](http://rhodesshoreexcursions.com/rhodes_beaches.htm).
-    7. More info in [Rhodes Private Tours](http://rhodesshoreexcursions.com/rhodes_private_tours.htm) F.A.Q.
+    6. Rhodes known for [Traditional Appetizers](/rhodes-cuisine-greece/), desserts, [Wines](/wine-tours/greece/), the famous handmade [Rhodes Pottery - Ceramics]/greek/pottery/) and the beautiful [Rhodes Beaches](rhodes/beaches/).
+    7. More info in [Rhodes Private Tours](/rhodes_private_tours/) F.A.Q.
 
 inclusions:
   title: Inclusions
-  
+  items:
+    - desc: Private Shore Excursion (Just your party)
+      included: true
+    - desc: Free Pick up and Drop off at the Cruise Port (or anywhere else)
+      included: true
+    - desc: Experienced knowledgeable Tour/Driver English Speaking
+      included: true
+    - desc: Mercedes Benz Sedan Car (4 passengers plus the driver) (bigger group or more room?)
+      included: true
+    - desc: All Car and Driver Expenses (prices are per car not per person)
+      included: true
+    - desc: No Stress - Back to the Ship on Time - If you are a Cruise Ship Passengers
+      included: true
+    - desc: Personalized Customer Service
+      included: true
+    - desc: Entrance Fee Acropolis of Lindos 12 Euro per person (Optional Visit), Food, Drinks, Gratuities (Optional)
+      included: false
+
 gallery:
   title: Gallery  
 ---
@@ -70,13 +87,10 @@ We continue out of the Medieval City to the **"New Town"**. Here we will see:
 
 The historical buildings where the Venetian, Gothic and Oriental elements blend:
 
-- The **City Hall**, the **Administration building** or **Governor's Palace** a Venetian Gothic and Renaissance style with details of the Doges' Palace in Venice (today the offices of the Prefecture of the Dodecanese), The **National Theatre of Rhodes**, and the **"Hotel of the Roses" **(today the Casino of Rhodes).
-
-- The **Old Harbor**, where according to tradition, the **Colossus of Rhodes, one of the Seven Wonders of the Ancient World**, once stood (two bronze deer statues mark the site). (Stop Visit Photos)
-
-- The **Church of the Annunciation (Evangelismos)**, an example of Medieval Catholic design with amazing wall paintings and impressive chandeliers, that today is the Orthodox town's cathedral. (Stop Visit Photos)
-
-- The **North Point of the island** where the East Coast's Mediterranean Sea, and the West Coast's Aegean Sea meet.
+- The **City Hall**, the **Administration building** or **Governor's Palace** a Venetian Gothic and Renaissance style with details of the Doges' Palace in Venice (today the offices of the Prefecture of the Dodecanese), The **National Theatre of Rhodes**, and the **"Hotel of the Roses" **(today the Casino of Rhodes).
+- The **Old Harbor**, where according to tradition, the **Colossus of Rhodes, one of the Seven Wonders of the Ancient World**, once stood (two bronze deer statues mark the site). (Stop Visit Photos)
+- The **Church of the Annunciation (Evangelismos)**, an example of Medieval Catholic design with amazing wall paintings and impressive chandeliers, that today is the Orthodox town's cathedral. (Stop Visit Photos)
+- The **North Point of the island** where the East Coast's Mediterranean Sea, and the West Coast's Aegean Sea meet.
 
 ### MONTE SMITH
 

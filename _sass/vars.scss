@@ -9,6 +9,10 @@ $black: #151e2e;
 
 $gray: #dddddd;
 
+$green: #548235;
+
+$red: #db310f;
+
 @mixin breakpoint($point) {
     @if $point == larger {
       @media (min-width: 1200px) { @content; }

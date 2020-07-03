@@ -126,4 +126,22 @@
         box-shadow: 0px 1px 3px 0px $darkblue;
     }
 
+    &__inclusion-item {
+        margin-bottom: .3em;
+        display: flex;
+    }
+
+    &__inclusion-item-icon {
+        position: relative;
+        top: 3px;
+        margin-right: 0.2rem;
+        @supports(display: flex){
+            margin-right: .4rem;
+        }
+        .inclusion-icon {
+            width: 22px;
+            height: 22px;            
+        }
+    }
+
 }
