@@ -72,8 +72,9 @@
             year_input = $('#year-input');
 
         for (var i = 0; i < 11; i++) {
-            var the_option = current_year + i;
-            year_input.append(`<option value="${the_option}">${the_option}</option>`);
+            var the_option = current_year + i,
+                the_option_text = '<option value="' + the_option + '">' + the_option + '</option>';
+            year_input.append(the_option_text);
         }            
 
     };
