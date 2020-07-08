@@ -67,6 +67,17 @@
 
     }
 
+    var fill_year = function(){
+        var current_year = (new Date()).getFullYear(),
+            year_input = $('#year-input');
+
+        for (var i = 0; i < 11; i++) {
+            var the_option = current_year + i;
+            year_input.append(`<option value="${the_option}">${the_option}</option>`);
+        }            
+
+    };
+
     
     // $(window).resize(function () {
     //     waitForFinalEvent(function(){
@@ -76,5 +87,7 @@
     
     handle_menu();
     handle_submenu();
+
+    fill_year();
 
 })(jQuery);

@@ -10,17 +10,56 @@
     }
 
     &__input {
-        &--text {
-            display: block;
-            width: 100%;
-            padding: .5rem .8rem;
-            border: 3px solid $yellow;
-            transition: box-shadow .2s linear;
+        display: block;
+        width: 100%;
+        padding: .5rem .8rem;
+        border: 3px solid $yellow;
+        transition: box-shadow .2s linear;
+        &--text,
+        &--select,
+        &--textarea {
             &:focus {
                 box-shadow: 0 0 5px $yellow;
                 outline: none;
             }
         }
+        &--select {
+            padding: .3rem .6rem;
+            background-color: #fff;
+        }
+        &--year {
+            margin-left: 0.7rem;
+            width: 6rem !important;
+        }
     }
+
+    &__inline {
+        display: inline-block;
+        width: auto;
+    }
+
+    &__radio-group {
+        display: inline-block;
+        width: 10rem;
+        margin-bottom: 6px;
+    }
+
+    &__submit {
+        margin-top: .5rem;
+        border: none;
+        outline: none;
+        color: #fff;
+        background-color: $yellow;
+        padding: .5rem 1rem;
+        font-size: 1.5rem;
+        text-align: center;
+        width: 100%;
+        border-radius: 6px;
+        cursor: pointer;
+        transition: all .2s linear;
+        &:hover {
+            background-color: $darkyellow;
+        }
+    }    
 
 }
