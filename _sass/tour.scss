@@ -18,6 +18,7 @@
         background-color: $darkblue;
         margin-top: -1rem;
         z-index: 1;
+        border-bottom: 2px solid $yellow;
         @include breakpoint(large) {
             top: 46px;            
         }
@@ -29,7 +30,7 @@
     &__nav-titles {
         list-style: none;
         padding: 0;
-        font-size: 1.2rem;
+        // font-size: 1.2rem;
         margin: 0;
         @include clearfix;
         .tour__nav-title {
@@ -41,12 +42,14 @@
             &:active {
                 color: #fff;
             }
+            font-size: 14px;
+            padding: 8px 4px;
             background-color: $darkblue;
             color: #fff;
             display: block;
-            padding: 8px 4px;
             text-decoration: none;
-            min-height: 62px;
+            // min-height: 62px;
+            min-height: 50px;
             .space {
                 display: block;
             }
@@ -58,9 +61,11 @@
             }
             @include breakpoint(smaller) {
                 padding: 8px 6px;
+                font-size: 1rem;
             }
             @include breakpoint(small) {
                 padding: 8px 16px;
+                font-size: 1.1rem;
             }
             @include breakpoint(smallish) {
                 min-height: auto;
@@ -71,6 +76,7 @@
             }
             @include breakpoint(medium) {
                 padding: 8px 12px;                
+                font-size: 1.2rem;
             }
             &--first {
                 padding-left: 0;

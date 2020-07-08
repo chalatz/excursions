@@ -8,7 +8,7 @@ has_gallery: true
 has_destinations: true
 has_banners: true
 meta:
-  title: Rhodes Food Tour, Rhodes Cuisine Greece, Greek Food in Rhodes Island
+  title: Best Rhodes Shore Excursion
   http_desc: Rhodes Food Tour, Rhodes Cuisine Greece, Greek Food in Rhodes Island, Traditional Greek Appetizers in Rhodes
   keywords: Rhodes Food Tour, Rhodes Cuisine Greece, Greek Food in Rhodes Island, Traditional Greek Appetizers in Rhodes
   description: Rhodes Food Tour, Rhodes Cuisine Greece, Greek Food in Rhodes Island, Traditional Greek Appetizers in Rhodes
