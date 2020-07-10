@@ -6,6 +6,7 @@ permalink: /reviews-tripadvisor/
 redirect_from: reviews_tripadvisor.htm
 has_gallery: false
 has_carousel: true
+has_reviews: true
 meta:
   title: Reviews of Shore Excursions Rhodes Greece , TripAdvisor
   http_desc: Reviews of Shore Excursions Rhodes Greece , TripAdvisor Reviews, Testimonials

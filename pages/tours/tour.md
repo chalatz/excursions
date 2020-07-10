@@ -5,6 +5,7 @@ id: test_tour
 permalink: /best-rhodes-greece/
 redirect_from: best_rhodes_greece.htm
 has_gallery: true
+has_carousel: true
 has_destinations: true
 has_banners: true
 meta:
@@ -68,7 +69,33 @@ inclusions:
     - Entrance Fee Acropolis of Lindos 12 Euro per person (Optional Visit), Food, Drinks, Gratuities (Optional)
 
 gallery:
-  title: Gallery  
+  title: Gallery
+  images:
+    - path: https://via.placeholder.com/1024x768
+      thumb: https://via.placeholder.com/200x200
+      alt: ''
+    - path: https://via.placeholder.com/1024x768
+      thumb: https://via.placeholder.com/200x200
+      alt: ''
+    - path: https://via.placeholder.com/1024x768
+      thumb: https://via.placeholder.com/200x200
+      alt: ''
+    - path: https://via.placeholder.com/1024x768
+      thumb: https://via.placeholder.com/200x200
+      alt: ''
+    - path: https://via.placeholder.com/1024x768
+      thumb: https://via.placeholder.com/200x200
+      alt: ''
+    - path: https://via.placeholder.com/1024x768
+      thumb: https://via.placeholder.com/200x200
+      alt: ''
+    - path: https://via.placeholder.com/1024x768
+      thumb: https://via.placeholder.com/200x200
+      alt: ''
+    - path: https://via.placeholder.com/1024x768
+      thumb: https://via.placeholder.com/200x200
+      alt: ''
+
 ---
 ### RHODES MEDIEVAL CITY
 

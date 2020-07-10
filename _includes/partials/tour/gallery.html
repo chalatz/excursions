@@ -1,0 +1,18 @@
+<div class="tour__gallery-wrapper">
+    <div class="tour__gallery">
+        {%- for img in page.gallery.images -%}
+            <div class="tour__gallery-item">
+                {%- capture img_src -%}{{ img.path }}?text={{ forloop.index }}{%- endcapture -%}
+                <img src="{{- img_src -}}" alt="">
+            </div>
+        {%- endfor -%}
+    </div>
+    <div class="tour__gallery-nav">
+        {%- for img in page.gallery.images -%}
+            <div class="tour__gallery-thumb">
+                {%- capture thumb_src -%}{{ img.thumb }}?text={{ forloop.index }}{%- endcapture -%}
+                <img src="{{- thumb_src -}}" alt="">
+            </div>
+        {%- endfor -%}
+    </div>
+</div>

@@ -17,6 +17,9 @@
 
 {%- if page.has_carousel == true -%}
     <script src="{{- '/js/libs/flickity.js' | relative_url -}}"></script>
+{%- endif -%}
+
+{%- if page.has_reviews == true -%}
     <script>
         (function($){
             var $carousel = $('.reviews__carousel');
@@ -40,11 +43,23 @@
 {%- endif -%}
 
 {%- if page.layout == 'tour' -%}
+    {%- comment -%} scroll nav {%- endcomment -%}
     {%- include libs/scrollnav.html -%}
     <script>
         new ScrollMenu('.tour__nav-anchor',{
             activeOffset: 125,
             scrollOffset: 110
+        });
+    </script>
+    {%- comment -%} gallery carousel {%- endcomment -%}
+    <script>
+        $('.tour__gallery').flickity({
+            pageDots: false
+        });
+        $('.tour__gallery-nav').flickity({
+            asNavFor: '.tour__gallery',
+            contain: true,
+            pageDots: false
         });
     </script>
 {%- endif -%}

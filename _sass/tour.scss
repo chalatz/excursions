@@ -157,4 +157,25 @@
         }
     }
 
+    &__gallery-wrapper {
+        max-width: 800px;
+        margin: 0 auto;
+    }
+
+    &__gallery {
+        position: relative;
+        width: 100%;
+    }
+
+    &__gallery-item {
+        display: block;
+        width: 100%;
+    }
+
+    &__gallery-thumb {
+        display: inline-block;
+        width: 200px;
+        margin: 0 5px;
+    }
+
 }
