@@ -45,19 +45,20 @@ layout: default
     </div>
 </div>
 
-<article class="page{% if page.type and page.type.size > 0 %} {{ page.type }}{% endif %}">
+<div class="tour__content-wrapper">
 
+    <article class="page{% if page.type and page.type.size > 0 %} {{ page.type }}{% endif %}">
     
         <div class="page__content tour__content">        
-
+    
             <div class="tour__sections">
-
+    
                 <section class="tour__section tour__section--itinerary" id="itinerary">
                     <div class="container">
                         <h2 class="tour__section-header">
                             {{- page.itinerary.title -}}
                         </h2>
-
+    
                         <div class="tour__section-headings">
                             <h3 class="tour__section-heading">
                                 {{- page.itinerary.heading -}}
@@ -68,31 +69,31 @@ layout: default
                                 </p>
                             {%- endif -%}
                         </div>
-
+    
                         <div class="tour__section-content">
                             {{ content }}
                         </div>
-
+    
                         <div class="tour__section-details">
                             {{ page.itinerary.details | markdownify }}
                         </div>
                     </div>
                 </section>
-
+    
                 <div class="tour__section-separator"></div>
-
+    
                 <section class="tour__section tour__section--route-map" id="route-map">
                     <div class="container">
                         <h2 class="tour__section-header">
                             {{- page.route_map.title -}}
                         </h2>
-
+    
                         <div class="tour__section-headings">            
                             <p class="tour__section-description centered">
                                 {{- page.route_map.description -}}
                             </p>
                         </div>
-
+    
                         <div class="tour__section-content">
                             <div class="tour__section-route-map-wrapper">
                                 <img src="{{- page.route_map.map.path | relative_url -}}" alt="page.route_map.map.alt" class="tour__section-route-map-img">
@@ -100,9 +101,9 @@ layout: default
                         </div>
                     </div>
                 </section>
-
+    
                 <div class="tour__section-separator"></div>
-
+    
                 <section class="tour__section tour__section--useful" id="useful-info">
                     <div class="container">
                         <h2 class="tour__section-header">
@@ -115,7 +116,7 @@ layout: default
                 </section>
                 
                 <div class="tour__section-separator"></div>
-
+    
                 <section class="tour__section tour__section--inclusions" id="inclusions">
                     <div class="container">
                         <h2 class="tour__section-header">
@@ -148,11 +149,11 @@ layout: default
                         </div>
                     </div>
                 </section>
-
+    
                 {%- include partials/tour/form.html -%}
-
+    
                 <div class="tour__section-separator"></div>
-
+    
                 <section class="tour__section tour__section--gallery" id="gallery">
                     <div class="container">
                         <h2 class="tour__section-header">
@@ -163,15 +164,15 @@ layout: default
                         {%- include partials/tour/gallery.html -%}
                     </div>
                 </section>
-
+    
             </div> {%- comment -%} tour__sections {%- endcomment -%}
-
+    
         </div>
-
-        <aside class="tour__aside">
-            Aside content
-        </aside>
-
-
-
-</article>
+        
+    </article>
+    
+    <aside class="tour__aside">
+        Aside content
+    </aside>
+    
+</div>
