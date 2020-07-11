@@ -53,14 +53,34 @@
     </script>
     {%- comment -%} gallery carousel {%- endcomment -%}
     <script>
-        $('.tour__gallery').flickity({
-            pageDots: false
-        });
-        $('.tour__gallery-nav').flickity({
-            asNavFor: '.tour__gallery',
-            contain: true,
-            pageDots: false
-        });
+        (function($){
+            var tour_gallery = $('.tour__gallery'),
+                tour_gallery_nav = $('.tour__gallery-nav');
+
+            tour_gallery.on( 'ready.flickity', function() {
+                $('.tour__gallery-item').removeClass('hidden');
+            });
+
+            tour_gallery_nav.on( 'ready.flickity', function() {
+                $('.tour__gallery-thumb').removeClass('hidden');
+            });
+            
+            tour_gallery.flickity({
+                pageDots: false
+            });
+
+            tour_gallery_nav.flickity({
+                asNavFor: '.tour__gallery',
+                contain: true,
+                pageDots: false
+            });
+            
+
+            $( window ).on( 'load', function() {
+                tour_gallery.flickity('resize');
+                tour_gallery_nav.flickity('resize');
+            });
+        })(jQuery);
     </script>
 {%- endif -%}
 

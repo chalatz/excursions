@@ -1,7 +1,7 @@
 <div class="tour__gallery-wrapper">
     <div class="tour__gallery">
         {%- for img in page.gallery.images -%}
-            <div class="tour__gallery-item">
+            <div class="tour__gallery-item hidden">
                 {%- capture img_src -%}{{ img.path }}?text={{ forloop.index }}{%- endcapture -%}
                 <img src="{{- img_src -}}" alt="">
             </div>
@@ -9,7 +9,7 @@
     </div>
     <div class="tour__gallery-nav">
         {%- for img in page.gallery.images -%}
-            <div class="tour__gallery-thumb">
+            <div class="tour__gallery-thumb hidden">
                 {%- capture thumb_src -%}{{ img.thumb }}?text={{ forloop.index }}{%- endcapture -%}
                 <img src="{{- thumb_src -}}" alt="">
             </div>
