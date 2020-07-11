@@ -1,10 +1,10 @@
 <div class="tour__gallery-wrapper">
     <div class="tour__gallery">
         {%- for img in page.gallery.images -%}
-            <div class="tour__gallery-item hidden">
-                {%- capture img_src -%}{{ img.path }}?text={{ forloop.index }}{%- endcapture -%}
+            {%- capture img_src -%}{{ img.path }}?text={{ forloop.index }}{%- endcapture -%}
+            <a href="{{- img_src -}}" data-fancybox="tour-gallery" class="tour__gallery-item hidden">
                 <img src="{{- img_src -}}" alt="">
-            </div>
+            </a>
         {%- endfor -%}
     </div>
     <div class="tour__gallery-nav">
