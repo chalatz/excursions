@@ -5,6 +5,7 @@
     &__header {
         background-color: $gray;
         padding: 1.5rem;
+        margin-bottom: -.5rem;
     }
 
     &__intro {
@@ -81,6 +82,24 @@
             &--first {
                 padding-left: 0;
             }
+        }
+    }
+
+    &__content-wrapper {
+        @include clearfix;
+    }
+
+    &__main {
+        @include breakpoint(large) {
+            float: left;
+            width: 70%;
+        }
+    }
+
+    &__aside {
+        @include breakpoint(large) {
+            float: left;
+            width: 26%;
         }
     }
 
@@ -174,8 +193,17 @@
 
     &__gallery-thumb {
         display: inline-block;
-        width: 200px;
+        width: 100px;
         margin: 0 5px;
+        @include breakpoint(medium) {
+            width: 150px;
+        }
+        &.is-nav-selected {
+            img {
+                border: 2px solid $yellow;
+                border-radius: 6px;
+            }
+        }
     }
 
 }
