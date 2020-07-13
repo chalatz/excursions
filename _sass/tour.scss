@@ -241,3 +241,13 @@
     }
 
 }
+
+.tour-aside {
+    &__title {
+        text-align: center;
+        color: #26437e;
+        margin: 0;
+        padding: .5rem 0;
+        line-height: 1.4;
+    }
+}
