@@ -177,8 +177,12 @@
     }
 
     &__gallery-wrapper {
-        max-width: 800px;
-        margin: 0 auto;
+        max-width: 100%;
+        margin: 1rem auto;
+
+        .flickity-viewport {
+            transition: height 0.3s;
+        }
     }
 
     &__gallery {
