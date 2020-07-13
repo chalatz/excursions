@@ -21,10 +21,19 @@
         z-index: 1;
         border-bottom: 2px solid $yellow;
         @include breakpoint(large) {
-            top: 46px;            
+            top: 46px;
+            width: calc(100% - 20px);
+            border-bottom: unset;
+            border-right: 1px solid $yellow;
         }
         @include breakpoint(semi_large) {
             top: 48px;            
+        }
+        .container {
+            @include breakpoint(large) {
+                padding-left: 0;
+                padding-right: 0;
+            }
         }
     }
 
@@ -37,6 +46,11 @@
         .tour__nav-title {
             border-right: 1px solid $yellow;
             float: left;
+            &--last {
+                @include breakpoint(large) {
+                    border-right: unset;
+                }
+            }            
         }
         .tour__nav-anchor {
             &:visited,
@@ -81,6 +95,9 @@
             }
             &--first {
                 padding-left: 0;
+                @include breakpoint(large) {
+                    padding-left: 12px;
+                }
             }
         }
     }
@@ -94,12 +111,16 @@
             float: left;
             width: 70%;
         }
+        &--with-outro {
+            padding-bottom: 0;
+        }
     }
 
     &__aside {
         @include breakpoint(large) {
             float: left;
-            width: 26%;
+            width: 30%;
+            margin-top: .5rem;
         }
     }
 
@@ -209,6 +230,14 @@
                 border-radius: 6px;
             }
         }
+    }
+
+    &__outro {
+        text-align: center;
+        color: $blue;
+        margin-top: 0;
+        margin-bottom: 2rem;
+        font-size: 1.4rem;
     }
 
 }
