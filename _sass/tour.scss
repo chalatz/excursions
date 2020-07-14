@@ -22,8 +22,6 @@
         border-bottom: 2px solid $yellow;
         @include breakpoint(large) {
             top: 46px;
-            width: calc(100% - 20px);
-            border-bottom: unset;
             border-right: 1px solid $yellow;
         }
         @include breakpoint(semi_large) {
@@ -111,6 +109,9 @@
             float: left;
             width: 70%;
         }
+        @include breakpoint(larger) {
+            width: 65%;
+        }
         &--with-outro {
             padding-bottom: 0;
         }
@@ -121,6 +122,11 @@
             float: left;
             width: 30%;
             margin-top: .5rem;
+            padding-left: 6px;
+            padding-right: 6px;
+        }
+        @include breakpoint(larger) {
+            width: 35%;
         }
     }
 
@@ -215,6 +221,7 @@
         display: block;
         width: 100%;
         cursor: grab;
+        text-align: center;
     }
 
     &__gallery-thumb {
