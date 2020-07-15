@@ -6,6 +6,9 @@
         max-width: 1200px;
         margin-left: auto;
         margin-right: auto;
+        @include breakpoint(large) {
+            margin-top: 0.5rem;
+        }
     }
 
     &__header {
@@ -27,6 +30,7 @@
         z-index: 1;
         border-bottom: 2px solid $yellow;
         @include breakpoint(large) {
+            margin-top: 0;
             top: 46px;
             border-right: 1px solid $yellow;
         }
@@ -124,7 +128,7 @@
         @include breakpoint(large) {
             float: left;
             width: 30%;
-            margin-top: 46px;
+            // margin-top: 46px;
             margin-left: 36px;
             border-radius: 6px;
             padding-left: 6px;
@@ -261,6 +265,7 @@
         padding: 1rem .5rem 2rem;
         @include breakpoint(large) {
             background-color: $lightgray;
+            margin-top: 1.5rem;
         }
     }
 
