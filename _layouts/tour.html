@@ -198,18 +198,19 @@ layout: default
                 <div class="tour-aside__block-content">
                     <ul>
                         {%- for tour in site.data.tours -%}
-                            <li>
-                                <a href="{{- tour.url | relative_url -}}">
-                                    {{- tour.title -}}
-                                </a>
-                            </li>
+                            {%- unless tour.id == page.id -%}
+                                <li>
+                                    <a href="{{- tour.url | relative_url -}}">
+                                        {{- tour.title -}}
+                                    </a>
+                                </li>
+                            {%- endunless -%}
                         {%- endfor -%}
                     </ul>
                 </div>
             </div>
         </div>
     </aside>
-
     
 </div>
 

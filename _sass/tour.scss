@@ -113,9 +113,6 @@
     &__main {
         @include breakpoint(large) {
             float: left;
-            width: 70%;
-        }
-        @include breakpoint(larger) {
             width: 65%;
         }
         &--with-outro {
@@ -127,13 +124,14 @@
         @include breakpoint(large) {
             float: left;
             width: 30%;
-            margin-top: .5rem;
+            margin-top: 46px;
+            margin-left: 36px;
+            border-radius: 6px;
             padding-left: 6px;
             padding-right: 6px;
-        }
-        @include breakpoint(larger) {
-            width: 35%;
-        }
+            position: sticky;
+            top: 48px;
+        }        
     }
 
     &__section-content {
@@ -255,6 +253,11 @@
 
     &__aside {
         text-align: center;
+        background-color: $lightgray;
+        padding: 1rem .5rem 2rem;
+        @include breakpoint(large) {
+            background-color: $lightgray;
+        }
     }
 
 }
