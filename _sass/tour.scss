@@ -2,6 +2,12 @@
 
     @include clearfix;
 
+    &__content-wrapper {
+        max-width: 1200px;
+        margin-left: auto;
+        margin-right: auto;
+    }
+
     &__header {
         background-color: $gray;
         padding: 1.5rem;
@@ -242,19 +248,80 @@
     &__outro {
         text-align: center;
         color: $blue;
-        margin-top: 0;
+        margin-top: 2rem;
         margin-bottom: 2rem;
-        font-size: 1.4rem;
+        font-size: 1.2rem;
+    }
+
+    &__aside {
+        text-align: center;
     }
 
 }
 
 .tour-aside {
     &__title {
-        text-align: center;
-        color: #26437e;
+        font-size: 1.4rem;
+        color: $lightblue;
         margin: 0;
         padding: .5rem 0;
         line-height: 1.4;
+    }
+    &__content {
+        font-size: 1.3rem;
+        color: $blue;
+        p {
+            margin: 1rem 0;
+            line-height: 1.5;
+        }
+        a {
+            color: $blue;
+            transition: color .1s linear;
+            &:visited,
+            &:active {
+                color: $blue;
+            }
+            &:hover {
+                color: $yellow;
+            }
+        }
+    }
+    &__block-title {
+        font-size: 1.3rem;
+        background-color: $darkblue;
+        color: #fff;
+        font-weight: normal;
+        padding: 1.5rem .2rem;
+        margin-bottom: 0;
+    }
+    &__block-content {
+        font-size: 1.3rem;
+        line-height: 1.5;
+        border: 1px solid $gray;
+        padding-left: 0.8rem;
+        padding-right: 0.8rem;
+        @include breakpoint(large) {
+            text-align: left;
+        }
+        ul {
+            list-style: none;
+            padding: 0;
+            margin: 0;
+        }
+        li {
+            margin: .8rem 0;
+        }
+        a {
+            color: $blue;
+            transition: color .1s linear;
+            text-decoration: none;
+            &:visited,
+            &:active {
+                color: $blue;
+            }
+            &:hover {
+                color: $yellow;
+            }
+        }
     }
 }

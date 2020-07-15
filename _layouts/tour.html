@@ -171,11 +171,43 @@ layout: default
         </div>
         
     </article>
+
+    <div class="tour__section-separator tablet-only tablet-only--block "></div>
     
     <aside class="tour__aside">
-        <h3 class="tour-aside__title">
-            Thirty-Six Years of Quality Shore Excursions 1984 - 2020
-        </h3>
+        <div class="container">
+            <h3 class="tour-aside__title">
+                Thirty-Six Years of Quality Shore Excursions 1984 - 2020
+            </h3>
+            <div class="tour-aside__content">
+                <p>
+                    <a href="{{- '/worry-free/' | relative_url -}}">
+                        Guaranteed Return to Ship
+                    </a>
+                </p>
+                <p>
+                    <a href="{{- '/independent-greece/' | relative_url -}}">
+                        Book with Confidence
+                    </a>
+                </p>
+            </div>
+            <div class="tour-aside__block">
+                <h4 class="tour-aside__block-title">
+                    MORE SHORE EXCURSIONS
+                </h4>
+                <div class="tour-aside__block-content">
+                    <ul>
+                        {%- for tour in site.data.tours -%}
+                            <li>
+                                <a href="{{- tour.url | relative_url -}}">
+                                    {{- tour.title -}}
+                                </a>
+                            </li>
+                        {%- endfor -%}
+                    </ul>
+                </div>
+            </div>
+        </div>
     </aside>
 
     

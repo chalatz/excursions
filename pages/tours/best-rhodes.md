@@ -1,7 +1,7 @@
 ---
 layout: tour
 type: tour
-id: test_tour
+id: best_rhodes
 permalink: /best-rhodes-greece/
 redirect_from: best_rhodes_greece.htm
 has_gallery: true
