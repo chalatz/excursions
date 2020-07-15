@@ -226,6 +226,10 @@
         width: 100%;
         cursor: grab;
         text-align: center;
+        img {
+            border: 5px solid $yellow;
+            border-radius: 3px;
+        }
     }
 
     &__gallery-thumb {
