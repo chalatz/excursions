@@ -32,6 +32,15 @@ intro:
 cta: Please visit the links (above and below) to read what our Valued Clients are saying about us
 years_list_heading: Reviews and Comments as we received them, nice to know we are appreciated!!
 reviews:
+  - year: '2020'
+    text: |-
+      Hopefully once things settle down again around the world and our borders in NZ reopen, we can start planning again. We will definitely be booking this tour with you again. In the meantime, please stay safe. We look forward to seeing you in the future.<br>
+      Blessing to you and your team<br>
+      Cheryl K. (April 11th)
+
+      Thank you for making our short visit to your beautiful island a memorable one. Michael was very friendly and gave us an insight into the history of Rhodes and the life.<br>
+      All the best,<br>
+      Carol S. (Jan 22nd)
   - year: '2019'
     text: |-
       Thank you, Nicholas and Manuel, for making our short stay in Rhodes so nice. We promised ourselves to be there again in the future.  Happy new year! Giorgio and family (31 Dec) Italy
