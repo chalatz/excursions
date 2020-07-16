@@ -120,34 +120,43 @@ layout: default
     
                 <section class="tour__section tour__section--inclusions" id="inclusions">
                     <div class="container">
-                        <h2 class="tour__section-header">
-                            {{- page.inclusions.title -}}
-                        </h2>
-                        <div class="tour__section-content">
-                            {%- for item in page.inclusions.included -%}
-                                <div class="tour__inclusion-item">
-                                    <span class="tour__inclusion-item-icon">
-                                        {%- include svg/done.html -%}                                    
-                                    </span>
-                                    <span class="tour__inclusion-item-desc">
-                                        {{- item -}}
-                                    </span>
-                                </div>
-                            {%- endfor -%}
-                            {%- assign not_included_size = page.inclusions.not_included | size -%}
-                            {%- if not_included_size > 0 -%}
-                                {%- for item in page.inclusions.not_included -%}
+                        <div class="tour__inclusions-wrapper">
+                            <h2 class="tour__section-header">
+                                {{- page.inclusions.title -}}
+                            </h2>
+                            <div class="tour__section-content">
+                                {%- for item in page.inclusions.included -%}
                                     <div class="tour__inclusion-item">
                                         <span class="tour__inclusion-item-icon">
-                                            {%- include svg/clear.html -%}                                    
+                                            {%- include svg/done.html -%}                                    
                                         </span>
-                                        <span class="tour__inclusion-item-desc tour__inclusion-item-desc--not-included">
+                                        <span class="tour__inclusion-item-desc">
                                             {{- item -}}
                                         </span>
                                     </div>
-                                {%- endfor -%}                            
-                            {%- endif -%}
+                                {%- endfor -%}                                
+                            </div>
                         </div>
+                        {%- assign not_included_size = page.inclusions.not_included | size -%}
+                        {%- if not_included_size > 0 -%}
+                            <div class="tour__inclusions-wrapper">
+                                <h2 class="tour__section-header tour__section-header--exclusions">
+                                    Exclusions
+                                </h2>
+                                <div class="tour__section-content">                                    
+                                    {%- for item in page.inclusions.not_included -%}
+                                        <div class="tour__inclusion-item">
+                                            <span class="tour__inclusion-item-icon">
+                                                {%- include svg/clear.html -%}                                    
+                                            </span>
+                                            <span class="tour__inclusion-item-desc">
+                                                {{- item -}}
+                                            </span>
+                                        </div>
+                                    {%- endfor -%}                            
+                                </div>
+                            </div>
+                        {%- endif -%}
                     </div>
                 </section>
     

@@ -138,6 +138,13 @@
         }        
     }
 
+    &__section-header {
+        &--exclusions {
+            font-size: 1.5rem;
+        }
+    }
+        
+
     &__section-content {
         ol {
             // list-style: none;
