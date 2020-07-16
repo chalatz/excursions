@@ -12,32 +12,32 @@
                 BOOKING DEPOSIT - PRE PAYMENT NOT REQUIRED
             </header>
             <div class="form tour-form__form">
-                <div class="form__body">
+                <div class="form__body desktop-only desktop-only--block">
 
                     <form action="">
                         <div class="form__group">
-                            <label class="form__label" for="first_name">First Name:</label>
+                            <label class="form__label" for="first_name">First Name* :</label>
                             <input class="form__input form__input--text" type="text" name="first_name" required>
                         </div>
                         <div class="form__group">
-                            <label class="form__label" for="last_name">Last Name:</label>
+                            <label class="form__label" for="last_name">Last Name* :</label>
                             <input class="form__input form__input--text" type="text" name="last_name" required>
                         </div>
                         <div class="form__group">
-                            <label class="form__label" for="city_state_zip">City/State/Country:</label>
+                            <label class="form__label" for="city_state_zip">City/State/Country* :</label>
                             <input class="form__input form__input--text" type="text" name="city_state_zip" required>
                         </div>
                         <div class="form__group">
-                            <label class="form__label" for="phone_fax">Phone/Fax:</label>
-                            <input class="form__input form__input--text" type="text" name="phone_fax">
+                            <label class="form__label" for="phone_fax">Phone/Fax* :</label>
+                            <input class="form__input form__input--text" type="text" name="phone_fax" required>
                         </div>
                         <div class="form__group">
-                            <label class="form__label" for="e_mail">E-mail:</label>
+                            <label class="form__label" for="e_mail">E-mail* :</label>
                             <input class="form__input form__input--text" type="email" name="e_mail" required>
                         </div>
                         <div class="form__group">
-                            <label class="form__label" for="">Shore Excursion Date:</label>
-                            <select class="form__input form__input--select form__inline" name="date_month">
+                            <label class="form__label" for="">Shore Excursion Date* :</label>
+                            <select class="form__input form__input--select form__inline" name="date_month" required>
                                 <option value=""></option>
                                 <option value="Jan">January</option>
                                 <option value="Feb">February</option>
@@ -53,7 +53,7 @@
                                 <option value="Dec">December</option>
                             </select>
                             &nbsp;/&nbsp;
-                            <select class="form__input form__input--select form__inline" name="date_date">
+                            <select class="form__input form__input--select form__inline" name="date_date" required>
                                 <option value=""></option>
                                 <option value="1">1</option>
                                 <option value="2">2</option>
@@ -87,46 +87,46 @@
                                 <option value="30">30</option>
                                 <option value="31">31</option>
                             </select>
-                            <select class="form__input form__input--select form__inline form__input--year" id="year-input" name="date_year">
+                            <select class="form__input form__input--select form__inline form__input--year" id="year-input" name="date_year" required>
                             </select>
                             <!-- <input class="form__input form__input--text form__input--year form__inline ml-half-rem" id="year-input" type="text" name="date_year"> -->
                         </div>
                         <div class="form__group">
-                            <label class="form__label" for="cruise_ship">Cruise Ship:</label>
+                            <label class="form__label" for="cruise_ship">Cruise Ship* :</label>
                             <input class="form__input form__input--text" type="text" name="cruise_ship" required>
                         </div>                    
                         <div class="form__group">
-                            <label class="form__label" for="speaking_language">Driver must be able to speak:</label>
+                            <label class="form__label" for="speaking_language">Driver must be able to speak* :</label>
                             <div class="form__row">
                                 <div class="form__radio-group">
-                                    <input type="radio" value="English" checked name="speaking_language" id="fp5">
+                                    <input type="radio" value="English" checked name="speaking_language" id="speaking_language--en">
                                     <label for="fp5">&nbsp;English</label>
                                 </div>
                                 <div class="form__radio-group">
-                                    <input type="radio" value="German" name="speaking_language" id="fp8">
+                                    <input type="radio" value="German" name="speaking_language" id="speaking_language--de">
                                     <label for="fp8">&nbsp;German</label>
                                 </div>
                             </div>
                             <div class="form__row">
                                 <div class="form__radio-group">
-                                    <input type="radio" value="French" name="speaking_language" id="fp6">
+                                    <input type="radio" value="French" name="speaking_language" id="speaking_language--fr">
                                     <label for="fp6">&nbsp;French</label>
                                 </div>
                                 <div class="form__radio-group">
-                                    <input type="radio" value="Italian" name="speaking_language" id="fp9">
+                                    <input type="radio" value="Italian" name="speaking_language" id="speaking_language--it">
                                     <label for="fp9">&nbsp;Italian</label>
                                 </div>
                             </div>
                             <div class="form__row">
                                 <div class="form__radio-group">
-                                    <input type="radio" value="Spanish" name="speaking_language" id="fp7">
+                                    <input type="radio" value="Spanish" name="speaking_language" id="speaking_language--es">
                                     <label for="fp7">&nbsp;Spanish</label>
                                 </div>
                             </div>
                         </div>
                         <div class="form__group">
-                            <label class="form__label" for="party_num">Number in party:</label>
-                            <input class="form__input form__input--text w-10-rem" type="text" name="party_num">
+                            <label class="form__label" for="party_num">Number in party* :</label>
+                            <input class="form__input form__input--text w-10-rem" type="text" name="party_num" required>
                         </div>
         
                         <div class="form__group">
@@ -144,6 +144,8 @@
                     </form>
 
                 </div>
+                
+                {%- include partials/tour/tour-mobile.html -%}
             </div>
         </div>
     </div>
