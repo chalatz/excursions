@@ -22,7 +22,7 @@ layout: default
                 <ul class="tour__nav-titles">
                     <li class="tour__nav-title">
                         <a href="#itinerary" class="tour__nav-anchor tour__nav-anchor--first">
-                            Excursion<span class="space"> </span>Itinerary
+                            <span class="tablet-only tablet-only--inline">Excursion </span>Itinerary
                         </a>
                     </li>
                     <li class="tour__nav-title">
@@ -38,6 +38,11 @@ layout: default
                     <li class="tour__nav-title">
                         <a href="#inclusions" class="tour__nav-anchor">
                             Inclusions
+                        </a>
+                    </li>
+                    <li class="tour__nav-title">
+                        <a href="#request" class="tour__nav-anchor">
+                            Request
                         </a>
                     </li>
                     <li class="tour__nav-title tour__nav-title--last">
@@ -158,8 +163,11 @@ layout: default
                         {%- endif -%}
                     </div>
                 </section>
+
+                <section class="tour__section tour-form" id="#request">
+                    {%- include partials/tour/form.html -%}
+                </section>
     
-                {%- include partials/tour/form.html -%}
     
                 <div class="tour__section-separator"></div>
     

@@ -17,6 +17,14 @@
         margin-bottom: -.5rem;
     }
 
+    &__title {
+        color: $darkblue;
+        border: 4px solid $darkblue;
+        border-radius: 6px;
+        padding: .8rem 1.1rem;
+        display: inline-block;
+    }
+
     &__intro {
         font-size: 1.2rem;
         line-height: 1.6;
