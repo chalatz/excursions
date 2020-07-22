@@ -75,9 +75,11 @@ layout: default
                             {%- endif -%}
                         </div>
     
-                        <div class="tour__section-content">
+                        <div class="tour__section-content tour__section-content--md">
                             {{ content }}
                         </div>
+
+                        <div class="tour__section-separator tour__section-separator--thin"></div>
     
                         <div class="tour__section-details">
                             {{ page.itinerary.details | markdownify }}
@@ -186,7 +188,7 @@ layout: default
         
     </article>
 
-    <div class="tour__section-separator tablet-only tablet-only--block "></div>
+    <div class="tour__section-separator hide-on-large-desktop"></div>
     
     <aside class="tour__aside">
         <div class="container">

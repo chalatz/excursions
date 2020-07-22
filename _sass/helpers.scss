@@ -87,6 +87,12 @@
     }
 }
 
+.hide-on-large-desktop {
+    @include breakpoint(large) {
+        display: none;
+    }
+}
+
 .w-10-rem {
     width: 10rem !important;
 }
