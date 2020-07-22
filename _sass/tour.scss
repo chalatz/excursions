@@ -46,6 +46,8 @@
             top: 48px;            
         }
         .container {
+            padding-left: 0;
+            padding-right: 0;
             @include breakpoint(large) {
                 padding-left: 0;
                 padding-right: 0;
@@ -63,6 +65,7 @@
             border-right: 1px solid $yellow;
             float: left;
             &--last {
+                border: none;
                 @include breakpoint(large) {
                     border-right: unset;
                 }
@@ -74,13 +77,13 @@
                 color: #fff;
             }
             font-size: 14px;
-            padding: 8px 4px;
+            padding: 8px 2.5px;
             background-color: $darkblue;
             color: #fff;
             display: block;
             text-decoration: none;
             // min-height: 62px;
-            min-height: 50px;
+            // min-height: 50px;
             .space {
                 display: block;
             }
@@ -98,22 +101,12 @@
                 padding: 8px 16px;
                 font-size: 1.1rem;
             }
-            @include breakpoint(smallish) {
-                min-height: auto;
-                padding: 8px 6px;                
-                .space {
-                    display: inline;
-                }
+            @include breakpoint(large) {
+                padding: 8px 6px;
             }
-            @include breakpoint(medium) {
+            @include breakpoint(semi_large) {
                 padding: 8px 12px;                
                 font-size: 1.2rem;
-            }
-            &--first {
-                padding-left: 0;
-                @include breakpoint(large) {
-                    padding-left: 12px;
-                }
             }
         }
     }

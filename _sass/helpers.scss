@@ -31,21 +31,6 @@
 }
 
 .tablet-only {
-    &--inline {
-        display: inline;
-    }
-    &--block {
-        display: block;
-    }
-    &--inline-block {
-        display: inline-block;
-    }
-    @include breakpoint(large) {
-        display: none;
-    }
-}
-
-.desktop-only {
     display: none;
     &--block {
         @include breakpoint(small) {
@@ -64,7 +49,26 @@
     }
 }
 
-.mid-desktop-only {
+.desktop-only {
+    display: none;
+    &--block {
+        @include breakpoint(medium) {
+            display: block;
+        }
+    }
+    &--inline {
+        @include breakpoint(medium) {
+            display: inline;
+        }
+    }
+    &--inline-block {
+        @include breakpoint(medium) {
+            display: inline-block;
+        }
+    }
+}
+
+.large-desktop-only {
     display: none;
     &--block {
         @include breakpoint(large) {
