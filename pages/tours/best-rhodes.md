@@ -52,7 +52,7 @@ useful:
     3. If you have elderly people in your group, we can drive them down on the beautiful beach of Lindos have a drink and a nice discuss with the driver and enjoy the panoramic view while they are waiting for you to climb up the Acropolis of Lindos.
     4. If you have kids in your group the "**Best of Rhodes Shore Excursion**" it is also an Educational and Entertainment Excursion, and of course they will love the donkey ride up to the Acropolis of Lindos!!
     5. You may prefer to use ATM machines when you need cash. ATMs are everywhere.
-    6. Rhodes known for [Traditional Appetizers](/rhodes-cuisine-greece/), desserts, [Wines](/wine-tours/greece/), the famous handmade [Rhodes Pottery - Ceramics]/greek/pottery/) and the beautiful [Rhodes Beaches](rhodes/beaches/).
+    6. Rhodes known for [Traditional Appetizers](/rhodes-cuisine-greece/), desserts, [Wines](/wine-tours/greece/), the famous handmade [Rhodes Pottery - Ceramics](/greek/pottery/) and the beautiful [Rhodes Beaches](rhodes/beaches/).
     7. More info in [Rhodes Private Tours](/rhodes_private_tours/) F.A.Q.
 
 inclusions:
