@@ -116,7 +116,7 @@ gallery:
     - path: /img/tours/best-rhodes/15.jpg
       thumb: /img/tours/best-rhodes/15-thumb.jpg
       alt: ''
-outro: Private Shore Excursions and Private Tours in Rhodes Greece
+outro: Rhodes Private Shore Excursions and Private Tours in Rhodes Greece
 ---
 ### RHODES MEDIEVAL CITY
 
