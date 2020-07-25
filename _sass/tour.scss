@@ -190,7 +190,7 @@
         }
 
         p {
-            & > strong {
+            & > strong:first-child {
                color: $red; 
             }
         }
@@ -204,8 +204,18 @@
         border: 2px solid $lightblue;
         border-radius: 4px;
         box-shadow: 0 10px 10px -12px #27334a;
-        @include breakpoint(small) {            
-            max-width: 95%;
+        max-width: 90%;
+        @include breakpoint(smaller) {            
+            max-width: 85%;
+        }
+        @include breakpoint(smallish) {            
+            max-width: 75%;
+        }
+        @include breakpoint(medium) {            
+            max-width: 65%;
+        }
+        @include breakpoint(large) {            
+            max-width: 75%;
         }
     }
 
