@@ -79,6 +79,26 @@
 
     };
 
+    var goto_top = function(){
+
+        $(window).scroll(function(event){
+            var scroll = $(window).scrollTop();
+            if (scroll >= 1500) {
+              $(".go-top").addClass("show");
+            } else {
+              $(".go-top").removeClass("show");
+            }
+          });
+  
+          $('#scrollBtn').click(function(event){
+            $('body,html').animate({
+                scrollTop: 0
+            }, 800);
+            event.preventDefault();
+          });
+
+    };    
+
     
     // $(window).resize(function () {
     //     waitForFinalEvent(function(){
@@ -90,5 +110,7 @@
     handle_submenu();
 
     fill_year();
+
+    goto_top();
 
 })(jQuery);
