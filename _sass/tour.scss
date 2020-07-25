@@ -256,11 +256,30 @@
     }
 
     &__gallery-wrapper {
-        max-width: 100%;
+        max-width: 90%;
         margin: 1rem auto;
+
+        @include breakpoint(small) {
+            max-width: 80%;
+        }
+        @include breakpoint(medium) {
+            max-width: 75%;
+        }
+        @include breakpoint(large) {
+            max-width: 85%;
+        }
 
         .flickity-viewport {
             transition: height 0.3s;
+        }
+
+        .flickity-button {
+            width: 32px;
+            height: 32px;
+            @include breakpoint(medium) {
+                width: 38px;
+                height: 38px;                
+            }
         }
     }
 
@@ -282,10 +301,10 @@
 
     &__gallery-thumb {
         display: inline-block;
-        width: 100px;
+        width: 85px;
         margin: 0 5px;
-        @include breakpoint(medium) {
-            width: 150px;
+        @include breakpoint(small) {
+            width: 100px;
         }
         &.is-nav-selected {
             img {
