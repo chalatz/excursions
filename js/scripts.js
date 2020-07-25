@@ -71,7 +71,7 @@
         var current_year = (new Date()).getFullYear(),
             year_input = $('#year-input');
 
-        for (var i = 0; i < 11; i++) {
+        for (var i = 0; i < 6; i++) {
             var the_option = current_year + i,
                 the_option_text = '<option value="' + the_option + '">' + the_option + '</option>';
             year_input.append(the_option_text);
