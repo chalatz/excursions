@@ -63,10 +63,10 @@ inclusions:
     - Experienced knowledgeable Tour/Driver English Speaking
     - Mercedes Benz Sedan Car (4 passengers plus the driver) (bigger group or more room?)
     - All Car and Driver Expenses (prices are per car not per person)
-    - No Stress - Back to the Ship on Time - If you are a Cruise Ship Passengers
+    - No Stress - Back to the Ship on Time (if you are a Cruise Ship Passenger)
     - Personalized Customer Service
   not_included:
-    - Entrance Fee Acropolis of Lindos 12 Euro per person (Optional Visit), Food, Drinks, Gratuities (Optional)
+    - Entrance Fees, Food, Drinks, Gratuities (Optional)
 
 gallery:
   title: Gallery
