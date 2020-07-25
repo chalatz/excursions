@@ -28,6 +28,11 @@ gulp.task('images', function(){
     .pipe(gulp.dest('dist/img'))
 });
 
+gulp.task('css_images', function(){
+    return gulp.src('_site/css/**/*.+(png|jpg|gif|jpeg|svg|GIF|JPG|PNG|JPEG)')
+    .pipe(gulp.dest('dist/css'))
+});
+
 gulp.task('root_files', function(){
     return gulp.src('_site/*.+(png|jpg|gif|jpeg|svg|GIF|JPG|PNG|JPEG|xml|json|txt|ico|webmanifest)')
     .pipe(gulp.dest('dist'))
@@ -79,7 +84,7 @@ gulp.task('php', function(){
 
 gulp.task('build', function (callback) {
     runSequence('clean:dist', 
-        ['markup', 'css', 'js','js_libs', 'root_files', 'php', 'images'],
+        ['markup', 'css', 'js','js_libs', 'root_files', 'php', 'images', 'css_images'],
         callback
     )
 });
