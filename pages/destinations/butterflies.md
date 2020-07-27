@@ -2,8 +2,7 @@
 layout: gallery-page
 type: gallery-page
 id: butterflies
-permalink: /valley-of-the-butterflies/
-redirect_from: valley_of_the_butterflies.htm
+permalink: valley_of_the_butterflies.htm
 has_gallery: true
 has_destinations: true
 has_banners: false

@@ -2,8 +2,7 @@
 layout: gallery-page
 type: gallery-page
 id: old_town
-permalink: /old-town/
-redirect_from: old_town.htm
+permalink: old_town.htm
 has_gallery: true
 has_destinations: true
 has_banners: false

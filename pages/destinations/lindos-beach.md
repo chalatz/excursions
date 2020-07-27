@@ -2,7 +2,7 @@
 layout: gallery-page
 type: gallery-page
 id: lindos_beach
-permalink: /lindos-beach-rhodes/
+permalink: lindos-beach-rhodes.htm
 has_gallery: true
 has_destinations: true
 has_banners: false

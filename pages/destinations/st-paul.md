@@ -2,7 +2,7 @@
 layout: gallery-page
 type: gallery-page
 id: st_paul
-permalink: /st-pauls-bay-beach-rhodes/
+permalink: st-pauls-bay-beach-rhodes.htm
 has_gallery: true
 has_destinations: true
 has_banners: false

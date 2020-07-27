@@ -2,8 +2,7 @@
 layout: gallery-page
 type: gallery-page
 id: new_town
-permalink: /new-town/
-redirect_from: new_town.htm
+permalink: new_town.htm
 has_gallery: true
 has_destinations: true
 has_banners: false

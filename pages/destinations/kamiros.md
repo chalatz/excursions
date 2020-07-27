@@ -2,8 +2,7 @@
 layout: gallery-page
 type: gallery-page
 id: kamiros
-permalink: /ancient-kamiros/
-redirect_from: ancient_kamiros.htm
+permalink: ancient_kamiros.htm
 has_gallery: true
 has_destinations: true
 has_banners: false

@@ -2,7 +2,7 @@
 layout: gallery-page
 type: gallery-page
 id: seven_springs
-permalink: /seven-springs-epta-piges/
+permalink: seven-springs-epta-piges.htm
 has_gallery: true
 has_destinations: true
 has_banners: false

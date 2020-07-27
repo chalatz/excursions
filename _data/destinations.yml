@@ -1,56 +1,56 @@
 title: FIND A SHORE EXCURSION BY DESTINATION
 items:
 - title: Acropolis of Lindos
-  url: '/lindos-acropolis/'
+  url: lindos_acropolis.htm
   id: lindos_acropolis
 - title: Rhodes Old Town
-  url: '/old-town/'
+  url: old_town.htm
   id: old_town
 - title: Butterfly Valley
-  url: '/valley-of-the-butterflies/'
+  url: valley_of_the_butterflies.htm
   id: butterflies
 - title: Rhodes New Town
-  url: '/new-town/'
+  url: new_town.htm
   id: new_town
 - title: Filerimos Monastery
-  url: '/filerimos/'
+  url: filerimos_mountain.htm
   id: filerimos
 - title: Monte Smith
-  url: '/monte-smith/'
+  url: monte_smith.htm
   id: monte_smith
 - title: Embonas Village
-  url: '/embonas-village-rhodes/'
+  url: embonas-village-rhodes.htm
   id: embonas
 - title: Kallithea Springs
-  url: '/kallithea-springs-rhodes-greece/'
+  url: kallithea-springs-rhodes-greece.htm
   id: kallithea
 - title: Ancient Kamiros
-  url: '/ancient-kamiros/'
+  url: ancient_kamiros.htm
   id: kamiros
 - title: Seven Springs
-  url: '/seven-springs-epta-piges/'
+  url: seven-springs-epta-piges.htm
   id: seven_springs
 - title: Kritinia Castle
-  url: '/kritinia-castle-rhodes-greece/'
+  url: kritinia-castle-rhodes-greece.htm
   id: kritinia
 - title: Castle of Monolithos
-  url: 'castle-monolithos-rhodes-greece/'
+  url: castle-monolithos-rhodes-greece.htm
   id: monolithos
 - title: Lindos Beach
-  url: '/lindos-beach-rhodes/'
+  url: lindos-beach-rhodes.htm
   id: lindos_beach
 - title: Tsambika Beach
-  url: '/tsambika-beach-rhodes/'
+  url: tsambika-beach-rhodes.htm
   id: tsambika
 - title: Anthony Quinn Bay
-  url: '/anthony-quinn-beach-rhodes/'
+  url: anthony-quinn-beach-rhodes.htm
   id: anthony_quinn
 - title: St Paul’s Bay
-  url: '/st-pauls-bay-beach-rhodes/'
+  url: st-pauls-bay-beach-rhodes.htm
   id: st_paul
 - title: Faliraki Beach
-  url: '/faliraki-beach-rhodes/'
+  url: faliraki-beach-rhodes.htm
   id: faliraki_beach
 - title: Rhodes Town Beach
-  url: '/rhodes-town-beach/'
+  url: rhodes-town-beach.htm
   id: elli_beach

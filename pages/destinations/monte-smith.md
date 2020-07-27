@@ -2,8 +2,7 @@
 layout: gallery-page
 type: gallery-page
 id: monte_smith
-permalink: /monte-smith/
-redirect_from: monte_smith.htm
+permalink: monte_smith.htm
 has_gallery: true
 has_destinations: true
 has_banners: false

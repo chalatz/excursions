@@ -1,6 +1,7 @@
 ---
 layout: home
 type: home
+permalink: index.htm
 id: home
 head_photo:
   img: /img/home/head-photo.jpg

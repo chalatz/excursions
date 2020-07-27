@@ -2,7 +2,7 @@
 layout: gallery-page
 type: gallery-page
 id: tsambika
-permalink: /tsambika-beach-rhodes/
+permalink: tsambika-beach-rhodes.htm
 has_gallery: true
 has_destinations: true
 has_banners: false

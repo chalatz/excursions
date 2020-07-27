@@ -2,7 +2,7 @@
 layout: gallery-page
 type: gallery-page
 id: elli_beach
-permalink: /rhodes-town-beach/
+permalink: rhodes-town-beach.htm
 has_gallery: true
 has_destinations: true
 has_banners: false

@@ -2,7 +2,7 @@
 layout: gallery-page
 type: gallery-page
 id: kallithea
-permalink: /kallithea-springs-rhodes-greece/
+permalink: kallithea-springs-rhodes-greece.htm
 has_gallery: true
 has_destinations: true
 has_banners: false

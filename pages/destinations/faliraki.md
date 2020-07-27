@@ -2,7 +2,7 @@
 layout: gallery-page
 type: gallery-page
 id: faliraki_beach
-permalink: /faliraki-beach-rhodes/
+permalink: faliraki-beach-rhodes.htm
 has_gallery: true
 has_destinations: true
 has_banners: false

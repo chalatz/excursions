@@ -2,7 +2,7 @@
 layout: gallery-page
 type: gallery-page
 id: kritinia
-permalink: /kritinia-castle-rhodes-greece/
+permalink: kritinia-castle-rhodes-greece.htm
 has_gallery: true
 has_destinations: true
 has_banners: false

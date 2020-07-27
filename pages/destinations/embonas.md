@@ -2,7 +2,7 @@
 layout: gallery-page
 type: gallery-page
 id: embonas
-permalink: /embonas-village-rhodes/
+permalink: embonas-village-rhodes.htm
 has_gallery: true
 has_destinations: true
 has_banners: false

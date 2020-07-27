@@ -2,7 +2,7 @@
 layout: gallery-page
 type: gallery-page
 id: monolithos
-permalink: /castle-monolithos-rhodes-greece/
+permalink: castle-monolithos-rhodes-greece.htm
 has_gallery: true
 has_destinations: true
 has_banners: false

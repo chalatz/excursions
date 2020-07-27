@@ -2,8 +2,7 @@
 layout: gallery-page
 type: gallery-page
 id: filerimos
-permalink: /filerimos/
-redirect_from: filerimos_mountain.htm
+permalink: filerimos_mountain.htm
 has_gallery: true
 has_destinations: true
 has_banners: false

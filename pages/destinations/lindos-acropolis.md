@@ -2,8 +2,7 @@
 layout: gallery-page
 type: gallery-page
 id: lindos_acropolis
-permalink: /lindos-acropolis/
-redirect_from: lindos_acropolis.htm
+permalink: lindos_acropolis.htm
 has_gallery: true
 has_destinations: true
 has_banners: false

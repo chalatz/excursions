@@ -2,7 +2,7 @@
 layout: gallery-page
 type: gallery-page
 id: anthony_quinn
-permalink: /anthony-quinn-beach-rhodes/
+permalink: anthony-quinn-beach-rhodes.htm
 has_gallery: true
 has_destinations: true
 has_banners: false
