@@ -209,6 +209,7 @@
         border-radius: 4px;
         box-shadow: 0 10px 10px -12px #27334a;
         max-width: 90%;
+        transition: border-color .15s linear, box-shadow .15s linear;
         @include breakpoint(smaller) {            
             max-width: 85%;
         }
@@ -220,6 +221,15 @@
         }
         @include breakpoint(large) {            
             max-width: 75%;
+        }
+    }
+    
+    &__section-route-map-link {
+        &:hover {
+            img {
+                border-color: $yellow;
+                box-shadow: 0 10px 10px -12px $yellow;
+            }
         }
     }
 
