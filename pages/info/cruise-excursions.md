@@ -3,7 +3,7 @@ layout: cruises
 type: cruises
 parent: cruises
 id: cruise_excursions
-permalink: /rhodes-cruise-excursions/
+permalink: rhodes-cruise-excursions.htm
 has_gallery: false
 has_destinations: true
 has_banners: true

@@ -2,8 +2,7 @@
 layout: reviews
 type: info_page
 id: reviews
-permalink: /reviews-tripadvisor/
-redirect_from: reviews_tripadvisor.htm
+permalink: reviews_tripadvisor.htm
 has_gallery: false
 has_carousel: true
 has_reviews: true

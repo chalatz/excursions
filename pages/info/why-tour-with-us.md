@@ -2,8 +2,7 @@
 layout: page
 type: info_page
 id: why_us
-permalink: /independent-greece/
-redirect_from: Independent_greece.htm
+permalink: Independent_greece.htm
 has_gallery: false
 has_destinations: true
 has_banners: false

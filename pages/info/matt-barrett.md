@@ -2,8 +2,7 @@
 layout: page
 type: info_page
 id: rick_steves
-permalink: /matt-barrett/
-redirect_from: Matt_Barrett.htm
+permalink: Matt_Barrett.htm
 has_gallery: true
 has_destinations: false
 has_banners: false

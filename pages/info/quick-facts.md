@@ -2,8 +2,7 @@
 layout: page
 type: info_page
 id: quick_facts
-permalink: /facts-about-rhodes-greece/
-redirect_from: greece.htm
+permalink: greece.htm
 has_gallery: false
 meta:
   title: Facts about Rhodes Greece, Rhodes Shore Excursions

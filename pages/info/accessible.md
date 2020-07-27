@@ -2,8 +2,7 @@
 layout: page
 type: info_page
 id: accessible
-permalink: /wheelchair_accessible_greece/
-redirect_from: wheelchair_accessible_greece.htm
+permalink: wheelchair_accessible_greece.htm
 has_gallery: false
 has_destinations: true
 has_banners: true

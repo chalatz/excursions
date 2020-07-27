@@ -11,13 +11,13 @@ main:
       parent_name: about
       sublinks:
         - title: Our Story
-          url: '/private-shore-excursions-on-rhodes-greece/'
+          url: taxi_services.htm
           parent: about
         - title: VIP Tour Services
-          url: '/vip_tours/'
+          url: vip_tours.htm
           parent: about
     - title: Private Excursions
-      url: '/rhodes-cruise-excursions/'
+      url: rhodes-cruise-excursions.htm
       type: parent
       parent_name: cruises
       sublinks:
@@ -42,17 +42,17 @@ main:
         - title: Rhodes Green Tour
           url: '#'
     - title: Group Excursions
-      url: '/rhodes-groups-excursions/'
+      url: groups.htm
       type: single
       id: groups
       sublinks: []
     - title: Accessible
-      url: '/wheelchair_accessible_greece/'
+      url: wheelchair_accessible_greece.htm
       type: single
       id: accessible
       sublinks: []
     - title: Reviews
-      url: '/reviews-tripadvisor/'
+      url: reviews_tripadvisor.htm
       type: single
       id: reviews
       sublinks: []
@@ -67,25 +67,25 @@ footer:
     title: Know Before You Go
     items:
       - title: Our Story
-        url: /private-shore-excursions-on-rhodes-greece/
+        url: taxi_services.htm
         id: our_story
       - title: Why Tour with Us
-        url: '/independent-greece/'
+        url: Independent_greece.htm
         id: why_us
       - title: Rhodes Private Tours
-        url: '/rhodes-private-tours/'
+        url: rhodes_private_tours.htm
         id: private_tours
       - title: Excursions Worry Free
-        url: '/worry-free/'
+        url: worry_free.htm
         id: worry_free
       - title: Excursion Quality
-        url: '/quality-greece/'
+        url: quality_greece.htm
         id: excursion_quality
       - title: Cruises to Rhodes
-        url: '/discount-cruise/'
+        url: discount_cruise.htm
         id: cruises_to_rhodes
       - title: Rhodes Quick Facts
-        url: '/facts-about-rhodes-greece/'
+        url: greece.htm
         id: quick_facts
   col_2:
     title: Things to do in Rhodes

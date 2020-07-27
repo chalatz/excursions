@@ -2,8 +2,7 @@
 layout: page
 type: info_page
 id: cruises_to_rhodes
-permalink: /discount-cruise/
-redirect_from: discount_cruise.htm
+permalink: discount_cruise.htm
 has_gallery: false
 meta:
   title: Rhodes on Your Own from Cruise Ship, Rhodes Cruise Port

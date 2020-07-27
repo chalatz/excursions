@@ -2,8 +2,7 @@
 layout: page
 type: info_page
 id: worry_free
-permalink: /worry-free/
-redirect_from: worry_free.htm
+permalink: worry_free.htm
 has_gallery: false
 meta:
   title: Worry Free Guarantee Shore Excursions in Rhodes

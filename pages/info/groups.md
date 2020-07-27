@@ -2,8 +2,7 @@
 layout: page
 type: info_page
 id: groups
-permalink: /rhodes-groups-excursions/
-redirect_from: groups.htm
+permalink: groups.htm
 has_gallery: true
 has_destinations: true
 has_banners: true

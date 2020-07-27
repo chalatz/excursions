@@ -2,8 +2,7 @@
 layout: page
 type: info_page
 id: excursion_quality
-permalink: /quality-greece/
-redirect_from: quality_greece.htm
+permalink: quality_greece.htm
 has_gallery: false
 meta:
   title: Quality Shore Excursions in Rhodes Greece, Quality Cruise Shore Excursions

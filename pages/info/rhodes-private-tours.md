@@ -2,8 +2,7 @@
 layout: page
 type: info_page
 id: private_tours
-permalink: /rhodes-private-tours/
-redirect_from: rhodes_private_tours.htm
+permalink: rhodes_private_tours.htm
 has_gallery: false
 meta:
   title: Rhodes Private Tours, Private Tours in Rhodes Greece

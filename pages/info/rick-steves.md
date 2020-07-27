@@ -2,8 +2,7 @@
 layout: page
 type: info_page
 id: rick_steves
-permalink: /rick-steves/
-redirect_from: rick_steves.htm
+permalink: rick_steves.htm
 has_gallery: true
 has_destinations: false
 has_banners: false
