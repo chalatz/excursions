@@ -2,8 +2,7 @@
 layout: tour
 type: tour
 id: best_rhodes
-permalink: /best-rhodes-greece/
-redirect_from: best_rhodes_greece.htm
+permalink: best_rhodes_greece.htm
 has_gallery: true
 has_carousel: true
 has_destinations: true

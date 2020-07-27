@@ -22,9 +22,9 @@ main:
       parent_name: cruises
       sublinks:
         - title: View All Shore Excursions
-          url: '/rhodes-cruise-excursions/'
+          url: rhodes-cruise-excursions.htm
         - title: Best Rhodes Shore Excursions
-          url: '#'
+          url: best_rhodes_greece.htm
         - title: Rhodes in a Day
           url: '#'
         - title: Rhodes West Coast
