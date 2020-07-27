@@ -2,8 +2,7 @@
 layout: gallery-page
 type: gallery-page
 id: pottery
-permalink: /rhodes-lindos-pottery/
-redirect_from: greek_pottery.htm
+permalink: greek_pottery.htm
 has_gallery: true
 has_destinations: true
 has_banners: true

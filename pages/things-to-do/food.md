@@ -2,8 +2,7 @@
 layout: gallery-page
 type: gallery-page
 id: food
-permalink: /rhodes-cuisine-greece/
-redirect_from: rhodes_cuisine_greece.htm
+permalink: rhodes_cuisine_greece.htm
 has_gallery: true
 has_destinations: true
 has_banners: true

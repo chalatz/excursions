@@ -91,23 +91,23 @@ footer:
     title: Things to do in Rhodes
     items:
       - title: Rhodes Pottery
-        url: '/rhodes-lindos-pottery/'
+        url: greek_pottery.htm
         id: pottery
       - title: Rhodes Food Tour
-        url: '/rhodes-cuisine-greece/'
+        url: rhodes_cuisine_greece.htm
         id: food
       - title: The Jewish Quarter
-        url: '/jewish-quarter-juderia/'
+        url: jewish_quarter_juderia.htm
         id: juderia
       - title: Byzantine Monuments
-        url: '/byzantine/'
+        url: byzantine.htm
         id: byzantine
       - title: The Knights of Rhodes
-        url: 'knights-of-st-john'
+        url: knights_of_st_john.htm
         id: knights
       - title: Ottoman Sites
-        url: '/ottoman-sites/'
+        url: ottoman_sites.htm
         id: ottoman
       - title: Italian Architecture
-        url: '/italian-architecture/'
+        url: italian_architecture.htm
         id: italian_architecture

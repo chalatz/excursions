@@ -2,8 +2,7 @@
 layout: gallery-page
 type: gallery-page
 id: italian_architecture
-permalink: /italian-architecture/
-redirect_from: italian_architecture.htm
+permalink: italian_architecture.htm
 has_gallery: true
 has_destinations: true
 has_banners: false

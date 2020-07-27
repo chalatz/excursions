@@ -2,8 +2,7 @@
 layout: gallery-page
 type: gallery-page
 id: knights
-permalink: /knights-of-st-john/
-redirect_from: knights_of_st_john.htm
+permalink: knights_of_st_john.htm
 has_gallery: true
 has_destinations: true
 has_banners: false

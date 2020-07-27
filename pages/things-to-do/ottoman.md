@@ -2,8 +2,7 @@
 layout: gallery-page
 type: gallery-page
 id: ottoman
-permalink: /ottoman-sites/
-redirect_from: ottoman_sites.htm
+permalink: ottoman_sites.htm
 has_gallery: true
 has_destinations: true
 has_banners: false

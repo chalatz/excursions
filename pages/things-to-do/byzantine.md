@@ -2,8 +2,7 @@
 layout: gallery-page
 type: gallery-page
 id: byzantine
-permalink: /byzantine/
-redirect_from: byzantine.htm
+permalink: byzantine.htm
 has_gallery: true
 has_destinations: true
 has_banners: false

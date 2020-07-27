@@ -2,8 +2,7 @@
 layout: gallery-page
 type: gallery-page
 id: juderia
-permalink: /jewish-quarter-juderia/
-redirect_from: jewish_quarter_juderia.htm
+permalink: jewish_quarter_juderia.htm
 has_gallery: true
 has_destinations: true
 has_banners: true
