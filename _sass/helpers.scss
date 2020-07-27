@@ -17,79 +17,85 @@
 
 .mobile-only {
     &--inline {
-        display: inline;
+        display: inline !important;
     }
     &--block {
-        display: block;
+        display: block !important;
     }
     &--inline-block {
-        display: inline-block;
+        display: inline-block !important;
     }
     @include breakpoint(small) {
-        display: none;
+        display: none !important;
     }
 }
 
 .tablet-only {
-    display: none;
+    display: none !important;
     &--block {
         @include breakpoint(small) {
-            display: block;
+            display: block !important;
         }
     }
     &--inline {
         @include breakpoint(small) {
-            display: inline;
+            display: inline !important;
         }
     }
     &--inline-block {
         @include breakpoint(small) {
-            display: inline-block;
+            display: inline-block !important;
         }
     }
 }
 
 .desktop-only {
-    display: none;
+    display: none !important;
     &--block {
         @include breakpoint(medium) {
-            display: block;
+            display: block !important;
         }
     }
     &--inline {
         @include breakpoint(medium) {
-            display: inline;
+            display: inline !important;
         }
     }
     &--inline-block {
         @include breakpoint(medium) {
-            display: inline-block;
+            display: inline-block !important;
         }
     }
 }
 
 .large-desktop-only {
-    display: none;
+    display: none !important;
     &--block {
         @include breakpoint(large) {
-            display: block;
+            display: block !important;
         }
     }
     &--inline {
         @include breakpoint(large) {
-            display: inline;
+            display: inline !important;
         }
     }
     &--inline-block {
         @include breakpoint(large) {
-            display: inline-block;
+            display: inline-block !important;
         }
     }
 }
 
 .hide-on-large-desktop {
     @include breakpoint(large) {
-        display: none;
+        display: none !important;
+    }
+}
+
+.hide-on-desktop {
+    @include breakpoint(medium) {
+        display: none !important;
     }
 }
 
