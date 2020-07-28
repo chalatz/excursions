@@ -51,8 +51,8 @@ useful:
     3. If you have elderly people in your group, we can drive them down on the beautiful beach of Lindos have a drink and a nice discuss with the driver and enjoy the panoramic view while they are waiting for you to climb up the Acropolis of Lindos.
     4. If you have kids in your group the "**Best of Rhodes Shore Excursion**" it is also an Educational and Entertainment Excursion, and of course they will love the donkey ride up to the Acropolis of Lindos!!
     5. You may prefer to use ATM machines when you need cash. ATMs are everywhere.
-    6. Rhodes known for [Traditional Appetizers](/rhodes-cuisine-greece/), desserts, [Wines](/wine-tours/greece/), the famous handmade [Rhodes Pottery - Ceramics](/greek/pottery/) and the beautiful [Rhodes Beaches](rhodes/beaches/).
-    7. More info in [Rhodes Private Tours](/rhodes_private_tours/) F.A.Q.
+    6. Rhodes known for [Traditional Appetizers](rhodes_cuisine_greece.htm), desserts, [Wines](wine_tours_greece.htm), the famous handmade [Rhodes Pottery - Ceramics](greek_pottery.htm) and the beautiful [Rhodes Beaches](rhodes_beaches.htm).
+    7. More info in [Rhodes Private Tours](rhodes_private_tours.htm) F.A.Q.
 
 inclusions:
   title: Inclusions
@@ -60,7 +60,7 @@ inclusions:
     - Private Shore Excursion (Just your party)
     - Free Pick up and Drop off at the Cruise Port (or anywhere else)
     - Experienced knowledgeable Tour/Driver English Speaking
-    - Mercedes Benz Sedan Car (4 passengers plus the driver) (bigger group or more room?)
+    - Mercedes Benz Sedan Car (4 passengers plus the driver) (<a href="groups.htm">bigger group or more room?</a>)
     - All Car and Driver Expenses (prices are per car not per person)
     - No Stress - Back to the Ship on Time (if you are a Cruise Ship Passenger)
     - Personalized Customer Service
