@@ -8,7 +8,8 @@
   duration: 5:00 HOURS
   desc: This Half Day experience is the best introduction to Rhodes for first time visitors. Your thirst for history will be slaked, your desire for beautiful scenery will be fulfilled and you will be back at your ship on time for departure.
 - title: Rhodes in a Day
-  url: '/'
+  id: rhodes_in_a_day  
+  url: 'rhodes_in_a_day.htm'
   thumb:
     img: '/img/home/tours/2-thumb.jpg'
     alt_text: ''
