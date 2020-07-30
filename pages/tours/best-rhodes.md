@@ -8,11 +8,11 @@ has_carousel: true
 has_destinations: true
 has_banners: true
 meta:
-  title: Best Rhodes Shore Excursion
-  http_desc: Rhodes Food Tour, Rhodes Cuisine Greece, Greek Food in Rhodes Island, Traditional Greek Appetizers in Rhodes
-  keywords: Rhodes Food Tour, Rhodes Cuisine Greece, Greek Food in Rhodes Island, Traditional Greek Appetizers in Rhodes
-  description: Rhodes Food Tour, Rhodes Cuisine Greece, Greek Food in Rhodes Island, Traditional Greek Appetizers in Rhodes
-  abstract: Rhodes Food Tour
+  title: Best Shore Excursions in Rhodes Greece, Best Rhodes Shore Excursions, Cruise Shore Excursions
+  http_desc: Best Rhodes Shore Excursions, Greece, Best Shore Excursions in Rhodes Greece, Best Cruise Shore Excursions
+  keywords: Best Rhodes Shore Excursions, Best Shore Excursions in Rhodes Greece, Best Cruise Shore Excursions
+  description: Best Rhodes Shore Excursions, Best Shore Excursions in Rhodes Greece, Best Cruise Shore Excursions
+  abstract: Best Cruise Shore Excursions in Rhodes Greece
 title: BEST RHODES SHORE EXCURSION
 intro: |-
   This 5:00 hour adventure is the best introduction to Rhodes that these excursions have to offer. Your thirst for history will be slaked, your desire for beautiful scenery will be fulfilled and you will be back at your ship on time.
