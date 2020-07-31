@@ -108,7 +108,7 @@ gallery:
       alt: Best Sightseeing Excursions in Rhodes
     - path: /img/tours/best-rhodes/13.jpg
       thumb: /img/tours/best-rhodes/13-thumb.jpg
-      alt: 'Best Sightseeing Excursions in Rhodes
+      alt: Best Sightseeing Excursions in Rhodes
     - path: /img/tours/best-rhodes/14.jpg
       thumb: /img/tours/best-rhodes/14-thumb.jpg
       alt: Best Shore Trips Rhodes Greece
