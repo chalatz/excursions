@@ -36,12 +36,13 @@ itinerary:
     **(Stop Pictures)** = Stop and get out of the car for pictures from outside of the Sight/building
 
     **(Stop Visit Pictures)** = Stop and visit - go inside the sight/building for pictures
+
 route_map:
   title: Route Map
   description: Roundtrip approximately 100km / 62mi
   map:
-    path: /img/tours/best-rhodes/best_rhodes_greece_route_map_new.jpg
-    alt: 'BEST RHODES SHORE EXCURSION - Route map'
+    path: /img/tours/rhodes-west-coast/rhodes_west_coast_route_map.jpg
+    alt: 'RHODES WEST COAST EXCURSION - Route map'
 
 useful:
   title: Useful Info
@@ -69,50 +70,50 @@ inclusions:
 gallery:
   title: Gallery
   images:
-    - path: /img/tours/best-rhodes/1.jpg
-      thumb: /img/tours/best-rhodes/1-thumb.jpg
+    - path: /img/tours/rhodes-west-coast/1.jpg
+      thumb: /img/tours/rhodes-west-coast/1-thumb.jpg
       alt: ''
-    - path: /img/tours/best-rhodes/2.jpg
-      thumb: /img/tours/best-rhodes/2-thumb.jpg
+    - path: /img/tours/rhodes-west-coast/2.jpg
+      thumb: /img/tours/rhodes-west-coast/2-thumb.jpg
       alt: ''
-    - path: /img/tours/best-rhodes/3.jpg
-      thumb: /img/tours/best-rhodes/3-thumb.jpg
+    - path: /img/tours/rhodes-west-coast/3.jpg
+      thumb: /img/tours/rhodes-west-coast/3-thumb.jpg
       alt: ''
-    - path: /img/tours/best-rhodes/4.jpg
-      thumb: /img/tours/best-rhodes/4-thumb.jpg
+    - path: /img/tours/rhodes-west-coast/4.jpg
+      thumb: /img/tours/rhodes-west-coast/4-thumb.jpg
       alt: ''
-    - path: /img/tours/best-rhodes/5.jpg
-      thumb: /img/tours/best-rhodes/5-thumb.jpg
+    - path: /img/tours/rhodes-west-coast/5.jpg
+      thumb: /img/tours/rhodes-west-coast/5-thumb.jpg
       alt: ''
-    - path: /img/tours/best-rhodes/6.jpg
-      thumb: /img/tours/best-rhodes/6-thumb.jpg
+    - path: /img/tours/rhodes-west-coast/6.jpg
+      thumb: /img/tours/rhodes-west-coast/6-thumb.jpg
       alt: ''
-    - path: /img/tours/best-rhodes/7.jpg
-      thumb: /img/tours/best-rhodes/7-thumb.jpg
+    - path: /img/tours/rhodes-west-coast/7.jpg
+      thumb: /img/tours/rhodes-west-coast/7-thumb.jpg
       alt: ''
-    - path: /img/tours/best-rhodes/8.jpg
-      thumb: /img/tours/best-rhodes/8-thumb.jpg
+    - path: /img/tours/rhodes-west-coast/8.jpg
+      thumb: /img/tours/rhodes-west-coast/8-thumb.jpg
       alt: ''
-    - path: /img/tours/best-rhodes/9.jpg
-      thumb: /img/tours/best-rhodes/9-thumb.jpg
+    - path: /img/tours/rhodes-west-coast/9.jpg
+      thumb: /img/tours/rhodes-west-coast/9-thumb.jpg
       alt: ''
-    - path: /img/tours/best-rhodes/10.jpg
-      thumb: /img/tours/best-rhodes/10-thumb.jpg
+    - path: /img/tours/rhodes-west-coast/10.jpg
+      thumb: /img/tours/rhodes-west-coast/10-thumb.jpg
       alt: ''
-    - path: /img/tours/best-rhodes/11.jpg
-      thumb: /img/tours/best-rhodes/11-thumb.jpg
+    - path: /img/tours/rhodes-west-coast/11.jpg
+      thumb: /img/tours/rhodes-west-coast/11-thumb.jpg
       alt: ''
-    - path: /img/tours/best-rhodes/12.jpg
-      thumb: /img/tours/best-rhodes/12-thumb.jpg
+    - path: /img/tours/rhodes-west-coast/12.jpg
+      thumb: /img/tours/rhodes-west-coast/12-thumb.jpg
       alt: ''
-    - path: /img/tours/best-rhodes/13.jpg
-      thumb: /img/tours/best-rhodes/13-thumb.jpg
+    - path: /img/tours/rhodes-west-coast/13.jpg
+      thumb: /img/tours/rhodes-west-coast/13-thumb.jpg
       alt: ''
-    - path: /img/tours/best-rhodes/14.jpg
-      thumb: /img/tours/best-rhodes/14-thumb.jpg
+    - path: /img/tours/rhodes-west-coast/14.jpg
+      thumb: /img/tours/rhodes-west-coast/14-thumb.jpg
       alt: ''
-    - path: /img/tours/best-rhodes/15.jpg
-      thumb: /img/tours/best-rhodes/15-thumb.jpg
+    - path: /img/tours/rhodes-west-coast/15.jpg
+      thumb: /img/tours/rhodes-west-coast/15-thumb.jpg
       alt: ''
 outro: Rhodes Private Shore Excursions and Private Tours in Rhodes Greece
 ---
