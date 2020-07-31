@@ -2,7 +2,12 @@
     <div class="tour__gallery">
         {%- for img in page.gallery.images -%}
             <a href="{{- img.path | relative_url -}}" data-fancybox="tour-gallery" class="tour__gallery-item hidden">
-                <img src="{{- img.path | relative_url -}}" alt="">
+                {%- if img.path_mid and img.path_mid.size > 0 -%}
+                    {%- assign img_path = img.path_mid -%}
+                {%- else -%}
+                    {%- assign img_path = img.path -%}
+                {%- endif -%}
+                <img src="{{- img_path | relative_url -}}" alt="">
             </a>
         {%- endfor -%}
     </div>

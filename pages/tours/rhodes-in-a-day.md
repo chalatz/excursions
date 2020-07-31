@@ -106,6 +106,7 @@ gallery:
       thumb: /img/tours/rhodes-in-a-day/11-thumb.jpg
       alt: ''
     - path: /img/tours/rhodes-in-a-day/12.jpg
+      path_mid: /img/tours/rhodes-in-a-day/12-mid.jpg
       thumb: /img/tours/rhodes-in-a-day/12-thumb.jpg
       alt: ''
     - path: /img/tours/rhodes-in-a-day/13.jpg
