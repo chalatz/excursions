@@ -74,44 +74,44 @@ gallery:
   images:
     - path: /img/tours/rhodes-in-a-day/1.jpg
       thumb: /img/tours/rhodes-in-a-day/1-thumb.jpg
-      alt: ''
+      alt: One Day in Rhodes from Cruise Ship, Grand Master Palace
     - path: /img/tours/rhodes-in-a-day/2.jpg
       thumb: /img/tours/rhodes-in-a-day/2-thumb.jpg
-      alt: ''
+      alt: One Day in Rhodes from Cruise Port, Village and Acropolis of Lindos
     - path: /img/tours/rhodes-in-a-day/3.jpg
       thumb: /img/tours/rhodes-in-a-day/3-thumb.jpg
-      alt: ''
+      alt: One day in Rhodes Greece - Lindos Village
     - path: /img/tours/rhodes-in-a-day/4.jpg
       thumb: /img/tours/rhodes-in-a-day/4-thumb.jpg
-      alt: ''
+      alt: One day discount shore excursions
     - path: /img/tours/rhodes-in-a-day/5.jpg
       thumb: /img/tours/rhodes-in-a-day/5-thumb.jpg
-      alt: ''
+      alt: Rhodes taxi tour full day
     - path: /img/tours/rhodes-in-a-day/6.jpg
       thumb: /img/tours/rhodes-in-a-day/6-thumb.jpg
-      alt: ''
+      alt: One day Sightseeing excursions Greece
     - path: /img/tours/rhodes-in-a-day/7.jpg
       thumb: /img/tours/rhodes-in-a-day/7-thumb.jpg
-      alt: ''
+      alt: One day Island tour
     - path: /img/tours/rhodes-in-a-day/8.jpg
       thumb: /img/tours/rhodes-in-a-day/8-thumb.jpg
-      alt: ''
+      alt: One day sightseeing excursion in Rhodes Greece
     - path: /img/tours/rhodes-in-a-day/9.jpg
       thumb: /img/tours/rhodes-in-a-day/9-thumb.jpg
-      alt: ''
+      alt: One day cruise excursions Greek isles
     - path: /img/tours/rhodes-in-a-day/10.jpg
       thumb: /img/tours/rhodes-in-a-day/10-thumb.jpg
-      alt: ''
+      alt: One day Shore trips in Rhodes Greece
     - path: /img/tours/rhodes-in-a-day/11.jpg
       thumb: /img/tours/rhodes-in-a-day/11-thumb.jpg
-      alt: ''
+      alt: One day Shore tours in Rhodes Greece
     - path: /img/tours/rhodes-in-a-day/12.jpg
       path_mid: /img/tours/rhodes-in-a-day/12-mid.jpg
       thumb: /img/tours/rhodes-in-a-day/12-thumb.jpg
-      alt: ''
+      alt: One day Island tour Rhodes
     - path: /img/tours/rhodes-in-a-day/13.jpg
       thumb: /img/tours/rhodes-in-a-day/13-thumb.jpg
-      alt: ''
+      alt: Rhodes in one day Greece
 outro: Rhodes Private Shore Excursions and Private Tours in Rhodes Greece
 ---
 ### RHODES MEDIEVAL CITY

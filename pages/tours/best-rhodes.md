@@ -72,49 +72,49 @@ gallery:
   images:
     - path: /img/tours/best-rhodes/1.jpg
       thumb: /img/tours/best-rhodes/1-thumb.jpg
-      alt: ''
+      alt: Best of Rhodes Greece Excursions
     - path: /img/tours/best-rhodes/2.jpg
       thumb: /img/tours/best-rhodes/2-thumb.jpg
-      alt: ''
+      alt: Best Rhodes Private Tours Greece
     - path: /img/tours/best-rhodes/3.jpg
       thumb: /img/tours/best-rhodes/3-thumb.jpg
-      alt: ''
+      alt: Best Shore Trips Rhodes Greece
     - path: /img/tours/best-rhodes/4.jpg
       thumb: /img/tours/best-rhodes/4-thumb.jpg
-      alt: ''
+      alt: Best Shore Trips Rhodes Greece
     - path: /img/tours/best-rhodes/5.jpg
       thumb: /img/tours/best-rhodes/5-thumb.jpg
-      alt: ''
+      alt: Best Private Shore Excursions in Rhodes Greece
     - path: /img/tours/best-rhodes/6.jpg
       thumb: /img/tours/best-rhodes/6-thumb.jpg
-      alt: ''
+      alt: Best Private Tours in Rhodes Greece
     - path: /img/tours/best-rhodes/7.jpg
       thumb: /img/tours/best-rhodes/7-thumb.jpg
-      alt: ''
+      alt: Best Cruise Excursions in Rhodes Greece
     - path: /img/tours/best-rhodes/8.jpg
       thumb: /img/tours/best-rhodes/8-thumb.jpg
-      alt: ''
+      alt: Best Shore Trips Rhodes Greece
     - path: /img/tours/best-rhodes/9.jpg
       thumb: /img/tours/best-rhodes/9-thumb.jpg
-      alt: ''
+      alt: Best Taxi Tours in Rhodes Greece
     - path: /img/tours/best-rhodes/10.jpg
       thumb: /img/tours/best-rhodes/10-thumb.jpg
-      alt: ''
+      alt: Best of Rhodes Shore Excursions Greece
     - path: /img/tours/best-rhodes/11.jpg
       thumb: /img/tours/best-rhodes/11-thumb.jpg
-      alt: ''
+      alt: Best Cruise Excursions in Rhodes Greece
     - path: /img/tours/best-rhodes/12.jpg
       thumb: /img/tours/best-rhodes/12-thumb.jpg
-      alt: ''
+      alt: Best Sightseeing Excursions in Rhodes
     - path: /img/tours/best-rhodes/13.jpg
       thumb: /img/tours/best-rhodes/13-thumb.jpg
-      alt: ''
+      alt: 'Best Sightseeing Excursions in Rhodes
     - path: /img/tours/best-rhodes/14.jpg
       thumb: /img/tours/best-rhodes/14-thumb.jpg
-      alt: ''
+      alt: Best Shore Trips Rhodes Greece
     - path: /img/tours/best-rhodes/15.jpg
       thumb: /img/tours/best-rhodes/15-thumb.jpg
-      alt: ''
+      alt: Best Shore Tours in Rhodes Greece
 outro: Rhodes Private Shore Excursions and Private Tours in Rhodes Greece
 ---
 ### RHODES MEDIEVAL CITY

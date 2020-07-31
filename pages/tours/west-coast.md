@@ -72,49 +72,49 @@ gallery:
   images:
     - path: /img/tours/rhodes-west-coast/1.jpg
       thumb: /img/tours/rhodes-west-coast/1-thumb.jpg
-      alt: ''
+      alt: West Coast Rhodes Greece, Gate of the Old Town
     - path: /img/tours/rhodes-west-coast/2.jpg
       thumb: /img/tours/rhodes-west-coast/2-thumb.jpg
-      alt: ''
+      alt: Rhodes West Coast Greece, the Administration Building
     - path: /img/tours/rhodes-west-coast/3.jpg
       thumb: /img/tours/rhodes-west-coast/3-thumb.jpg
-      alt: ''
+      alt: Shore Tours in Rhodes Island Greece
     - path: /img/tours/rhodes-west-coast/4.jpg
       thumb: /img/tours/rhodes-west-coast/4-thumb.jpg
-      alt: ''
+      alt: West Coast of Rhodes Island Greece
     - path: /img/tours/rhodes-west-coast/5.jpg
       thumb: /img/tours/rhodes-west-coast/5-thumb.jpg
-      alt: ''
+      alt: Taxi tours of the West Coast in Rhodes
     - path: /img/tours/rhodes-west-coast/6.jpg
       thumb: /img/tours/rhodes-west-coast/6-thumb.jpg
-      alt: ''
+      alt: Daily tours of the west coast
     - path: /img/tours/rhodes-west-coast/7.jpg
       thumb: /img/tours/rhodes-west-coast/7-thumb.jpg
-      alt: ''
+      alt: Rhodes Sightseeing excursions
     - path: /img/tours/rhodes-west-coast/8.jpg
       thumb: /img/tours/rhodes-west-coast/8-thumb.jpg
-      alt: ''
+      alt: Discount shore excursions Rhodes
     - path: /img/tours/rhodes-west-coast/9.jpg
       thumb: /img/tours/rhodes-west-coast/9-thumb.jpg
-      alt: ''
+      alt: Boutique excursions in Rhodes
     - path: /img/tours/rhodes-west-coast/10.jpg
       thumb: /img/tours/rhodes-west-coast/10-thumb.jpg
-      alt: ''
+      alt: Cruise excursions Greek isles
     - path: /img/tours/rhodes-west-coast/11.jpg
       thumb: /img/tours/rhodes-west-coast/11-thumb.jpg
-      alt: ''
+      alt: Sightseeing excursions of the west coast
     - path: /img/tours/rhodes-west-coast/12.jpg
       thumb: /img/tours/rhodes-west-coast/12-thumb.jpg
-      alt: ''
+      alt: Private group tours of Rhodes west coast
     - path: /img/tours/rhodes-west-coast/13.jpg
       thumb: /img/tours/rhodes-west-coast/13-thumb.jpg
-      alt: ''
+      alt: West Coast of Rhodos,  Rodos Island
     - path: /img/tours/rhodes-west-coast/14.jpg
       thumb: /img/tours/rhodes-west-coast/14-thumb.jpg
-      alt: ''
+      alt: Rhodes West coast shore trips
     - path: /img/tours/rhodes-west-coast/15.jpg
       thumb: /img/tours/rhodes-west-coast/15-thumb.jpg
-      alt: ''
+      alt: West coast discount shore excursions
 outro: Rhodes Private Shore Excursions and Private Tours in Rhodes Greece
 ---
 ### RHODES MEDIEVAL CITY
