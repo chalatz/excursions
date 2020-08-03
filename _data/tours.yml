@@ -26,7 +26,8 @@
   duration: 5:30 HOURS
   desc: This excursion is a chance to travel through time. you'll see many sites from different periods in Rhodes' history. once you return to your ship, you'll have a significantly broadened understanding of our beautiful island.
 - title: Jewish Tours Rhodes
-  url: '/'
+  id: jewish_tours
+  url: jewish_tours_greece.htm
   thumb:
     img: '/img/home/tours/4-thumb.jpg'
     alt_text: ''
