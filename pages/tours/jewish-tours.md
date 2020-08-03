@@ -40,7 +40,7 @@ route_map:
   title: Route Map
   description: Roundtrip approximately 128km / 79,53miles
   map:
-    path: /img/tours/best-rhodes/best_rhodes_greece_route_map_new.jpg
+    path: /img/tours/jewish-tours/jewish_tours_greece_route_map.jpg
     alt: 'BEST RHODES SHORE EXCURSION - Route map'
 
 useful:
@@ -70,51 +70,54 @@ inclusions:
 gallery:
   title: Gallery
   images:
-    - path: /img/tours/best-rhodes/1.jpg
-      thumb: /img/tours/best-rhodes/1-thumb.jpg
-      alt: Best of Rhodes Greece Excursions
-    - path: /img/tours/best-rhodes/2.jpg
-      thumb: /img/tours/best-rhodes/2-thumb.jpg
-      alt: Best Rhodes Private Tours Greece
-    - path: /img/tours/best-rhodes/3.jpg
-      thumb: /img/tours/best-rhodes/3-thumb.jpg
-      alt: Best Shore Trips Rhodes Greece
-    - path: /img/tours/best-rhodes/4.jpg
-      thumb: /img/tours/best-rhodes/4-thumb.jpg
-      alt: Best Shore Trips Rhodes Greece
-    - path: /img/tours/best-rhodes/5.jpg
-      thumb: /img/tours/best-rhodes/5-thumb.jpg
-      alt: Best Private Shore Excursions in Rhodes Greece
-    - path: /img/tours/best-rhodes/6.jpg
-      thumb: /img/tours/best-rhodes/6-thumb.jpg
-      alt: Best Private Tours in Rhodes Greece
-    - path: /img/tours/best-rhodes/7.jpg
-      thumb: /img/tours/best-rhodes/7-thumb.jpg
-      alt: Best Cruise Excursions in Rhodes Greece
-    - path: /img/tours/best-rhodes/8.jpg
-      thumb: /img/tours/best-rhodes/8-thumb.jpg
-      alt: Best Shore Trips Rhodes Greece
-    - path: /img/tours/best-rhodes/9.jpg
-      thumb: /img/tours/best-rhodes/9-thumb.jpg
-      alt: Best Taxi Tours in Rhodes Greece
-    - path: /img/tours/best-rhodes/10.jpg
-      thumb: /img/tours/best-rhodes/10-thumb.jpg
-      alt: Best of Rhodes Shore Excursions Greece
-    - path: /img/tours/best-rhodes/11.jpg
-      thumb: /img/tours/best-rhodes/11-thumb.jpg
-      alt: Best Cruise Excursions in Rhodes Greece
-    - path: /img/tours/best-rhodes/12.jpg
-      thumb: /img/tours/best-rhodes/12-thumb.jpg
-      alt: Best Sightseeing Excursions in Rhodes
-    - path: /img/tours/best-rhodes/13.jpg
-      thumb: /img/tours/best-rhodes/13-thumb.jpg
-      alt: Best Sightseeing Excursions in Rhodes
-    - path: /img/tours/best-rhodes/14.jpg
-      thumb: /img/tours/best-rhodes/14-thumb.jpg
-      alt: Best Shore Trips Rhodes Greece
-    - path: /img/tours/best-rhodes/15.jpg
-      thumb: /img/tours/best-rhodes/15-thumb.jpg
-      alt: Best Shore Tours in Rhodes Greece
+    - path: /img/tours/jewish-tours/1.jpg
+      thumb: /img/tours/jewish-tours/1-thumb.jpg
+      alt: Jewish Tours of Rhodos, Rodos Island
+    - path: /img/tours/jewish-tours/2.jpg
+      thumb: /img/tours/jewish-tours/2-thumb.jpg
+      alt: Rhodes taxi tours
+    - path: /img/tours/jewish-tours/3.jpg
+      thumb: /img/tours/jewish-tours/3-thumb.jpg
+      alt: Cruise excursions Greek isles
+    - path: /img/tours/jewish-tours/4.jpg
+      thumb: /img/tours/jewish-tours/4-thumb.jpg
+      alt: Jewish Heritage Greece Rhodes
+    - path: /img/tours/jewish-tours/5.jpg
+      thumb: /img/tours/jewish-tours/5-thumb.jpg
+      alt: Discount Jewish excursions Rhodes
+    - path: /img/tours/jewish-tours/6.jpg
+      thumb: /img/tours/jewish-tours/6-thumb.jpg
+      alt: Jewish Travel Tours Greece Rhodes
+    - path: /img/tours/jewish-tours/7.jpg
+      thumb: /img/tours/jewish-tours/7-thumb.jpg
+      alt: Jewish heritage boutique excursions
+    - path: /img/tours/jewish-tours/8.jpg
+      thumb: /img/tours/jewish-tours/8-thumb.jpg
+      alt: Jewish History Tours Greece Rhodes
+    - path: /img/tours/jewish-tours/9.jpg
+      thumb: /img/tours/jewish-tours/9-thumb.jpg
+      alt: Cruise excursions and Jewish travel
+    - path: /img/tours/jewish-tours/10.jpg
+      thumb: /img/tours/jewish-tours/10-thumb.jpg
+      alt: Rhodes Jewish guided tours
+    - path: /img/tours/jewish-tours/11.jpg
+      thumb: /img/tours/jewish-tours/11-thumb.jpg
+      alt: Jewish excursion in one day
+    - path: /img/tours/jewish-tours/12.jpg
+      thumb: /img/tours/jewish-tours/12-thumb.jpg
+      alt: Rhodes Private Jewish Tours
+    - path: /img/tours/jewish-tours/13.jpg
+      thumb: /img/tours/jewish-tours/13-thumb.jpg
+      alt: Rhodes Greece Jewish Tours
+    - path: /img/tours/jewish-tours/14.jpg
+      thumb: /img/tours/jewish-tours/14-thumb.jpg
+      alt: Best Jewish Tours of Rhodes Greece
+    - path: /img/tours/jewish-tours/15.jpg
+      thumb: /img/tours/jewish-tours/15-thumb.jpg
+      alt: Jewish daily tours in Rhodes Greece
+    - path: /img/tours/jewish-tours/16.jpg
+      thumb: /img/tours/jewish-tours/16-thumb.jpg
+      alt: Jewish group tours in Rhodes Greece
 outro: Rhodes Private Shore Excursions and Private Tours in Rhodes Greece
 ---
 ### RHODES NEW TOWN
