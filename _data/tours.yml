@@ -17,7 +17,8 @@
   duration: 8:00 HOURS
   desc: This Full Day excursion can satisfy your appetite for history and natural beauty. Halfway through the tour a break for lunch at the water’s edge. A drive through this scenic island will create memories which can last forever.
 - title: Rhodes West Coast Excursion
-  url: '/'
+  id: rhodes_west_coast
+  url: rhodes_west_coast.htm
   thumb:
     img: '/img/home/tours/3-thumb.jpg'
     alt_text: ''

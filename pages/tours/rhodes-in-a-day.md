@@ -52,9 +52,8 @@ useful:
     4. The Valley of the Butterflies actually it is a hillside with two gates. The lower gate is the Main Gate, and the upper gate is the Secondary Gate. You can have a quick look using the Main Gate for around 10 min, but if you want to climb up there is about 60 min of walking time (up and down). For the comfort of our travelers we drive them to the Secondary Gate - upper gate so they can walk down easier (one way) 30 - 40 min. The elderly people in your group they can wait down at the Main Gate, with the driver while you explore the place. There is a small cafe, a refreshment kiosk, and a little gift shop.  Entrance fee: (3 Euros Low Season) (5 Euros High Season) per person. Children under 12 years old Free. (Before June 15th and after September 15th we skip the site as no butterflies)
     5. Filerimos: to visit the Stations of the Cross, the Cross, and the Panoramic Vista is free, to visit the Monastery and the Church, 6 Euros per person, Seniors (with Id or Passport) 3 Euros per person. Children under 18 years old free.
     6. You may prefer to use ATM machines when you need cash. ATMs are everywhere.
-    7. You may prefer to use ATM machines when you need cash. ATMs are everywhere.
-    8. Rhodes known for [Traditional Appetizers](rhodes_cuisine_greece.htm), desserts, [Wines](wine_tours_greece.htm), the famous handmade [Rhodes Pottery - Ceramics](greek_pottery.htm) and the beautiful [Rhodes Beaches](rhodes_beaches.htm).
-    9. More info in [Rhodes Private Tours](rhodes_private_tours.htm) F.A.Q.
+    7. Rhodes known for [Traditional Appetizers](rhodes_cuisine_greece.htm), desserts, [Wines](wine_tours_greece.htm), the famous handmade [Rhodes Pottery - Ceramics](greek_pottery.htm) and the beautiful [Rhodes Beaches](rhodes_beaches.htm).
+    8. More info in [Rhodes Private Tours](rhodes_private_tours.htm) F.A.Q.
 
 inclusions:
   title: Inclusions
@@ -74,44 +73,44 @@ gallery:
   images:
     - path: /img/tours/rhodes-in-a-day/1.jpg
       thumb: /img/tours/rhodes-in-a-day/1-thumb.jpg
-      alt: ''
+      alt: One Day in Rhodes from Cruise Ship, Grand Master Palace
     - path: /img/tours/rhodes-in-a-day/2.jpg
       thumb: /img/tours/rhodes-in-a-day/2-thumb.jpg
-      alt: ''
+      alt: One Day in Rhodes from Cruise Port, Village and Acropolis of Lindos
     - path: /img/tours/rhodes-in-a-day/3.jpg
       thumb: /img/tours/rhodes-in-a-day/3-thumb.jpg
-      alt: ''
+      alt: One day in Rhodes Greece - Lindos Village
     - path: /img/tours/rhodes-in-a-day/4.jpg
       thumb: /img/tours/rhodes-in-a-day/4-thumb.jpg
-      alt: ''
+      alt: One day discount shore excursions
     - path: /img/tours/rhodes-in-a-day/5.jpg
       thumb: /img/tours/rhodes-in-a-day/5-thumb.jpg
-      alt: ''
+      alt: Rhodes taxi tour full day
     - path: /img/tours/rhodes-in-a-day/6.jpg
       thumb: /img/tours/rhodes-in-a-day/6-thumb.jpg
-      alt: ''
+      alt: One day Sightseeing excursions Greece
     - path: /img/tours/rhodes-in-a-day/7.jpg
       thumb: /img/tours/rhodes-in-a-day/7-thumb.jpg
-      alt: ''
+      alt: One day Island tour
     - path: /img/tours/rhodes-in-a-day/8.jpg
       thumb: /img/tours/rhodes-in-a-day/8-thumb.jpg
-      alt: ''
+      alt: One day sightseeing excursion in Rhodes Greece
     - path: /img/tours/rhodes-in-a-day/9.jpg
       thumb: /img/tours/rhodes-in-a-day/9-thumb.jpg
-      alt: ''
+      alt: One day cruise excursions Greek isles
     - path: /img/tours/rhodes-in-a-day/10.jpg
       thumb: /img/tours/rhodes-in-a-day/10-thumb.jpg
-      alt: ''
+      alt: One day Shore trips in Rhodes Greece
     - path: /img/tours/rhodes-in-a-day/11.jpg
       thumb: /img/tours/rhodes-in-a-day/11-thumb.jpg
-      alt: ''
+      alt: One day Shore tours in Rhodes Greece
     - path: /img/tours/rhodes-in-a-day/12.jpg
       path_mid: /img/tours/rhodes-in-a-day/12-mid.jpg
       thumb: /img/tours/rhodes-in-a-day/12-thumb.jpg
-      alt: ''
+      alt: One day Island tour Rhodes
     - path: /img/tours/rhodes-in-a-day/13.jpg
       thumb: /img/tours/rhodes-in-a-day/13-thumb.jpg
-      alt: ''
+      alt: Rhodes in one day Greece
 outro: Rhodes Private Shore Excursions and Private Tours in Rhodes Greece
 ---
 ### RHODES MEDIEVAL CITY
@@ -130,7 +129,7 @@ From the cruise ship dock/pier we drive to the **Medieval City (World Heritage S
 
 The **Acropolis of Rhodes**, the **temple of Apollo**, the **Greek Stadium**, and **Ancient Theatre**. (Stop Visit Photos)
 
-**ST PAUL'S BAY - VILLAGE AND ACROPOLIS OF LINDOS**
+### ST PAUL'S BAY - VILLAGE AND ACROPOLIS OF LINDOS
 
 We will then drive 50 kilometers / 32 miles southeast to Lindos, where will visit the **St. Paul's Bay**, the village, and the **Acropolis of Lindos**. (Stop Visit Photos)
 
