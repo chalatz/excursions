@@ -39,7 +39,7 @@ itinerary:
 
 route_map:
   title: Route Map
-  description: Roundtrip approximately 100km / 62mi
+  description: Roundtrip approximately 100km / 62miles
   map:
     path: /img/tours/rhodes-west-coast/rhodes_west_coast_route_map.jpg
     alt: 'RHODES WEST COAST EXCURSION - Route map'
