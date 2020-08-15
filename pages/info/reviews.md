@@ -21,9 +21,9 @@ intro:
       We are listed on TripAdvisor as **"Rhodes Private Tours"**.
   icons:
     - path: img/trip-advisor/trip-advisor-2020.png
-      text: HALL OF FAME 2020
+      text: ''
       url: https://www.tripadvisor.com/Attraction_Review-g635613-d2645553-Reviews-Rhodes_Private_Tours-Rhodes_Town_Rhodes_Dodecanese_South_Aegean.html
-      alt_text: Tripadvisor Hall of Fame 2020
+      alt_text: "Tripadvisor Travellers' Choice 2020"
     - path: img/trip-advisor/trip-advisor-hall-of-fame-2019.jpg
       text: HALL OF FAME 2019
       url: https://www.tripadvisor.com/Attraction_Review-g635613-d2645553-Reviews-Rhodes_Private_Tours-Rhodes_Town_Rhodes_Dodecanese_South_Aegean.html

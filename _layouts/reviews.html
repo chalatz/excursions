@@ -48,9 +48,13 @@ layout: default
                 <div class="reviews__intro-icons">
                     {%- for icon in page.intro.icons -%}
                         <a class="reviews__icon{% if forloop.first %} reviews__icon--first{% endif %}" href="{{- icon.url -}}" target="_blank">
-                            <img src="{{- icon.path | relative_url -}}" alt="{{- icon.alt_text -}}" class="reviews__icon-img">
+                            <img src="{{- icon.path | relative_url -}}" alt="{{- icon.alt_text -}}" class="reviews__icon-img">                    
                             <p class="reviews__icon-text">
-                                {{- icon.text -}}
+                                {%- if icon.text and icon.text.size > 0 -%}
+                                    {{- icon.text -}}
+                                {%- else -%}
+                                    &nbsp;
+                                {%- endif -%}
                             </p>
                         </a>
                     {%- endfor -%}
