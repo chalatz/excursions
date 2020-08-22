@@ -36,6 +36,53 @@ itinerary:
     **(Stop Pictures)** = Stop and get out of the car for pictures from outside of the Sight/building.
 
     **(Stop Visit Pictures)** =Stop and visit - go inside the sight/building for pictures.
+  galleries:
+    new_town:
+      items_per_row: 4
+      items:
+        - image:
+            thumb: 'img/tours/wine-tours/content/01-thumb.jpg'
+            href: 'img/tours/wine-tours/content/01.jpg'
+            alt: Wine Tasting Tours in Greece Rhodes
+            is_link: false
+        - image:
+            thumb: 'img/tours/wine-tours/content/02-thumb.jpg'
+            href: 'img/tours/wine-tours/content/02.jpg'
+            alt: Boutique Wineries in Rhodes Greece
+            is_link: false
+        - image:
+            thumb: 'img/tours/wine-tours/content/03-thumb.jpg'
+            href: 'img/tours/wine-tours/content/03.jpg'
+            alt: Free Wine tasting in Rhodes Greece
+            is_link: false
+        - image:
+            thumb: 'img/tours/wine-tours/content/04-thumb.jpg'
+            href: 'img/tours/wine-tours/content/04.jpg'
+            alt: Cruise Wine Excursions in Rhodes
+            is_link: false
+    anastasia:
+      items_per_row: 4
+      items:
+        - image:
+            thumb: 'img/tours/wine-tours/content/05-thumb.jpg'
+            href: 'img/tours/wine-tours/content/05.jpg'
+            alt: Wine Tasting Tours in Greece Rhodes
+            is_link: false
+        - image:
+            thumb: 'img/tours/wine-tours/content/06-thumb.jpg'
+            href: 'img/tours/wine-tours/content/06.jpg'
+            alt: Boutique Wineries in Rhodes Greece
+            is_link: false
+        - image:
+            thumb: 'img/tours/wine-tours/content/07-thumb.jpg'
+            href: 'img/tours/wine-tours/content/07.jpg'
+            alt: Free Wine tasting in Rhodes Greece
+            is_link: false
+        - image:
+            thumb: 'img/tours/wine-tours/content/08-thumb.jpg'
+            href: 'img/tours/wine-tours/content/08.jpg'
+            alt: Cruise Wine Excursions in Rhodes
+            is_link: false
 route_map:
   title: Route Map
   description: Roundtrip Approximately 120km / 74,5miles
@@ -122,3 +169,15 @@ outro: Rhodes Private Shore Excursions and Private Tours in Rhodes Greece
 From the cruise ship dock/pier we drive up the hillside to **Monte Smith**, **Acropolis of Rhodes City**, for a panoramic view of the city. (Stop Visit Photos)
 
 We will also view the north point of the island where the **Mediterranean Sea** (east coast) and the **Aegean Sea** (west coast) meet.
+
+{% include partials/content-gallery.html the_gallery= page.itinerary.galleries.new_town %}
+
+### THE JOURNEY TO SOUTH WEST
+
+The drive continues 55 kilometres / 37 miles, from the north east to the south west coast, using an inland route. The road passes through villages and densely wooded areas.
+
+### WINE FACTORY ESTATE OF ANASTASIA
+
+On the way we stop near the Valley of the Butterflies at the small **Wine factory Estate of Anastasia Triantafillou** where they make high quality **Organic Wines** from the local white Athiri grape and the red Mandilari grape as well as **Cabernet Sauvignon, Merlot, Grenache Rouge** and **Moschatel**. They have a limited supply but you can sample their wines (free tasting), usually they offer you village bread with olive oil. You can also have a free olive oil tasting and honey tasting. You can get pictures of the ageing facilities as well. (Stop Visit Taste Photos)
+
+{% include partials/content-gallery.html the_gallery= page.itinerary.galleries.anastasia %}

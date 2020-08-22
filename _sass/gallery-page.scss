@@ -40,6 +40,10 @@
         border: 2px solid $lightblue;
         border-radius: 4px;
         box-shadow: 0 10px 10px -12px $darkblue;
+        &--content {
+            border: 2px solid $yellow;
+            box-shadow: 0 10px 10px -12px $darkyellow;
+        }
     }
 
     &-item-img {
