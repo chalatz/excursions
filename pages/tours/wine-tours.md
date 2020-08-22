@@ -83,6 +83,29 @@ itinerary:
             href: 'img/tours/wine-tours/content/08.jpg'
             alt: Best Wineries in Rhodes Greece
             is_link: false
+    emery:
+      items_per_row: 4
+      items:
+        - image:
+            thumb: 'img/tours/wine-tours/content/09-thumb.jpg'
+            href: 'img/tours/wine-tours/content/09.jpg'
+            alt: Wine tours in Rhodos, Rodos Island
+            is_link: false
+        - image:
+            thumb: 'img/tours/wine-tours/content/10-thumb.jpg'
+            href: 'img/tours/wine-tours/content/10.jpg'
+            alt: Best wine shore excursions in Rhodes
+            is_link: false
+        - image:
+            thumb: 'img/tours/wine-tours/content/11-thumb.jpg'
+            href: 'img/tours/wine-tours/content/11.jpg'
+            alt: Best Wine Tasting Tours in Greece Rhodes
+            is_link: false
+        - image:
+            thumb: 'img/tours/wine-tours/content/12-thumb.jpg'
+            href: 'img/tours/wine-tours/content/12.jpg'
+            alt: Wineries in Rhodes Greece
+            is_link: false
 route_map:
   title: Route Map
   description: Roundtrip Approximately 120km / 74,5miles
@@ -181,3 +204,9 @@ The drive continues 55 kilometres / 37 miles, from the north east to the south w
 On the way we stop near the Valley of the Butterflies at the small **Wine factory Estate of Anastasia Triantafillou** where they make high quality **Organic Wines** from the local white Athiri grape and the red Mandilari grape as well as **Cabernet Sauvignon, Merlot, Grenache Rouge** and **Moschatel**. They have a limited supply but you can sample their wines (free tasting), usually they offer you village bread with olive oil. You can also have a free olive oil tasting and honey tasting. You can get pictures of the ageing facilities as well. (Stop Visit Taste Photos)
 
 {% include partials/content-gallery.html the_gallery= page.itinerary.galleries.anastasia %}
+
+### THE EMERY WINERY
+
+We visit the **cellar of the Emery Winery**, the second biggest wine producer on the island, for more free wine tasting. The Emery winery, still one of the largest in Greece, was built in 1974 in the village of Embona and run by **Triantafillou family**. Decades of collaboration with local vine growers from the region, coupled with their own expertise and commitment, have enabled them to build a distinctive range of quality wines from unique Greek varietals, know since ancient times. The name Emery originates from **Emery D'Amboise** of French origin who was the Great Magistrate of Rhodes from 1503-1512. (Stop Visit Taste Photos)
+
+{% include partials/content-gallery.html the_gallery= page.itinerary.galleries.emery %}
