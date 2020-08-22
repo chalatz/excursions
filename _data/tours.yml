@@ -35,7 +35,8 @@
   duration: 6:00 HOURS
   desc: During this excursion, you will learn about a spirited Jewish community that was disappeared in World War II. The impact this group of people had on the history of Rhodes will be clear when you visit the Jewish Quarter.
 - title: Wine Tours Rhodes
-  url: '/'
+  id: wine_tours
+  url: wine_tours_greece.htm
   thumb:
     img: '/img/home/tours/5-thumb.jpg'
     alt_text: ''
