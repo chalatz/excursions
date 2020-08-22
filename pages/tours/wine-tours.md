@@ -66,22 +66,22 @@ itinerary:
         - image:
             thumb: 'img/tours/wine-tours/content/05-thumb.jpg'
             href: 'img/tours/wine-tours/content/05.jpg'
-            alt: Wine Tasting Tours in Greece Rhodes
+            alt: Rhodes private tours
             is_link: false
         - image:
             thumb: 'img/tours/wine-tours/content/06-thumb.jpg'
             href: 'img/tours/wine-tours/content/06.jpg'
-            alt: Boutique Wineries in Rhodes Greece
+            alt: Wine Shore tours in Rhodes Greece
             is_link: false
         - image:
             thumb: 'img/tours/wine-tours/content/07-thumb.jpg'
             href: 'img/tours/wine-tours/content/07.jpg'
-            alt: Free Wine tasting in Rhodes Greece
+            alt: Wine Shore trips in Rhodes Greece
             is_link: false
         - image:
             thumb: 'img/tours/wine-tours/content/08-thumb.jpg'
             href: 'img/tours/wine-tours/content/08.jpg'
-            alt: Cruise Wine Excursions in Rhodes
+            alt: Best Wineries in Rhodes Greece
             is_link: false
 route_map:
   title: Route Map
