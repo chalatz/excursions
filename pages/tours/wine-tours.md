@@ -1,5 +1,5 @@
 ---
-layout: wine-tour
+layout: tour
 type: tour
 id: wine_tours
 permalink: wine_tours_greece.htm
@@ -18,7 +18,7 @@ intro: |-
   This excursion is for everyone, not just those who take a special interest in wine. The breath-taking views and the Green Tour will appeal to those for whom natural beauty is a reason to travel. Plus, you will sample exceptional local wines and visit villages, cellars and wine estates. You will "taste" the island in more ways than one.
 itinerary:
   title: Excursion Itinerary
-  heading: Rhodes New Town, West Coast of the Island, Free Wine Tasting, Lunch Break
+  heading:  Rhodes New Town, West Coast of the Island, Free Wine Tasting, Lunch Break
   description: 'Private Shore Excursion 6:00 hours'
   details: |-
     **Duration:** 6:00 hours.
@@ -198,23 +198,26 @@ itinerary:
             href: 'img/tours/wine-tours/content/28.jpg'
             alt: Best Wineries in Rhodes Greece
             is_link: false
+
 route_map:
   title: Route Map
-  description: Roundtrip Approximately 120km / 74,5miles
+  description: Roundtrip approximately 165km / 102,5miles
   map:
-    path: /img/tours/best-rhodes/best_rhodes_greece_route_map_new.jpg
-    alt: 'BEST RHODES SHORE EXCURSION - Route map'
+    path: /img/tours/wine-tours/wine_tours_greece_route_map.jpg
+    alt: 'WINE TOUR SHORE EXCURSION - Route map'
 
 useful:
   title: Useful Info
   text: |-
-    1. Entrance Fees Acropolis of Lindos 12 Euros per person, Seniors 6 Euros per person, Children under 18 years old free, No charge to enter Lindos village.
-    2. To reach the Acropolis of Lindos you will be required to climb 292 steps, or ride on a donkey. The donkey does not eliminate all the steps, there are over 80 to go when you get off the donkey. The donkeys go by a slightly different path so the stairs, and the soles of your shoes, will be quite clean if you wish to walk up. The risers of the stairs are 5-7 inches and the treads 18-24 inches. No handrail on either side.
-    3. If you have elderly people in your group, we can drive them down on the beautiful beach of Lindos have a drink and a nice discuss with the driver and enjoy the panoramic view while they are waiting for you to climb up the Acropolis of Lindos.
-    4. If you have kids in your group the "**Best of Rhodes Shore Excursion**" it is also an Educational and Entertainment Excursion, and of course they will love the donkey ride up to the Acropolis of Lindos!!
-    5. You may prefer to use ATM machines when you need cash. ATMs are everywhere.
-    6. Rhodes known for [Traditional Appetizers](rhodes_cuisine_greece.htm), desserts, [Wines](wine_tours_greece.htm), the famous handmade [Rhodes Pottery - Ceramics](greek_pottery.htm) and the beautiful [Rhodes Beaches](rhodes_beaches.htm).
-    7. More info in [Rhodes Private Tours](rhodes_private_tours.htm) F.A.Q.
+    1. Even if you aren't big wine connoisseurs you can taste any type of wine you wish. You don't have to purchase any amount of wine; also, you can get detailed info on every winery from the wine makers while you taste the wines.
+    2. It is a historical fact that the island of Rhodes was one of the most important wine production and trade areas in the ancient world. The landscape, the fertile earth and the combination of a mild climate, the unique sun and low rainfall are perfect climatic conditions, which are so important to produce the local grape varieties.
+    3. Rhodes Island known for its three wine labels:<br>
+    A) White wine from the white grape variety **Athiri** (VDQS), a classic Aegean variety cultivated in the wider area since antiquity.<br>
+    B) Red wine (VDQS) from a red grape variety which has come to dominate almost all islands of the Aegean. **Mandilaria** (often also called **Amorgiano**).<br>
+    C) Sweet white wine (VDQS) produced by blending two varieties of **Muscat grapes**. Classic **white Muscat** (from Samos) and the Italian imported **Trani Muscat**.
+    4. You may prefer to use ATM machines when you need cash. ATMs are everywhere.
+    5. Rhodes known for [Traditional Appetizers](rhodes_cuisine_greece.htm), desserts, [Wines](wine_tours_greece.htm), the famous handmade [Rhodes Pottery - Ceramics](greek_pottery.htm) and the beautiful [Rhodes Beaches](rhodes_beaches.htm).
+    6. More info in [Rhodes Private Tours](rhodes_private_tours.htm) F.A.Q.
 
 inclusions:
   title: Inclusions
@@ -228,55 +231,56 @@ inclusions:
     - Personalized Customer Service
   not_included:
     - Entrance Fees, Food, Drinks, Gratuities (Optional)
+  footer: The Wine Tour got no Entrance fees, Food, or Drinks to pay, the wine tasting in the wineries is FREE. The food and the drinks in the restaurant are not included in the tour price.    
 
 gallery:
   title: Gallery
   images:
-    - path: /img/tours/best-rhodes/1.jpg
-      thumb: /img/tours/best-rhodes/1-thumb.jpg
-      alt: Best of Rhodes Greece Excursions
-    - path: /img/tours/best-rhodes/2.jpg
-      thumb: /img/tours/best-rhodes/2-thumb.jpg
-      alt: Best Rhodes Private Tours Greece
-    - path: /img/tours/best-rhodes/3.jpg
-      thumb: /img/tours/best-rhodes/3-thumb.jpg
-      alt: Best Shore Trips Rhodes Greece
-    - path: /img/tours/best-rhodes/4.jpg
-      thumb: /img/tours/best-rhodes/4-thumb.jpg
-      alt: Best Shore Trips Rhodes Greece
-    - path: /img/tours/best-rhodes/5.jpg
-      thumb: /img/tours/best-rhodes/5-thumb.jpg
-      alt: Best Private Shore Excursions in Rhodes Greece
-    - path: /img/tours/best-rhodes/6.jpg
-      thumb: /img/tours/best-rhodes/6-thumb.jpg
-      alt: Best Private Tours in Rhodes Greece
-    - path: /img/tours/best-rhodes/7.jpg
-      thumb: /img/tours/best-rhodes/7-thumb.jpg
-      alt: Best Cruise Excursions in Rhodes Greece
-    - path: /img/tours/best-rhodes/8.jpg
-      thumb: /img/tours/best-rhodes/8-thumb.jpg
-      alt: Best Shore Trips Rhodes Greece
-    - path: /img/tours/best-rhodes/9.jpg
-      thumb: /img/tours/best-rhodes/9-thumb.jpg
-      alt: Best Taxi Tours in Rhodes Greece
-    - path: /img/tours/best-rhodes/10.jpg
-      thumb: /img/tours/best-rhodes/10-thumb.jpg
-      alt: Best of Rhodes Shore Excursions Greece
-    - path: /img/tours/best-rhodes/11.jpg
-      thumb: /img/tours/best-rhodes/11-thumb.jpg
-      alt: Best Cruise Excursions in Rhodes Greece
-    - path: /img/tours/best-rhodes/12.jpg
-      thumb: /img/tours/best-rhodes/12-thumb.jpg
-      alt: Best Sightseeing Excursions in Rhodes
-    - path: /img/tours/best-rhodes/13.jpg
-      thumb: /img/tours/best-rhodes/13-thumb.jpg
-      alt: Best Sightseeing Excursions in Rhodes
-    - path: /img/tours/best-rhodes/14.jpg
-      thumb: /img/tours/best-rhodes/14-thumb.jpg
-      alt: Best Shore Trips Rhodes Greece
-    - path: /img/tours/best-rhodes/15.jpg
-      thumb: /img/tours/best-rhodes/15-thumb.jpg
-      alt: Best Shore Tours in Rhodes Greece
+    - path: /img/tours/rhodes-west-coast/1.jpg
+      thumb: /img/tours/rhodes-west-coast/1-thumb.jpg
+      alt: West Coast Rhodes Greece, Gate of the Old Town
+    - path: /img/tours/rhodes-west-coast/2.jpg
+      thumb: /img/tours/rhodes-west-coast/2-thumb.jpg
+      alt: Rhodes West Coast Greece, the Administration Building
+    - path: /img/tours/rhodes-west-coast/3.jpg
+      thumb: /img/tours/rhodes-west-coast/3-thumb.jpg
+      alt: Shore Tours in Rhodes Island Greece
+    - path: /img/tours/rhodes-west-coast/4.jpg
+      thumb: /img/tours/rhodes-west-coast/4-thumb.jpg
+      alt: West Coast of Rhodes Island Greece
+    - path: /img/tours/rhodes-west-coast/5.jpg
+      thumb: /img/tours/rhodes-west-coast/5-thumb.jpg
+      alt: Taxi tours of the West Coast in Rhodes
+    - path: /img/tours/rhodes-west-coast/6.jpg
+      thumb: /img/tours/rhodes-west-coast/6-thumb.jpg
+      alt: Daily tours of the west coast
+    - path: /img/tours/rhodes-west-coast/7.jpg
+      thumb: /img/tours/rhodes-west-coast/7-thumb.jpg
+      alt: Rhodes Sightseeing excursions
+    - path: /img/tours/rhodes-west-coast/8.jpg
+      thumb: /img/tours/rhodes-west-coast/8-thumb.jpg
+      alt: Discount shore excursions Rhodes
+    - path: /img/tours/rhodes-west-coast/9.jpg
+      thumb: /img/tours/rhodes-west-coast/9-thumb.jpg
+      alt: Boutique excursions in Rhodes
+    - path: /img/tours/rhodes-west-coast/10.jpg
+      thumb: /img/tours/rhodes-west-coast/10-thumb.jpg
+      alt: Cruise excursions Greek isles
+    - path: /img/tours/rhodes-west-coast/11.jpg
+      thumb: /img/tours/rhodes-west-coast/11-thumb.jpg
+      alt: Sightseeing excursions of the west coast
+    - path: /img/tours/rhodes-west-coast/12.jpg
+      thumb: /img/tours/rhodes-west-coast/12-thumb.jpg
+      alt: Private group tours of Rhodes west coast
+    - path: /img/tours/rhodes-west-coast/13.jpg
+      thumb: /img/tours/rhodes-west-coast/13-thumb.jpg
+      alt: West Coast of Rhodos,  Rodos Island
+    - path: /img/tours/rhodes-west-coast/14.jpg
+      thumb: /img/tours/rhodes-west-coast/14-thumb.jpg
+      alt: Rhodes West coast shore trips
+    - path: /img/tours/rhodes-west-coast/15.jpg
+      thumb: /img/tours/rhodes-west-coast/15-thumb.jpg
+      alt: West coast discount shore excursions
 outro: Rhodes Private Shore Excursions and Private Tours in Rhodes Greece
 ---
 ### RHODES NEW TOWN & ACROPOLIS
@@ -303,7 +307,6 @@ We visit the **cellar of the Emery Winery**, the second biggest wine producer on
 
 {% include partials/content-gallery.html the_gallery= page.itinerary.galleries.emery %}
 
-
 ### MERKOURIS FAMILY WINERY
 
 We continue with **Dionysos** Free Wine Tasting. Here you can taste a big variety of fresh wines without chemical interventions and the strong local spirit **Souma** (Souma from their grapes production in the traditional way of distillation). You are also offered olives, tomatoes, cheese, village bread and local fruits, usually grapes.
@@ -320,7 +323,7 @@ We visit the **Kounaki Winery**. It produces about 10 different types of wine th
 
 We visit **Alexandris Winery**. Here the philosophy of the winemaking focuses on the production of high quality wine that is bind by the ecosystem of mount Ataviros and expresses the uniqueness of the natural surroundings. To achieve this goal, the cultivation and vinification take place under special catering, using not only the knowledge but also by merging tradition with technology. (Stop Visit Taste Photos)
 
-{% include partials/content-gallery.html the_gallery= page.itinerary.galleries.alexandris %} 
+{% include partials/content-gallery.html the_gallery= page.itinerary.galleries.alexandris %}
 
 ### BREAK FOR TRADITIONAL LUNCH
 
@@ -328,7 +331,7 @@ Break for Delicious Snack or Lunch Experiences at a Greek traditional tavern / R
 
 Embona also is a known place by locals coming from everywhere to eat grilled meat. Here you can really feel the Greek life; the wineries and restaurants have the perfect traditional sensation.
 
-{% include partials/content-gallery.html the_gallery= page.itinerary.galleries.lunch %} 
+{% include partials/content-gallery.html the_gallery= page.itinerary.galleries.lunch %}
 
 ### BACK TO THE SHIP (or to the STARTING POINT)
 

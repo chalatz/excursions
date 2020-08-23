@@ -1,3 +1,7 @@
+._mt-1rem {
+    margin-top: 1rem !important;
+}
+
 .full-width {
     width: 100%;
     display: block;
@@ -13,6 +17,10 @@
 
 .hidden {
     visibility: hidden;
+}
+
+.oblique {
+    font-style: oblique;
 }
 
 .mobile-only {
