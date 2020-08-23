@@ -106,6 +106,98 @@ itinerary:
             href: 'img/tours/wine-tours/content/12.jpg'
             alt: Wineries in Rhodes Greece
             is_link: false
+    merkouris:
+      items_per_row: 4
+      items:
+        - image:
+            thumb: 'img/tours/wine-tours/content/13-thumb.jpg'
+            href: 'img/tours/wine-tours/content/13.jpg'
+            alt: Rhodes Taxi Tours
+            is_link: false
+        - image:
+            thumb: 'img/tours/wine-tours/content/14-thumb.jpg'
+            href: 'img/tours/wine-tours/content/14.jpg'
+            alt: Private wine tours in Rhodes
+            is_link: false
+        - image:
+            thumb: 'img/tours/wine-tours/content/15-thumb.jpg'
+            href: 'img/tours/wine-tours/content/15.jpg'
+            alt: Discount shore excursions Rhodes
+            is_link: false
+        - image:
+            thumb: 'img/tours/wine-tours/content/16-thumb.jpg'
+            href: 'img/tours/wine-tours/content/16.jpg'
+            alt: Boutique excursions in Rhodes Greece
+            is_link: false
+    kounakis:
+      items_per_row: 4
+      items:
+        - image:
+            thumb: 'img/tours/wine-tours/content/17-thumb.jpg'
+            href: 'img/tours/wine-tours/content/17.jpg'
+            alt: Wine Tours, Wine Excursions in Rhodes Greece
+            is_link: false
+        - image:
+            thumb: 'img/tours/wine-tours/content/18-thumb.jpg'
+            href: 'img/tours/wine-tours/content/18.jpg'
+            alt: Discount wine excursions Rhodes
+            is_link: false
+        - image:
+            thumb: 'img/tours/wine-tours/content/19-thumb.jpg'
+            href: 'img/tours/wine-tours/content/19.jpg'
+            alt: Wine Tasting Tours in Greece Rhodes
+            is_link: false
+        - image:
+            thumb: 'img/tours/wine-tours/content/20-thumb.jpg'
+            href: 'img/tours/wine-tours/content/20.jpg'
+            alt: Boutique Wineries in Rhodes Greece
+            is_link: false
+    alexandris:
+      items_per_row: 4
+      items:
+        - image:
+            thumb: 'img/tours/wine-tours/content/21-thumb.jpg'
+            href: 'img/tours/wine-tours/content/21.jpg'
+            alt: Cruise Wine Excursions in Rhodes
+            is_link: false
+        - image:
+            thumb: 'img/tours/wine-tours/content/22-thumb.jpg'
+            href: 'img/tours/wine-tours/content/22.jpg'
+            alt: Sightseeing and wine excursions
+            is_link: false
+        - image:
+            thumb: 'img/tours/wine-tours/content/23-thumb.jpg'
+            href: 'img/tours/wine-tours/content/23.jpg'
+            alt: Best Wine Tours Greece Rhodes
+            is_link: false
+        - image:
+            thumb: 'img/tours/wine-tours/content/24-thumb.jpg'
+            href: 'img/tours/wine-tours/content/24.jpg'
+            alt: Rhodes taxi tours Greece
+            is_link: false
+    lunch:
+      items_per_row: 4
+      items:
+        - image:
+            thumb: 'img/tours/wine-tours/content/25-thumb.jpg'
+            href: 'img/tours/wine-tours/content/25.jpg'
+            alt: Rhodes private tours
+            is_link: false
+        - image:
+            thumb: 'img/tours/wine-tours/content/26-thumb.jpg'
+            href: 'img/tours/wine-tours/content/26.jpg'
+            alt: Wine Shore tours in Rhodes Greece
+            is_link: false
+        - image:
+            thumb: 'img/tours/wine-tours/content/27-thumb.jpg'
+            href: 'img/tours/wine-tours/content/27.jpg'
+            alt: Wine Shore trips in Rhodes Greece
+            is_link: false
+        - image:
+            thumb: 'img/tours/wine-tours/content/28-thumb.jpg'
+            href: 'img/tours/wine-tours/content/28.jpg'
+            alt: Best Wineries in Rhodes Greece
+            is_link: false
 route_map:
   title: Route Map
   description: Roundtrip Approximately 120km / 74,5miles
@@ -210,3 +302,34 @@ On the way we stop near the Valley of the Butterflies at the small **Wine factor
 We visit the **cellar of the Emery Winery**, the second biggest wine producer on the island, for more free wine tasting. The Emery winery, still one of the largest in Greece, was built in 1974 in the village of Embona and run by **Triantafillou family**. Decades of collaboration with local vine growers from the region, coupled with their own expertise and commitment, have enabled them to build a distinctive range of quality wines from unique Greek varietals, know since ancient times. The name Emery originates from **Emery D'Amboise** of French origin who was the Great Magistrate of Rhodes from 1503-1512. (Stop Visit Taste Photos)
 
 {% include partials/content-gallery.html the_gallery= page.itinerary.galleries.emery %}
+
+
+### MERKOURIS FAMILY WINERY
+
+We continue with **Dionysos** Free Wine Tasting. Here you can taste a big variety of fresh wines without chemical interventions and the strong local spirit **Souma** (Souma from their grapes production in the traditional way of distillation). You are also offered olives, tomatoes, cheese, village bread and local fruits, usually grapes.
+
+{% include partials/content-gallery.html the_gallery= page.itinerary.galleries.merkouris %}
+
+### KOUNAKI WINERY
+
+We visit the **Kounaki Winery**. It produces about 10 different types of wine that are available in very small quantities (2000 to 5000 bottles per label). Kounaki winery cultivates Greek varieties but also European varieties such as **Cabernet Sauvignon**, **Merlot**, **Syrah**, **Chardonnay**, **Tempranillo**. During the season, the winery is open to visitors and offers products for testing for free. The winery is staffed with oenologist and all necessary and qualified personnel for vinification, viticulture and visitor service (Stop Visit Taste Photos)
+
+{% include partials/content-gallery.html the_gallery= page.itinerary.galleries.kounakis %}
+
+### ALEXANDRIS WINERY
+
+We visit **Alexandris Winery**. Here the philosophy of the winemaking focuses on the production of high quality wine that is bind by the ecosystem of mount Ataviros and expresses the uniqueness of the natural surroundings. To achieve this goal, the cultivation and vinification take place under special catering, using not only the knowledge but also by merging tradition with technology. (Stop Visit Taste Photos)
+
+{% include partials/content-gallery.html the_gallery= page.itinerary.galleries.alexandris %} 
+
+### BREAK FOR TRADITIONAL LUNCH
+
+Break for Delicious Snack or Lunch Experiences at a Greek traditional tavern / Rhodian cuisine and excellent homemade wines. (at your own expense)
+
+Embona also is a known place by locals coming from everywhere to eat grilled meat. Here you can really feel the Greek life; the wineries and restaurants have the perfect traditional sensation.
+
+{% include partials/content-gallery.html the_gallery= page.itinerary.galleries.lunch %} 
+
+### BACK TO THE SHIP (or to the STARTING POINT)
+
+We travel back along the West Coast, with its breath-taking views of the Aegean Sea, to your cruise ship. If you prefer to be taken to the Medieval City for independent browsing, you will be responsible for returning on foot to the ship, docked about a quarter-mile away.
