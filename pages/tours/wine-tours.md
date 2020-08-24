@@ -236,58 +236,57 @@ inclusions:
 gallery:
   title: Gallery
   images:
-    - path: /img/tours/rhodes-west-coast/1.jpg
-      thumb: /img/tours/rhodes-west-coast/1-thumb.jpg
-      alt: West Coast Rhodes Greece, Gate of the Old Town
-    - path: /img/tours/rhodes-west-coast/2.jpg
-      thumb: /img/tours/rhodes-west-coast/2-thumb.jpg
-      alt: Rhodes West Coast Greece, the Administration Building
-    - path: /img/tours/rhodes-west-coast/3.jpg
-      thumb: /img/tours/rhodes-west-coast/3-thumb.jpg
-      alt: Shore Tours in Rhodes Island Greece
-    - path: /img/tours/rhodes-west-coast/4.jpg
-      thumb: /img/tours/rhodes-west-coast/4-thumb.jpg
-      alt: West Coast of Rhodes Island Greece
-    - path: /img/tours/rhodes-west-coast/5.jpg
-      thumb: /img/tours/rhodes-west-coast/5-thumb.jpg
-      alt: Taxi tours of the West Coast in Rhodes
-    - path: /img/tours/rhodes-west-coast/6.jpg
-      thumb: /img/tours/rhodes-west-coast/6-thumb.jpg
-      alt: Daily tours of the west coast
-    - path: /img/tours/rhodes-west-coast/7.jpg
-      thumb: /img/tours/rhodes-west-coast/7-thumb.jpg
-      alt: Rhodes Sightseeing excursions
-    - path: /img/tours/rhodes-west-coast/8.jpg
-      thumb: /img/tours/rhodes-west-coast/8-thumb.jpg
-      alt: Discount shore excursions Rhodes
-    - path: /img/tours/rhodes-west-coast/9.jpg
-      thumb: /img/tours/rhodes-west-coast/9-thumb.jpg
-      alt: Boutique excursions in Rhodes
-    - path: /img/tours/rhodes-west-coast/10.jpg
-      thumb: /img/tours/rhodes-west-coast/10-thumb.jpg
-      alt: Cruise excursions Greek isles
-    - path: /img/tours/rhodes-west-coast/11.jpg
-      thumb: /img/tours/rhodes-west-coast/11-thumb.jpg
-      alt: Sightseeing excursions of the west coast
-    - path: /img/tours/rhodes-west-coast/12.jpg
-      thumb: /img/tours/rhodes-west-coast/12-thumb.jpg
-      alt: Private group tours of Rhodes west coast
-    - path: /img/tours/rhodes-west-coast/13.jpg
-      thumb: /img/tours/rhodes-west-coast/13-thumb.jpg
-      alt: West Coast of Rhodos,  Rodos Island
-    - path: /img/tours/rhodes-west-coast/14.jpg
-      thumb: /img/tours/rhodes-west-coast/14-thumb.jpg
-      alt: Rhodes West coast shore trips
-    - path: /img/tours/rhodes-west-coast/15.jpg
-      thumb: /img/tours/rhodes-west-coast/15-thumb.jpg
-      alt: West coast discount shore excursions
+    - path: /img/tours/wine-tours/wine_tours_greece_1.jpg
+      thumb: /img/tours/wine-tours/wine_tours_greece_1-thumb.jpg
+      alt: Discount wine excursions Rhodes
+    - path: /img/tours/wine-tours/wine_tours_greece_2.jpg
+      thumb: /img/tours/wine-tours/wine_tours_greece_2-thumb.jpg
+      alt: Boutique Wineries in Rhodes Greece
+    - path: /img/tours/wine-tours/wine_tours_greece_3.jpg
+      thumb: /img/tours/wine-tours/wine_tours_greece_3-thumb.jpg
+      alt: Free Wine tasting in Rhodes Greece
+    - path: /img/tours/wine-tours/wine_tours_greece_4.jpg
+      thumb: /img/tours/wine-tours/wine_tours_greece_4-thumb.jpg
+      alt: Cruise Wine Excursions in Rhodes
+    - path: /img/tours/wine-tours/wine_tours_greece_5.jpg
+      thumb: /img/tours/wine-tours/wine_tours_greece_5-thumb.jpg
+      alt: Sightseeing and wine excursions
+    - path: /img/tours/wine-tours/wine_tours_greece_6.jpg
+      thumb: /img/tours/wine-tours/wine_tours_greece_6-thumb.jpg
+      alt: Best Wine Tours Greece Rhodes
+    - path: /img/tours/wine-tours/wine_tours_greece_7.jpg
+      thumb: /img/tours/wine-tours/wine_tours_greece_7-thumb.jpg
+      alt: Rhodes taxi tours Greece
+    - path: /img/tours/wine-tours/wine_tours_greece_8.jpg
+      thumb: /img/tours/wine-tours/wine_tours_greece_8-thumb.jpg
+      alt: Rhodes wine guided tours
+    - path: /img/tours/wine-tours/wine_tours_greece_9.jpg
+      thumb: /img/tours/wine-tours/wine_tours_greece_9-thumb.jpg
+      alt: Best wine excursions Rhodes Greece
+    - path: /img/tours/wine-tours/wine_tours_greece_10.jpg
+      thumb: /img/tours/wine-tours/wine_tours_greece_10-thumb.jpg
+      alt: Rhodes wine tour in a day
+    - path: /img/tours/wine-tours/wine_tours_greece_11.jpg
+      thumb: /img/tours/wine-tours/wine_tours_greece_11-thumb.jpg
+      alt: Rhodes private tours
+    - path: /img/tours/wine-tours/wine_tours_greece_12.jpg
+      thumb: /img/tours/wine-tours/wine_tours_greece_12-thumb.jpg
+      alt: Wine Shore tours in Rhodes Greece
+    - path: /img/tours/wine-tours/wine_tours_greece_13.jpg
+      thumb: /img/tours/wine-tours/wine_tours_greece_13-thumb.jpg
+      alt: Wine Shore trips in Rhodes Greece
+    - path: /img/tours/wine-tours/wine_tours_greece_14.jpg
+      thumb: /img/tours/wine-tours/wine_tours_greece_14-thumb.jpg
+      alt: Best Wineries in Rhodes Greece
 outro: Rhodes Private Shore Excursions and Private Tours in Rhodes Greece
 ---
 ### RHODES NEW TOWN & ACROPOLIS
 
 From the cruise ship dock/pier we drive up the hillside to **Monte Smith**, **Acropolis of Rhodes City**, for a panoramic view of the city. (Stop Visit Photos)
 
-We will also view the north point of the island where the **Mediterranean Sea** (east coast) and the **Aegean Sea** (west coast) meet.
+On the way we visit the Old Harbor, (atop tall columns, stand the two-bronze deer - characteristic landmarks of the island) where according to tradition, the **Colossus of Rhodes**, **one of the seven wonders of the ancient world**, once stood. (Stop Visit Photos)
+
+We will also view the north point of the island where the **Mediterranean Sea** (east coast) and the **Aegean Sea**(west coast) meet.
 
 {% include partials/content-gallery.html the_gallery= page.itinerary.galleries.new_town %}
 
@@ -300,6 +299,10 @@ The drive continues 55 kilometres / 37 miles, from the north east to the south w
 On the way we stop near the Valley of the Butterflies at the small **Wine factory Estate of Anastasia Triantafillou** where they make high quality **Organic Wines** from the local white Athiri grape and the red Mandilari grape as well as **Cabernet Sauvignon, Merlot, Grenache Rouge** and **Moschatel**. They have a limited supply but you can sample their wines (free tasting), usually they offer you village bread with olive oil. You can also have a free olive oil tasting and honey tasting. You can get pictures of the ageing facilities as well. (Stop Visit Taste Photos)
 
 {% include partials/content-gallery.html the_gallery= page.itinerary.galleries.anastasia %}
+
+### EMBONAS VILLAGE
+
+We continue along the mountain’s path south west to **Embonas Village**, the most important grape-producing village on the island. Embona is a mountainous village halfway up the Attavyros Mountain, it is the highest village at 800m / 2.600f. above sea level, situated in immense natural beauty and the views of the surrounding areas are awesome. Attavyros is the highest mountain on the island of Rhodes, it rises to a height of 1,215m. / 3.980f. and it lies to the south of the village, most of the vineyards are planted on its slopes and foothills.
 
 ### THE EMERY WINERY
 
