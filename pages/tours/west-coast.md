@@ -31,7 +31,7 @@ itinerary:
 
     **Starting Point:** We meet at the pier/dock. (or anywhere else)
 
-    **Excursion Extensions:**You can extend or change the itinerary of this private shore excursion as you wish, and add the highlights you want to visit.
+    **Excursion Extensions:** You can extend or change the itinerary of this private shore excursion as you wish, and add the highlights you want to visit.
 
     **(Stop Pictures)** = Stop and get out of the car for pictures from outside of the Sight/building
 

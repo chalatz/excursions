@@ -44,7 +44,8 @@
   duration: 6:00 HOURS
   desc: This excursion is for everybody, not just those who take a special interest in wine. The breath-taking views will appeal to those for whom natural beauty is a reason to travel. Plus, you’ll sample excellent local wines.
 - title: Rhodes Beach Shore Excursion
-  url: '/'
+  id: beaches_tour
+  url: rhodes-beach-tour-excursion.htm
   thumb:
     img: '/img/home/tours/6-thumb.jpg'
     alt_text: ''
