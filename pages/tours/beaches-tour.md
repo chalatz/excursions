@@ -43,18 +43,19 @@ route_map:
   title: Route Map
   description: Roundtrip Approximately 145km / 90miles
   map:
-    path: /img/tours/beaches-tour/route-map.jpg
+    path: /img/tours/beaches-tour/rhodes-beaches-route-map.jpg
     alt: 'Rhodes Beach Tour - Excursion - Route map'
 
 useful:
   title: Useful Info
   text: |-
-    1. Ancient Kamiros entrance fee: 6 Euros per person. Seniors (with Id or Passport) 3 Euros per person. Children under 18 years old free
-    2. The Valley of the Butterflies. For the comfort of our travelers we drive them to the Secondary Gate - upper gate so they can walk down easier (one way) 30 - 40 min. The elderly people in your group they can wait down at the Main Gate, with the driver while you explore the place. There is a small cafe, a refreshment kiosk, and a little gift shop.  Entrance fee: (3 Euros Low Season) (5 Euros High Season) per person. Children under 12 years old Free. (Before June 15th and after September 15th we skip the site as no butterflies)
-    3. Filerimos: to visit the Stations of the Cross, the Cross, and the panoramic vista is Free, to visit the Monastery and the Church 6 Euros per person. Seniors (with Id or Passport) 3 Euros per person. Children under 18 years old free. The site has a refreshment kiosk a souvenir shop and shady seating.
-    4. You may prefer to use ATM machines when you need cash. ATMs are everywhere.
-    5. Rhodes known for [Traditional Appetizers](rhodes_cuisine_greece.htm), desserts, [Wines](wine_tours_greece.htm), the famous handmade [Rhodes Pottery - Ceramics](greek_pottery.htm) and the beautiful [Rhodes Beaches](rhodes_beaches.htm).
-    6. More info in [Rhodes Private Tours](rhodes_private_tours.htm) F.A.Q.
+    1. Entrance fees to all beaches is free, but you will have to pay only if you rent a sun bed.
+    2. Entrance Fees Acropolis of Lindos 12 Euros per person, Seniors 6 Euros per person, Children under 18 years old free, No charge to enter Lindos village.
+    3. To reach the Acropolis of Lindos you will be required to climb 292 steps, or ride on a donkey. The donkey does not eliminate all the steps, there are over 80 to go when you get off the donkey.
+    4. Usually we spend one hour in Lindos, but it depends on you for how long you need to visit Lindos. To climb up it takes 15 min, to take a look 30min.
+    5. You may prefer to use ATM machines when you need cash. ATMs are everywhere.
+    6. Rhodes known for [Traditional Appetizers](rhodes_cuisine_greece.htm), desserts, [Wines](wine_tours_greece.htm), the famous handmade [Rhodes Pottery - Ceramics](greek_pottery.htm) and the beautiful [Rhodes Beaches](rhodes_beaches.htm).
+    7. More info in [Rhodes Private Tours](rhodes_private_tours.htm) F.A.Q.
 
 inclusions:
   title: Inclusions
