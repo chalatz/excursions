@@ -340,12 +340,15 @@
     &__aside {
         text-align: center;
         background-color: $lightgray;
-        padding: 1rem .5rem 2rem;
+        padding: 1rem .5rem;
         @include breakpoint(large) {
             background-color: $lightgray;
             margin-top: 1.5rem;
             max-height: 94vh;
             overflow-y: auto;
+        }
+        .container {
+            padding-bottom: 1rem;
         }
     }
 
@@ -394,11 +397,18 @@
         @include breakpoint(large) {            
             max-width: 100%;
         }
-        transition: background-color .1s linear, color .1s linear;
+        transition: background-color .2s linear;
         &:hover,
         &--active {
             background-color: $yellow;
             color: #fff;
+        }
+        &--alt {
+            border-color: $darkblue;
+            &:hover {
+                background-color: $darkblue;
+                color: $yellow;
+            }
         }
     }
     &__block-title {
@@ -428,7 +438,7 @@
         }
         a {
             color: $blue;
-            transition: color .1s linear;
+            transition: color .2s linear;
             text-decoration: none;
             &:visited,
             &:active {
@@ -436,6 +446,11 @@
             }
             &:hover {
                 color: $yellow;
+            }
+        }
+        &--alt {
+            a {
+                transition: background-color .2s linear;
             }
         }
     }
