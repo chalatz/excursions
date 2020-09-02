@@ -25,6 +25,8 @@
   
   <link href="https://fonts.googleapis.com/css?family=PT+Serif&display=swap" rel="stylesheet">
 
-  <link rel="stylesheet" href="{{- 'css/main.css' | relative_url -}}">
+  {%- capture css_path -%}css/main.css?{{- site.time | date: '%s' -}}{%- endcapture -%}
+
+  <link rel="stylesheet" href="{{- css_path | relative_url -}}">
 
 </head>
