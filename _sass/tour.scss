@@ -156,6 +156,10 @@
             // counter-reset: tour-content-ol-counter;
             // padding: 0;
             li {
+                margin-bottom: .4rem;
+                &:last-child {
+                    margin-bottom: 0;
+                }
                 &::marker {
                     font-weight: bold;
                 }

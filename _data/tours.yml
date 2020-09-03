@@ -53,7 +53,8 @@
   duration: 5:00 HOURS
   desc: Let us show you the most beautiful beaches in Rhodes island. The spotlight of the trip will be a visit to Lindos Acropolis. You'll see impressive views and crystal-clear waters that will make you want to leap right in.
 - title: Family Tours Rhodes
-  url: '/'
+  url: family_tours_greece.htm
+  id: family_tours
   thumb:
     img: '/img/home/tours/7-thumb.jpg'
     alt_text: ''
