@@ -62,7 +62,8 @@
   duration: 4:30 HOURS
   desc: We have designed a relaxed tour that will excite the interests of kids and keep them engaged. This excursion is extremely recommended by families we’ve escorted in the past. Both parents and youngsters will enjoy it.
 - title: Rhodes Custom Excursion
-  url: '/'
+  id: custom_excursions
+  url: rhodes-custom-excursions.htm
   thumb:
     img: '/img/home/tours/8-thumb.jpg'
     alt_text: ''
