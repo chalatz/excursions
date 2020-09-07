@@ -20,38 +20,24 @@ itinerary:
   heading: ''
   description: ''
   details: |-
-    **Duration:** 4:30 hours.
+    **Duration:** 5:00 - 8:00 hours.
 
-    **Availability:** mid June - mid September.
+    **Availability:** All the year round.
 
-    **Activity Level:** Moderate
-
-    **Departure Time:** 9:00 AM or depend on your cruise ship dock time. If the ship arrives late into port, we’ll adjust our schedules, and the rental time will start from the moment you meet your driver.
+    **Departure Time:** Depend on your cruise ship dock time. If the ship arrives late into port, we’ll adjust our schedules, and the rental time will start from the moment you meet your driver.
 
     **Starting Point:** We meet at the pier/dock. (or anywhere else)
 
-    **Excursion Extensions:** You can extend or change the itinerary of this private shore excursion as you wish.
-
-    **(Stop Pictures)** = Stop and get out of the car for pictures from outside of the Sight/building
-
-    **(Stop Visit Pictures)** = Stop and visit - go inside the sight/building for pictures
-
 route_map:
-  title: Route Map
-  description: Roundtrip approximately 70km / 43miles
+  title: ''
+  description: ''
   map:
-    path: /img/tours/family-tours/family_tours_greece_route_map.jpg
-    alt: 'RHODES FAMILY TOUR EXCURSION - Route map'
+    path: ''
+    alt: ''
 
 useful:
-  title: Useful Info
-  text: |-
-    1. There is no entrance fee in the Acropolis of Rhodes
-    2. Valley of the Butterflies Entrance Fee: Low season Adults 3 Euros, High season Adults 5 Euros, Kids under 12 years old free. There is a small cafe, a refreshment kiosk, and a little gift shop.
-    3. Ostrich Farm Entrance Fee: Adults 7 Euros, Children under 12 years 4 Euros (Kids under 3 years Free) also has a café and refreshment kiosk, and a gift shop.
-    4. Bee Museum Entrance Fee: Adults 3 Euros, Children under 5 years Free, Children between age 6 to 18 1,50 Euros, Students 1,50 Euros, Seniors over 65 years old 1,50 Euros
-    5. Rhodes known for [Traditional Appetizers](rhodes_cuisine_greece.htm), desserts, [Wines](wine_tours_greece.htm), the famous handmade [Rhodes Pottery - Ceramics](greek_pottery.htm) and the beautiful [Rhodes Beaches](rhodes_beaches.htm).
-    6. More info in [Rhodes Private Tours](rhodes_private_tours.htm) F.A.Q.
+  title: ''
+  text: ''
 
 inclusions:
   title: Inclusions
@@ -116,33 +102,18 @@ gallery:
       alt: Rhodes private tours
 outro: Rhodes Private Shore Excursions and Private Tours in Rhodes Greece
 ---
-### RHODES NEW TOWN
+#### YOUR SPECIAL REQUEST TOUR
 
-From the cruise ship dock/pier or your chosenpoint, you'll be driven to the antiqueharbor, where according to tradition, the **Colossus of Rhodes**, **one of the seven wonders of the ancient world**, once stood. (Stop Visit Photos)\
-The **North Point of the island** where the East Coast's Mediterranean Sea, and the West Coast's Aegean Sea meet.
+Rhodes island has so many sights to see, and so many ways to see them, but most of them can cover only the basics. Looking for something more personal and fun?  If you are up for a Custom Shore Excursion of Rhodes, then you have come to the right place. We will show you the popular spots, visit landmarks of all shapes and sizes, and discover their history. Discover the hidden secrets of Rhodes island with us! In 5 Hours, you’ll see what would take 4 to 5 Days on your own. We are well known for providing Historical, Informative, Enjoyable and Memorable Shore Tours! 
 
-### MONTE SMITH - PANORAMIC VIEW OF THE CITY
+#### PLAN YOUR SHORE TOUR  
 
-Continuing up the hillside to **Monte Smith**, the **Acropolis of Rhodes City**, you will enjoy excellent views of the new and old town of Rhodes and be able to take pictures. (Stop Visit Photos)
+We have many Tours available to suit each Groups wishes. All our Tours are performed in First Class Comfort and Style!  Whatever your interests (food, culture, history), let us know and we will plan an itinerary along that theme. Alternatively, just let us know what parts of Rhodes you’d like to visit, so we can put together an itinerary for you to review.
 
-### MONTE SMITH - TEMPLE - STADIUM - THEATRE
+#### OUR PROCESS
 
-Then we drive to the **Temple of Apollo**, the restored **Greek Stadium**, and the **Greek Theatre**. While you take pictures, your kids can run into the Old Stadium and feel the Ancient Greek athletic spirit. (Stop Visit Photos)
+Please contact us and specify your requirements, we’ll be back to you with our proposals. We’ll supply you with the draft itinerary, a range of options with different visits and activities, from which you can plan your desired tour in Rhodes. Take your time to arrange everything, ask for modifications and when done, we'll book your desired tailor-made tour!! 
 
-### RHODES OSTRICH FARM & ZOO PARK
+#### SHORE TOUR IDEAS
 
-Then your journey to the **"Rhodes Ostrich Farm"** and **Zoo Park** will take you along a beautiful, 20 kilometers / 14 miles drive on the **west coast of the island**.
-
-This animal farm will delight both young and old. Here you'll have the opportunity to get a closer look at over 120 ostriches living within a purely natural environment. The park is home to other kinds of rare animals as well. (Stop Visit Photos)
-
-### VALLEY OF THE BUTTERFLIES
-
-We continue our drive to the **Valley of the Butterflies**. This site is beautifully arranged with wooden bridges, and from mid-June to mid-September, thousands of multi-colored butterflies appear. An excellent place for families with children, who wish to enjoy the beauties of nature and examine the life cycle of butterflies as part of their summer holiday. We drive you to the upper gate, so that you may more easily explore the valley. You and your children will love the peaceful walk through the shaded, green valley with its small river and beautiful waterfalls. If you are quiet and still, they may even land on your arm that would make a wonderful photo! (Stop Visit Photos)
-
-### BEE MUSEUM
-
-Next stop is the **"Bee Museum"** Here you can see the life circle of the bees and their caste system in transparent hives and learn everything about the honey. You can have a free honey tasting and the "melekounia" (traditional snack) They also have different types of honey products as cosmetics
-
-### BACK TO THE SHIP (or to the STARTING POINT)
-
-In case you wish to extend the tour you may prefer to drive back through the east coast. If you prefer to be taken to the Medieval City for independent browsing, you will be responsible for returning on foot to the ship, docked about a quarter-mile away.
+Highlights and Landmarks of Rhodes, Free Wine Tasting, In depth historical tours with specialist tour guides, Beach Tours, Walking Tours, Shopping, etc..  There are so many wonderful things to see and do in this fabulous island. We are here to assist you in creating your very own custom designed tour of Rhodes 

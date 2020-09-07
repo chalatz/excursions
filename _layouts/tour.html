@@ -30,22 +30,26 @@ layout: default
                             Excursion Itinerary
                         </a>
                     </li>
-                    <li class="tour__nav-title">
-                        <a href="#route-map" class="tour__nav-anchor hide-on-desktop">
-                            Map
-                        </a>
-                        <a href="#route-map" class="tour__nav-anchor desktop-only desktop-only--block">
-                            Route Map
-                        </a>
-                    </li>
-                    <li class="tour__nav-title">
-                        <a href="#useful-info" class="tour__nav-anchor hide-on-desktop">
-                            Info
-                        </a>
-                        <a href="#useful-info" class="tour__nav-anchor desktop-only desktop-only--block">
-                            Useful Info
-                        </a>
-                    </li>
+                    {%- if page.route_map.title and page.route_map.title.size > 0 -%}
+                        <li class="tour__nav-title">
+                            <a href="#route-map" class="tour__nav-anchor hide-on-desktop">
+                                Map
+                            </a>
+                            <a href="#route-map" class="tour__nav-anchor desktop-only desktop-only--block">
+                                Route Map
+                            </a>
+                        </li>
+                    {%- endif -%}
+                    {%- if page.useful.title and page.useful.title.size > 0 -%}
+                        <li class="tour__nav-title">
+                            <a href="#useful-info" class="tour__nav-anchor hide-on-desktop">
+                                Info
+                            </a>
+                            <a href="#useful-info" class="tour__nav-anchor desktop-only desktop-only--block">
+                                Useful Info
+                            </a>
+                        </li>
+                    {%- endif -%}
                     <li class="tour__nav-title">
                         <a href="#inclusions" class="tour__nav-anchor">
                             Inclusions
@@ -71,21 +75,27 @@ layout: default
     
                 <section class="tour__section tour__section--itinerary" id="itinerary">
                     <div class="container">
-                        {%- if page.itinerary.title and page.itinerary.title.size > 0 -%}
-                            <h2 class="tour__section-header">
-                                {{- page.itinerary.title -}}
-                            </h2>
-                        {%- endif -%}
-
                         {%- assign has_itinerary_heading = false -%}
                         {%- assign has_itinerary_desc = false -%}
+                        {%- assign no_headings = false -%}
+
                         {%- if page.itinerary.heading and page.itinerary.heading.size > 0 -%}
                             {%- assign has_itinerary_heading = true -%}
                         {%- endif -%}
                         {%- if page.itinerary.description and page.itinerary.description.size > 0 -%}
                             {%- assign has_itinerary_desc = true -%}
                         {%- endif -%}
-    
+
+                        {%- if has_itinerary_heading == false and has_itinerary_desc == false -%}
+                            {%- assign no_headings = true -%}
+                        {%- endif -%}
+
+                        {%- if page.itinerary.title and page.itinerary.title.size > 0 -%}
+                            <h2 class="tour__section-header{% if no_headings == true %} tour__section-header--no-headings{% endif %}">
+                                {{- page.itinerary.title -}}
+                            </h2>
+                        {%- endif -%}
+
                         {%- if has_itinerary_heading == true or has_itinerary_desc == true -%}
                             <div class="tour__section-headings">
                                 {%- if has_itinerary_heading == true -%}
@@ -113,42 +123,46 @@ layout: default
                     </div>
                 </section>
     
-                <div class="tour__section-separator"></div>
-    
-                <section class="tour__section tour__section--route-map" id="route-map">
-                    <div class="container">
-                        <h2 class="tour__section-header">
-                            {{- page.route_map.title -}}
-                        </h2>
-    
-                        <div class="tour__section-headings">
-                            <p class="tour__section-description centered">
-                                {{- page.route_map.description -}}
-                            </p>
-                        </div>
-    
-                        <div class="tour__section-content">
-                            <div class="tour__section-route-map-wrapper">
-                                <a data-fancybox="route-map" class="tour__section-route-map-link" href="{{- page.route_map.map.path | relative_url -}}">
-                                    <img src="{{- page.route_map.map.path | relative_url -}}" alt="page.route_map.map.alt" class="tour__section-route-map-img">
-                                </a>
+                {%- if page.route_map.title and page.route_map.title.size > 0 -%}
+                    <div class="tour__section-separator"></div>
+        
+                    <section class="tour__section tour__section--route-map" id="route-map">
+                        <div class="container">
+                            <h2 class="tour__section-header">
+                                {{- page.route_map.title -}}
+                            </h2>
+        
+                            <div class="tour__section-headings">
+                                <p class="tour__section-description centered">
+                                    {{- page.route_map.description -}}
+                                </p>
+                            </div>
+        
+                            <div class="tour__section-content">
+                                <div class="tour__section-route-map-wrapper">
+                                    <a data-fancybox="route-map" class="tour__section-route-map-link" href="{{- page.route_map.map.path | relative_url -}}">
+                                        <img src="{{- page.route_map.map.path | relative_url -}}" alt="page.route_map.map.alt" class="tour__section-route-map-img">
+                                    </a>
+                                </div>
                             </div>
                         </div>
-                    </div>
-                </section>
-    
-                <div class="tour__section-separator"></div>
-    
-                <section class="tour__section tour__section--useful" id="useful-info">
-                    <div class="container">
-                        <h2 class="tour__section-header">
-                            {{- page.useful.title -}}
-                        </h2>
-                        <div class="tour__section-content">
-                            {{ page.useful.text | markdownify }}
+                    </section>
+                {%- endif -%}
+
+                {%- if page.useful.title and page.useful.title.size > 0 -%}
+                    <div class="tour__section-separator"></div>
+        
+                    <section class="tour__section tour__section--useful" id="useful-info">
+                        <div class="container">
+                            <h2 class="tour__section-header">
+                                {{- page.useful.title -}}
+                            </h2>
+                            <div class="tour__section-content">
+                                {{ page.useful.text | markdownify }}
+                            </div>
                         </div>
-                    </div>
-                </section>
+                    </section>
+                {%- endif -%}
                 
                 <div class="tour__section-separator"></div>
     
