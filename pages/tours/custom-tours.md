@@ -55,50 +55,50 @@ inclusions:
 gallery:
   title: Gallery
   images:
-    - path: /img/tours/family-tours/1.jpg
-      thumb: /img/tours/family-tours/1-thumb.jpg
+    - path: /img/tours/custom-excursions/1.jpg
+      thumb: /img/tours/custom-excursions/1-thumb.jpg
       alt: Discount Family excursions Rhodes
-    - path: /img/tours/family-tours/2.jpg
-      thumb: /img/tours/family-tours/2-thumb.jpg
+    - path: /img/tours/custom-excursions/2.jpg
+      thumb: /img/tours/custom-excursions/2-thumb.jpg
       alt: Boutique Family excursions Rhodes
-    - path: /img/tours/family-tours/3.jpg
-      thumb: /img/tours/family-tours/3-thumb.jpg
+    - path: /img/tours/custom-excursions/3.jpg
+      thumb: /img/tours/custom-excursions/3-thumb.jpg
       alt: Kids Family Tours Greece
-    - path: /img/tours/family-tours/4.jpg
-      thumb: /img/tours/family-tours/4-thumb.jpg
+    - path: /img/tours/custom-excursions/4.jpg
+      thumb: /img/tours/custom-excursions/4-thumb.jpg
       alt: Sightseeing Family Tours in Rhodes
-    - path: /img/tours/family-tours/5.jpg
-      thumb: /img/tours/family-tours/5-thumb.jpg
+    - path: /img/tours/custom-excursions/5.jpg
+      thumb: /img/tours/custom-excursions/5-thumb.jpg
       alt: Fan Family Excursions Greece
-    - path: /img/tours/family-tours/6.jpg
-      thumb: /img/tours/family-tours/6-thumb.jpg
+    - path: /img/tours/custom-excursions/6.jpg
+      thumb: /img/tours/custom-excursions/6-thumb.jpg
       alt: Rhodes family taxi tours
-    - path: /img/tours/family-tours/7.jpg
-      thumb: /img/tours/family-tours/7-thumb.jpg
+    - path: /img/tours/custom-excursions/7.jpg
+      thumb: /img/tours/custom-excursions/7-thumb.jpg
       alt: Family Tours in a day Rhodes
-    - path: /img/tours/family-tours/8.jpg
-      thumb: /img/tours/family-tours/8-thumb.jpg
+    - path: /img/tours/custom-excursions/8.jpg
+      thumb: /img/tours/custom-excursions/8-thumb.jpg
       alt: Family Fun Tours Rhodes Greece
-    - path: /img/tours/family-tours/9.jpg
-      thumb: /img/tours/family-tours/9-thumb.jpg
+    - path: /img/tours/custom-excursions/9.jpg
+      thumb: /img/tours/custom-excursions/9-thumb.jpg
       alt: Children Tours Rhodes Greece
-    - path: /img/tours/family-tours/10.jpg
-      thumb: /img/tours/family-tours/10-thumb.jpg
+    - path: /img/tours/custom-excursions/10.jpg
+      thumb: /img/tours/custom-excursions/10-thumb.jpg
       alt: Educational Tours Rhodes Greece
-    - path: /img/tours/family-tours/11.jpg
-      thumb: /img/tours/family-tours/11-thumb.jpg
+    - path: /img/tours/custom-excursions/11.jpg
+      thumb: /img/tours/custom-excursions/11-thumb.jpg
       alt: Kids Family Tours Greece Rhodes
-    - path: /img/tours/family-tours/12.jpg
-      thumb: /img/tours/family-tours/12-thumb.jpg
+    - path: /img/tours/custom-excursions/12.jpg
+      thumb: /img/tours/custom-excursions/12-thumb.jpg
       alt: Family Excursions Greece Rhodes
-    - path: /img/tours/family-tours/13.jpg
-      thumb: /img/tours/family-tours/13-thumb.jpg
+    - path: /img/tours/custom-excursions/13.jpg
+      thumb: /img/tours/custom-excursions/13-thumb.jpg
       alt: Kids Tours Family Tours Greece
-    - path: /img/tours/family-tours/14.jpg
-      thumb: /img/tours/family-tours/14-thumb.jpg
+    - path: /img/tours/custom-excursions/14.jpg
+      thumb: /img/tours/custom-excursions/14-thumb.jpg
       alt: Family guided tours Rhodes
-    - path: /img/tours/family-tours/15.jpg
-      thumb: /img/tours/family-tours/15-thumb.jpg
+    - path: /img/tours/custom-excursions/15.jpg
+      thumb: /img/tours/custom-excursions/15-thumb.jpg
       alt: Rhodes private tours
 outro: Rhodes Private Shore Excursions and Private Tours in Rhodes Greece
 ---
