@@ -23,6 +23,9 @@
         border-radius: 6px;
         padding: .8rem 1.1rem;
         display: inline-block;
+        &--no-intro {
+            margin-top: .67em;
+        }
     }
 
     &__intro {

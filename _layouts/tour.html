@@ -4,7 +4,12 @@ layout: default
 
 <div class="page__header tour__header">
     <div class="container">
-        <h1 class="page__title tour__title">
+        {%- if page.intro and page.intro.size > 0 -%}
+            {%- assign no_intro = false -%}
+        {%- else -%}
+            {%- assign no_intro = true -%}
+        {%- endif -%}
+        <h1 class="page__title tour__title{% if no_intro == true %} tour__title--no-intro{% endif %}">
             “{{- page.title -}}”
         </h1>
         {%- if page.intro and page.intro.size > 0 -%}
