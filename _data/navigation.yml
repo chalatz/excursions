@@ -40,7 +40,7 @@ main:
         - title: Rhodes Custom Tour
           url: rhodes-custom-excursions.htm
         - title: Rhodes Green Tour
-          url: '#'
+          url: nature-excursions.htm
     - title: Group Excursions
       url: groups.htm
       type: single
