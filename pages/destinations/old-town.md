@@ -123,5 +123,11 @@ sections:
             thumb: /img/pages/old-town/16-thumb.jpg
             href: /img/pages/old-town/16.jpg
             alt: The Old Town - Rhodes custom shore excursions
-          caption: The Hospice of St. Catherine                
+          caption: The Hospice of St. Catherine
+related_tours:
+  - best_rhodes
+  - rhodes_in_a_day
+  - rhodes_west_coast
+  - jewish_tours
+  - custom_excursions
 ---

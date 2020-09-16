@@ -126,5 +126,11 @@ sections:
             href: /img/pages/filerimos/16.jpg
             alt: View, independent cruise excursions in Rhodes Greece
           caption: ''
-                     
+
+related_tours:
+  - rhodes_in_a_day  
+  - rhodes_west_coast
+  - custom_excursions
+  - nature_tour
+
 ---

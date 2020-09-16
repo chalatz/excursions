@@ -74,4 +74,9 @@ sections:
       What’s interesting is that those same columns used to support a gorgeous pergola back in the day. Today, a cultural monument exists inside the facility which contains several paintings and sculptures from island inhabitants.  The Thermal Spa Institution’s ideal and beautiful location is well known so it is little wonder why it is sought by both tourists and filmmakers. It was the setting of **the movie ‘Escape from Athena’ and ‘The Guns of Navarone.**
 
       With all of these attractions, it is little wonder why Kalithea Springs are filled with tourists every year. Besides being a tourist attraction, it is also a popular venue for weddings and corporate events.  
+
+related_tours:
+  - nature_tour
+  - custom_excursions
+
 ---

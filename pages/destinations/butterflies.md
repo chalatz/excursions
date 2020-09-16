@@ -72,4 +72,11 @@ sections:
       A few decades ago, a German entomologist, studied the butterflies that emerge in the Butterfly Valley during June and September. This particular species of butterflies is called Callimorpha Qudripunctaria Himalaiensis. The remarkable name befits the species since it was first discovered in the great mountains of Himalayas. These butterflies are abundantly found in Australia, Brazil, Peru, California, and many other places where the native plants include the Liquidambar Orientalis trees.
 
       The butterflies appear in the valley during the summer season. They mate, lay eggs on the island, and fly off in September once the temperature starts to change. The eggs produce larva in April. By the next month, the larvae transform into chrysalises. The transformation finally completes in early June as chrysalises transform into adult butterflies. As the temperature starts to rise, these beautiful butterflies leave their locale and travel through the night to reach the valley. The moderately cool temperature of the valley and its surrounding areas, coupled with the sweet scent of raisins, is the reason behind this mass migration.               
+
+related_tours:
+  - rhodes_in_a_day
+  - rhodes_west_coast
+  - family_tours
+  - nature_tour
+  - custom_excursions
 ---

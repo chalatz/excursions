@@ -70,4 +70,9 @@ sections:
           caption: ''
   - text: |-
       The village is also known for its colorful and diverse traditions that highlight its growth throughout the centuries. Visitors are treated to traditional songs, feasts, and dances that are unique to Embonas and which they can take part in as well.   Almost all of the homes stand out as fine examples of the traditional architecture of Rhodes and they’re well-maintained. Mingle with the locals, sit, and dine on classical dishes in the taverns and cafes and just let all of your stress melt away.  That is the magic that Embonas village offers tourists. 
+
+related_tours:
+  - wine_tours
+  - custom_excursions
+
 ---

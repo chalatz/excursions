@@ -103,4 +103,8 @@ sections:
             alt: Excursions to Kritinia village from Rhodes Cruise Port or Rhodes Tourist Port
           caption: Kritinia village and Mountain Ataviros in the background
 
+related_tours:
+  - custom_excursions
+  - wine_tours
+
 ---

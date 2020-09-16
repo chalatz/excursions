@@ -69,5 +69,10 @@ sections:
             alt: Tours to 7 Springs from Rhodes Cruise Port or Rhodes tourist port
           caption: ''
   - text: |-
-      Since the lake is man-made, there is a path that leads from the springs down to it. You can walk through a tunnel, but it is narrow and dark. The tunnel extends for 186 m and can take only five minutes to finish. However, it is recommended that you carry a torch as there are some curves in the path that can be hard to see in the dark.   The tunnel is also part of the history of the Seven Springs. It was created in 1931 by Italians. The most unique part about it is that it was designed for use by one person only. Due to this, it’s largely a one-way tunnel only.  In the middle of the tunnel, there is an emergency exit as well as an air shaft. There is a ladder here which leads to the street above. This street has a walking track which can also be used to get to the tunnel and come back from it. 
+      Since the lake is man-made, there is a path that leads from the springs down to it. You can walk through a tunnel, but it is narrow and dark. The tunnel extends for 186 m and can take only five minutes to finish. However, it is recommended that you carry a torch as there are some curves in the path that can be hard to see in the dark.   The tunnel is also part of the history of the Seven Springs. It was created in 1931 by Italians. The most unique part about it is that it was designed for use by one person only. Due to this, it’s largely a one-way tunnel only.  In the middle of the tunnel, there is an emergency exit as well as an air shaft. There is a ladder here which leads to the street above. This street has a walking track which can also be used to get to the tunnel and come back from it.
+      
+related_tours:
+  - nature_tour
+  - custom_excursions      
+
 ---

@@ -130,5 +130,13 @@ sections:
             href: /img/pages/new-town/16.jpg
             alt: Rhodes Aquarium - cruise excursions in Mediterranean Sea
           caption: Rhodes Aquarium
-                     
+
+related_tours:
+  - best_rhodes
+  - rhodes_in_a_day          
+  - rhodes_west_coast
+  - jewish_tours
+  - wine_tours
+  - family_tours
+
 ---

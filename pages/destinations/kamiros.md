@@ -107,5 +107,9 @@ sections:
             alt: Ancient Kamiros, Hellenistic Sanctuary, Cruise excursions Greek isles
           caption: Hellenistic Sanctuary
   - text: |-
-      It must be noted that Kamiros is often compared with Pompei. However, the comparison is unjustified as, unlike Pompie, Kamiros did not fall due to a natural disaster. The city was slowly abandoned once Rhodes was developed.              
+      It must be noted that Kamiros is often compared with Pompei. However, the comparison is unjustified as, unlike Pompie, Kamiros did not fall due to a natural disaster. The city was slowly abandoned once Rhodes was developed.
+      
+related_tours:
+- custom_excursions
+
 ---
