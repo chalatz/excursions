@@ -82,9 +82,15 @@ layout: default
 
 </article>
 
+{%- assign related_tours_size = page.related_tours | size -%}
+{%- if related_tours_size > 0 -%}
+  {%- include partials/related-tours.html -%}
+{%- endif -%}
+
 {%- if page.has_destinations == true -%}
   {%- include partials/destinations.html -%}
 {%- endif -%}
+
 
 {%- if page.has_banners == true -%}
   {%- include_cached partials/banners.html -%}

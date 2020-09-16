@@ -1,0 +1,15 @@
+<section class="page__section related-tours">
+    <div class="container">
+        <h2 class="related-tours__title">Related Shore Excursions</h2>
+        <div class="related-tours__items">
+            {%- for item in page.related_tours -%}
+                {%- assign the_tour = site.data.tours | where:'id',item -%}
+                {%- assign related_tour_title = the_tour[0].title -%}
+                {%- assign related_tour_url = the_tour[0].url -%}
+                <a href="{{- related_tour_url | relative_url -}}" class="related-tours__item">
+                    {{- related_tour_title -}}
+                </a>
+            {%- endfor -%}
+        </div>
+    </div>
+</section>

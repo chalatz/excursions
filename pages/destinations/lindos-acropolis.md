@@ -198,5 +198,11 @@ sections:
             alt: Lindos Cruise Tours
           caption: ''
   - text: |-
-      The Lindians were also great sculptors. Their bronze statuses are famed for their incomparable craft. The famous **Colossus of Rhodes** was a bronze statue by the Lindian artist Chares.                         
+      The Lindians were also great sculptors. Their bronze statuses are famed for their incomparable craft. The famous **Colossus of Rhodes** was a bronze statue by the Lindian artist Chares.
+related_tours:
+  - best_rhodes
+  - rhodes_in_a_day
+  - jewish_tours
+  - beaches_tour
+  - custom_excursions
 ---

@@ -1,0 +1,34 @@
+.related-tours {
+
+    background-color: $gray;
+    text-align: center;
+
+    &__title {
+        color: $darkblue;
+        font-size: 1.7rem;
+    }
+
+    &__item {
+        display: inline-block;
+        margin-right: 1rem;
+        margin-bottom: 1rem;
+        width: 30%;
+        text-decoration: none;
+        border: 3px solid $blue;
+        border-radius: 6px;
+        padding: 9px 12px;
+        font-size: 1.3rem;
+        color: $blue;
+        transition: background-color .1s linear,color .1s linear;          
+        &:visited,
+        &:active {
+            color: $blue;            
+        }
+        &:hover {
+            background-color: $blue;
+            color: $yellow;
+        }
+
+    }
+
+}
