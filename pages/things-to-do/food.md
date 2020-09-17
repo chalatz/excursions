@@ -106,5 +106,9 @@ sections:
     text: |-
       International studies have recognized the worth of the Greek cuisine. Launched within the early 60’s by the World Health Organization, the Seven Countries Study taken off to look at the eating patterns of populations from seven different countries: Greece, Italy, Serbia, Holland, Finland, the USA and Japan. This long-running study which lasted for 30 years showed that that folks living within the Mediterranean countries, Greece specifically, had lower mortality rates compared to the remainder of the participating countries. The “secretes” to Health and Longevity were documented as the combination of a simple - easy diet and regular physical activity, dubbed as the Mediterranean Diet.
 
-  
+related_tours:
+  - rhodes_in_a_day  
+  - wine_tours
+  - custom_excursions
+
 ---

@@ -45,4 +45,13 @@ sections:
           caption: ''
   - text: |-
       Like all of the beaches, the water around Elli beach is also pristine but it usually remains calm rather than turbulent. Sunbathe on the sun beds or take part in water sports such as banana boat rides, parasailing or diving. However, since the beach is littered with pebbles, bringing small children is not a good idea.
+
+related_tours:
+  - best_rhodes
+  - rhodes_in_a_day  
+  - rhodes_west_coast
+  - jewish_tours
+  - wine_tours
+  - custom_excursions
+
 ---

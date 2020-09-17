@@ -45,4 +45,10 @@ sections:
           caption: ''
   - text: |-
       There is also an official nudist area at the southern end of the beach along with a tavern. You can have fun on the water by taking part in water sports, go scuba diving, jet skiing, paragliding or wind surfing. Faliraki is usually crowded in the high season, July and August.
+
+related_tours:
+  - beaches_tour
+  - best_rhodes
+  - custom_excursions
+
 ---

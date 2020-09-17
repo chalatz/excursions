@@ -100,5 +100,8 @@ sections:
             href: /img/pages/monolithos/12.jpg
             alt: Independent cruise excursions in Rhodes and Monolithos 
           caption: ''
+related_tours:
+  - custom_excursions
+
 
 ---

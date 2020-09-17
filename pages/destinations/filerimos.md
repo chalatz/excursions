@@ -130,7 +130,7 @@ sections:
 related_tours:
   - rhodes_in_a_day  
   - rhodes_west_coast
-  - custom_excursions
   - nature_tour
+  - custom_excursions
 
 ---

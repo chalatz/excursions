@@ -114,4 +114,13 @@ sections:
             href: "/img/pages/pottery/15.jpg"
             alt: Ceramic Plates Rhodes
           caption: Traditional Relief Style
+
+related_tours:
+  - best_rhodes
+  - rhodes_in_a_day  
+  - jewish_tours
+  - beaches_tour
+  - nature_tour
+  - custom_excursions
+
 ---

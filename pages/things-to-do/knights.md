@@ -107,4 +107,10 @@ sections:
       The Sovereign Order of Malta is a sovereign subject of international law, with its own constitution, passports, stamps, and public institutions. The Order has diplomatic relations with 104 countries - many of which non-Catholic - and missions to major European countries, as well as to European and international organizations. The original Hospitaller mission became once again the main activity of the Order, growing ever stronger during the last century. **On 2 May 2018, Fra' Giacomo Dalla Torre has been elected the 80th Grand Master of the Sovereign Order of Malta.**
 
       For more information please visit the official website of the Order at: <http://www.orderofmalta.int/>
+
+related_tours:
+  - best_rhodes
+  - rhodes_in_a_day  
+  - rhodes_west_coast
+
 ---

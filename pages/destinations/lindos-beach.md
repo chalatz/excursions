@@ -50,5 +50,12 @@ sections:
             alt: Greece Rhodes Lindos Beach
           caption: ''
     footer_text: |-
-      Be careful when you are heading to either beach though. The path that originates from the village is quite steep, so make sure you have sturdy shoes on. However, once you get to your destination, you can let loose, change into swimwear, lose the shoes, and just have fun with your family. The best thing about the beach is that it is well-protected from Mother Nature because of the rocky peninsula. So, you can enjoy jet skiing or ride a banana boat out on the water without fear. 
+      Be careful when you are heading to either beach though. The path that originates from the village is quite steep, so make sure you have sturdy shoes on. However, once you get to your destination, you can let loose, change into swimwear, lose the shoes, and just have fun with your family. The best thing about the beach is that it is well-protected from Mother Nature because of the rocky peninsula. So, you can enjoy jet skiing or ride a banana boat out on the water without fear.
+      
+related_tours:
+  - beaches_tour
+  - best_rhodes
+  - rhodes_in_a_day  
+  - custom_excursions
+
 ---

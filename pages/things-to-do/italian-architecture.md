@@ -70,4 +70,10 @@ sections:
           caption: The Cathedral of Rhodes
   - text: |-
       The restoration methods they used are the topic of fierce criticism today. Although they were restricted by the political circumstances of their day, they nevertheless helped to preserve many sites that otherwise won't have survived to this.
+
+related_tours:
+  - best_rhodes
+  - rhodes_in_a_day  
+  - rhodes_west_coast
+  
 ---

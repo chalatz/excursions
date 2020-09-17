@@ -75,4 +75,8 @@ sections:
           caption: Byzantine church of St Nicholas Fundukli 15th c, at the foot of the mountain Profitis Ilias.
   - text: |-
       We have little information about the Byzantine era. The restoration work of the Italians abandoned surviving buildings in favor of the Knights period.
+
+related_tours:
+- custom_excursions
+
 ---

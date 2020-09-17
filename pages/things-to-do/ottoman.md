@@ -70,4 +70,8 @@ sections:
           caption: Mehmet Aga Mosque in Socrates Street.       
   - text: |-
       The 200-year period of the Knights, is reflected in the building facades with sculptured decorations, the arched gates and hewn stone walls. The Turks enriched these elements with architectural contributions of their own, such as wooden balconies and communal fountains and baths which they adapted to the local climate and culture. There is currently an effort to preserve the remaining Turkish homes. What remains of the Turkish influence on Rhodes can be seen in the mixture of oriental and western architecture in Rhodes Town, reflecting the multifaceted history of the Island.
+
+related_tours:
+  - custom_excursions
+       
 ---

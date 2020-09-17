@@ -233,4 +233,8 @@ sections:
           caption: The Jewish Cemetery
   - text: |-
       **The "Rhodesli"** are a little-known Sephardic sect that moved to the Mediterranean island of Rhodes in 1492 following their expulsion from Spain and Portugal. They lived on Rhodes until WW2. Their culture, which is began in 800 B.C. survives as a little émigré community in Los Angeles. Their complex ethnic and spiritual heritage is exclusive in the world today. The Rhodesli are Jews who speak an uncommon medieval Spanish dialect (Ladino) and detect traditions derived from Turkish, Moorish, Spanish, and Jewish sources that remain mostly unchanged from centuries past.
+
+related_tours:
+  - jewish_tours
+
 ---

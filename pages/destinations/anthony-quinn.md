@@ -47,4 +47,10 @@ sections:
           caption: ''
   - text: |-
       Other services you can avail at the beach include a cafe and umbrella rentals if you just want to read on the beach and not sunbathe. Ideal for diving and snorkeling. The spot does get quite crowded in the summer with tourists, so if you want quite time there, you can visit year-round except in July and August.
+
+related_tours:
+  - beaches_tour
+  - best_rhodes
+  - custom_excursions
+
 ---

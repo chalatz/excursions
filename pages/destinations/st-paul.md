@@ -47,4 +47,12 @@ sections:
       There are actually two beaches there. The larger one is located in the southern end, is the largest and is manmade and the smaller one is located at the north side and formed naturally. That is why the former has fine golden sand and the latter has a mix of pebbles and rocks.
 
       Like all of the beaches on the island, the beaches in St. Paul’s Bay also offer sun lounges, umbrellas and restaurants that visitors can avail. The difference is that these ones get relatively few visitors and no water sporting equipment. However, you can go snorkeling in the crystal-clear waters.
+
+related_tours:
+  - beaches_tour
+  - best_rhodes
+  - rhodes_in_a_day
+  - jewish_tours
+  - custom_excursions
+
 ---

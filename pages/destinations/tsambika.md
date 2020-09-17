@@ -45,4 +45,10 @@ sections:
           caption: ''
   - text: |-
       There is an abundant amount of sun beds. Also available all kind of water sports, few small canteens and a restaurant. The southern part of the beach is considered as a nudist beach, but officially it is not.  The shallow water make Tsambika beach very suitable for children of all ages.
+
+related_tours:
+  - beaches_tour
+  - custom_excursions
+
+
 ---
