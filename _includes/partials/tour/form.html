@@ -1,10 +1,12 @@
-<header class="tour-form__header">
-    <div class="container">
-        For additional information about this excursion / prices / cost / extensions / or to make future reservations, please submit an online request. If you book now, your PRIVATE SHORE EXCURSION will be confirmed within 24 hours.
-    </div>
-</header>
+{%- unless include.show_header == false -%}
+    <header class="tour-form__header">
+        <div class="container">
+            For additional information about this excursion / prices / cost / extensions / or to make future reservations, please submit an online request. If you book now, your PRIVATE SHORE EXCURSION will be confirmed within 24 hours.
+        </div>
+    </header>
+{%- endunless -%}
 
-<div class="tour-form__form-wrapper">
+<div class="tour-form__form-wrapper{% if include.classes %} {{ include.classes }}{% endif %}">
     <div class="container">
         <header class="tour-form__form-header">
             BOOKING DEPOSIT - PRE PAYMENT NOT REQUIRED

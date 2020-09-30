@@ -50,6 +50,12 @@ layout: default
           </div>
         {%- endif -%}
 
+        {%- if page.description and page.description.size > 0 -%}
+          <div class="page__intro page__intro--desc">
+            {{ page.description | markdownify }}
+          </div>
+        {%- endif -%}
+
       </div>
     {%- endif -%}
 
@@ -71,7 +77,7 @@ layout: default
       {%- endif -%}
 
       {%- if page.outro and page.outro.size > 0 -%}
-        <h3>
+        <h3 class="page__outro">
           {{- page.outro -}}
         </h3>
       {%- endif -%}

@@ -57,7 +57,7 @@ main:
       id: reviews
       sublinks: []
     - title: Contact Us
-      url: '#'
+      url: 'booking.htm'
       type: single
       id: contact
       sublinks: []
