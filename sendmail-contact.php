@@ -75,18 +75,6 @@ function passed(){
 
 }
 
-if ($debug) {
-    echo "<pre>";
-    print_r($_POST);
-    echo "</pre>";
-    if (passed()) {
-        echo 'passed!';
-    } else {
-        echo 'failed!';
-    }
-    die();
-}
-
 $address = "request@rhodestoursexcursions.com";
 
 $e_subject = 'New request from ' . $e_mail . '.';
@@ -113,6 +101,19 @@ $msg .= "Region Name: $regionName\r\n";
 $msg .= "City Name: $cityName\r\n";
 $msg .= "Zip Code: $zipCode\r\n";
 $msg .= "Time Zone: $timeZone\r\n";
+
+if ($debug) {
+    echo "<pre>";
+    print_r($_POST);
+    echo "</pre>";
+    if (passed()) {
+        echo 'passed!';
+    } else {
+        echo 'failed!';
+    }
+    print_r($msg);
+    die();
+}
 
 $headers = "Content-Type: text/html; charset=UTF-8";
 
