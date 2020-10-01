@@ -42,7 +42,13 @@ layout: default
 
     <div class="page__content">
 
-      {%- include partials/tour/form.html show_header = false classes="contact__form-wrapper" -%}
+      {%- if page.id == 'contact' -%}
+        {%- assign page_from = 'Contact Page' -%}
+      {%- else -%}
+        {%- assign page_from = page.title -%}
+      {%- endif -%}
+
+      {%- include partials/tour/form.html show_header = false classes="contact__form-wrapper" from_page=page_from return_to=page.url -%}
 
       <div class="container">
         <p class="centered">

@@ -6,3 +6,4 @@ vendor
 node_modules
 dist
 Gemfile.lock
+_recaptcha_key.php

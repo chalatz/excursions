@@ -14,7 +14,12 @@
         <div class="form tour-form__form">
             <div class="form__body tablet-only tablet-only--block">
 
-                <form action="">
+                <form method="POST" name="sendmail" action="sendmail-contact.php">
+                    <input type="hidden" name="meli_dio" autocomplete="off">
+                    
+                    <input type="hidden" name="from_page" value="{{ include.from_page | upcase }}">
+                    <input type="hidden" name="return_to" value="{{ include.return_to | remove: '/' }}">
+
                     <div class="form__group">
                         <label class="form__label" for="first_name">First Name* :</label>
                         <input class="form__input form__input--text" type="text" name="first_name" required>
@@ -137,6 +142,10 @@
                     <p>
                         * : required fields
                     </p>
+
+                    <label class="visuallyhidden">
+                        <input type="checkbox" name="meli_tria" tabindex="-1" autocomplete="off"> A meli field
+                    </label>
 
                     <button type="submit" class="form__submit">
                         Send
