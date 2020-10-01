@@ -1,6 +1,6 @@
 <?php
 
-$debug = true;
+$debug = false;
 
 if ($debug) {
     ini_set('display_errors', 1);
@@ -37,19 +37,46 @@ $cityName = $results['cityName'];
 $zipCode = $results['zipCode'];
 $timeZone = $results['timeZone'];
 
-$return_to = $_POST['return_to'];
-$from_page = $_POST['from_page'];
-$first_name = $_POST['first_name'];
-$last_name = $_POST['last_name'];
-$city_state_zip = $_POST['city_state_zip'];
-$phone_fax = $_POST['phone_fax'];
-$e_mail = $_POST['e_mail'];
-$date_month = $_POST['date_month'];
-$date_date = $_POST['date_date'];
-$date_year = $_POST['date_year'];
-$speaking_language = $_POST['speaking_language'];
-$party_num = $_POST['party_num'];
-$comments = $_POST['comments'];
+if(isset($_POST['return_to'])){
+    $return_to = $_POST['return_to'];
+}
+if(isset($_POST['from_page'])){
+    $from_page = $_POST['from_page'];
+}
+if(isset($_POST['first_name'])){
+    $first_name = $_POST['first_name'];
+}
+if(isset($_POST['last_name'])){
+    $last_name = $_POST['last_name'];
+}
+if(isset($_POST['city_state_zip'])){
+    $city_state_zip = $_POST['city_state_zip'];
+}
+if(isset($_POST['phone_fax'])){
+    $phone_fax = $_POST['phone_fax'];
+}
+if(isset($_POST['e_mail'])){
+    $e_mail = $_POST['e_mail'];
+}
+if(isset($_POST['date_month'])){
+    $date_month = $_POST['date_month'];
+}
+if(isset($_POST['date_date'])){
+    $date_date = $_POST['date_date'];
+}
+if(isset($_POST['date_year'])){
+    $date_year = $_POST['date_year'];
+}
+if(isset($_POST['speaking_language'])){
+    $speaking_language = $_POST['speaking_language'];
+}
+if(isset($_POST['party_num'])){
+    $party_num = $_POST['party_num'];
+}
+if(isset( $_POST['comments'])){
+    $comments = $_POST['comments'];
+}
+
 
 function passed(){
 

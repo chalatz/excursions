@@ -153,8 +153,14 @@
                 </form>
 
             </div>
+
+            {%- if page.id == 'contact' -%}
+                {%- assign mobile_page_from = 'Contact Page - Mobile' -%}
+            {%- else -%}
+                {%- assign mobile_page_from = page.title | append: ' - Mobile' -%}
+            {%- endif -%}
             
-            {%- include partials/tour/form-mobile.html -%}
+            {%- include partials/tour/form-mobile.html mobile_from_page=mobile_page_from return_to=page.url -%}
         </div>
     </div>
 </div>
