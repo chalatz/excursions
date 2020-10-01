@@ -10,7 +10,9 @@ if ($debug) {
 
 include 'class.IPInfoDB.php';
 
-$ipinfodb = new IPInfoDB('043542783908f8d1b64ecfbd312ee672570dabad52c780a3c52ad643c6a29f7b');
+$infodb_api_key = include '_infodb_key.php';
+
+$ipinfodb = new IPInfoDB($infodb_api_key);
 $results = $ipinfodb->getCity($_SERVER['REMOTE_ADDR']);
 
 $return_to = '';

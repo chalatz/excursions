@@ -7,3 +7,4 @@ node_modules
 dist
 Gemfile.lock
 _recaptcha_key.php
+_infodb_key.php
