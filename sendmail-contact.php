@@ -120,22 +120,24 @@ $headers = "Content-Type: text/html; charset=UTF-8";
 
 function passed_recaptcha(){
 
-    if (passed()) {
-        $url = 'https://www.google.com/recaptcha/api/siteverify';
+    // if (passed()) {
+    //     $url = 'https://www.google.com/recaptcha/api/siteverify';
 
-        $key = include '_recaptcha_key.php';
+    //     $key = include '_recaptcha_key.php';
 
-        $response = file_get_contents($url."?secret=".$key."&response=".$_POST['g-recaptcha-response']."&remoteip=".$_SERVER['REMOTE_ADDR']);
+    //     $response = file_get_contents($url."?secret=".$key."&response=".$_POST['g-recaptcha-response']."&remoteip=".$_SERVER['REMOTE_ADDR']);
     
-        $data = json_decode($response);
+    //     $data = json_decode($response);
     
-        if(isset($data->success) && $data->success == true){
-            return true;
-        } else {
-            return false;
-        }
+    //     if(isset($data->success) && $data->success == true){
+    //         return true;
+    //     } else {
+    //         return false;
+    //     }
     
-    }
+    // }
+
+    return true;
 }
 
 
