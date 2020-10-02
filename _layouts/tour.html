@@ -220,8 +220,14 @@ layout: default
                     </div>
                 </section>
 
+                {%- if page.id == 'contact' -%}
+                    {%- assign page_from = 'Contact Page' -%}
+                {%- else -%}
+                    {%- assign page_from = page.title -%}
+                {%- endif -%}
+
                 <section class="tour__section tour-form" id="request">
-                    {%- include partials/tour/form.html -%}
+                    {%- include partials/tour/form.html from_page=page_from return_to=page.url -%}
                 </section>
     
                 <div class="tour__section-separator"></div>
