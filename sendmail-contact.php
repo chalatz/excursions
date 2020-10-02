@@ -104,7 +104,7 @@ function passed(){
 
 }
 
-$address = "request@rhodestoursexcursions.com";
+$address = "request@rhodesdaytours.com";
 
 $e_subject = 'New request from ' . $e_mail . '.';
 
