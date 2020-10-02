@@ -2,8 +2,10 @@
 layout: default
 ---
 
+<div id="msg" class="msg container _mt-2rem"></div>
 <div class="page__header tour__header">
     <div class="container">
+
         {%- if page.intro and page.intro.size > 0 -%}
             {%- assign no_intro = false -%}
         {%- else -%}

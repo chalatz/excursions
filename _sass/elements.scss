@@ -92,4 +92,44 @@ iframe {
         bottom: 3px;
     }
 }
-  
+ 
+.msg {
+    display: none;
+    position: relative;
+    background-color: #1de9b6;
+    padding: 1rem;
+    margin-bottom: 2rem;
+    box-shadow: 0 2px 3px -1px $black;
+
+    &__title {
+        text-align: center;
+        font-size: 2rem;
+        margin: 0;
+    }
+
+    p {
+        font-size: 1.2rem;
+        a,
+        a:visited,
+        a:active {
+            color: rgb(0,0,238);
+        }
+    }
+
+    &__close {
+        position: absolute;
+        top: 6px;
+        right: 6px;
+        cursor: pointer;
+        svg {
+            width: 32px;
+            height: 32px;
+            stroke: #000;;
+        }
+    }
+
+    &--fail {
+        background-color: #ff6e40;
+    }
+
+}

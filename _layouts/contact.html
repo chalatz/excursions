@@ -3,78 +3,81 @@ layout: default
 ---
 <article class="page{% if page.type and page.type.size > 0 %} {{ page.type }}{% endif %}">
 
-    <div class="container">
-      {%- assign has_subtitle = false -%}
-      {%- if page.subtitle and page.subtitle.size > 0 -%}
-        {%- assign has_subtitle = true -%}
-      {%- endif -%}
+  <div class="container">
 
-      {%- if page.title.size > 0 or page.subtitle.size > 0 -%}
-        <div class="page__header{% if has_head_photo == false %} page__header--no-head-photo{% endif %}">
+    <div id="msg" class="msg"></div>
 
-          {%- if page.title and page.title.size > 0 -%}
-            <h1 class="page__title{% if has_subtitle == false %} page__title--no-subtitle{% endif %}">
-              {{- page.title -}}
-            </h1>
-          {%- endif -%}
+    {%- assign has_subtitle = false -%}
+    {%- if page.subtitle and page.subtitle.size > 0 -%}
+      {%- assign has_subtitle = true -%}
+    {%- endif -%}
 
-          {%- if page.subtitle and page.subtitle.size > 0 -%}
-            <h2 class="page__subtitle">
-              {{- page.subtitle -}}
-            </h2>
-          {%- endif -%}
+    {%- if page.title.size > 0 or page.subtitle.size > 0 -%}
+      <div class="page__header{% if has_head_photo == false %} page__header--no-head-photo{% endif %}">
 
-          {%- if page.intro and page.intro.size > 0 -%}
-            <div class="page__intro">
-              {{ page.intro | markdownify }}
-            </div>
-          {%- endif -%}
-
-          {%- if page.description and page.description.size > 0 -%}
-            <div class="page__intro page__intro--desc">
-              {{ page.description | markdownify }}
-            </div>
-          {%- endif -%}
-
-        </div>
-      {%- endif -%}
-    </div>
-
-    <div class="page__content">
-
-      {%- if page.id == 'contact' -%}
-        {%- assign page_from = 'Contact Page' -%}
-      {%- else -%}
-        {%- assign page_from = page.title -%}
-      {%- endif -%}
-
-      {%- include partials/tour/form.html show_header=false classes="contact__form-wrapper" from_page=page_from return_to=page.url -%}
-
-      <div class="container">
-        <p class="centered">
-           <strong>Contact E-mail Address:</strong> <a href="mailto:request@RhodesPrivateTours.com">request@RhodesPrivateTours.com</a>        
-        </p>
-        {%- if page.message and page.message.size > 0 -%}
-          {{ page.message | markdownify }}
+        {%- if page.title and page.title.size > 0 -%}
+          <h1 class="page__title{% if has_subtitle == false %} page__title--no-subtitle{% endif %}">
+            {{- page.title -}}
+          </h1>
         {%- endif -%}
-      </div>
 
-      {%- if page.footer and page.footer.text.size > 0 -%}
-        <div class="container">
-          <div class="page__footer{% if page.footer.centered == true %} centered{% endif %}">
-            {{ page.footer.text | markdownify }}
+        {%- if page.subtitle and page.subtitle.size > 0 -%}
+          <h2 class="page__subtitle">
+            {{- page.subtitle -}}
+          </h2>
+        {%- endif -%}
+
+        {%- if page.intro and page.intro.size > 0 -%}
+          <div class="page__intro">
+            {{ page.intro | markdownify }}
           </div>
-        </div>
-      {%- endif -%}
+        {%- endif -%}
 
-      {%- if page.outro and page.outro.size > 0 -%}
-        <div class="container">
-          <h3 class="page__outro">
-            {{- page.outro -}}
-          </h3>
-        </div>
+        {%- if page.description and page.description.size > 0 -%}
+          <div class="page__intro page__intro--desc">
+            {{ page.description | markdownify }}
+          </div>
+        {%- endif -%}
+
+      </div>
+    {%- endif -%}
+  </div>
+
+  <div class="page__content">
+
+    {%- if page.id == 'contact' -%}
+      {%- assign page_from = 'Contact Page' -%}
+    {%- else -%}
+      {%- assign page_from = page.title -%}
+    {%- endif -%}
+
+    {%- include partials/tour/form.html show_header=false classes="contact__form-wrapper" from_page=page_from return_to=page.url -%}
+
+    <div class="container">
+      <p class="centered">
+          <strong>Contact E-mail Address:</strong> <a href="mailto:request@RhodesPrivateTours.com">request@RhodesPrivateTours.com</a>        
+      </p>
+      {%- if page.message and page.message.size > 0 -%}
+        {{ page.message | markdownify }}
       {%- endif -%}
     </div>
+
+    {%- if page.footer and page.footer.text.size > 0 -%}
+      <div class="container">
+        <div class="page__footer{% if page.footer.centered == true %} centered{% endif %}">
+          {{ page.footer.text | markdownify }}
+        </div>
+      </div>
+    {%- endif -%}
+
+    {%- if page.outro and page.outro.size > 0 -%}
+      <div class="container">
+        <h3 class="page__outro">
+          {{- page.outro -}}
+        </h3>
+      </div>
+    {%- endif -%}
+  </div>
 
 </article>
 

@@ -105,6 +105,80 @@
     //         handle_submenu();
     //     }, 600, "some unique string");
     // });
+
+    var getUrlParam= function(name) {
+        var results = new RegExp('[\\?&]' + name + '=([^&#]*)').exec(window.location.href);
+        return (results && results[1]) || undefined;
+    }
+
+    var handle_contact_form_post = function(){
+
+        var form_status = getUrlParam('contact-form-sent');
+
+        if (form_status === 'success') {
+            var msg_div = $('#msg'),
+                msg_content = 
+                    '<span id="msg-close" class="msg__close"><svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-x" width="44" height="44" viewBox="0 0 24 24" stroke-width="1.5" stroke="#0000" fill="none" stroke-linecap="round" stroke-linejoin="round"><path stroke="none" d="M0 0h24v24H0z" fill="none"/><line x1="18" y1="6" x2="6" y2="18" /><line x1="6" y1="6" x2="18" y2="18" /></svg></span>' + 
+                    '<h3 class="msg__title">Email Sent!</h3>' +
+                    '<p>Thank you for the interest that you\'ve shown in our services. Your request was sent successfully and will be processed soon.</p>';
+
+            msg_div.html(msg_content);
+
+            msg_div.show();
+                                    
+            $(msg_div).on('click', '#msg-close', function(e){
+                $(msg_div).fadeOut(300);
+            });
+        }
+
+        if (form_status === 'fail') {
+            var msg_div = $('#msg'),
+                msg_content = 
+                    '<span id="msg-close" class="msg__close"><svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-x" width="44" height="44" viewBox="0 0 24 24" stroke-width="1.5" stroke="#0000" fill="none" stroke-linecap="round" stroke-linejoin="round"><path stroke="none" d="M0 0h24v24H0z" fill="none"/><line x1="18" y1="6" x2="6" y2="18" /><line x1="6" y1="6" x2="18" y2="18" /></svg></span>' + 
+                    '<h3 class="msg__title">Something went wrong</h3>' +
+                    '<p class="centered">Please try to fill the form again.</p>' + 
+                    '<p class="centered">If the problem persists, please try to contact us directly at <a href="mailto:request@RhodesPrivateTours.com">request@RhodesPrivateTours.com</p>' + 
+                    '<p class="centered"><a id="goto-form" href="#request">Return to the Form</p>';
+            
+            msg_div.addClass('msg--fail');
+
+            msg_div.html(msg_content);
+
+            msg_div.show();
+                                    
+            $(msg_div).on('click', '#msg-close', function(e){
+                $(msg_div).fadeOut(300);
+            });
+
+            $('#goto-form').on('click', function(e){
+                e.preventDefault();
+                $(msg_div).hide();
+                $('html, body').animate({scrollTop: $('#request').offset().top -100 }, 'slow');
+            });
+        }
+        
+        if (form_status === 'validation-error') {
+            var msg_div = $('#msg'),
+                msg_close = $('#msg-close'),
+                msg_content = 
+                '<span id="msg-close" class="msg__close"><svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-x" width="44" height="44" viewBox="0 0 24 24" stroke-width="1.5" stroke="#0000" fill="none" stroke-linecap="round" stroke-linejoin="round"><path stroke="none" d="M0 0h24v24H0z" fill="none"/><line x1="18" y1="6" x2="6" y2="18" /><line x1="6" y1="6" x2="18" y2="18" /></svg></span>' + 
+                    '<h3 class="msg__title">Missing field(s)</h3>' +
+                    '<p class="centered">Please try to fill all the fields before submitting.</p>' + 
+                    '<p class="centered">If the problem persists, please try to contact us directly at <a href="mailto:request@RhodesPrivateTours.com">request@RhodesPrivateTours.com</p>';
+            
+            msg_div.addClass('msg--fail')
+
+            msg_div.html(msg_content);
+
+            msg_div.show();
+                                    
+            $(msg_div).on('click', '#msg-close', function(e){
+                $(msg_div).fadeOut(300);
+            });
+        }
+        
+    };
+
     
     handle_menu();
     handle_submenu();
@@ -112,5 +186,7 @@
     fill_year();
 
     goto_top();
+
+    handle_contact_form_post();
 
 })(jQuery);
