@@ -167,7 +167,12 @@ function passed_recaptcha(){
     
     // }
 
-    return true;
+    if (passed()) {
+        return true;
+    } else {
+        return false;
+    }
+
 }
 
 
