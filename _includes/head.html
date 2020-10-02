@@ -29,4 +29,8 @@
 
   <link rel="stylesheet" href="{{- css_path | relative_url -}}">
 
+  {%- if page.layout == 'contact' or page.layout == 'tour' -%}
+    <script src="https://www.google.com/recaptcha/api.js?hl=en" async defer></script>
+  {%- endif -%}
+
 </head>
