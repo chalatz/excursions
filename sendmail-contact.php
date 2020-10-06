@@ -19,6 +19,7 @@ $return_to = '';
 $from_page = '';
 $first_name = '';
 $last_name = '';
+$first_last_name = '';
 $city_state_zip = '';
 $phone_fax = '';
 $e_mail = '';
@@ -49,6 +50,9 @@ if(isset($_POST['first_name'])){
 if(isset($_POST['last_name'])){
     $last_name = $_POST['last_name'];
 }
+if(isset($_POST['first_last_name'])){
+    $first_last_name = $_POST['first_last_name'];
+}
 if(isset($_POST['city_state_zip'])){
     $city_state_zip = $_POST['city_state_zip'];
 }
@@ -67,6 +71,9 @@ if(isset($_POST['date_date'])){
 if(isset($_POST['date_year'])){
     $date_year = $_POST['date_year'];
 }
+if(isset($_POST['cruise_ship'])){
+    $cruise_ship = $_POST['cruise_ship'];
+}
 if(isset($_POST['speaking_language'])){
     $speaking_language = $_POST['speaking_language'];
 }
@@ -76,7 +83,6 @@ if(isset($_POST['party_num'])){
 if(isset( $_POST['comments'])){
     $comments = $_POST['comments'];
 }
-
 
 function passed(){
 
@@ -112,8 +118,12 @@ $msg = "Details:\r\n\n";
 
 $msg .= "From: $from_page\r\n";
 
-$msg .= "First Name: $first_name\r\n";
-$msg .= "Last Name: $last_name\r\n";
+if ($first_last_name == '') {
+    $msg .= "First Name: $first_name\r\n";
+    $msg .= "Last Name: $last_name\r\n";
+} else {
+    $msg .= "Name: $first_last_name\r\n";
+}
 $msg .= "City/State/Country: $city_state_zip\r\n";
 $msg .= "Phone/Fax: $phone_fax\r\n";
 $msg .= "E-mail: $e_mail\r\n";
