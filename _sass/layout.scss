@@ -3,6 +3,10 @@ html,
     box-sizing: border-box;
 }
 
+body {
+    position: relative;
+}
+
 .row {
     @include clearfix;
 }

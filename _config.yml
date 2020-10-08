@@ -31,6 +31,13 @@ github_username:  jekyll
 
 permalink: pretty
 
+defaults:
+  -
+    scope:
+      path: "pages/tours"
+    values:
+      has_form: true
+
 # Build settings
 # theme: minima
 plugins:

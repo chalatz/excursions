@@ -1,0 +1,32 @@
+.pop-form-button {
+
+    position: fixed;
+    left: 16px;
+    bottom: 14px;
+    cursor: pointer;
+    opacity: .9;
+    z-index: 90;
+
+    a {
+        display: block;
+        background-color: $yellow;
+        border-radius: 100%;
+        padding: 8px 10px;
+        transition: background-color .1s linear;
+        &:hover {
+            background-color: $darkyellow;
+            svg {
+                stroke: $darkblue;
+            }
+        }
+    }
+
+    svg {
+        stroke: $blue;
+        width: 34px;
+        height: 34px;
+        position: relative;
+        top: 1px;
+    }
+
+}

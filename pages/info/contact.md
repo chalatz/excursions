@@ -6,6 +6,7 @@ permalink: booking.htm
 has_gallery: false
 has_destinations: true
 has_banners: true
+has_form: true
 meta:
   title: Booking Shore Excursions in Rhodes Greece
   http_desc: Booking Shore Excursions Rhodes Greece, Booking Cruise Excursions on your Own, booking independent shore excursions

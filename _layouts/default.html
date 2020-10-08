@@ -21,6 +21,10 @@
         <polyline points="6 15 12 9 18 15" />
       </svg>
     </a>
+
+    {%- unless page.has_form == true -%}
+      {%- include pop-form.html -%}
+    {%- endunless -%}
     
     {%- include scripts.html -%}
 
