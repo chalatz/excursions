@@ -77,10 +77,15 @@
 
     &__close {
         position: absolute;
-        right: 0.5rem;
-        top: 0.5rem;
+        right: -10px;
+        top: -10px;
         font-size: 2.5rem;
         cursor: pointer;
+        svg {
+            width: 80px;
+            height: 80px;
+            stroke: $darkblue;
+        }
     }
 
     @media (max-height: 465px) {

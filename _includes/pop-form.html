@@ -15,7 +15,6 @@
         <span id="pop-form__close" class="pop-form__close">
             <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-square-x" width="44" height="44" viewBox="0 0 24 24" stroke-width="1.5" stroke="#3F51B5" fill="none" stroke-linecap="round" stroke-linejoin="round">
                 <path stroke="none" d="M0 0h24v24H0z" fill="none"/>
-                <rect x="4" y="4" width="16" height="16" rx="2" />
                 <path d="M10 10l4 4m0 -4l-4 4" />
             </svg>
         </span>
@@ -27,9 +26,10 @@
             {%- if page.layout == 'home' -%}
                 {%- assign from_page = 'Home Page' -%}
             {%- else -%}
-                {%- assign from_page = page.id | replace: '_', ' ' -%}
                 {%- if page.title and page.title.size > 0 -%}
-                    {%- assign from_page = page.title -%}   
+                    {%- assign from_page = page.title -%}
+                {%- else -%}
+                    {%- assign from_page = page.id | replace: '_', ' ' -%}
                 {%- endif -%}
             {%- endif -%}
 
@@ -42,8 +42,8 @@
             <input type="hidden" name="return_to" value="{{ page.url | remove: '/' }}">
 
             <div class="pop-form__group">
-                <label class="pop-form__label" for="first_name">First and Last Name:</label>
-                <input class="pop-form__input pop-form__input--text form__input form__input--text" type="text" name="first_name" required>
+                <label class="pop-form__label" for="first_last_name">First and Last Name:</label>
+                <input class="pop-form__input pop-form__input--text form__input form__input--text" type="text" name="first_last_name" required>
             </div>
 
             <div class="pop-form__group">
@@ -57,7 +57,7 @@
             </div>
 
             <div class="pop-form__group">
-                <label class="pop-form__label" for="comments">Comments: Please include:<br>"Tour Start Location" and "Tour Date"</label>
+                <label class="pop-form__label" for="comments">Comments: Please include:<br>"Excursion Start Location" and "Excursion Date"</label>
                 <textarea class="pop-form__input pop-form__input--textarea form__input form__input--textarea" name="comments" cols="30" rows="3"></textarea>
             </div>
 
@@ -65,7 +65,7 @@
                 <input type="checkbox" name="meli_tria" tabindex="-1" autocomplete="off">
             </label>
 
-            <div class="g-recaptcha" data-sitekey="6LeQ2dQUAAAAAG80PiWCNyNl7UXpxTt_U9D-zGc9"></div>
+            <div class="g-recaptcha" data-sitekey="6LeJ99IZAAAAANuVD7MPKcKmGuFnXSBaOukcyjAy"></div>
             <br/>            
 
             <button type="submit" class="pop-form__submit form__submit">
