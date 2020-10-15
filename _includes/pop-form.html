@@ -37,8 +37,6 @@
 
             <input type="hidden" name="from_page" value="{{ from_page | upcase }}">
 
-            <input type="hidden" name="page_url" value="{{ page.permalink }}">
-
             <input type="hidden" name="return_to" value="{{ page.url | remove: '/' }}">
 
             <div class="pop-form__group">
@@ -58,7 +56,7 @@
 
             <div class="pop-form__group">
                 <label class="pop-form__label" for="comments">Comments: Please include:<br>"Excursion Start Location" and "Excursion Date"</label>
-                <textarea class="pop-form__input pop-form__input--textarea form__input form__input--textarea" name="comments" cols="30" rows="3"></textarea>
+                <textarea class="pop-form__input pop-form__input--textarea form__input form__input--textarea" name="comments" cols="30" rows="3" required></textarea>
             </div>
 
             <label class="visuallyhidden">
