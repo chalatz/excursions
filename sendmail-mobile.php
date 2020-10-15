@@ -123,28 +123,28 @@ function validated() {
 
 function passed_recaptcha(){
 
-    // if (passed()) {
-    //     $url = 'https://www.google.com/recaptcha/api/siteverify';
-
-    //     $key = include '_recaptcha_key.php';
-
-    //     $response = file_get_contents($url."?secret=".$key."&response=".$_POST['g-recaptcha-response']."&remoteip=".$_SERVER['REMOTE_ADDR']);
-    
-    //     $data = json_decode($response);
-    
-    //     if(isset($data->success) && $data->success == true){
-    //         return true;
-    //     } else {
-    //         return false;
-    //     }
-    
-    // }
-
     if (passed()) {
-        return true;
-    } else {
-        return false;
+        $url = 'https://www.google.com/recaptcha/api/siteverify';
+
+        $key = include '_recaptcha_key.php';
+
+        $response = file_get_contents($url."?secret=".$key."&response=".$_POST['g-recaptcha-response']."&remoteip=".$_SERVER['REMOTE_ADDR']);
+    
+        $data = json_decode($response);
+    
+        if(isset($data->success) && $data->success == true){
+            return true;
+        } else {
+            return false;
+        }
+    
     }
+
+    // if (passed()) {
+    //     return true;
+    // } else {
+    //     return false;
+    // }
 
 }
 
