@@ -96,6 +96,13 @@
         ol {
             margin-top: 0;
         }
+
+        .covid_19 & {
+            h3,
+            h4 {
+                text-align: left;
+            }
+        }
     }
 
     &__outro {
