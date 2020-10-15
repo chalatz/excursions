@@ -101,6 +101,16 @@
             <span class="site-footer__bottom-info-item">Rhodes Shore Excursions</span>
         </p>
 
+        {%- if page.has_emergency == true -%}
+            <div class="container">
+                <a href="{{- 'covid19-rhodes.htm' | relative_url -}}" class="emergency">
+                    <h3 class="emergency__title">
+                        COVID-19 RHODES GREECE
+                    </h3>                    
+                </a>
+            </div>
+        {%- endif -%}
+
     </div>
 
 </footer>

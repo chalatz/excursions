@@ -17,6 +17,7 @@ intro: |-
   Are you a cruiser and first-time visitor to Rhodes? Looking for a way to maximize your short time on the island?
 
   If Yes, then you came to the right place. **Welcome to Rhodes Shore Excursions!**
+has_emergency: true
 ---
 {:.centered}
 **Get help from true insiders.**

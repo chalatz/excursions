@@ -133,3 +133,25 @@ iframe {
     }
 
 }
+
+.emergency {
+    display: block;
+    padding: .1rem 1rem;
+    font-weight: bold;
+    font-size: 1.15rem;
+    background-color: $yellow;
+    color: $blue;
+    border-radius: 3px;
+    text-decoration: none;
+    text-align: center;
+    margin: 1rem 0 1.5rem;
+    box-shadow: 0px 7px 0px 0px $darkyellow;
+    transition: background-color .15s linear;
+    &:hover {
+        background-color: $darkishyellow;
+    }
+    &__cta {
+        text-decoration: underline;
+        font-size: 1.3rem;
+    }
+}
