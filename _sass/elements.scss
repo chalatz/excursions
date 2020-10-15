@@ -139,16 +139,17 @@ iframe {
     padding: .1rem 1rem;
     font-weight: bold;
     font-size: 1.15rem;
-    background-color: $yellow;
-    color: $blue;
+    background-color: $gray;
+    color: $red;
     border-radius: 3px;
+    border: 3px solid $red;
     text-decoration: none;
     text-align: center;
     margin: 1rem 0 1.5rem;
-    box-shadow: 0px 7px 0px 0px $darkyellow;
-    transition: background-color .15s linear;
+    transition: background-color .15s linear, color .15s linear;
     &:hover {
-        background-color: $darkishyellow;
+        background-color: $red;
+        color: #fff;
     }
     &__cta {
         text-decoration: underline;

@@ -90,9 +90,9 @@
         </div>
 
         <div class="site-footer__bottom-info">
-            <span class="site-footer__bottom-info-item">EOT (GNTO) N. 1476E6000010971</span>
-            <span class="mid-desktop-only mid-desktop-only--inline">&nbsp;</span>
-            <span class="site-footer__bottom-info-item">ΓΕΜΗ (G.C.R) N. 000146680620000</span>
+            <span class="site-footer__bottom-info-item">EOT (GNTO) N. 1476E70000137800</span>
+            {%- comment -%} <span class="mid-desktop-only mid-desktop-only--inline">&nbsp;</span>
+            <span class="site-footer__bottom-info-item">ΓΕΜΗ (G.C.R) N. 000146680620000</span> {%- endcomment -%}
         </div>
 
         <p class="site-footer__copyright">
@@ -106,7 +106,10 @@
                 <a href="{{- 'covid19-rhodes.htm' | relative_url -}}" class="emergency">
                     <h3 class="emergency__title">
                         COVID-19 RHODES GREECE
-                    </h3>                    
+                    </h3>
+                    <p class="mobile-only mobile-only--block emergency__cta">
+                        Read Details
+                    </p>               
                 </a>
             </div>
         {%- endif -%}
