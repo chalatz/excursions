@@ -155,7 +155,7 @@ if (validated()) {
         header('Location: ' . $return_to . '?contact-form-sent=success');
     
     } else {
-        header('Location: '. $return_to . '?contact-form-sent=fail');
+        header('Location: '. $return_to . '?contact-form-sent=fail-mobile');
     }
 } else {
     header('Location: '. $return_to . '?contact-form-sent=validation-error');

@@ -159,14 +159,16 @@
             });
         }
 
-        if (form_status === 'fail') {
+        if (form_status === 'fail' || form_status === 'fail-mobile') {
             var msg_div = $('#msg'),
                 msg_content = 
                     '<span id="msg-close" class="msg__close"><svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-x" width="44" height="44" viewBox="0 0 24 24" stroke-width="1.5" stroke="#0000" fill="none" stroke-linecap="round" stroke-linejoin="round"><path stroke="none" d="M0 0h24v24H0z" fill="none"/><line x1="18" y1="6" x2="6" y2="18" /><line x1="6" y1="6" x2="18" y2="18" /></svg></span>' + 
                     '<h3 class="msg__title">Something went wrong</h3>' +
                     '<p class="centered">Please try to fill the form again.</p>' + 
-                    '<p class="centered">If the problem persists, please try to contact us directly at <a href="mailto:request@RhodesShoreExcursions.com">request@RhodesShoreExcursions.com</p>' + 
-                    '<p class="centered"><a id="goto-form" href="#request">Return to the Form</p>';
+                    '<p class="centered">If the problem persists, please try to contact us directly at <a href="mailto:request@RhodesShoreExcursions.com">request@RhodesShoreExcursions.com</p>';
+                    if (form_status === 'fail') {                       
+                        msg_content += '<p class="centered"><a id="goto-form" href="#request">Return to the Form</p>';
+                    }
             
             msg_div.addClass('msg--fail');
 
