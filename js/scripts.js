@@ -99,12 +99,40 @@
 
     };    
 
-    
-    // $(window).resize(function () {
-    //     waitForFinalEvent(function(){
-    //         handle_submenu();
-    //     }, 600, "some unique string");
-    // });
+    var handle_pop_form = function(){
+
+        var button = $('#pop-form-button'),
+            pop_form = $('#pop-form'),
+            close_button = $('#pop-form__close');
+
+        button.on('click', function(){
+            var $this = $(this)
+                button_width = $this.width();
+            $this.animate({
+                opacity: 0,
+                left: '-=' + button_width
+            }, 500);
+            pop_form.show().animate({                
+                opacity: 1,
+                bottom: 0
+            });
+        });
+
+        close_button.on('click', function(){
+            pop_form.animate({
+                opacity: 0,
+                bottom: '-=3rem'
+            }, 300, function(){
+                pop_form.hide();
+            });
+            button.animate({
+                opacity: .9,
+                left: '.5rem'
+            }, 300);
+        });
+
+    }
+
 
     var getUrlParam= function(name) {
         var results = new RegExp('[\\?&]' + name + '=([^&#]*)').exec(window.location.href);
@@ -186,6 +214,8 @@
     fill_year();
 
     goto_top();
+
+    handle_pop_form();
 
     handle_contact_form_post();
 

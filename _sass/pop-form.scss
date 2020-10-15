@@ -7,6 +7,10 @@
     opacity: .9;
     z-index: 90;
 
+    @include breakpoint(small) {
+        display: inline-block;
+    }
+
     a {
         display: block;
         background-color: $yellow;
@@ -29,6 +33,10 @@
         top: 1px;
     }
 
+    @include breakpoint(medium) {
+        display: none;
+    }
+
 }
 
 .pop-form {
@@ -37,8 +45,8 @@
     left: 0.3rem;
     bottom: 0;
     z-index: 100;
-    // display: none;
-    opacity: 1;
+    display: none;
+    opacity: 0;
     border-top-left-radius: 6px;
     border-top-right-radius: 6px;
 
@@ -88,7 +96,7 @@
         }
     }
 
-    @media (max-height: 465px) {
+    @media (max-height: 550px) {
         max-height: 100%;
         overflow-x: hidden;
         overflow-y: scroll;
