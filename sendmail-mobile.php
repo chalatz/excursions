@@ -74,6 +74,7 @@ $msg .= "From: $from_page\r\n";
 $msg .= "Name: $first_last_name\r\n";
 $msg .= "City/State/Country: $city_state_zip\r\n";
 $msg .= "E-mail: $e_mail\r\n";
+$msg .= "Comments:\r\n $comments\r\n";
 
 $msg .= "Ip Address: $ipAddress\r\n";
 $msg .= "Country Code: $countryCode\r\n";
