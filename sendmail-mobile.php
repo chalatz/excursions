@@ -1,6 +1,6 @@
 <?php
 
-$debug = true;
+$debug = false;
 
 if ($debug) {
     ini_set('display_errors', 1);
@@ -89,12 +89,12 @@ if ($debug) {
     echo "</pre>";
     if (validated()) {
         if (passed()) {
-            echo 'passed!';
+            echo 'passed!\n';
         } else {
-            echo 'failed!';
+            echo 'failed!\n';
         }
     } else {
-        echo 'validation error';
+        echo 'validation error\n';
     }
     print_r($msg);
     die();
