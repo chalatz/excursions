@@ -1,6 +1,6 @@
 <?php
 
-$debug = false;
+$debug = true;
 
 if ($debug) {
     ini_set('display_errors', 1);
@@ -87,10 +87,14 @@ if ($debug) {
     echo "<pre>";
     print_r($_POST);
     echo "</pre>";
-    if (passed()) {
-        echo 'passed!';
+    if (validated()) {
+        if (passed()) {
+            echo 'passed!';
+        } else {
+            echo 'failed!';
+        }
     } else {
-        echo 'failed!';
+        echo 'validation error';
     }
     print_r($msg);
     die();
