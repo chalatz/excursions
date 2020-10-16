@@ -7,7 +7,7 @@ layout: default
   {%- assign has_head_photo = false -%}
 {%- endif -%}
 {%- if has_head_photo == true -%}
-    <section class="head-photo head-photo--page head-photo--{{ page.type }}">
+    <section class="head-photo head-photo--page head-photo--{{ page.type }}{% if page.head_photo.type and page.head_photo.type.size > 0 %} head-photo--{{ page.head_photo.type }} {% endif %}">
         {%- if page.head_photo.mobile and page.head_photo.mobile.size > 0 -%} 
           <picture>
             <source srcset="{{- page.head_photo.mobile | relative_url -}}"
@@ -67,6 +67,13 @@ layout: default
         {%- assign page_gallery_size = page.gallery.size | size -%}
         {%- if page_gallery_size > 0 -%}
           {%- include partials/page-gallery.html the_gallery= page.gallery -%}
+        {%- endif -%}
+      {%- endif -%}
+
+      {%- if page.generic_gallery -%}
+        {%- assign page_generic_gallery_size = page.generic_gallery | size -%}
+        {%- if page_generic_gallery_size > 0 -%}
+          {%- include partials/page-generic-gallery.html the_gallery= page.generic_gallery -%}
         {%- endif -%}
       {%- endif -%}
 

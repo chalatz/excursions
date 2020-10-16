@@ -7,6 +7,12 @@ img {
         width: 100%;
         margin-bottom: -3px;
     }
+    &--small {
+        text-align: center;
+        img {
+            width: auto;
+        }
+    }
 }
 
 .section {

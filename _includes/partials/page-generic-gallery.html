@@ -1,0 +1,37 @@
+<section class="page__gallery page__gallery--generic">
+
+    {%- if include.the_gallery -%}
+        {%- assign the_gallery = include.the_gallery -%}
+    {%- else -%}
+        {%- assign the_gallery = page.generic_gallery -%}
+    {%- endif -%}
+
+    {%- assign total_items = the_gallery.items | size -%}
+
+    {%- for item in the_gallery.items -%}
+        {%- if total_items == 4 -%}
+            {%- assign modulo_two = forloop.index | modulo: 2 -%}
+        {%- endif -%}
+        {%- if total_items == 4 and modulo_two == 1 -%}
+            <div class="page__gallery-wrapper-of-two">
+        {%- endif -%}
+            <figure class="page__gallery-item page__gallery-item--{{ forloop.index }} page__gallery-item--{{ forloop.index }}-of-{{ total_items }} page__gallery-item--of-{{ total_items }}{% if forloop.first %} page__gallery-item--first first{% else %} page__gallery-item--following{% endif %}{% if page.gallery.show_on_mobile == true %} show-on-mobile{% endif %}">
+                {%- if item.link and item.link.size > 0 -%}
+                    <a class="page__gallery-item-link" href="{{- item.link | relative_url -}}"{% if item.target == 'new' %} target="_blank"{% endif %}>
+                        <img class="page__gallery-item-img" src="{{- item.image.path | relative_url -}}" alt="{{- item.image.alt -}}">
+                    </a>
+                {%- else -%}
+                    <img class="page__gallery-item-img page__gallery-item-img--no-link" src="{{- item.image.path | relative_url -}}" alt="{{- item.image.alt -}}">                   
+                {%- endif -%}
+                {%- if item.caption and item.caption.size > 0 -%}
+                    <figcaption class="page__gallery-item-caption">
+                        {{- item.caption -}}
+                    </figcaption>
+                {%- endif -%}
+            </figure>
+        {%- if total_items == 4 and modulo_two == 0 -%}
+            </div>
+        {%- endif -%}
+    {%- endfor -%}
+    
+</section>
