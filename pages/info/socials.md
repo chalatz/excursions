@@ -36,7 +36,6 @@ generic_gallery:
         alt: 'Rhodes Anthony Quinn Beach, Excursions in Rhodes'
       link: 'https://gr.pinterest.com/request0715/rhodes-shore-excursions/'
       target: 'new'
-
 ---
 We are continually innovating and striving to make our private tour services the very "Best Sightseeing Experience" in Rhodes Island.
 
