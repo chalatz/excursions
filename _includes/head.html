@@ -31,6 +31,10 @@
 
   <link rel="stylesheet" href="{{- css_path | relative_url -}}">
 
+  {%- unless jekyll.environment == 'development' -%}
+    {%- include partials/google-analytics.html -%}
+  {%- endunless -%}
+
   <script src="https://www.google.com/recaptcha/api.js?hl=en" async defer></script>
 
 </head>
