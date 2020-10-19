@@ -10,7 +10,7 @@ meta:
   keywords: Worry Free Guarantee Shore Excursions in Rhodes Greece, Worry Free Guarantee Cruise Shore Excursions in Rhodes Greece
   description: Worry Free Guarantee Shore Excursions in Rhodes Greece, Worry Free Guarantee Cruise Shore Excursions in Rhodes Greece
   abstract: Worry Free Guarantee Shore Excursions in Rhodes
-title: Worry Free Guarantee Shore Excursions in Rhodes
+title: Worry-Free Shore Excursion Guarantee
 head_photo:
   img: /img/pages/worry-free/head-photo.jpg
   mobile: /img/pages/worry-free/head-photo-mobile.jpg
@@ -19,17 +19,17 @@ outro: 'Worry Free Cruise Shore Excursions in Rhodes Greece'
 has_destinations: true
 has_banners: true
 ---
-### Back to the ship on time
+### Back to the ship in time
 
-##### Enjoy a Worry-Free shore excursion in Rhodes Island with our detailed arrangements from the beginning to the end.
+Enjoy a Worry-Free shore excursion in Rhodes Island with our detailed arrangements from the beginning to the end.
 
-We don't require booking deposit or prepayment for private excursions by sedan cars.  If weather conditions or other reasons cause your cruise ship to change its itinerary and not arrive in port, we lose the job, but you don't lose money.
+We guarantee that we will take you back to the ship in time for departure. We have not been late to any ship - ever
 
-If the ship arrives late into port, we'll adjust our schedules, and the rental time will start from the moment you meet your driver-without you losing time and money.
+Our associate fleet of cars is maintained and kept in quality condition. In the unlikely event of mechanical failure, we will resolve the matter within 10 - 20 minutes. As we corporate with the biggest transfers companies on the island a simple phone call ensures that your tour will not be disrupted and that you are safely returned to your ship in time for departure. Bon Voyage!
 
-Our associate fleet of cars is maintained and kept in quality condition. In the unlikely event of mechanical failure, we will resolve the matter within 10 - 20 minutes. As we corporate with the biggest transfers companies on the island a simple phone call ensures that your tour will not be disrupted and that you are safely returned to your ship in time for departure.
+We don’t require booking deposit or prepayment for private excursions by sedan cars. If weather conditions or other reasons cause your cruise ship to change its itinerary and not arrive in port, we lose the job, but you don’t lose money.
 
-Bon Voyage!
+If the ship arrives late into port, we’ll adjust our schedules, and the rental time will start from the moment you meet your driver-without you losing time and money.
 
 ### Shore Excursion Safety
 
