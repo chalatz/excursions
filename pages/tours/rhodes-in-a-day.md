@@ -65,6 +65,7 @@ inclusions:
     - All Car and Driver Expenses (prices are per car not per person)
     - No Stress - Back to the Ship on Time (if you are a Cruise Ship Passenger)
     - Personalized Customer Service
+    - Free Cancelation Policy
   not_included:
     - Entrance Fees, Food, Drinks, Gratuities (Optional)
 

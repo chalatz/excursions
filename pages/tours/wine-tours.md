@@ -229,6 +229,7 @@ inclusions:
     - All Car and Driver Expenses (prices are per car not per person)
     - No Stress - Back to the Ship on Time (if you are a Cruise Ship Passenger)
     - Personalized Customer Service
+    - Free Cancelation Policy
   not_included:
     - Entrance Fees, Food, Drinks, Gratuities (Optional)
   footer: The Wine Tour got no Entrance fees, Food, or Drinks to pay, the wine tasting in the wineries is FREE. The food and the drinks in the restaurant are not included in the tour price.    
