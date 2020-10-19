@@ -7,19 +7,19 @@ has_gallery: true
 has_destinations: true
 has_banners: false
 meta:
-  title: Embonas Village Rhodes
-  http_desc: Embonas Village in Rhodes Greece, Shore Excursions to Embonas Village in Rhodes Greece
-  keywords: Embonas Village in Rhodes Greece, Shore Excursions to Embonas Village in Rhodes Greece
-  description: Embonas Village in Rhodes Greece, Shore Excursions to Embonas Village in Rhodes Greece
+  title: Embonas Village Rhodes, Embona Rhodes Wine
+  http_desc: Embonas Village in Rhodes Greece, Embona Rhodes Wine, Shore Excursions to Embona Village in Rhodes Greece
+  keywords: Embonas Village in Rhodes Greece, Embona Rhodes Wine, Shore Excursions to Embona Village in Rhodes Greece
+  description: Embonas Village in Rhodes Greece, Embona Rhodes Wine, Shore Excursions to Embona Village in Rhodes Greece
   abstract: Embonas Village Rhodes
-title: Embonas Village Rhodes Greece
+title: Embonas Village Rhodes - Embona Rhodes Wine
 head_photo:
   img: /img/pages/embonas-village/head-photo.jpg
   mobile: /img/pages/embonas-village/head-photo-mobile.jpg
   alt_text: ''
 sections:
   - text: |-
-      If you love sampling different types of wine, a trip to Embonas Village should be on your bucket list. Located on the west coast of the island, about 32 miles from Rhodes town, the tiny village is known not only for the wine it makes, but also for its unique location. It is nestled under the highest mountain on the island called Attaviros and is filled with luscious olive groves, vineyards, and pine forests. The top of the mountain still has remains of a temple that was built to pay homage to the Greek God Zeus.
+      If you love sampling different types of wine, a trip to Embonas Village should be on your bucket list. Embona or Empona is located on the west coast of the island, about 32 miles from Rhodes town, the tiny village is known not only for the wine it makes, but also for its unique location. It is nestled under the highest mountain on the island called Attaviros and is filled with luscious olive groves, vineyards, and pine forests. The top of the mountain still has remains of a temple that was built to pay homage to the Greek God Zeus.
     gallery:
       items_per_row: 4
       items:
