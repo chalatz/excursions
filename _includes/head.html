@@ -23,6 +23,8 @@
   <meta name="rating" content="{{ site.data.global.meta.rating }}">
   <meta http-equiv="resource-type" content="document">
   
+  {%- include favicon.html -%}
+
   <link href="https://fonts.googleapis.com/css?family=PT+Serif&display=swap" rel="stylesheet">
 
   {%- capture css_path -%}css/main.css?{{- site.time | date: '%s' -}}{%- endcapture -%}
