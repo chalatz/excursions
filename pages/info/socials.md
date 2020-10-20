@@ -1,7 +1,7 @@
 ---
 layout: page
 type: info_page
-id: socials
+id: koinonika
 permalink: sightseeing_tours_in_rhodes_greece.htm
 has_gallery: false
 has_destinations: true
