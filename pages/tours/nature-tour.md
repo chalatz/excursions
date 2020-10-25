@@ -2,7 +2,7 @@
 layout: tour
 type: tour
 id: nature_tour
-permalink: nature-excursions.htm
+permalink: rhodes-nature-excursions.htm
 has_gallery: true
 has_carousel: true
 has_destinations: true
