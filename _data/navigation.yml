@@ -11,7 +11,7 @@ main:
       parent_name: about
       sublinks:
         - title: Our Story
-          url: taxi_services.htm
+          url: private-shore-excursions-rhodes-greece.htm
           parent: about
         - title: VIP Tour Services
           url: vip_tours.htm
@@ -67,7 +67,7 @@ footer:
     title: Know Before You Go
     items:
       - title: Our Story
-        url: taxi_services.htm
+        url: private-shore-excursions-rhodes-greece.htm
         id: our_story
       - title: Why Tour with Us
         url: Independent_greece.htm

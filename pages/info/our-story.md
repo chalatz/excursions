@@ -3,7 +3,7 @@ layout: page
 type: info_page
 id: our_story
 parent: about
-permalink: taxi_services.htm
+permalink: private-shore-excursions-rhodes-greece.htm
 has_gallery: true
 has_destinations: true
 has_banners: true
@@ -13,8 +13,8 @@ meta:
   keywords: Private Shore Excursions on Rhodes Greece, Shore Excursions on Rhodes Island Greece
   description: Private Shore Excursions on Rhodes Greece, Shore Excursions on Rhodes Island Greece
   abstract: Private Shore Excursions on Rhodes Greece 
-title: Rhodes Shore Excursions
-subtitle: Private Shore Excursions on Rhodes Island Greece
+title: Private Shore Excursions on Rhodes Greece
+subtitle: ''
 head_photo:
   img: /img/pages/about/head-photo.jpg
   mobile: /img/pages/about/head-photo-mobile.jpg
@@ -73,9 +73,7 @@ gallery:
       Travel Guides", while filming in Rhodes
 
 ---
-### We have been in business since 1984, (online since 1998) providing outstanding Private Tour Services to travelers from all over the world.
-
-We are extremely proud of our rich, cultural heritage, and we delight in sharing our island's natural beauty with you. We have accommodated small groups in our Mercedes Benz sedan cars. As larger groups, have become interested in our services, we provide Luxury Mercedes Benz Minibuses driven by Professional Drivers and hosted by Licensed Tour Guides, required by Greek law. [Private Group Shore Excursions](/rhodes-groups-excursions/)
+**We have been in business since 1984, (online since 1998) providing outstanding Private Tour Services to travelers from all over the world.** We are extremely proud of our rich, cultural heritage, and we delight in sharing our island's natural beauty with you. We have accommodated small groups in our Mercedes Benz sedan cars. As larger groups, have become interested in our services, we provide Luxury Mercedes Benz Minibuses driven by Professional Drivers and hosted by Licensed Tour Guides, required by Greek law. [Private Group Shore Excursions](./groups.htm)
 
 #### Our Primary Reason for Operating this Website
 
