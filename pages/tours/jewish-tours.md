@@ -51,7 +51,7 @@ useful:
     3. If you have elderly people in your group, we can drive them down on the beautiful beach of Lindos have a drink and a nice discuss with the driver and enjoy the panoramic view while they are waiting for you to climb up the Acropolis of Lindos.
     4. Entrance fee Acropolis of Lindos 12 Euros per person, Seniors (with Id or Passport) 6 Euros per person, Children under 18 years old free, No charge to enter Lindos village. 
     5. You may prefer to use ATM machines when you need cash. ATMs are everywhere.
-    6. Rhodes known for [Traditional Appetizers](rhodes_cuisine_greece.htm), desserts, [Wines](wine_tours_greece.htm), the famous handmade [Rhodes Pottery - Ceramics](greek_pottery.htm) and the beautiful [Rhodes Beaches](rhodes_beaches.htm).
+    6. Rhodes known for [Traditional Appetizers](rhodes_cuisine_greece.htm), desserts, [Wines](wine_tours_greece.htm), the famous handmade [Rhodes Pottery - Ceramics](greek_pottery.htm) and the beautiful [Rhodes Beaches](./rhodes-beach-tour-excursion.htm).
     7. More [Rhodes Private Tours](rhodes_private_tours.htm) F.A.Q.
 
 inclusions:
@@ -152,8 +152,6 @@ Here your Tour/Driver will park the car at the car parking place and show you ho
 
 - You will visit the **Rhodes Jewish Museum** that collected a large number of pictures of the past Jewish community in Rhodes and the 800-Year-Old Torah which is one of the oldest Torahs in the world. Originally from and used by the Sephardic Jewish of the Iberian Peninsula and brought to Rhodes Island by the Sephardic Jewish refugees when they fled Spain and Portugal. The Jewish Museum of Rhodes opens for the first time in 1997. **Aron Hasson**, attorney, from Los Angeles and Rhodian third generation, is the founder and the one who inspired the idea of creating a museum. (Stop Visit Photos)
 
-- Once you get back to the car parking, your journey to **Lindos** will take you along a beautiful, 50km / 32 miles drive of the east coast of the island, past picturesque little villages.
-
 ### THE JOURNEY TO LINDOS
 
 Once you get back to the car parking, your journey to **Lindos** will take you along a beautiful, 50km / 32 miles drive of the east coast of the island, past picturesque little villages.
@@ -161,6 +159,10 @@ Once you get back to the car parking, your journey to **Lindos** will take you a
 ### ANTHONY QUINN BAY
 
 On the way you visit the **Anthony Quinn Bay** - Takes its name from the famous Hollywood actor, who owns a large property in this area. Since filming the "Guns of Navarone" in Rhodes Island - scenic (Stop Visit Pictures)
+
+### RHODES TRADITIONAL POTTERY ART
+
+On the way to Lindos, you can choose an optional short stop at a pottery workshop where the traditional pottery of Rhodes is made. You can even learn the mystery of the Pythagorean cup. Just let your tour/driver know that you wish to make this short stop.
 
 ### PANORAMIC VIEW OF LINDOS
 

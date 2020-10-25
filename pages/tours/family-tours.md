@@ -51,7 +51,7 @@ useful:
     2. Valley of the Butterflies Entrance Fee: Low season Adults 3 Euros, High season Adults 5 Euros, Kids under 12 years old free. There is a small cafe, a refreshment kiosk, and a little gift shop.
     3. Ostrich Farm Entrance Fee: Adults 7 Euros, Children under 12 years 4 Euros (Kids under 3 years Free) also has a café and refreshment kiosk, and a gift shop.
     4. Bee Museum Entrance Fee: Adults 3 Euros, Children under 5 years Free, Children between age 6 to 18 1,50 Euros, Students 1,50 Euros, Seniors over 65 years old 1,50 Euros
-    5. Rhodes known for [Traditional Appetizers](rhodes_cuisine_greece.htm), desserts, [Wines](wine_tours_greece.htm), the famous handmade [Rhodes Pottery - Ceramics](greek_pottery.htm) and the beautiful [Rhodes Beaches](rhodes_beaches.htm).
+    5. Rhodes known for [Traditional Appetizers](rhodes_cuisine_greece.htm), desserts, [Wines](wine_tours_greece.htm), the famous handmade [Rhodes Pottery - Ceramics](greek_pottery.htm) and the beautiful [Rhodes Beaches](./rhodes-beach-tour-excursion.htm).
     6. More info in [Rhodes Private Tours](rhodes_private_tours.htm) F.A.Q.
 
 inclusions:
@@ -120,7 +120,7 @@ outro: Rhodes Private Shore Excursions and Private Tours in Rhodes Greece
 ---
 ### RHODES NEW TOWN
 
-From the cruise ship dock/pier or your chosenpoint, you'll be driven to the antiqueharbor, where according to tradition, the **Colossus of Rhodes**, **one of the seven wonders of the ancient world**, once stood. (Stop Visit Photos)\
+From the cruise ship dock/pier or your chosen point, you'll be driven to the antique harbor, where according to tradition, the **Colossus of Rhodes**, **one of the seven wonders of the ancient world**, once stood. (Stop Visit Photos)\
 The **North Point of the island** where the East Coast's Mediterranean Sea, and the West Coast's Aegean Sea meet.
 
 ### MONTE SMITH - PANORAMIC VIEW OF THE CITY

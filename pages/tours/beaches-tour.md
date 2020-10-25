@@ -54,7 +54,7 @@ useful:
     3. To reach the Acropolis of Lindos you will be required to climb 292 steps, or ride on a donkey. The donkey does not eliminate all the steps, there are over 80 to go when you get off the donkey.
     4. Usually we spend one hour in Lindos, but it depends on you for how long you need to visit Lindos. To climb up it takes 15 min, to take a look 30min.
     5. You may prefer to use ATM machines when you need cash. ATMs are everywhere.
-    6. Rhodes known for [Traditional Appetizers](rhodes_cuisine_greece.htm), desserts, [Wines](wine_tours_greece.htm), the famous handmade [Rhodes Pottery - Ceramics](greek_pottery.htm) and the beautiful [Rhodes Beaches](rhodes_beaches.htm).
+    6. Rhodes known for [Traditional Appetizers](rhodes_cuisine_greece.htm), desserts, [Wines](wine_tours_greece.htm), the famous handmade [Rhodes Pottery - Ceramics](greek_pottery.htm) and the beautiful [Rhodes Beaches](./rhodes-beach-tour-excursion.htm).
     7. More info in [Rhodes Private Tours](rhodes_private_tours.htm) F.A.Q.
 
 inclusions:

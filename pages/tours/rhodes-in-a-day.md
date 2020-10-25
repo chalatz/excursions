@@ -52,7 +52,7 @@ useful:
     4. The Valley of the Butterflies actually it is a hillside with two gates. The lower gate is the Main Gate, and the upper gate is the Secondary Gate. You can have a quick look using the Main Gate for around 10 min, but if you want to climb up there is about 60 min of walking time (up and down). For the comfort of our travelers we drive them to the Secondary Gate - upper gate so they can walk down easier (one way) 30 - 40 min. The elderly people in your group they can wait down at the Main Gate, with the driver while you explore the place. There is a small cafe, a refreshment kiosk, and a little gift shop.  Entrance fee: (3 Euros Low Season) (5 Euros High Season) per person. Children under 12 years old Free. (Before June 15th and after September 15th we skip the site as no butterflies)
     5. Filerimos: to visit the Stations of the Cross, the Cross, and the Panoramic Vista is free, to visit the Monastery and the Church, 6 Euros per person, Seniors (with Id or Passport) 3 Euros per person. Children under 18 years old free.
     6. You may prefer to use ATM machines when you need cash. ATMs are everywhere.
-    7. Rhodes known for [Traditional Appetizers](rhodes_cuisine_greece.htm), desserts, [Wines](wine_tours_greece.htm), the famous handmade [Rhodes Pottery - Ceramics](greek_pottery.htm) and the beautiful [Rhodes Beaches](rhodes_beaches.htm).
+    7. Rhodes known for [Traditional Appetizers](rhodes_cuisine_greece.htm), desserts, [Wines](wine_tours_greece.htm), the famous handmade [Rhodes Pottery - Ceramics](greek_pottery.htm) and the beautiful [Rhodes Beaches](./rhodes-beach-tour-excursion.htm).
     8. More info in [Rhodes Private Tours](rhodes_private_tours.htm) F.A.Q.
 
 inclusions:

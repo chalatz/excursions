@@ -17,8 +17,8 @@ title: RHODES NATURE EXCURSION
 intro: Rhodes Island is one of those places that must be explored completely to witness and truly appreciate the wonders of nature here. Nothing matches the natural beauty of Rhodes Island. Every turn brings you to a new and mesmerizing view, which is why we have designed our Rhodes Island nature tour to cover as many exciting and thrilling spots.
 itinerary:
   title: Excursion Itinerary
-  heading: ''
-  description: ''
+  heading: 'Sea Views and Landscapes - East & West Coast of the Island'
+  description: 'Half Day Private Shore Excursion 5:00 hours'
   details: |-
     **Duration:** 5:00 hours.
 
@@ -50,7 +50,7 @@ useful:
     2. The Valley of the Butterflies. For the comfort of our travelers we drive them to the Upper Gate so they can walk down easier (one way) 30 - 40 min. The elderly people in your group they can wait down at the Main Gate, with the driver while you explore the place. There is a small cafe, a refreshment kiosk, and a little gift shop. Entrance fee: (3 Euros Low Season) (5 Euros High Season) per person. Children under 12 years old Free. (Before June 15th and after September 15th we skip the site as no butterflies)
     3. Filerimos: to visit the Stations of the Cross, the Cross, and the panoramic vista is Free, to visit the Monastery and the Church 6 Euros per person. Children under 18 years old free. The site has a refreshment kiosk a souvenir shop and shady seating.
     4. You may prefer to use ATM machines when you need cash. ATMs are everywhere.
-    5. Rhodes known for [Traditional Appetizers](rhodes_cuisine_greece.htm), desserts, [Wines](wine_tours_greece.htm), the famous handmade [Rhodes Pottery - Ceramics](greek_pottery.htm) and the beautiful [Rhodes Beaches](rhodes_beaches.htm).
+    5. Rhodes known for [Traditional Appetizers](rhodes_cuisine_greece.htm), desserts, [Wines](wine_tours_greece.htm), the famous handmade [Rhodes Pottery - Ceramics](greek_pottery.htm) and the beautiful [Rhodes Beaches](./rhodes-beach-tour-excursion.htm).
     6. More info in [Rhodes Private Tours](rhodes_private_tours.htm) F.A.Q.    
 
 inclusions:
@@ -129,6 +129,10 @@ If you are interested in learning about the culture of Rhodes, you can choose to
 ### SEVEN SPRINGS
 
 The next destination of the Rhodes Island nature tour is Seven Springs. Located in the southeast, this charming valley is dotted with clear water springs. With high pine trees and humongous planes, it is a serene place that will bring you closer to nature. In the summer heat, Seven Springs acts as a blissful oasis with beautiful bridges, streams, fields of flowers, ducks, peacocks, and much more!
+
+### A scenic drive from the East to the West Coast of the Island 
+
+The tour takes us through the pines and cypress forests to the West Coast, you can take in the breath-taking views of the Aegean Sea.
 
 ### VALLEY OF THE BUTTERFLIES
 
