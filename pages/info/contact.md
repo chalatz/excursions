@@ -4,8 +4,8 @@ type: contact
 id: contact
 permalink: booking.htm
 has_gallery: false
-has_destinations: true
-has_banners: true
+has_destinations: false
+has_banners: false
 has_form: true
 meta:
   title: Booking Shore Excursions in Rhodes Greece

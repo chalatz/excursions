@@ -4,8 +4,8 @@ type: info_page
 id: ptivacy
 permalink: rhodes-greece-shore-excursions.htm
 has_gallery: false
-has_destinations: true
-has_banners: true
+has_destinations: false
+has_banners: false
 meta:
   title: Rhodes Greece Shore Excursions
   http_desc: Rhodes Greece Shore Excursions, Rhodes Greece Shore Tours

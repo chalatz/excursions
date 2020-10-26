@@ -4,8 +4,8 @@ type: info_page
 id: covid_19
 permalink: covid19-rhodes.htm
 has_gallery: false
-has_destinations: true
-has_banners: true
+has_destinations: false
+has_banners: false
 meta:
   title: COVID-19 RHODES GREECE, Rhodes Shore Excursions
   http_desc: COVID-19 RHODES GREECE, Rhodes Shore Excursions
