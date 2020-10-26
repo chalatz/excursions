@@ -37,7 +37,7 @@ RhodesShorExcursions.com reserves the right to change this Privacy Policy at any
  
 By booking a tour/service with RhodesShoreExcursions.com and through this website, you agree to have read, understood, and fully accept all Terms of Use listed below. It is your responsibility to ensure that services and information provided by RhodesShoreExcursions.com on this website meet your precise requirements. If you disagree with any parts of our Terms of Service, please DO NOT proceed to use this website.
 
-THE USE OF THIS WEBSITE IS SUBJECT TO THE FOLLOWING TERMS OF USE
+##### THE USE OF THIS WEBSITE IS SUBJECT TO THE FOLLOWING TERMS OF USE
  
 Once you have confirmed a reservation with us, you are legally bound to a contract with us. This website contains material which is owned by or licensed to us. This material includes, but is not limited to: the design, layout, look, appearance, content and graphics. Reproduction is prohibited other than solely for personal and non-commercial use on your own personal computer or mobile device and not shared publicly. Most of photographs on this website are copyrighted and property of RhodesShoreExcursions.com
  
