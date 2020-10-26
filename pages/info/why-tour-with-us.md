@@ -66,4 +66,4 @@ We answer your emails within 24 hours.
 #### Back to the Ship on Time:
 
 {:.centered}
-[Worry Free Shore Excursion](/worry-free/)
+[Worry Free Shore Excursion](./worry_free.htm)
