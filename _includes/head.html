@@ -25,9 +25,13 @@
   
   {%- include favicon.html -%}
 
-  <link href="https://fonts.googleapis.com/css?family=PT+Serif&display=swap" rel="stylesheet">
+  {%- comment -%} <link href="https://fonts.googleapis.com/css?family=PT+Serif&display=swap" rel="stylesheet"> {%- endcomment -%}
 
   {%- comment -%} {%- capture css_path -%}css/main.css?{{- site.time | date: '%s' -}}{%- endcapture -%} {%- endcomment -%}
+
+  <style>
+    {%- include fonts.html -%}
+  </style>
 
   <link rel="stylesheet" href="{{- '/css/main.css?v1' | relative_url -}}">
 
