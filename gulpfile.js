@@ -29,7 +29,7 @@ gulp.task('images', function(){
 });
 
 gulp.task('css_images', function(){
-    return gulp.src('_site/css/**/*.+(png|jpg|gif|jpeg|svg|GIF|JPG|PNG|JPEG)')
+    return gulp.src('_site/css/**/*.+(png|jpg|gif|jpeg|svg|GIF|JPG|PNG|JPEG|eot|ttf|woff|woff2)')
     .pipe(gulp.dest('dist/css'))
 });
 
