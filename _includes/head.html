@@ -27,9 +27,9 @@
 
   <link href="https://fonts.googleapis.com/css?family=PT+Serif&display=swap" rel="stylesheet">
 
-  {%- capture css_path -%}css/main.css?{{- site.time | date: '%s' -}}{%- endcapture -%}
+  {%- comment -%} {%- capture css_path -%}css/main.css?{{- site.time | date: '%s' -}}{%- endcapture -%} {%- endcomment -%}
 
-  <link rel="stylesheet" href="{{- css_path | relative_url -}}">
+  <link rel="stylesheet" href="{{- '/css/main.css?v1' | relative_url -}}">
 
   {%- unless jekyll.environment == 'development' -%}
     {%- include partials/google-analytics.html -%}
