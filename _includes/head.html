@@ -39,6 +39,9 @@
     {%- include partials/google-analytics.html -%}
   {%- endunless -%}
 
-  <script src="https://www.google.com/recaptcha/api.js?hl=en" async defer></script>
+  {%- if page.has_form == true -%}
+    <script src="https://www.google.com/recaptcha/api.js?hl=en" async defer></script>
+  {%- endif -%}
+
 
 </head>
