@@ -29,7 +29,9 @@
       {%- include pop-form.html -%}
     {%- endunless -%}
 
-    <script src="https://www.google.com/recaptcha/api.js?hl=en" defer></script>
+    {%- unless page.layout == 'home' -%}
+      <script src="https://www.google.com/recaptcha/api.js?hl=en" defer></script>
+    {%- endunless -%}
     
     {%- include scripts.html -%}
 

@@ -21,8 +21,14 @@
         </span>
     </header>
 
+    {%- if page.layout == 'home' -%}
+        {%- assign the_action = 'sendmail-mobile-nocaptcha.php' -%}
+    {%- else -%}
+        {%- assign the_action = 'sendmail-mobile.php' -%}
+    {%- endif -%}
+
     <div class="pop-form__body">
-        <form name="sendmail" class="pop-form__form" method="POST" action="sendmail-mobile.php">
+        <form name="sendmail" class="pop-form__form" method="POST" action="{{- the_action -}}">
 
             {%- if page.layout == 'home' -%}
                 {%- assign from_page = 'Home Page' -%}
@@ -64,8 +70,10 @@
                 <input type="checkbox" name="meli_tria" tabindex="-1" autocomplete="off">
             </label>
 
-            <div class="g-recaptcha" data-sitekey="6LdjidsZAAAAAE-HVQWObThWTeb2FUi8y3G_izCZ"></div>
-            <br/>            
+            {%- unless page.layout == 'home' -%}
+                <div class="g-recaptcha" data-sitekey="6LdjidsZAAAAAE-HVQWObThWTeb2FUi8y3G_izCZ"></div>
+                <br/>            
+            {%- endunless -%}
 
             <button type="submit" class="pop-form__submit form__submit">
                 Send
