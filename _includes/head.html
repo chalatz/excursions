@@ -33,8 +33,7 @@
     {%- include fonts.html -%}
   </style>
 
-  {%- comment -%} <link rel="stylesheet" href="{{- '/css/main.css?v1' | relative_url -}}"> {%- endcomment -%}
-  {% include styles/main.html %}
+ <link rel="stylesheet" href="{{- '/css/main.css?v1' | relative_url -}}">
 
   {%- unless jekyll.environment == 'development' -%}
     {%- include partials/google-analytics.html -%}
