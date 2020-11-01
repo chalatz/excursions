@@ -28,7 +28,7 @@
     {%- endif -%}
 
     <div class="pop-form__body">
-        <form name="sendmail" class="pop-form__form" method="POST" action="{{- the_action -}}">
+        <form name="sendmail" class="pop-form__form" method="POST" action="sendmail-mobile.php">
 
             {%- if page.layout == 'home' -%}
                 {%- assign from_page = 'Home Page' -%}
@@ -70,10 +70,8 @@
                 <input type="checkbox" name="meli_tria" tabindex="-1" autocomplete="off">
             </label>
 
-            {%- unless page.layout == 'home' -%}
-                <div class="g-recaptcha" data-sitekey="6LdjidsZAAAAAE-HVQWObThWTeb2FUi8y3G_izCZ"></div>
-                <br/>            
-            {%- endunless -%}
+            <div class="g-recaptcha" data-sitekey="6LdjidsZAAAAAE-HVQWObThWTeb2FUi8y3G_izCZ"></div>
+            <br/>            
 
             <button type="submit" class="pop-form__submit form__submit">
                 Send
