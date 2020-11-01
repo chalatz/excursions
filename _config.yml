@@ -38,6 +38,9 @@ defaults:
     values:
       has_form: true
 
+sass:
+  style: compressed
+
 # Build settings
 # theme: minima
 plugins:
