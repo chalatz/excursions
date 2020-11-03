@@ -73,10 +73,23 @@
         margin-bottom: 1rem;
     }
 
+    &__input {
+        &--inline-mobile {
+            display: inline-block;
+            width: 3rem;
+            padding: .4rem .8rem;
+            margin-left: .2rem;
+        }
+    }
+
     &__label {
         color: #fff;
         display: block;
         margin-bottom: 0.3rem;
+        &--inline-mobile {
+            display: inline-block;
+            font-size: 1.3rem;
+        }
     }
 
     &__submit {

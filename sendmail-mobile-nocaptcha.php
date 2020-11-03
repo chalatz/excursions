@@ -124,37 +124,37 @@ function validated() {
 
 function passed_recaptcha(){
 
-    // if (passed()) {
-    //     $url = 'https://www.google.com/recaptcha/api/siteverify';
-
-    //     $key = include '_recaptcha_key.php';
-
-    //     $response = file_get_contents($url."?secret=".$key."&response=".$_POST['g-recaptcha-response']."&remoteip=".$_SERVER['REMOTE_ADDR']);
-    
-    //     $data = json_decode($response);
-    
-    //     if(isset($data->success) && $data->success == true){
-    //         return true;
-    //     } else {
-    //         return false;
-    //     }
-    
-    // }
-
     if (passed()) {
-        return true;
-    } else {
-        return false;
+        $url = 'https://www.google.com/recaptcha/api/siteverify';
+
+        $key = include '_recaptcha_key.php';
+
+        $response = file_get_contents($url."?secret=".$key."&response=".$_POST['g-recaptcha-response']."&remoteip=".$_SERVER['REMOTE_ADDR']);
+
+        $data = json_decode($response);
+
+        if(isset($data->success) && $data->success == true){
+            return true;
+        } else {
+            return false;
+        }
+
     }
+
+    // if (passed()) {
+    //     return true;
+    // } else {
+    //     return false;
+    // }
 
 }
 
 if (validated()) {
     if(passed_recaptcha() && mail($address, $e_subject, $msg, "From: $e_mail\r\nReply-To: $e_mail\r\nReturn-Path: $e_mail\r\nContent-Type: text/plain; charset=UTF-8\r\n")){
         // Email has sent successfully, echo a success page.
-    
+
         header('Location: ' . $return_to . '?contact-form-sent=success');
-    
+
     } else {
         header('Location: '. $return_to . '?contact-form-sent=fail-mobile');
     }

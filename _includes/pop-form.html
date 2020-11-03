@@ -42,6 +42,8 @@
 
             <input type="hidden" name="meli_dio" autocomplete="off">
 
+            <input type="hidden" name="the_page" value="{{- page.id -}}">
+
             <input type="hidden" name="from_page" value="{{ from_page | upcase }}">
 
             <input type="hidden" name="return_to" value="{{ page.url | remove: '/' }}">
@@ -66,12 +68,20 @@
                 <textarea class="pop-form__input pop-form__input--textarea form__input form__input--textarea" name="comments" cols="30" rows="3" required></textarea>
             </div>
 
+            <div class="pop-form__group">
+                <label class="pop-form__label pop-form__label--inline-mobile" for="apot">
+                    {%- if site.data.apots[page.id] -%}
+                        {{ site.data.apots[page.id] }} =&nbsp;
+                    {%- else -%}
+                        3 + 2 =&nbsp;
+                    {%- endif -%}
+                </label>
+                <input class="pop-form__input pop-form__input--text form__input form__input--text pop-form__input--inline-mobile" type="text" name="apot" required>
+            </div>
+
             <label class="visuallyhidden">
                 <input type="checkbox" name="meli_tria" tabindex="-1" autocomplete="off">
             </label>
-
-            <div class="g-recaptcha" data-sitekey="6LdjidsZAAAAAE-HVQWObThWTeb2FUi8y3G_izCZ"></div>
-            <br/>            
 
             <button type="submit" class="pop-form__submit form__submit">
                 Send
