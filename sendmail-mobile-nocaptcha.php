@@ -18,7 +18,6 @@ $results = $ipinfodb->getCity($_SERVER['REMOTE_ADDR']);
 $return_to = '';
 $from_page = '';
 $first_last_name = '';
-$city_state_zip = '';
 $e_mail = '';
 $comments = '';
 $ipAddress = $results['ipAddress'];
@@ -37,9 +36,6 @@ if(isset($_POST['from_page'])){
 }
 if(isset($_POST['first_last_name'])){
     $first_last_name = $_POST['first_last_name'];
-}
-if(isset($_POST['city_state_zip'])){
-    $city_state_zip = $_POST['city_state_zip'];
 }
 if(isset($_POST['e_mail'])){
     $e_mail = $_POST['e_mail'];
@@ -72,7 +68,6 @@ $msg = "MOBILE FORM - Details:\r\n\n";
 $msg .= "From: $from_page\r\n";
 
 $msg .= "Name: $first_last_name\r\n";
-$msg .= "City/State/Country: $city_state_zip\r\n";
 $msg .= "E-mail: $e_mail\r\n";
 $msg .= "Comments:\r\n $comments\r\n";
 
@@ -107,9 +102,6 @@ $headers = "Content-Type: text/html; charset=UTF-8";
 
 function validated() {
     if(isset($_POST['first_last_name']) && $_POST['first_last_name'] == ''){
-        return false;
-    }
-    if(isset($_POST['city_state_zip']) && $_POST['city_state_zip'] == ''){
         return false;
     }
     if(isset($_POST['e_mail']) && $_POST['e_mail'] == ''){
