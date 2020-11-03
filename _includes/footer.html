@@ -21,7 +21,7 @@
                                     {{- item.title -}}
                             {%- endif -%}
                         </li>
-                    {%- endfor -%}                    
+                    {%- endfor -%}
                 </ul>
             </div>
 
@@ -30,7 +30,7 @@
                     <h3 class="site-footer__col-title">
                         {{- footer_nav.col_2.title -}}
                     </h3>
-                
+
                     <ul class="site-footer__list">
                         {%- for item in footer_nav.col_2.items -%}
                             <li>
@@ -42,8 +42,8 @@
                                         {{- item.title -}}
                                 {%- endif -%}
                             </li>
-                        {%- endfor -%}                    
-                    </ul>                    
+                        {%- endfor -%}
+                    </ul>
                 </div>
             </div>
 
@@ -66,7 +66,7 @@
                     </li>
                     <li>
                         Within Greece: <a class="mobile-only mobile-only--inline" href="tel:6934596990">6934596990</a><span class="desktop-only desktop-only--inline">6934596990</span>
-                    </li>                    
+                    </li>
                 </ul>
                 <div class="koinonika">
                     <h3 class="site-footer__info-title site-footer__info-title--follow-us">
@@ -77,13 +77,13 @@
                             {%- include_cached svg/facebook.svg -%}
                         </a>
                         <a class="koinonika__link koinonika__link--sindesi_mesa" href="{{- 'sightseeing_tours_in_rhodes_greece.htm' | relative_url -}}">
-                            {%- include_cached svg/linkedin.svg -%}                            
+                            {%- include_cached svg/linkedin.svg -%}
                         </a>
                         <a class="koinonika__link koinonika__link--karfitsoste" href="{{- 'sightseeing_tours_in_rhodes_greece.htm' | relative_url -}}">
-                            {%- include_cached svg/pinterest.svg -%}                            
-                        </a>                        
+                            {%- include_cached svg/pinterest.svg -%}
+                        </a>
                     </div>
-                </div>                    
+                </div>
 
         </div>
 
@@ -101,7 +101,7 @@
         </div>
 
         <p class="site-footer__copyright">
-            <span class="site-footer__bottom-info-item">@ {{ site.time | date: '%Y' }} RhodesShoreExcursions.com</span>
+            <span class="site-footer__bottom-info-item">@ 1998 - {{ site.time | date: '%Y' }} RhodesShoreExcursions.com</span>
             <span class="mid-desktop-only mid-desktop-only--inline"> | </span>
             <span class="site-footer__bottom-info-item">Rhodes Shore Excursions</span>
         </p>
@@ -114,7 +114,7 @@
                     </h3>
                     <p class="mobile-only mobile-only--block emergency__cta">
                         Read Details
-                    </p>               
+                    </p>
                 </a>
             </div>
         {%- endif -%}
