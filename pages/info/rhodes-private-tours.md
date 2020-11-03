@@ -63,7 +63,7 @@ A: Rhodes is the forth biggest island in Greece with an area of 1,408 km<sup>2</
 
 **Q: Can you accommodate larger groups?**
 
-A: [Group Shore Excursions in Rhodes](/rhodes-groups-excursions/)
+A: [Group Shore Excursions in Rhodes](./groups.htm)
 
 **Q: What is meant by an English-speaking "knowledgeable tour/driver"?**
 
@@ -113,7 +113,7 @@ A: Excursions take place no matter the weather-in our Mediterranean climate, wit
 **Q: What happens if my private shore excursion doesn't make it back to the cruise ship on time?**
 
 A: We've never had such an unfortunate accidence over the last 35 years we have been offering private shore excursions.\
-For more information please visit [Back to the Ship on Time](/worry-free/)
+For more information please visit [Back to the Ship on Time](./worry_free.htm)
 
 **Q: If we wish to end the shore excursion at the Medieval City and walk back to our cruise ship, how long will it take to travel from the gate near the Palace of the Grand Master and the Archaeological Museum?**
 
