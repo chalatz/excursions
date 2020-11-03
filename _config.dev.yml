@@ -1,0 +1,5 @@
+# bundle exec jekyll serve --config _config.yml,_config.dev.yml
+
+keep_files: ["img"]
+
+include: ["_infodb_key.php", "_recaptcha_key.php", "_apots.php"]
