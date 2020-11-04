@@ -24,7 +24,7 @@ gulp.task('clean:dist', function () {
   });
 
 gulp.task('images', function(){
-    return gulp.src('_site/img/**/*.+(png|jpg|gif|jpeg|svg|GIF|JPG|PNG|JPEG)')
+    return gulp.src('_site/img/**/*.+(png|jpg|gif|jpeg|webp|svg|GIF|JPG|PNG|JPEG)')
     .pipe(gulp.dest('dist/img'))
 });
 
@@ -34,7 +34,7 @@ gulp.task('css_images', function(){
 });
 
 gulp.task('root_files', function(){
-    return gulp.src('_site/*.+(png|jpg|gif|jpeg|svg|GIF|JPG|PNG|JPEG|xml|json|txt|ico|webmanifest)')
+    return gulp.src('_site/*.+(png|jpg|gif|jpeg|webp|svg|GIF|JPG|PNG|JPEG|xml|json|txt|ico|webmanifest)')
     .pipe(gulp.dest('dist'))
 });
 
