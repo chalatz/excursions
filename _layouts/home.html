@@ -6,8 +6,10 @@ layout: default
     <section class="head-photo head-photo--page head-photo--{{ page.type }}">
         {%- if page.head_photo.mobile and page.head_photo.mobile.size > 0 -%} 
           <picture>
-            <source srcset="{{- page.head_photo.mobile | relative_url -}}"
-                    media="(max-width: 576px)">
+            <source type="image/webp" srcset="{{- page.head_photo.mobile_webp | relative_url -}}" media="(max-width: 576px)">
+            <source type="image/jpeg" srcset="{{- page.head_photo.mobile | relative_url -}}" media="(max-width: 576px)">
+            <source type="image/webp" srcset="{{- page.head_photo.img_webp | relative_url -}}">
+            <source type="image/jpeg" srcset="{{- page.head_photo.img | relative_url -}}">
             <img src="{{- page.head_photo.img | relative_url -}}" alt="{{- page.head_photo.alt_text -}}" class="head-photo__img">
           </picture>
         {%- else -%}
