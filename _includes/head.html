@@ -33,7 +33,14 @@
     {%- include fonts.html -%}
   </style>
 
- <link rel="stylesheet" href="{{- '/css/main.css?v1_1' | relative_url -}}">
+  {%- if page.layout == 'home' -%}
+      <style>
+          {%- include css/critical.css -%}
+      </style>
+      <link rel="stylesheet" href="{{ '/css/main.css?v1_1'| relative_url }}" media="print" onload="this.media='all'">
+  {%- else -%}
+      <link rel="stylesheet" href="{{ '/css/main.css?v1_1'| relative_url }}">
+  {%- endif -%}
 
   {%- unless jekyll.environment == 'development' -%}
     {%- include partials/google-analytics.html -%}
