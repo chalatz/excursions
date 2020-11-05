@@ -46,9 +46,7 @@
     {%- include partials/google-analytics.html -%}
   {%- endunless -%}
 
-  {%- if page.has_form == true-%}
-    <script src="https://www.google.com/recaptcha/api.js?hl=en" async defer></script>
-  {%- endif -%}
+  <script src="https://www.google.com/recaptcha/api.js?hl=en" async defer></script>
 
   {%- if page.has_faq == true -%}
     {%- include partials/faq-schema.html -%}
