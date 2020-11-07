@@ -25,7 +25,7 @@
       </svg>
     </a>
 
-    {%- unless page.has_form == true -%}
+    {%- unless page.layout == 'home' or page.has_form == true -%}
       {%- include pop-form.html -%}
     {%- endunless -%}
 

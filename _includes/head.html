@@ -46,7 +46,10 @@
     {%- include partials/google-analytics.html -%}
   {%- endunless -%}
 
-  <script src="https://www.google.com/recaptcha/api.js?hl=en" async defer></script>
+  {%- unless page.layout == 'home' -%}
+    <script src="https://www.google.com/recaptcha/api.js?hl=en" async defer></script>
+  {%- endunless -%}
+
 
   {%- if page.has_faq == true -%}
     {%- include partials/faq-schema.html -%}
