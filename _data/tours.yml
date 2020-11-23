@@ -3,15 +3,17 @@
   url: best_rhodes_greece.htm
   thumb:
     img: '/img/home/tours/1-thumb.jpg'
+    webp_img: '/img/home/tours/webp/1-thumb.webp'
     alt_text: ''
   home_page: true
   duration: 5:00 HOURS
   desc: This Half Day experience is the best introduction to Rhodes for first time visitors. Your thirst for history will be slaked, your desire for beautiful scenery will be fulfilled and you will be back at your ship on time for departure.
 - title: Rhodes in a Day
-  id: rhodes_in_a_day  
+  id: rhodes_in_a_day
   url: 'rhodes_in_a_day.htm'
   thumb:
     img: '/img/home/tours/2-thumb.jpg'
+    webp_img: '/img/home/tours/webp/2-thumb.webp'
     alt_text: ''
   home_page: true
   duration: 8:00 HOURS
@@ -21,6 +23,7 @@
   url: rhodes_west_coast.htm
   thumb:
     img: '/img/home/tours/3-thumb.jpg'
+    webp_img: '/img/home/tours/webp/3-thumb.webp'
     alt_text: ''
   home_page: true
   duration: 5:30 HOURS
@@ -30,6 +33,7 @@
   url: jewish_tours_greece.htm
   thumb:
     img: '/img/home/tours/4-thumb.jpg'
+    webp_img: '/img/home/tours/webp/4-thumb.webp'
     alt_text: ''
   home_page: true
   duration: 6:00 HOURS
@@ -39,6 +43,7 @@
   url: wine_tours_greece.htm
   thumb:
     img: '/img/home/tours/5-thumb.jpg'
+    webp_img: '/img/home/tours/webp/5-thumb.webp'
     alt_text: ''
   home_page: true
   duration: 6:00 HOURS
@@ -48,6 +53,7 @@
   url: rhodes-beach-tour-excursion.htm
   thumb:
     img: '/img/home/tours/6-thumb.jpg'
+    webp_img: '/img/home/tours/webp/6-thumb.webp'
     alt_text: ''
   home_page: true
   duration: 5:00 HOURS
@@ -57,6 +63,7 @@
   id: family_tours
   thumb:
     img: '/img/home/tours/7-thumb.jpg'
+    webp_img: '/img/home/tours/webp/7-thumb.webp'
     alt_text: ''
   home_page: true
   duration: 4:30 HOURS
@@ -66,6 +73,7 @@
   url: rhodes-custom-excursions.htm
   thumb:
     img: '/img/home/tours/8-thumb.jpg'
+    webp_img: '/img/home/tours/webp/8-thumb.webp'
     alt_text: ''
   home_page: true
   duration: 5:00 - 8:00 HOURS
@@ -75,6 +83,7 @@
   id: nature_tour
   thumb:
     img: '/img/home/tours/9-thumb.jpg'
+    webp_img: '/img/home/tours/webp/9-thumb.webp'
     alt_text: ''
   home_page: true
   duration: 5:00 HOURS

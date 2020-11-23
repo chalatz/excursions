@@ -4,7 +4,7 @@ layout: default
 
 {%- if page.head_photo and page.head_photo.img.size > 0 -%}
     <section class="head-photo head-photo--page head-photo--{{ page.type }}">
-        {%- if page.head_photo.mobile and page.head_photo.mobile.size > 0 -%} 
+        {%- if page.head_photo.mobile and page.head_photo.mobile.size > 0 -%}
           <picture>
             <source type="image/webp" srcset="{{- page.head_photo.mobile_webp | relative_url -}}" media="(max-width: 576px)">
             <source type="image/jpeg" srcset="{{- page.head_photo.mobile | relative_url -}}" media="(max-width: 576px)">
@@ -29,7 +29,11 @@ layout: default
                     <div class="home__tour">
                         <div class="home__tour-img-wrapper">
                             <a href="{{- tour.url | relative_url -}}" class="home__tour-img-link">
-                                <img src="{{- tour.thumb.img | relative_url -}}" alt="{{- tour.thumb.alt_text -}}" class="home__tour-img">
+                                <picture>
+                                    <source srcset="{{- tour.thumb.webp_img | relative_url -}}" type="image/webp">
+                                    <source srcset="{{- tour.thumb.img | relative_url -}}" type="image/jpeg">
+                                    <img src="{{- tour.thumb.img | relative_url -}}" alt="{{- tour.thumb.alt_text -}}" class="home__tour-img">
+                                </picture>
                             </a>
                         </div>
                         <div class="home__tour-text">
