@@ -3,7 +3,7 @@
         <div id="site-nav__burger" class="site-nav__item site-nav__item--burger">
             {%- include_cached svg/burger.html -%}
         </div>
-        <ul id="site-nav__items" class="site-nav__items" itemscope itemtype="http://www.schema.org/SiteNavigationElement">
+        <ul id="site-nav__items" class="site-nav__items" itemscope itemtype="http://www.schema.org/SiteNavigationElement" role="menu">
             {%- for item in site.data.navigation.main.items -%}
                 {%- assign sublinks_size = item.sublinks | size -%}
 
@@ -22,9 +22,9 @@
                     {%- assign is_active = true -%}
                 {%- endif -%}
 
-                <li itemprop="name" class="site-nav__item{% if is_active %} site-nav__item--active{% endif %}{% if sublinks_size > 0 %} site-nav__item--with-sublinks{% endif %}">
-                    <a itemprop="url" href="{{- item.url | relative_url -}}" class="site-nav__item-link{% if sublinks_size > 0 %} site-nav__item-link--with-sublinks{% else %} site-nav__item-link--no-sublinks{% endif %}">
-                        {{- item.title | upcase -}}
+                <li role="menuitem" class="site-nav__item{% if is_active %} site-nav__item--active{% endif %}{% if sublinks_size > 0 %} site-nav__item--with-sublinks{% endif %}">
+                    <a itemprop="url" href="{{- item.url | absolute_url -}}" class="site-nav__item-link{% if sublinks_size > 0 %} site-nav__item-link--with-sublinks{% else %} site-nav__item-link--no-sublinks{% endif %}">
+                        <span itemprop="name">{{- item.title | upcase -}}</span>
                     </a>
                     {%- if sublinks_size > 0 -%}
                         <div class="site-nav__chevron">
@@ -34,9 +34,9 @@
                     {%- if sublinks_size > 0 -%}
                         <ul class="site-nav__subitems">
                             {%- for subitem in item.sublinks -%}
-                                <li class="site-nav__item site-nav__item--sublink{% if forloop.last %} site-nav__item--sublink-last{% endif %}">
-                                    <a href="{{- subitem.url | relative_url -}}" class="site-nav__item-link site-nav__item-link--sublink">
-                                        {{- subitem.title -}}
+                                <li class="site-nav__item site-nav__item--sublink{% if forloop.last %} site-nav__item--sublink-last{% endif %}" role="menuitem">
+                                    <a itemprop="url" href="{{- subitem.url | absolute_url -}}" class="site-nav__item-link site-nav__item-link--sublink">
+                                        <span itemprop="name">{{- subitem.title | upcase -}}</span>
                                     </a>
                                 </li>
                             {%- endfor -%}
