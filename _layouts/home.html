@@ -13,7 +13,7 @@ layout: default
             <img src="{{- page.head_photo.img | relative_url -}}" alt="{{- page.head_photo.alt_text -}}" class="head-photo__img" width="2000" height="468" style="max-width: 100%; height: auto; background-image: url('{%- include base64/home-head-photo.html -%}'); background-repeat: no-repeat; background-size: cover;">
           </picture>
         {%- else -%}
-          <img src="{{- page.head_photo.img | relative_url -}}" alt="{{- page.head_photo.alt_text -}}" class="head-photo__img" width="2000" height="468" style="max-width: 100%; height: auto">
+          <img src="{{- page.head_photo.img | relative_url -}}" alt="{{- page.head_photo.alt_text -}}" class="head-photo__img" width="2000" height="468" style="max-width: 100%; height: auto; background-image: url('{%- include base64/home-head-photo.html -%}'); background-repeat: no-repeat; background-size: cover;">
         {%- endif -%}
     </section>
 {%- endif -%}
@@ -32,7 +32,7 @@ layout: default
                                 <picture>
                                     <source srcset="{{- tour.thumb.webp_img | relative_url -}}" type="image/webp">
                                     <source srcset="{{- tour.thumb.img | relative_url -}}" type="image/jpeg">
-                                    <img src="{{- tour.thumb.img | relative_url -}}" alt="{{- tour.thumb.alt_text -}}" class="home__tour-img" width="427" height="320" style="max-width: 100%; height: auto">
+                                    <img src="{{- tour.thumb.img | relative_url -}}" alt="{{- tour.thumb.alt_text -}}" class="home__tour-img" width="427" height="320" style="max-width: 100%; height: auto; background-image: url('{{- tour.thumb.placeholder -}}'); background-repeat: no-repeat; background-size: cover;">
                                 </picture>
                             </a>
                         </div>
