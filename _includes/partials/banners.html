@@ -4,7 +4,7 @@
             {%- for banner in site.data.banners.items -%}
                 <div class="home__banner">
                     <a href="{{- banner.url | relative_url -}}" class="home__banner-link">
-                        <img src="{{ banner.image.path | relative_url }}" alt="{{- banner.image.alt -}}" class="home__banner-img">
+                        <img src="{{ banner.image.path | relative_url }}" alt="{{- banner.image.alt -}}" class="home__banner-img" width="{{-  banner.image.width -}}" height="{{-  banner.image.height -}}" style="max-width: 100%; height: auto;">
                     </a>
                 </div>
             {%- endfor -%}

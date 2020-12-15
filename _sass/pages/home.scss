@@ -192,6 +192,7 @@
             transition: border-color .1s linear;
         }
         &-link {
+            display: inline-block;
             &:hover {
                 .home__banner-img {
                     border-color: $yellow;

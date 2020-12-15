@@ -2,20 +2,30 @@ items:
   - image:
       path: /img/home/banners/rick_steves_logo.png
       alt: Rick Steves Rhodes Greece, Rick Steves Excursions
+      width: 180
+      height: 85
     url: rick_steves.htm
   - image:
       path: /img/home/banners/trip-advisor-2020.png
       alt: Rhodes Shore Excursions, Rhodes Private Tours Greece, Private Excursions
+      width: 150
+      height: 100
     url: reviews_tripadvisor.htm
   - image:
       path: /img/home/banners/thirty_years_experience_small.png
       alt: Rhodes Private Shore Excursions
+      width: 160
+      height: 111
     url: experience.htm
   - image:
       path: /img/home/banners/verified2.gif
       alt: Rhodes Excursions Tour Company in Bussiness since 1984
+      width: 178
+      height: 71
     url: reviews_tripadvisor.htm
   - image:
       path: /img/home/banners/recommended_matt_barrett.gif
       alt: Greece Travel Guide, Matt Barrett
+      width: 180
+      height: 85
     url: Matt_Barrett.htm
