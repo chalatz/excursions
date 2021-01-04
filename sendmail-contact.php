@@ -8,12 +8,7 @@ if ($debug) {
     error_reporting(E_ALL);
 }
 
-include 'class.IPInfoDB.php';
-
-$infodb_api_key = include '_infodb_key.php';
-
-$ipinfodb = new IPInfoDB($infodb_api_key);
-$results = $ipinfodb->getCity($_SERVER['REMOTE_ADDR']);
+include_once 'geo.php';
 
 $return_to = '';
 $from_page = '';
@@ -30,13 +25,12 @@ $cruise_ship = '';
 $speaking_language = '';
 $party_num = '';
 $comments = '';
-$ipAddress = $results['ipAddress'];
-$countryCode = $results['countryCode'];
-$countryName = $results['countryName'];
-$regionName = $results['regionName'];
-$cityName = $results['cityName'];
-$zipCode = $results['zipCode'];
-$timeZone = $results['timeZone'];
+$ipAddress = $api_result['ip'];
+$countryCode = $api_result['country_code'];
+$countryName = $api_result['country_name'];
+$regionName = $api_result['region_name'];
+$cityName = $api_result['city'];
+$zipCode = $api_result['zip'];
 
 if(isset($_POST['return_to'])){
     $return_to = $_POST['return_to'];
@@ -139,7 +133,6 @@ $msg .= "Country Name: $countryName\r\n";
 $msg .= "Region Name: $regionName\r\n";
 $msg .= "City Name: $cityName\r\n";
 $msg .= "Zip Code: $zipCode\r\n";
-$msg .= "Time Zone: $timeZone\r\n";
 
 if ($debug) {
     echo "<pre>";
@@ -184,7 +177,6 @@ function passed_recaptcha(){
     // }
 
 }
-
 
 if(passed_recaptcha() && mail($address, $e_subject, $msg, "From: $e_mail\r\nReply-To: $e_mail\r\nReturn-Path: $e_mail\r\nContent-Type: text/plain; charset=UTF-8\r\n")){
     // Email has sent successfully, echo a success page.
