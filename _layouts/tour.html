@@ -1,6 +1,35 @@
 ---
 layout: default
 ---
+{%- assign current_year = site.time | date: '%Y' -%}
+{%- assign the_years = current_year | minus: 1984 -%}
+
+{% case the_years %}
+  {% when 36 %}
+    {%- assign years_of_xp = 'Thirty-Six' -%}
+  {% when 37 %}
+    {%- assign years_of_xp = 'Thirty-Seven' -%}
+  {% when 38 %}
+    {%- assign years_of_xp = 'Thirty-Eight' -%}
+  {% when 39 %}
+    {%- assign years_of_xp = 'Thirty-Nine' -%}
+  {% when 40 %}
+    {%- assign years_of_xp = 'Forty' -%}
+  {% when 41 %}
+    {%- assign years_of_xp = 'Forty-One' -%}
+  {% when 42 %}
+    {%- assign years_of_xp = 'Forty-Two' -%}
+  {% when 43 %}
+    {%- assign years_of_xp = 'Forty-Three' -%}
+  {% when 44 %}
+    {%- assign years_of_xp = 'Forty-Four' -%}
+  {% when 45 %}
+    {%- assign years_of_xp = 'Forty-Five' -%}
+  {% when 46 %}
+    {%- assign years_of_xp = 'Forty-Six' -%}
+{% endcase %}
+
+{%- capture xp_text -%}{{ years_of_xp }} Years of Quality Shore Excursions 1984 - {{ current_year }}{%- endcapture -%}
 
 <div id="msg" class="msg container _mt-2rem"></div>
 <div class="page__header tour__header">
@@ -253,7 +282,7 @@ layout: default
         <div class="container">
             <h3 class="tour-aside__title">
                 <a href="{{- 'experience.htm' | relative_url -}}" class="tour-aside__title-link">
-                    Thirty-Six Years of Quality Shore Excursions 1984 - 2020
+                    {{- xp_text -}}
                 </a>
             </h3>
             <div class="tour-aside__content">
