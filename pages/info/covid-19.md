@@ -14,6 +14,7 @@ meta:
   abstract: COVID-19 RHODES GREECE, Rhodes Shore Excursions
 title: COVID-19 RHODES GREECE
 subtitle: New Tourism Rules that Apply to Travel Groups for COVID-19
+published: false
 ---
 The COVID-19 pandemic has made it necessary for everyone to become cautious and deliberate in their actions. Nowhere is this more apparent than in the tourism environment. This is why, we’re urging our guides, travelers and drivers to show more responsibility in their actions and be mindful of protecting the safety and health of their companions.
 

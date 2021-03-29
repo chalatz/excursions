@@ -14,12 +14,12 @@ meta:
   http_desc: Rhodes Shore Excursions Greece, Shore Excursions in Rhodes Greece, Rhodes Private Tours, Rhodes Cruise Excursions, Best Shore Excursions in Rhodes Greece
   keywords: Rhodes Shore Excursions Greece, Shore Excursions in Rhodes Greece, Rhodes Private Tours, Rhodes Cruise Excursions, Best Shore Excursions in Rhodes Greece
   description: Rhodes Shore Excursions Greece, Shore Excursions in Rhodes Greece, Rhodes Private Tours, Rhodes Cruise Excursions, Best Shore Excursions in Rhodes Greece
-  abstract: Rhodes Shore Excursions Greece, Rhodes Private Tours  
+  abstract: Rhodes Shore Excursions Greece, Rhodes Private Tours
 intro: |-
   Are you a cruiser and first-time visitor to Rhodes? Looking for a way to maximize your short time on the island?
 
   If Yes, then you came to the right place. **Welcome to Rhodes Shore Excursions!**
-has_emergency: true
+has_emergency: false
 ---
 {:.centered}
 **Get help from true insiders.**
