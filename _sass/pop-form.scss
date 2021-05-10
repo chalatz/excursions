@@ -95,6 +95,13 @@
 
     &__submit {
         color: $darkblue;
+        &.form__submit--sending {
+            background-color: $darkyellow;
+            pointer-events: none;
+            svg {
+                stroke: $darkblue;
+            }
+        }
     }
 
     &__close {

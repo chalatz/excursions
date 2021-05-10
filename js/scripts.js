@@ -213,26 +213,20 @@
         $('.a-contact-form').on('submit', function(){
             var the_btn = $(this).find('button.form__submit');
             the_btn
-                .html('<i class="fas fa-circle-notch fa-spin"></i> Sending email...')
+                .html('<svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-loader spin" width="28" height="28" viewBox="0 0 24 24" stroke-width="2" stroke="#fff" fill="none" stroke-linecap="round" stroke-linejoin="round"><path d="M0 0h24v24H0z" stroke="none"/><path d="M12 6V3M16.25 7.75L18.4 5.6M18 12h3M16.25 16.25l2.15 2.15M12 18v3M7.75 16.25L5.6 18.4M6 12H3M7.75 7.75L5.6 5.6"/></svg> Sending email...')
                 .addClass('form__submit--sending');
         });
     };
     var test_form_loader = function(){
         var the_form = $('.a-contact-form');
+
         the_form.on('click', function(){
             var the_btn = $(this).find('button.form__submit');
             the_btn
                 .html('<svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-loader spin" width="28" height="28" viewBox="0 0 24 24" stroke-width="2" stroke="#fff" fill="none" stroke-linecap="round" stroke-linejoin="round"><path d="M0 0h24v24H0z" stroke="none"/><path d="M12 6V3M16.25 7.75L18.4 5.6M18 12h3M16.25 16.25l2.15 2.15M12 18v3M7.75 16.25L5.6 18.4M6 12H3M7.75 7.75L5.6 5.6"/></svg> Sending email...')
                 .addClass('form__submit--sending');
         });
-        $('.a-contact-form').on('submit', function(){
-            var the_btn = $(this).find('button.form__submit');
-            the_btn
-                .html('<i class="fas fa-circle-notch fa-spin"></i> Sending email...')
-                .addClass('form__submit--sending');
-        });
     };
-
 
     handle_menu();
     handle_submenu();
@@ -245,7 +239,6 @@
 
     handle_contact_form_post();
 
-    // handle_form_loader();
-    test_form_loader();
+    handle_form_loader();
 
 })(jQuery);
