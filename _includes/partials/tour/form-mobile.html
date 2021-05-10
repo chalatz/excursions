@@ -1,15 +1,15 @@
 <div class="form__body mobile-only mobile-only--block">
 
-    <form method="POST" name="sendmail-mobile" action="sendmail-contact.php">
+    <form class="a-contact-form" method="POST" name="sendmail-mobile" action="sendmail-contact.php">
         <input type="hidden" name="meli_dio" autocomplete="off">
-                    
+
         <input type="hidden" name="from_page" value="{{ include.mobile_from_page | upcase }}">
         <input type="hidden" name="return_to" value="{{ include.return_to | remove: '/' }}">
 
         <div class="form__group">
             <label class="form__label" for="first_last_name">First and Last Name* :</label>
             <input class="form__input form__input--text" type="text" name="first_last_name" required>
-        </div>        
+        </div>
         <div class="form__group">
             <label class="form__label" for="city_state_zip">City/State/Country* :</label>
             <input class="form__input form__input--text" type="text" name="city_state_zip" required>
@@ -17,7 +17,7 @@
         <div class="form__group">
             <label class="form__label" for="e_mail">E-mail* :</label>
             <input class="form__input form__input--text" type="email" name="e_mail" required>
-        </div>                    
+        </div>
         <div class="form__group">
             <label class="form__label" for="comments">Comments: <span class="mobile-only mobile-only--inline">Please include:<br>"Cruise Ship Name" and "Excursion Date":</span></label>
             <textarea class="form__input form__input--textarea" name="comments" cols="30" rows="3"></textarea>

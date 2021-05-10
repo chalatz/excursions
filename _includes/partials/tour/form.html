@@ -14,9 +14,9 @@
         <div class="form tour-form__form">
             <div class="form__body tablet-only tablet-only--block">
 
-                <form method="POST" name="sendmail" action="sendmail-contact.php">
+                <form class="a-contact-form" method="POST" name="sendmail" action="sendmail-contact.php">
                     <input type="hidden" name="meli_dio" autocomplete="off">
-                    
+
                     <input type="hidden" name="from_page" value="{{ include.from_page | upcase }}">
                     <input type="hidden" name="return_to" value="{{ include.return_to | remove: '/' }}">
 
@@ -99,7 +99,7 @@
                     <div class="form__group">
                         <label class="form__label" for="cruise_ship">Cruise Ship* :</label>
                         <input class="form__input form__input--text" type="text" name="cruise_ship" required>
-                    </div>                    
+                    </div>
                     <div class="form__group">
                         <label class="form__label" for="speaking_language">Driver must be able to speak* :</label>
                         <div class="form__row">
@@ -133,7 +133,7 @@
                         <label class="form__label" for="party_num">Number in party* :</label>
                         <input class="form__input form__input--text w-10-rem" type="text" name="party_num" required>
                     </div>
-    
+
                     <div class="form__group">
                         <label class="form__label" for="comments">Comments: <span class="mobile-only mobile-only--inline">Please include:<br>"Tour Start Location" and "Tour Date"</span></label>
                         <textarea class="form__input form__input--textarea" name="comments" cols="30" rows="3"></textarea>
@@ -162,7 +162,7 @@
             {%- else -%}
                 {%- assign mobile_page_from = page.title | append: ' - Mobile' -%}
             {%- endif -%}
-            
+
             {%- include partials/tour/form-mobile.html mobile_from_page=mobile_page_from return_to=page.url -%}
         </div>
     </div>

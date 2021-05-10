@@ -60,6 +60,13 @@
         &:hover {
             background-color: $darkyellow;
         }
-    }    
+        &--sending {
+            background-color: $darkyellow;
+            pointer-events: none;
+            svg {
+                vertical-align: bottom;
+            }
+        }
+    }
 
 }

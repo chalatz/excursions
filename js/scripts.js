@@ -30,9 +30,9 @@
 
     // Toggles the sliding of the mobilemenu's subitems
     var handle_submenu = function() {
-    
+
         var parent_item = $('.site-nav__item--with-sublinks');
-        
+
         if(window.innerWidth < 990) {
 
             parent_item.on('click', function(e){
@@ -50,16 +50,16 @@
                 chevron_icon.toggleClass('rotate-180');
 
                 submenu.toggleClass('site-nav__subitems--opened');
-                
-            });            
-            
+
+            });
+
         } else {
-            
+
             parent_item.hoverIntent(function(){
                 var $this = $(this),
                 submenu = $this.find('.site-nav__subitems');
-                
-                submenu.toggleClass('site-nav__subitems--opened');                
+
+                submenu.toggleClass('site-nav__subitems--opened');
 
             });
 
@@ -75,7 +75,7 @@
             var the_option = current_year + i,
                 the_option_text = '<option value="' + the_option + '">' + the_option + '</option>';
             year_input.append(the_option_text);
-        }            
+        }
 
     };
 
@@ -89,7 +89,7 @@
               $(".go-top").removeClass("show");
             }
           });
-  
+
           $('#scrollBtn').click(function(event){
             $('body,html').animate({
                 scrollTop: 0
@@ -97,7 +97,7 @@
             event.preventDefault();
           });
 
-    };    
+    };
 
     var handle_pop_form = function(){
 
@@ -112,7 +112,7 @@
                 opacity: 0,
                 left: '-=' + button_width
             }, 500);
-            pop_form.show().animate({                
+            pop_form.show().animate({
                 opacity: 1,
                 bottom: 0
             });
@@ -145,15 +145,15 @@
 
         if (form_status === 'success') {
             var msg_div = $('#msg'),
-                msg_content = 
-                    '<span id="msg-close" class="msg__close"><svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-x" width="44" height="44" viewBox="0 0 24 24" stroke-width="1.5" stroke="#0000" fill="none" stroke-linecap="round" stroke-linejoin="round"><path stroke="none" d="M0 0h24v24H0z" fill="none"/><line x1="18" y1="6" x2="6" y2="18" /><line x1="6" y1="6" x2="18" y2="18" /></svg></span>' + 
+                msg_content =
+                    '<span id="msg-close" class="msg__close"><svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-x" width="44" height="44" viewBox="0 0 24 24" stroke-width="1.5" stroke="#0000" fill="none" stroke-linecap="round" stroke-linejoin="round"><path stroke="none" d="M0 0h24v24H0z" fill="none"/><line x1="18" y1="6" x2="6" y2="18" /><line x1="6" y1="6" x2="18" y2="18" /></svg></span>' +
                     '<h3 class="msg__title">Email Sent!</h3>' +
                     '<p>Thank you for the interest that you\'ve shown in our services. Your request was sent successfully and will be processed soon.</p>';
 
             msg_div.html(msg_content);
 
             msg_div.show();
-                                    
+
             $(msg_div).on('click', '#msg-close', function(e){
                 $(msg_div).fadeOut(300);
             });
@@ -161,21 +161,21 @@
 
         if (form_status === 'fail' || form_status === 'fail-mobile') {
             var msg_div = $('#msg'),
-                msg_content = 
-                    '<span id="msg-close" class="msg__close"><svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-x" width="44" height="44" viewBox="0 0 24 24" stroke-width="1.5" stroke="#0000" fill="none" stroke-linecap="round" stroke-linejoin="round"><path stroke="none" d="M0 0h24v24H0z" fill="none"/><line x1="18" y1="6" x2="6" y2="18" /><line x1="6" y1="6" x2="18" y2="18" /></svg></span>' + 
+                msg_content =
+                    '<span id="msg-close" class="msg__close"><svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-x" width="44" height="44" viewBox="0 0 24 24" stroke-width="1.5" stroke="#0000" fill="none" stroke-linecap="round" stroke-linejoin="round"><path stroke="none" d="M0 0h24v24H0z" fill="none"/><line x1="18" y1="6" x2="6" y2="18" /><line x1="6" y1="6" x2="18" y2="18" /></svg></span>' +
                     '<h3 class="msg__title">Something went wrong</h3>' +
-                    '<p class="centered">Please try to fill the form again.</p>' + 
+                    '<p class="centered">Please try to fill the form again.</p>' +
                     '<p class="centered">If the problem persists, please try to contact us directly at <a href="mailto:request@RhodesShoreExcursions.com">request@RhodesShoreExcursions.com</p>';
-                    if (form_status === 'fail') {                       
+                    if (form_status === 'fail') {
                         msg_content += '<p class="centered"><a id="goto-form" href="#request">Return to the Form</p>';
                     }
-            
+
             msg_div.addClass('msg--fail');
 
             msg_div.html(msg_content);
 
             msg_div.show();
-                                    
+
             $(msg_div).on('click', '#msg-close', function(e){
                 $(msg_div).fadeOut(300);
             });
@@ -186,30 +186,54 @@
                 $('html, body').animate({scrollTop: $('#request').offset().top -100 }, 'slow');
             });
         }
-        
+
         if (form_status === 'validation-error') {
             var msg_div = $('#msg'),
                 msg_close = $('#msg-close'),
-                msg_content = 
-                '<span id="msg-close" class="msg__close"><svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-x" width="44" height="44" viewBox="0 0 24 24" stroke-width="1.5" stroke="#0000" fill="none" stroke-linecap="round" stroke-linejoin="round"><path stroke="none" d="M0 0h24v24H0z" fill="none"/><line x1="18" y1="6" x2="6" y2="18" /><line x1="6" y1="6" x2="18" y2="18" /></svg></span>' + 
+                msg_content =
+                '<span id="msg-close" class="msg__close"><svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-x" width="44" height="44" viewBox="0 0 24 24" stroke-width="1.5" stroke="#0000" fill="none" stroke-linecap="round" stroke-linejoin="round"><path stroke="none" d="M0 0h24v24H0z" fill="none"/><line x1="18" y1="6" x2="6" y2="18" /><line x1="6" y1="6" x2="18" y2="18" /></svg></span>' +
                     '<h3 class="msg__title">Missing field(s)</h3>' +
-                    '<p class="centered">Please try to fill all the fields before submitting.</p>' + 
+                    '<p class="centered">Please try to fill all the fields before submitting.</p>' +
                     '<p class="centered">If the problem persists, please try to contact us directly at <a href="mailto:request@RhodesShoreExcursions.com">request@RhodesShoreExcursions.com</p>';
-            
+
             msg_div.addClass('msg--fail')
 
             msg_div.html(msg_content);
 
             msg_div.show();
-                                    
+
             $(msg_div).on('click', '#msg-close', function(e){
                 $(msg_div).fadeOut(300);
             });
         }
-        
+
     };
 
-    
+    var handle_form_loader = function(){
+        $('.a-contact-form').on('submit', function(){
+            var the_btn = $(this).find('button.form__submit');
+            the_btn
+                .html('<i class="fas fa-circle-notch fa-spin"></i> Sending email...')
+                .addClass('form__submit--sending');
+        });
+    };
+    var test_form_loader = function(){
+        var the_form = $('.a-contact-form');
+        the_form.on('click', function(){
+            var the_btn = $(this).find('button.form__submit');
+            the_btn
+                .html('<svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-loader spin" width="28" height="28" viewBox="0 0 24 24" stroke-width="2" stroke="#fff" fill="none" stroke-linecap="round" stroke-linejoin="round"><path d="M0 0h24v24H0z" stroke="none"/><path d="M12 6V3M16.25 7.75L18.4 5.6M18 12h3M16.25 16.25l2.15 2.15M12 18v3M7.75 16.25L5.6 18.4M6 12H3M7.75 7.75L5.6 5.6"/></svg> Sending email...')
+                .addClass('form__submit--sending');
+        });
+        $('.a-contact-form').on('submit', function(){
+            var the_btn = $(this).find('button.form__submit');
+            the_btn
+                .html('<i class="fas fa-circle-notch fa-spin"></i> Sending email...')
+                .addClass('form__submit--sending');
+        });
+    };
+
+
     handle_menu();
     handle_submenu();
 
@@ -220,5 +244,8 @@
     handle_pop_form();
 
     handle_contact_form_post();
+
+    // handle_form_loader();
+    test_form_loader();
 
 })(jQuery);
