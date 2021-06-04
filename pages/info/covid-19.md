@@ -38,4 +38,4 @@ The COVID-19 pandemic has made it necessary for everyone to become cautious and 
 
 Kind Regards
 
-Nicholas and the Team of RhodesShoreExcursions.Com
+Nicholas A. Rhodes and the Team of RhodesShoreExcursions.Com
