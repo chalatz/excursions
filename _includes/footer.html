@@ -100,12 +100,6 @@
             <span class="site-footer__bottom-info-item">ΓΕΜΗ (G.C.R) N. 000146680620000</span> {%- endcomment -%}
         </div>
 
-        <p class="site-footer__copyright">
-            <span class="site-footer__bottom-info-item">@ 1998 - {{ site.time | date: '%Y' }} RhodesShoreExcursions.com</span>
-            <span class="mid-desktop-only mid-desktop-only--inline"> | </span>
-            <span class="site-footer__bottom-info-item">Rhodes Shore Excursions</span>
-        </p>
-
         {%- if page.has_emergency == true -%}
             <div class="container">
                 <a href="{{- 'covid19-rhodes.htm' | relative_url -}}" class="emergency">
@@ -118,6 +112,13 @@
                 </a>
             </div>
         {%- endif -%}
+
+        <p class="site-footer__copyright">
+            <span class="site-footer__bottom-info-item">@ 1998 - {{ site.time | date: '%Y' }} RhodesShoreExcursions.com</span>
+            <span class="mid-desktop-only mid-desktop-only--inline"> | </span>
+            <span class="site-footer__bottom-info-item">Rhodes Shore Excursions</span>
+        </p>
+
 
     </div>
 

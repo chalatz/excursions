@@ -98,7 +98,7 @@ iframe {
         bottom: 3px;
     }
 }
- 
+
 .msg {
     display: none;
     position: relative;
@@ -151,7 +151,7 @@ iframe {
     border: 3px solid $red;
     text-decoration: none;
     text-align: center;
-    margin: 1rem 0 1.5rem;
+    margin: 2.5rem 0 1rem;
     transition: background-color .15s linear, color .15s linear;
     &:hover {
         background-color: $red;
