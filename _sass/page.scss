@@ -20,7 +20,7 @@
             list-style-position: 1px;
         }
     }
-    
+
     &__subtitle {
         font-size: 1.5rem;
         margin: 0;
@@ -100,7 +100,10 @@
         .covid_19 & {
             h3,
             h4 {
-                text-align: left;
+                text-align: center;
+            }
+            h3 {
+                font-size: 1.5rem;
             }
         }
     }
@@ -130,14 +133,14 @@
             vertical-align: top;
         }
         &--of-4 {
-            @include breakpoint(medium) {                
+            @include breakpoint(medium) {
                 width: 25%;
                 padding-left: 8px;
                 padding-right: 8px;
             }
         }
         &--of-5 {
-            @include breakpoint(medium) {                
+            @include breakpoint(medium) {
                 width: 20%;
                 padding-left: 8px;
                 padding-right: 8px;
@@ -152,7 +155,7 @@
             opacity: .8;
         }
     }
-    
+
     &-item-img {
         display: block;
         text-align: center;
@@ -183,12 +186,12 @@
                     width: 30%;
                     padding-left: 8px;
                     padding-right: 8px;
-                    @include breakpoint(small) {                
+                    @include breakpoint(small) {
                         width: 25%;
                         padding-left: 16px;
                         padding-right: 16px;
                     }
-                    @include breakpoint(medium) {                
+                    @include breakpoint(medium) {
                         width: 20%;
                         padding-left: 20px;
                         padding-right: 20px;
