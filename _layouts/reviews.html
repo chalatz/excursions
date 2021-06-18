@@ -3,7 +3,7 @@ layout: default
 ---
 {%- if page.head_photo and page.head_photo.img.size > 0 -%}
     <section class="head-photo head-photo--page head-photo--{{ page.type }}">
-        {%- if page.head_photo.mobile and page.head_photo.mobile.size > 0 -%} 
+        {%- if page.head_photo.mobile and page.head_photo.mobile.size > 0 -%}
           <picture>
             <source srcset="{{- page.head_photo.mobile | relative_url -}}"
                     media="(max-width: 576px)">
@@ -48,7 +48,7 @@ layout: default
                 <div class="reviews__intro-icons">
                     {%- for icon in page.intro.icons -%}
                         <a class="reviews__icon{% if forloop.first %} reviews__icon--first{% endif %}" href="{{- icon.url -}}" target="_blank">
-                            <img src="{{- icon.path | relative_url -}}" alt="{{- icon.alt_text -}}" class="reviews__icon-img">                    
+                            <img src="{{- icon.path | relative_url -}}" alt="{{- icon.alt_text -}}" class="reviews__icon-img">
                             <p class="reviews__icon-text">
                                 {%- if icon.text and icon.text.size > 0 -%}
                                     {{- icon.text -}}
@@ -70,7 +70,7 @@ layout: default
             </div>
 
         </div>
-        
+
     </div>
 
     <div class="separator separator--darkblue"></div>
@@ -96,37 +96,41 @@ layout: default
 
             <ul class="reviews__years-list">
                 {%- for review in page.reviews -%}
-                    <li class="reviews__years-list-item">
-                        <a href="#{{- review.year -}}" class="reviews__years-list-link">
-                            {{- review.year -}}
-                        </a>
-                    </li>
+                    {%- if review.text and review.text.size > 0 -%}
+                        <li class="reviews__years-list-item">
+                            <a href="#{{- review.year -}}" class="reviews__years-list-link">
+                                {{- review.year -}}
+                            </a>
+                        </li>
+                    {%- endif -%}
                 {%- endfor -%}
-            </ul>       
+            </ul>
 
         </div>
     </section>
 
     <section class="section">
         <div class="container reviews__list">
-        
+
             {%- for review in page.reviews -%}
-                <div class="reviews__list-item">
-                    <span class="anchor-section" id="{{- review.year -}}"></span>
-                    <h3 class="reviews__list-item-heading">
-                        REVIEWS - TESTIMONIALS {{ review.year }}
-                    </h3>
-                    <div class="reviews__list-item-content">
-                        {{ review.text | markdownify }}
+                {%- if review.text and review.text.size > 0 -%}
+                    <div class="reviews__list-item">
+                        <span class="anchor-section" id="{{- review.year -}}"></span>
+                        <h3 class="reviews__list-item-heading">
+                            REVIEWS - TESTIMONIALS {{ review.year }}
+                        </h3>
+                        <div class="reviews__list-item-content">
+                            {{ review.text | markdownify }}
+                        </div>
+                        <div class="reviews__go-to-top">
+                            <a href="#reviews-top" class="reviews__go-to-top-link">
+                                <span class="reviews__go-to-top-arrow">&uarr;</span> Back to the top <span class="reviews__go-to-top-arrow">&uarr;</span>
+                            </a>
+                        </div>
                     </div>
-                    <div class="reviews__go-to-top">
-                        <a href="#reviews-top" class="reviews__go-to-top-link">
-                            <span class="reviews__go-to-top-arrow">&uarr;</span> Back to the top <span class="reviews__go-to-top-arrow">&uarr;</span>
-                        </a>
-                    </div>
-                </div>
+                {%- endif -%}
             {%- endfor -%}
-        
+
         </div>
     </section>
 

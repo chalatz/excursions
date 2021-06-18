@@ -32,6 +32,11 @@ intro:
 cta: Please visit the links (above and below) to read what our Valued Clients are saying about us
 years_list_heading: Reviews and Comments as we received them, nice to know we are appreciated!!
 reviews:
+  - year: '2021'
+    text: |-
+      Thank you for making our short visit to your beautiful island a memorable one. Sergio was very friendly and gave us an insight into the history and life of Rhodes. Best!!<br>Carol P. (5th June) London UK
+
+      Nicholas, Thank you for an amazing day in Rhodes. We enjoyed meeting and spending time with Michael and exploring the south part of your beautiful island. Thanks again for your excellent service. Best regards<br>Alan and Debby (May 29th) Lady Lake, Florida
   - year: '2020'
     text: |-
       Dear Nicholas, Thank you for having us and please thank Michael. He was absolutely wonderful and so informative.  Stay safe and thank you for a wonderful holiday experience.<br>
