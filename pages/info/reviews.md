@@ -48,7 +48,7 @@ reviews:
       Cheryl K. (April 11th) New Zealand
 
       Hi Nicholas. Thank you for your service. We had a wonderful tour with Michael, was very friendly and gave us some interesting titbits about the life in Rhodes. We will definitely be back!<br>
-      Carol S. (Jan 22nd)
+      Carol S. (Jan 22nd) Canada
   - year: '2019'
     text: |-
       Thank you, Nicholas and Manuel, for making our short stay in Rhodes so nice. We promised ourselves to be there again in the future.  Happy new year! Giorgio and family (31 Dec) Italy
