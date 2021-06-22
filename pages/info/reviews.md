@@ -45,10 +45,9 @@ reviews:
 
       Hopefully once things settle down again around the world and our borders in NZ reopen, we can start planning again. We will definitely be booking this tour with you again. In the meantime, please stay safe. We look forward to seeing you in the future.<br>
       Blessing to you and your team<br>
-      Cheryl K. (April 11th)
+      Cheryl K. (April 11th) New Zealand
 
-      Thank you for making our short visit to your beautiful island a memorable one. Michael was very friendly and gave us an insight into the history of Rhodes and the life.<br>
-      All the best,<br>
+      Hi Nicholas. Thank you for your service. We had a wonderful tour with Michael, was very friendly and gave us some interesting titbits about the life in Rhodes. We will definitely be back!<br>
       Carol S. (Jan 22nd)
   - year: '2019'
     text: |-
