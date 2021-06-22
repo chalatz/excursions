@@ -43,7 +43,7 @@
             background-color: $lightblue;
         }
     }
-    
+
     &__item {
         display: block;
         &--active {
@@ -53,18 +53,18 @@
         @include breakpoint(large) {
             display: inline-block;
         }
-        
+
         &--burger {
             padding: 8px;
             cursor: pointer;
             color: #fff;
             font-size: 1.2rem;
-            
+
             @include breakpoint(large) {
                 display: none;
             }
         }
-                
+
         &--with-sublinks {
             position: relative;
             cursor: pointer;
@@ -73,11 +73,12 @@
         &--sublink {
             @include breakpoint(large) {
                 display: block;
+                white-space: nowrap;
             }
         }
 
         &--sublink-last {
-            @include breakpoint(large) {                
+            @include breakpoint(large) {
                 border-bottom-left-radius: 3px;
                 border-bottom-right-radius: 3px;
                 border-bottom: 2px solid $yellow;
@@ -85,7 +86,7 @@
         }
 
     }
-    
+
     &__item-link {
         text-decoration: none;
         color: #fff;
