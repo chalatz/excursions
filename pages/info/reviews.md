@@ -34,6 +34,8 @@ years_list_heading: Reviews and Comments as we received them, nice to know we ar
 reviews:
   - year: '2021'
     text: |-
+      We loved our tour/driver for this tour! Sergio was an informational and lively conversationalist and had so many interesting things to say about growing up in Rhodes. He stopped and picked some thyme and sage for me on the side of the road- which I loved! And he took us to some beautiful viewpoints and beaches we would have never found on our own. This tour is a great place to start your experience in Rhodes- and I really like the flexible part of it where you can make it longer if you want to see more!<br>Jenn O. (July 5th) Bountiful, Utah
+
       Thank you for making our short visit to your beautiful island a memorable one. Sergio was very friendly and gave us an insight into the history and life of Rhodes. Best!!<br>Carol P. (5th June) London UK
 
       Nicholas, Thank you for an amazing day in Rhodes. We enjoyed meeting and spending time with Michael and exploring the south part of your beautiful island. Thanks again for your excellent service. Best regards<br>Alan and Debby (May 29th) Lady Lake, Florida
