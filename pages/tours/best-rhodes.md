@@ -164,7 +164,7 @@ Then we drive you to the **main square of Lindos village**, so you can explore 
 
 Don't want to walk? Take a "Lindos Taxi"---a donkey! The vantage point from the Acropolis affords you breath-taking views of a great expanse of the Mediterranean Sea, the St. Paul's Bay, and the white village of Lindos. (Stop Visit Photos)
 
-Or you may skip the climb up to Acropolis of Lindos and just explore the white village
+Or you may skip the climb up to Acropolis of Lindos and just explore the white village.
 
 ### COAST ROAD OF FALIRAKI AND KALLITHEA
 
