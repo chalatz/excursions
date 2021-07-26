@@ -34,6 +34,8 @@ years_list_heading: Reviews and Comments as we received them, nice to know we ar
 reviews:
   - year: '2021'
     text: |-
+      Hi Nikolas! It was so wonderful meeting you and we thoroughly enjoyed our trip in Rhodes. We believe it would not have been as magical of it weren’t for you and your driver Andrew. He was amazing!. I will be going back to work on Monday to share the experience with my colleagues and guests. Please stay in touch!!<br>Kimmie D.\| Personal Cruise Consultant \| NCL (July 24th ) Miami FL
+
       Hello Nicholas and Manolis, We had such an amazing time and thank you for showing us what makes Rhodes special. We will leave a review on TripAdvisor and highly recommend your company when we get home. Thank you for the memories and looking forward to returning,<br>Michelle and Leila. (July 14th) Texas USA
 
       We loved our tour/driver for this tour! Sergio was an informational and lively conversationalist and had so many interesting things to say about growing up in Rhodes. He stopped and picked some thyme and sage for me on the side of the road- which I loved! And he took us to some beautiful viewpoints and beaches we would have never found on our own. This tour is a great place to start your experience in Rhodes- and I really like the flexible part of it where you can make it longer if you want to see more!<br>Jenn O. (July 5th) Bountiful, Utah
