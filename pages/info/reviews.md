@@ -34,6 +34,8 @@ years_list_heading: Reviews and Comments as we received them, nice to know we ar
 reviews:
   - year: '2021'
     text: |-
+      Nicholas, your tour was absolutely perfect - it  truly could not have been better. The sights we saw, the time we spent, the private luxury mini-bus, the awesome traditional Rhodes lunch, and most importantly Kostas and Michael - we had an amazing day and can’t thank you enough. The tour made us want to return to Rhodes for a longer visit - hopefully we can do this one day.  Thanks again for all of your help and for such a wonderful tour.<br>Sincerely, Sean and Family (Aug 6th) Los Angeles, CA
+
       Hi Nikolas! It was so wonderful meeting you and we thoroughly enjoyed our trip in Rhodes. We believe it would not have been as magical of it weren’t for you and your driver Andrew. He was amazing!. I will be going back to work on Monday to share the experience with my colleagues and guests. Please stay in touch!!<br>Kimmie D.\| Personal Cruise Consultant \| NCL (July 24th ) Miami FL
 
       Hello Nicholas and Manolis, We had such an amazing time and thank you for showing us what makes Rhodes special. We will leave a review on TripAdvisor and highly recommend your company when we get home. Thank you for the memories and looking forward to returning,<br>Michelle and Leila. (July 14th) Texas USA
