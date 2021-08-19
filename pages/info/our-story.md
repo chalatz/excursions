@@ -12,7 +12,7 @@ meta:
   http_desc: Private Shore Excursions on Rhodes Greece, Shore Excursions on Rhodes Island Greece
   keywords: Private Shore Excursions on Rhodes Greece, Shore Excursions on Rhodes Island Greece
   description: Private Shore Excursions on Rhodes Greece, Shore Excursions on Rhodes Island Greece
-  abstract: Private Shore Excursions on Rhodes Greece 
+  abstract: Private Shore Excursions on Rhodes Greece
 title: Private Shore Excursions on Rhodes Greece
 subtitle: ''
 head_photo:
@@ -75,9 +75,9 @@ gallery:
 ---
 **We have been in business since 1984, (online since 1998) providing outstanding Private Tour Services to travelers from all over the world.** We are extremely proud of our rich, cultural heritage, and we delight in sharing our island's natural beauty with you. We have accommodated small groups in our Mercedes Benz sedan cars. As larger groups, have become interested in our services, we provide Luxury Mercedes Benz Minibuses driven by Professional Drivers and hosted by Licensed Tour Guides, required by Greek law. [Private Group Shore Excursions](./groups.htm)
 
-#### Our Primary Reason for Operating this Website
+#### Our Primary Reason for Operating this Travel Agency
 
-Our primary reason for operating this website is to show visitors the Rhodes we love in a welcoming, user-friendly way. Our purpose is two-fold: to share the quality services offered exclusively by our associate tour/drivers and licensed tour guides on the island and to communicate ways in which you might make the most of your short stay to this splendid place.\
+Our primary reason for operating this travel agency is to show visitors the Rhodes we love in a welcoming, user-friendly way. Our purpose is two-fold: to share the quality services offered exclusively by our associate tour/drivers and licensed tour guides on the island and to communicate ways in which you might make the most of your short stay to this splendid place.\
 We are committed to showing you the hospitality for which we are known. During the seven months of the tourist season, from April-October, we will do our utmost best to create for you a unique tour experience that shows you why we deserve our excellent reputation. We put our customers first. We know that most of them will be here for just a short time, so we constantly update our websites with tips and suggestions on how to make the most of a visit to Rhodes.
 
 We've no doubt that Rhodes will make a lasting impression on those who visit it...this beautiful island is a destination like no other. If you are looking to escape the pressures of the modern world for a bit, make a stop at "Rhodes Shore Excursions". We want to be part of your journey... the Best Part!
