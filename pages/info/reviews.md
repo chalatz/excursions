@@ -34,6 +34,10 @@ years_list_heading: Reviews and Comments as we received them, nice to know we ar
 reviews:
   - year: '2021'
     text: |-
+      Nick, I have to say that Konstantine and Jacob- went beyond their duties to assist us. Konstantine our tour guide is quiet a historian, a philosopher, knows geography of the area, and even helped us with finding a small restaurant near the ship. Tell him we enjoyed all the food and wine served and we highly recommend this restaurant for your clients.  It was a “power-packed” tour and the best we have had in a long time. My wife is a travel agent (with us) and has many tours under her belt; but this one is tops.  We got from Konstantine two authors that he recommended and will get the books upon return to Louisiana.<br>Regards, Jackie T. from Cajun country! (Sept 1st) Louisiana USA
+
+      Nicholas it was a pleasure meeting you. Glad to bring some business to Rhodes and hope to return again one day. Kostas and Jakob were the best. Thank you for arranging our tour and coming down to the dock to greet us.<br>Ken, H. and Family (Aug 24th) USA
+
       Nicholas, The tour was absolutely amazing.  Highlight of our trip.  Kostas and Manolis were extremely accommodating and sincerely kind.  Wish we could go back.  Thank you.  I would recommend this tour to anyone.<br>Sarah M. (Aug 19th) St Louis, MO USA
 
       Nicholas, your tour was absolutely perfect - it  truly could not have been better. The sights we saw, the time we spent, the private luxury mini-bus, the awesome traditional Rhodes lunch, and most importantly Kostas and Michael - we had an amazing day and can’t thank you enough. The tour made us want to return to Rhodes for a longer visit - hopefully we can do this one day.  Thanks again for all of your help and for such a wonderful tour.<br>Sincerely, Sean and Family (Aug 6th) Los Angeles, CA

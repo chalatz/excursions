@@ -5,12 +5,12 @@ id: quick_facts
 permalink: greece.htm
 has_gallery: false
 meta:
-  title: Facts about Rhodes Greece, Rhodes Shore Excursions
-  http_desc: Facts about Rhodes Greece, Rhodes Shore Excursions, Rhodes Fast Facts
-  keywords: Facts about Rhodes Greece, Rhodes Shore Excursions, Rhodes Fast Facts
-  description: Facts about Rhodes Greece, Rhodes Shore Excursions, Rhodes Fast Facts
-  abstract: Facts about Rhodes Greece
-title: Facts about Rhodes Greece 
+  title: Quick Facts about Rhodes Island and Greece, Rhodes Shore Excursions
+  http_desc: Quick Facts about Rhodes Island and Greece, Rhodes Shore Excursions, Rhodes Fast Facts
+  keywords: Quick Facts about Rhodes Island and Greece, Rhodes Shore Excursions, Rhodes Fast Facts
+  description: Quick Facts about Rhodes Island and Greece, Rhodes Shore Excursions, Rhodes Fast Facts
+  abstract: Quick Facts about Rhodes Island and Greece
+title: Quick Facts about Rhodes Island and Greece
 head_photo:
   img: /img/pages/quick-facts/head-photo.jpg
   mobile: /img/pages/quick-facts/head-photo-mobile.jpg
