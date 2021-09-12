@@ -14,7 +14,9 @@ meta:
   abstract: Experienced Guides, Rhodes Shore Excursions, Greece
 title: Over 35 Years of Experience
 intro: |-
-  Beginning in 1984, tourists have been able to take advantage of our high quality private tour service. Our online presence dates back to 1998.
+  Beginning in 1984, tourists have been able to take advantage of our high quality private tour service.
+
+  Our online presence dates back to 1998.
 
 ---
 ### We are knowledgeable
