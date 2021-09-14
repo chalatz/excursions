@@ -34,6 +34,8 @@ years_list_heading: Reviews and Comments as we received them, nice to know we ar
 reviews:
   - year: '2021'
     text: |-
+      Nicholas thank you so much! We were so impressed with your organization and the tour your company provides. Manuel was a wonderful guide and shared so much of your beautiful island, way of life, customs, and history. We really feel like we learned so much and great appreciated him sharing his home with us! We have another group of people going on the same cruise next week and I will definitely be passing along your info!! Thank you again! Rhodes by far was our favorite place we visited on the cruise!! Can’t wait to come back and spend more time!<br>Jennifer A. (Sept 14th) Friendswood, Texas, USA
+
       Nick, I have to say that Konstantine and Jacob- went beyond their duties to assist us. Konstantine our tour guide is quiet a historian, a philosopher, knows geography of the area, and even helped us with finding a small restaurant near the ship. Tell him we enjoyed all the food and wine served and we highly recommend this restaurant for your clients.  It was a “power-packed” tour and the best we have had in a long time. My wife is a travel agent (with us) and has many tours under her belt; but this one is tops.  We got from Konstantine two authors that he recommended and will get the books upon return to Louisiana.<br>Regards, Jackie T. from Cajun country! (Sept 1st) Louisiana USA
 
       Nicholas it was a pleasure meeting you. Glad to bring some business to Rhodes and hope to return again one day. Kostas and Jakob were the best. Thank you for arranging our tour and coming down to the dock to greet us.<br>Ken, H. and Family (Aug 24th) USA
