@@ -33,7 +33,7 @@ itinerary:
 
     **Starting Point:** We meet at the pier/dock. (or anywhere else)
 
-    **Excursion Extensions:** You may extend this excursion and add lunch time at a seaside village at the Mediterranean Sea right on the water’s edge (scenic) with fresh seafood, Rhodian cuisine and excellent local wines. 
+    **Excursion Extensions:** You may extend this excursion and add lunch time at a seaside village at the Mediterranean Sea right on the water’s edge (scenic) with fresh seafood, Rhodian cuisine and excellent local wines.
 
     **(Stop Pictures)** = Stop and get out of the car for pictures from outside of the Sight/building
 
@@ -147,12 +147,16 @@ It is said that St Paul’s Bay is the place where Apostle landed in 51 AD. The 
 
 ### Lindos Village and Acropolis
 
-You can have a lot of fun in Lindos. We travel to the Central Square of Lindos, which is the perfect place to explore the village. You can also spend time riding donkeys, more commonly known as the taxis of Lindos!  You can enjoy and relax in the village (or you can climb up to acropolis) and then meet up with your driver at the main square at the prearranged time. From there, we drive you to the next beach of your choice for a sea bath! (Stop Visit Photos)
+You can have a lot of fun in Lindos. We travel to the Central Square of Lindos, which is the perfect place to explore the village. You can also spend time riding donkeys, more commonly known as the taxis of Lindos! You can enjoy and relax in the village (or you can climb up to acropolis) and then meet up with your driver at the main square at the prearranged time. (Stop Visit Photos)
+
+### Swimming in the Mediterranean Sea
+
+Once you finish with your Lindos’ visit starts the best part of your Beach Tour. We drive you to the next beach of your choice for a sea bath in clear blue waters at the Mediterranean sea!! (Stop Visit Swim Photos)
 
 ### Rhodian Traditional Pottery Art
 
 If you are a fan of pottery or simply like to explore, make sure you stop at a pottery workshop to see how the traditional pottery is made in Rhodes. This is your chance to view beautiful pieces of traditional Greek pottery and even learn the secret of the Pythagorean cup!  However, keep in mind that this stop is optional. So, if you are up for it, just let the driver know you wish to stop at the pottery workshop! (Stop Visit Photos)
 
-### Drop Off Location 
+### Drop Off Location
 
 You can choose a convenient drop off location of your choice. Once we are back in Rhodes Town, you can get off at your hotel, or near the Old City Gate, you will have to walk for around a quarter of a mile to get back to the cruise.
