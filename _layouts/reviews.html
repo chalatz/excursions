@@ -77,7 +77,7 @@ layout: default
 
     <div class="container page__content reviews__content">
         <section class="section reviews__carousel">
-            {%- for i in (1..10) -%}
+            {%- for i in page.carousel_imgs -%}
                 {%- capture img -%}/img/pages/reviews/{{- i -}}.jpg{%- endcapture -%}
                 <div class="reviews__carousel-item hidden">
                     <img src="{{- img | relative_url -}}" alt="">
