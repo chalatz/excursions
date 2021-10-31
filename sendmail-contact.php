@@ -25,10 +25,10 @@ $cruise_ship = '';
 $speaking_language = '';
 $party_num = '';
 $comments = '';
-$ipAddress = $api_result['ip'];
-$countryCode = $api_result['country_code'];
-$countryName = $api_result['country_name'];
-$regionName = $api_result['region_name'];
+$ipAddress = $api_result['query'];
+$countryCode = $api_result['countryCode'];
+$countryName = $api_result['country'];
+$regionName = $api_result['region'];
 $cityName = $api_result['city'];
 $zipCode = $api_result['zip'];
 
@@ -159,15 +159,15 @@ function passed_recaptcha(){
         $key = include '_recaptcha_key.php';
 
         $response = file_get_contents($url."?secret=".$key."&response=".$_POST['g-recaptcha-response']."&remoteip=".$_SERVER['REMOTE_ADDR']);
-    
+
         $data = json_decode($response);
-    
+
         if(isset($data->success) && $data->success == true){
             return true;
         } else {
             return false;
         }
-    
+
     }
 
     // if (passed()) {

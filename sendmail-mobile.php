@@ -15,10 +15,10 @@ $from_page = '';
 $first_last_name = '';
 $e_mail = '';
 $comments = '';
-$ipAddress = $api_result['ip'];
-$countryCode = $api_result['country_code'];
-$countryName = $api_result['country_name'];
-$regionName = $api_result['region_name'];
+$ipAddress = $api_result['query'];
+$countryCode = $api_result['countryCode'];
+$countryName = $api_result['country'];
+$regionName = $api_result['region'];
 $cityName = $api_result['city'];
 $zipCode = $api_result['zip'];
 
@@ -115,15 +115,15 @@ function passed_recaptcha(){
         $key = include '_recaptcha_key.php';
 
         $response = file_get_contents($url."?secret=".$key."&response=".$_POST['g-recaptcha-response']."&remoteip=".$_SERVER['REMOTE_ADDR']);
-    
+
         $data = json_decode($response);
-    
+
         if(isset($data->success) && $data->success == true){
             return true;
         } else {
             return false;
         }
-    
+
     }
 
     // if (passed()) {
@@ -137,9 +137,9 @@ function passed_recaptcha(){
 if (validated()) {
     if(passed_recaptcha() && mail($address, $e_subject, $msg, "From: $e_mail\r\nReply-To: $e_mail\r\nReturn-Path: $e_mail\r\nContent-Type: text/plain; charset=UTF-8\r\n")){
         // Email has sent successfully, echo a success page.
-    
+
         header('Location: ' . $return_to . '?contact-form-sent=success');
-    
+
     } else {
         header('Location: '. $return_to . '?contact-form-sent=fail-mobile');
     }
