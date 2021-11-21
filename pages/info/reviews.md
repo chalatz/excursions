@@ -34,6 +34,8 @@ years_list_heading: Reviews and Comments as we received them, nice to know we ar
 reviews:
   - year: '2021'
     text: |-
+      Hi Nicholas, We all agreed that Kostas and Manuel are a great team.  Out tour was great.  We saw many things that we wanted and Kostas added the pottery shop and Manuel took control for a coffee/coke stop. We will all remember the “Look Look Look” from Kostas to make sure we did not miss anything. Greeting to all.<br>Thanks Again, Ken, Deanna, Richard and Ann (Nov 16th) Los Angeles USA
+
       Hi Nicholas. We just arrived home and want to let you know that we had a wonderful day with Andrew.  It is always a pleasure to have a guide that really takes interest in assuring the guests are satisfied.  Rhodes is so beautiful...I only wish we had more time. I am so glad that I was able to meet you Nicholas.  We were so very lucky that the rain stopped and we were able to have such a lovely day. We hope to return to Rhodes again and will certainly be in touch.  I will also be sure to refer our agency's cruise guests to your company when they wish a private tour away from the large cruise line groups.<br>Please say hi to Andrew!, Stay well and safe!<br>Stephanie M., President, All Aboard Cruises, Inc. (Oct 20th) Miami/FL/USA
 
       Nicholas, our time in Rhodes was awesome. It was our favorite island. Our driver Mike did an outstanding job. He was very professional and could tell he really loved his job. We loved everything we saw and really enjoyed our time at the pottery demonstration. We will definitely recommend you to our friends who will be traveling to the Greek Isles. Thanks again for everything.<br>Thanks Brian C. (Oct 2nd) Memphis, Tennessee, USA
