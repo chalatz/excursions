@@ -12,7 +12,7 @@
         display: inline-block;
         text-align: center;
         text-decoration: none;
-        
+
         &--first {
             @include breakpoint(smaller) {
                 margin-right: 12px;
@@ -42,6 +42,7 @@
 
     &__carousel {
         margin-bottom: 1rem;
+        min-height: 200px;
     }
 
     &__carousel-item {
