@@ -36,3 +36,5 @@ fields:
       wysiwyg: true
       schema:
         format: markdown
+pages:
+- pages/info/reviews.md
