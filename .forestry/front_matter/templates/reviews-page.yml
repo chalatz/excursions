@@ -1,0 +1,92 @@
+---
+label: Reviews page
+hide_body: true
+fields:
+- type: text
+  name: layout
+  label: layout
+- type: text
+  name: type
+  label: type
+- type: text
+  name: id
+  label: id
+- type: text
+  name: permalink
+  label: permalink
+- type: boolean
+  name: has_gallery
+  label: has_gallery
+- type: boolean
+  name: has_carousel
+  label: has_carousel
+- type: boolean
+  name: has_reviews
+  label: has_reviews
+- type: field_group
+  name: meta
+  label: meta
+  fields:
+  - type: text
+    name: title
+    label: title
+  - type: text
+    name: http_desc
+    label: http_desc
+  - type: text
+    name: keywords
+    label: keywords
+  - type: text
+    name: description
+    label: description
+  - type: text
+    name: abstract
+    label: abstract
+- type: text
+  name: title
+  label: title
+- type: text
+  name: subtitle
+  label: subtitle
+- type: field_group
+  name: intro
+  label: intro
+  fields:
+  - type: textarea
+    name: text
+    label: text
+  - type: field_group_list
+    name: icons
+    label: icons
+    fields:
+    - type: file
+      name: path
+      label: path
+    - type: text
+      name: text
+      label: text
+    - type: textarea
+      name: url
+      label: url
+    - type: text
+      name: alt_text
+      label: alt_text
+- type: list
+  name: carousel_imgs
+  label: carousel_imgs
+- type: text
+  name: cta
+  label: cta
+- type: text
+  name: years_list_heading
+  label: years_list_heading
+- type: field_group_list
+  name: reviews
+  label: reviews
+  fields:
+  - type: text
+    name: year
+    label: year
+  - type: textarea
+    name: text
+    label: text
