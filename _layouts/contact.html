@@ -54,12 +54,16 @@ layout: default
     {%- include partials/tour/form.html show_header=false classes="contact__form-wrapper" from_page=page_from return_to=page.url -%}
 
     <div class="container">
-      <p class="centered">
-          <strong>Contact E-mail Address:</strong> <a href="mailto:request@RhodesShoreExcursions.com">request@RhodesShoreExcursions.com</a>
-      </p>
-      <p class="centered">
-          <strong>Contact E-mail Address:</strong> <a href="mailto:rhodes_privatetours@yahoo.com">rhodes_privatetours@yahoo.com</a>
-      </p>
+      <div class="emails__outer-wrapper">
+        <div class="emails__inner-wrapper">
+          <p>
+              <strong>Contact E-mail Address 1:</strong> <a href="mailto:request@RhodesShoreExcursions.com">request@RhodesShoreExcursions.com</a>
+          </p>
+          <p>
+              <strong>Contact E-mail Address 2:</strong> <a href="mailto:rhodes_privatetours@yahoo.com">rhodes_privatetours@yahoo.com</a>
+          </p>
+        </div>
+      </div>
       {%- if page.message and page.message.size > 0 -%}
         {{ page.message | markdownify }}
       {%- endif -%}

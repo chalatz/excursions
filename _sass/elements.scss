@@ -162,3 +162,16 @@ iframe {
         font-size: 1.3rem;
     }
 }
+
+.emails {
+    &__outer-wrapper {
+        text-align: center;
+    }
+    &__inner-wrapper {
+        display: inline-block;
+        text-align: center;
+        @include breakpoint(small) {
+            text-align: left;
+        }
+    }
+}
