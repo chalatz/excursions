@@ -50,7 +50,12 @@ years_list_heading: Reviews and Comments as we received them, nice to know we ar
   appreciated!!
 reviews:
 - year: "2022"
-  text: ''
+  text: We booked our tour prior to arrival on the Silver Whisper. We did the half
+    day tour - Best Rhodes. Any questions prior to arrival were handled quickly and
+    clearly by Nicholas A.  Our driver was at the port when we got off the ship with
+    the Mercedes and a sign with my name. We had Michael and he was great! Filling
+    us in on all the facts of the Island and ensuring we spent time in the areas we
+    preferred. Thanks for the great hospitality! Sandra P. (April 7th) Dayton, Ohio
 - year: "2021"
   text: "Hi Nicholas, we loved every minute of our tour.  It was fabulous! Manuel
     and Michael were so knowledgeable and accommodating. Thank you so much for all
