@@ -50,7 +50,10 @@ years_list_heading: Reviews and Comments as we received them, nice to know we ar
   appreciated!!
 reviews:
 - year: "2022"
-  text: |-
+  text: |2-
+
+    Hi Nicholas. We enjoyed our day with Michael so much! Excellent tour service. Marjorie W. (May 3rd) Ringgold, GA, USA
+
     Hi Nick, My wife and daughter really enjoyed the tour. The tour guide was excellent and I hope to post a positive review online. Thank you and best of luck with your business, Gary K. (April 17th) Georgetown, Washington, D.C.
 
     We booked our tour prior to arrival on the Silver Whisper. We did the half day tour - Best Rhodes. Any questions prior to arrival were handled quickly and clearly by Nicholas A.  Our driver was at the port when we got off the ship with the Mercedes and a sign with my name. We had Michael and he was great! Filling us in on all the facts of the Island and ensuring we spent time in the areas we preferred. Thanks for the great hospitality! Sandra P. (April 7th) Dayton, Ohio
