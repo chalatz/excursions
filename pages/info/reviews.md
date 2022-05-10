@@ -734,3 +734,10 @@ reviews:
     My wife and I just wanted to say thank you for the wonderful tour we had with Michael. The professionalism of your services and thoroughness of showing us around Rhodes was exceptional. Michael was very knowledgeable and made us feel very relaxed in allowing us to tailor the tour to just what we wanted to see. The valley of the butterflies was a once in a life time trip. Michael also gave us some great tips on Greek food It was the best way to start off our introduction of Rhodes. Efharisto! Again, Thank you. Dave and Marie S. (June 30) Ohio, USA
 
 ---
+Recently, our customers have been wondering - **Why no more awards from TripAdvisor?** We hope this will answer your question.
+
+TripAdvisor started as a ranking site to review activities but now they have turned into a booking platform with reviews.  TripAdvisor is no longer responsible for tours. Another site, Viator (their partner), does those, of course you can still write/read reviews on TripAdvisor, but the management belongs to Viator.
+
+As you may have noticed, you’ll not see any more “*Certificate of Excellent*” or “*Hall of Fame*”, and if you listed your tours on TripAdvisor you don’t see even the “*Travelers Choice*”.  In addition, TripAdvisor has been changing policies and their whole business model in the last couple of years.  We are fine with that because our achievements are shown on our website and on many other sites as well.
+
+Our three greatest strengths: **Quality**, **Personal Touch**, and **Direct Local Price** are a source of tremendous pride for us. By booking directly with us you’ll always get a better price... Hope to see you in Rhodes for your next vacation.
