@@ -740,4 +740,4 @@ TripAdvisor started as a ranking site to review activities but now they have tur
 
 As you may have noticed, you’ll not see any more “*Certificate of Excellent*” or “*Hall of Fame*”, and if you listed your tours on TripAdvisor you don’t see even the “*Travelers Choice*”.  In addition, TripAdvisor has been changing policies and their whole business model in the last couple of years.  We are fine with that because our achievements are shown on our website and on many other sites as well.
 
-Our three greatest strengths: **Quality**, **Personal Touch**, and **Direct Local Price** are a source of tremendous pride for us. By booking directly with us you’ll always get a better price... Hope to see you in Rhodes for your next vacation.
+Our three greatest strengths: **Quality**, **Personal Touch**, and **Direct Local Price** are a source of tremendous pride for us. By booking directly with us, you’ll always get a better price... Hope to see you in Rhodes for your next vacation.
