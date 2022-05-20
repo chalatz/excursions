@@ -51,6 +51,8 @@ years_list_heading: Reviews and Comments as we received them, nice to know we ar
 reviews:
 - year: "2022"
   text: |-
+    Thank you and Stamos for making Rhodes our most memorable stop. We will definitely recommend your company to anyone visiting your beautiful island of Rhodes. Warm Regards and Best wishes for a Successful Summer! Doug H., Denise C., Robert and Chris V. (May 20th) USA
+
     Hi Nick & Michael, We had a wonderful tour with Michael and enjoyed our experience of the west coast of Rhodes.  If you would like to send me the link for TripAdvisor I can write comments there for you. All the best. Cheers  Michael & Karen H. (15th May) Australia
 
     Nicholas, the tour was wonderful and we loved Liana (the tour guide) and Manuel! (the driver). The seafood restaurant they took us to was incredible!!! It was an amazing day. Allison H. (May 14th) USA
