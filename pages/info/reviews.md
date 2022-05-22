@@ -51,7 +51,9 @@ years_list_heading: Reviews and Comments as we received them, nice to know we ar
 reviews:
 - year: "2022"
   text: |-
-    Thank you and Stamos for making Rhodes our most memorable stop. We will definitely recommend your company to anyone visiting your beautiful island of Rhodes. Warm Regards and Best wishes for a Successful Summer! Doug H., Denise C., Robert and Chris V. (May 20th) USA
+    Nicholas, We enjoyed our too brief time in Rhodes and the excellent tour and service provided by Manuel.  Thank you for helping provide a great experience. Gary O. (May 23rd) McKinney, Texas, U.S.A.
+
+    Nicholas thank you and Stamos for making Rhodes our most memorable stop. We will definitely recommend your company to anyone visiting your beautiful island of Rhodes. Warm Regards and Best wishes for a Successful Summer! Doug H., Denise C., Robert and Chris V. (May 20th) USA
 
     Hi Nick & Michael, We had a wonderful tour with Michael and enjoyed our experience of the west coast of Rhodes.  If you would like to send me the link for TripAdvisor I can write comments there for you. All the best. Cheers  Michael & Karen H. (15th May) Australia
 
