@@ -83,29 +83,6 @@ itinerary:
             href: 'img/tours/wine-tours/content/08.jpg'
             alt: Best Wineries in Rhodes Greece
             is_link: false
-    emery:
-      items_per_row: 4
-      items:
-        - image:
-            thumb: 'img/tours/wine-tours/content/09-thumb.jpg'
-            href: 'img/tours/wine-tours/content/09.jpg'
-            alt: Wine tours in Rhodos, Rodos Island
-            is_link: false
-        - image:
-            thumb: 'img/tours/wine-tours/content/10-thumb.jpg'
-            href: 'img/tours/wine-tours/content/10.jpg'
-            alt: Best wine shore excursions in Rhodes
-            is_link: false
-        - image:
-            thumb: 'img/tours/wine-tours/content/11-thumb.jpg'
-            href: 'img/tours/wine-tours/content/11.jpg'
-            alt: Best Wine Tasting Tours in Greece Rhodes
-            is_link: false
-        - image:
-            thumb: 'img/tours/wine-tours/content/12-thumb.jpg'
-            href: 'img/tours/wine-tours/content/12.jpg'
-            alt: Wineries in Rhodes Greece
-            is_link: false
     merkouris:
       items_per_row: 4
       items:
@@ -232,7 +209,7 @@ inclusions:
     - Free Cancelation Policy
   not_included:
     - Entrance Fees, Food, Drinks, Gratuities (Optional)
-  footer: The Wine Tour got no Entrance fees, Food, or Drinks to pay, the wine tasting in the wineries is FREE. The food and the drinks in the restaurant are not included in the tour price.    
+  footer: The Wine Tour got no Entrance fees, Food, or Drinks to pay, the wine tasting in the wineries is FREE. The food and the drinks in the restaurant are not included in the tour price.
 
 gallery:
   title: Gallery
@@ -304,12 +281,6 @@ On the way we stop near the Valley of the Butterflies at the small **Wine factor
 ### EMBONAS VILLAGE
 
 We continue along the mountain’s path south west to **Embonas Village**, the most important grape-producing village on the island. Embona is a mountainous village halfway up the Attavyros Mountain, it is the highest village at 800m / 2.600f. above sea level, situated in immense natural beauty and the views of the surrounding areas are awesome. Attavyros is the highest mountain on the island of Rhodes, it rises to a height of 1,215m. / 3.980f. and it lies to the south of the village, most of the vineyards are planted on its slopes and foothills.
-
-### THE EMERY WINERY
-
-We visit the **cellar of the Emery Winery**, the second biggest wine producer on the island, for more free wine tasting. The Emery winery, still one of the largest in Greece, was built in 1974 in the village of Embona and run by **Triantafillou family**. Decades of collaboration with local vine growers from the region, coupled with their own expertise and commitment, have enabled them to build a distinctive range of quality wines from unique Greek varietals, know since ancient times. The name Emery originates from **Emery D'Amboise** of French origin who was the Great Magistrate of Rhodes from 1503-1512. (Stop Visit Taste Photos)
-
-{% include partials/content-gallery.html the_gallery= page.itinerary.galleries.emery %}
 
 ### MERKOURIS FAMILY WINERY
 
