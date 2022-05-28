@@ -209,7 +209,7 @@ inclusions:
     - Free Cancelation Policy
   not_included:
     - Entrance Fees, Food, Drinks, Gratuities (Optional)
-  footer: The Wine Tour got no Entrance fees, Food, or Drinks to pay, the wine tasting in the wineries is FREE. The food and the drinks in the restaurant are not included in the tour price.
+  footer: The Wine Tour got 5 euros per person entrance fee to Anastasia Winery and 5 euros to Kounakis Winery, the rest of the wine tasting is FREE. The food and the drinks in the restaurant are not included in the tour price.
 
 gallery:
   title: Gallery
