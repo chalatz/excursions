@@ -51,6 +51,8 @@ years_list_heading: Reviews and Comments as we received them, nice to know we ar
 reviews:
 - year: "2022"
   text: |-
+    Good Morning Nicholas,  I have to say Rhodes is one of the best tours that I have taken, Manouel was amazing!! I will highly recommend your company to my clients and co-workers as well as our Expedia Insider which is accessed throughout the Expedia network. Many thanks again for such a fantastic trip! Warm Regards, Maribeth V, CTC | Cruise & Vacation Consultant (June 1st) 313 Colony Boulevard , The Villages, FL, 32162
+
     Nick, thank you for arranging the fantastic tour. You were brilliant in your help! All the best. Jim G. (May 27th) Fort Lauderdale Florida USA
 
     Nicholas, We enjoyed our too brief time in Rhodes and the excellent tour and service provided by Manuel.  Thank you for helping provide a great experience. Gary O. (May 23rd) McKinney, Texas, U.S.A.
