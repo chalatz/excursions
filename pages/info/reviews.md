@@ -50,35 +50,26 @@ years_list_heading: Reviews and Comments as we received them, nice to know we ar
   appreciated!!
 reviews:
 - year: "2022"
-  text: "Good Morning Nicholas, I have to say Rhodes is one of the best tours that
-    I have taken, Manouel was amazing!! I will highly recommend your company to my
-    clients and co-workers as well as our Expedia Insider which is accessed throughout
-    the Expedia network. Many thanks again for such a fantastic trip! Warm Regards,
-    Maribeth V, CTC Cruise & Vacation Consultant (June 1st) 313 Colony Boulevard,
-    The Villages, FL \n\nNick, thank you for arranging the fantastic tour. You were
-    brilliant in your help! All the best. Jim G. (May 27th) Fort Lauderdale Florida
-    USA\n\nNicholas, We enjoyed our too brief time in Rhodes and the excellent tour
-    and service provided by Manuel.  Thank you for helping provide a great experience.
-    Gary O. (May 23rd) McKinney, Texas, U.S.A.\n\nNicholas thank you and Stamos for
-    making Rhodes our most memorable stop. We will definitely recommend your company
-    to anyone visiting your beautiful island of Rhodes. Warm Regards and Best wishes
-    for a Successful Summer! Doug H., Denise C., Robert and Chris V. (May 20th) USA\n\nHi
-    Nick & Michael, We had a wonderful tour with Michael and enjoyed our experience
-    of the west coast of Rhodes.  If you would like to send me the link for TripAdvisor
-    I can write comments there for you. All the best. Cheers  Michael & Karen H. (15th
-    May) Australia\n\nNicholas, the tour was wonderful and we loved Liana (the tour
-    guide) and Manuel! (the driver). The seafood restaurant they took us to was incredible!!!
-    It was an amazing day. Allison H. (May 14th) USA\n\nHi Nicholas. We enjoyed our
-    day with Michael so much! Excellent tour service Marjorie W. (May 3rd) Ringgold,
-    GA, USA\n\nHi Nick, My wife and daughter really enjoyed the tour. The tour guide
-    was excellent and I hope to post a positive review online. Thank you and best
-    of luck with your business, Gary K. (April 17th) Georgetown, Washington, D.C.\n\nWe
-    booked our tour prior to arrival on the Silver Whisper. We did the half day tour
-    - Best Rhodes. Any questions prior to arrival were handled quickly and clearly
-    by Nicholas A.  Our driver was at the port when we got off the ship with the Mercedes
-    and a sign with my name. We had Michael and he was great! Filling us in on all
-    the facts of the Island and ensuring we spent time in the areas we preferred.
-    Thanks for the great hospitality! Sandra P. (April 7th) Dayton, Ohio"
+  text: |-
+    Dear Nicholas and Michael, Thank you so much for the tour of Rhodes. It was definitely a highlight of my trip. I am back in the US and missing Greece.  Best, Eli (June 6th) Loveland/Colorado, USA
+
+    Good Morning Nicholas, I have to say Rhodes is one of the best tours that I have taken, Manouel was amazing!! I will highly recommend your company to my clients and co-workers as well as our Expedia Insider which is accessed throughout the Expedia network. Many thanks again for such a fantastic trip! Warm Regards, Maribeth V, CTC Cruise & Vacation Consultant (June 1st) 313 Colony Boulevard, The Villages, FL
+
+    Nick, thank you for arranging the fantastic tour. You were brilliant in your help! All the best. Jim G. (May 27th) Fort Lauderdale Florida USA
+
+    Nicholas, We enjoyed our too brief time in Rhodes and the excellent tour and service provided by Manuel.  Thank you for helping provide a great experience. Gary O. (May 23rd) McKinney, Texas, U.S.A.
+
+    Nicholas thank you and Stamos for making Rhodes our most memorable stop. We will definitely recommend your company to anyone visiting your beautiful island of Rhodes. Warm Regards and Best wishes for a Successful Summer! Doug H., Denise C., Robert and Chris V. (May 20th) USA
+
+    Hi Nick & Michael, We had a wonderful tour with Michael and enjoyed our experience of the west coast of Rhodes.  If you would like to send me the link for TripAdvisor I can write comments there for you. All the best. Cheers  Michael & Karen H. (15th May) Australia
+
+    Nicholas, the tour was wonderful and we loved Liana (the tour guide) and Manuel! (the driver). The seafood restaurant they took us to was incredible!!! It was an amazing day. Allison H. (May 14th) USA
+
+    Hi Nicholas. We enjoyed our day with Michael so much! Excellent tour service Marjorie W. (May 3rd) Ringgold, GA, USA
+
+    Hi Nick, My wife and daughter really enjoyed the tour. The tour guide was excellent and I hope to post a positive review online. Thank you and best of luck with your business, Gary K. (April 17th) Georgetown, Washington, D.C.
+
+    We booked our tour prior to arrival on the Silver Whisper. We did the half day tour - Best Rhodes. Any questions prior to arrival were handled quickly and clearly by Nicholas A.  Our driver was at the port when we got off the ship with the Mercedes and a sign with my name. We had Michael and he was great! Filling us in on all the facts of the Island and ensuring we spent time in the areas we preferred. Thanks for the great hospitality! Sandra P. (April 7th) Dayton, Ohio
 - year: "2021"
   text: "Hi Nicholas, we loved every minute of our tour.  It was fabulous! Manuel
     and Michael were so knowledgeable and accommodating. Thank you so much for all
