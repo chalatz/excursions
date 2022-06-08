@@ -51,6 +51,8 @@ years_list_heading: Reviews and Comments as we received them, nice to know we ar
 reviews:
 - year: "2022"
   text: |-
+    Hi Nicholas, the walking tour was a great experience and thanks, really enjoyed kostas’s company, Kind regards Alex and Rosamund S. (8th of June) Scotland
+
     Dear Nicholas and Michael, Thank you so much for the tour of Rhodes. It was definitely a highlight of my trip. I am back in the US and missing Greece.  Best, Eli (June 6th) Loveland/Colorado, USA
 
     Good Morning Nicholas, I have to say Rhodes is one of the best tours that I have taken, Manouel was amazing!! I will highly recommend your company to my clients and co-workers as well as our Expedia Insider which is accessed throughout the Expedia network. Many thanks again for such a fantastic trip! Warm Regards, Maribeth V, CTC Cruise & Vacation Consultant (June 1st) 313 Colony Boulevard, The Villages, FL
