@@ -51,6 +51,10 @@ years_list_heading: Reviews and Comments as we received them, nice to know we ar
 reviews:
 - year: "2022"
   text: |-
+    Michael's tour of Rhodes was great! He let us enjoy the island at our pace and provided guidance throughout. Also, our cruise had changed our port dates and Nicholas notified me of the change (cruise line didn't) and we were able to rearrange our tours. Carol T. (June 11th) South Windsor, Connecticut USA
+
+    Nicholas, we very much enjoyed ourselves. Manuel was a very nice tour guide. We were very pleased and glad we chose your tour company. Please send our appreciation to Manuel. Susan B. (June 10th ) Ambridge, PA, USA
+
     Hi Nicholas, the walking tour was a great experience and thanks, really enjoyed kostas’s company, Kind regards Alex and Rosamund S. (8th of June) Scotland
 
     Dear Nicholas and Michael, Thank you so much for the tour of Rhodes. It was definitely a highlight of my trip. I am back in the US and missing Greece.  Best, Eli (June 6th) Loveland/Colorado, USA
