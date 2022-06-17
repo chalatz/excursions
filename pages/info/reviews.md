@@ -51,6 +51,8 @@ years_list_heading: Reviews and Comments as we received them, nice to know we ar
 reviews:
 - year: "2022"
   text: |-
+    Hi Nicholas, the sightseeing tour was fabulous!! it was a wonderful day. Liana and Michael were Fantastic Hosts. You have a great team. Thank you! Sincerely, Tara A. and Family (June 17th) Plaquemine, Louisiana, USA
+
     Michael's tour of Rhodes was great! He let us enjoy the island at our pace and provided guidance throughout. Also, our cruise had changed our port dates and Nicholas notified me of the change (cruise line didn't) and we were able to rearrange our tours. Carol T. (June 11th) South Windsor, Connecticut USA
 
     Nicholas, we very much enjoyed ourselves. Manuel was a very nice tour guide. We were very pleased and glad we chose your tour company. Please send our appreciation to Manuel. Susan B. (June 10th ) Ambridge, PA, USA
