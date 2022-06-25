@@ -51,6 +51,12 @@ years_list_heading: Reviews and Comments as we received them, nice to know we ar
 reviews:
 - year: "2022"
   text: |-
+    Hi Nick, we really enjoyed our tour and Manuel was great, he showed us some really interesting parts of the island and gave us the chance to personalize our tour to see more of what we were interested in. It was also nice to get to know him and learning about his time growing up on the island. We especially enjoyed seeing Kritinia, and visiting Dionysus. We will definitely recommend you to our friends and we’re really glad that we chose to come with your company! Please tell Manuel we hope his son’s basketball is going well!! Many thanks. Cat. W. & Archie (25th June) Milton Keynes UK
+
+    Hello Nicholas! Thanks, thanks, thanks for everything!!! It was a great tour! We have the best time and enjoy it a lot!!!! Thanks, Michael, for a great service!!!!!! Best regards!! L.Karina C. Lestegast (June 24th) USA
+
+    Dear Nicholas and Andrew. We want to thank you and Andrew from the bottom of our heart for the 3 trips you arranged for us! We have seen such a lovely places and Andrew was a good and nice driver, he knows and tell us a lot about the Island and shows use all the hidden gems. If we come back to Rhodes we know where to book our trips again and we will contact you directly. With friendly regards Hans and Yolanda C. (23rd June) Netherlands
+
     Thank you, Nicholas, for a wonderful experience in Rhodes with Manuel. I just left a nice five-star review on TripAdvisor for your company. All the best to you during this travel season. Bruce H. (June 17th) Palm Springs, CA USA
 
     Hi Nicholas, the sightseeing tour was fabulous!! it was a wonderful day. Liana and Michael were Fantastic Hosts. You have a great team. Thank you! Sincerely, Tara A. and Family (June 16th) Plaquemine, Louisiana, USA
