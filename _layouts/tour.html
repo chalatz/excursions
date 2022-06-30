@@ -1,33 +1,8 @@
 ---
 layout: default
 ---
-{%- assign current_year = site.time | date: '%Y' -%}
-{%- assign the_years = current_year | minus: 1984 -%}
 
-{% case the_years %}
-  {% when 36 %}
-    {%- assign years_of_xp = 'Thirty-Six' -%}
-  {% when 37 %}
-    {%- assign years_of_xp = 'Thirty-Seven' -%}
-  {% when 38 %}
-    {%- assign years_of_xp = 'Thirty-Eight' -%}
-  {% when 39 %}
-    {%- assign years_of_xp = 'Thirty-Nine' -%}
-  {% when 40 %}
-    {%- assign years_of_xp = 'Forty' -%}
-  {% when 41 %}
-    {%- assign years_of_xp = 'Forty-One' -%}
-  {% when 42 %}
-    {%- assign years_of_xp = 'Forty-Two' -%}
-  {% when 43 %}
-    {%- assign years_of_xp = 'Forty-Three' -%}
-  {% when 44 %}
-    {%- assign years_of_xp = 'Forty-Four' -%}
-  {% when 45 %}
-    {%- assign years_of_xp = 'Forty-Five' -%}
-  {% when 46 %}
-    {%- assign years_of_xp = 'Forty-Six' -%}
-{% endcase %}
+{%- include years-of-xp.html -%}
 
 {%- capture xp_text -%}{{ years_of_xp }} Years of Quality Shore Excursions 1984 - {{ current_year }}{%- endcapture -%}
 
@@ -52,13 +27,13 @@ layout: default
 </div>
 
 <div class="tour__content-wrapper">
-    
+
     <article class="page{% if page.type and page.type.size > 0 %} {{ page.type }} {% endif %}tour__main{% if page.outro and page.outro.size > 0 %} tour__main--with-outro{% endif %}">
-        
+
         <div class="tour__nav">
             <div class="container">
                 <ul class="tour__nav-titles">
-                    <li class="tour__nav-title">                
+                    <li class="tour__nav-title">
                         <a href="#itinerary" class="tour__nav-anchor tour__nav-anchor--first hide-on-desktop">
                             Itinerary
                         </a>
@@ -104,11 +79,11 @@ layout: default
                 </ul>
             </div>
         </div>
-    
-        <div class="page__content tour__content">        
-    
+
+        <div class="page__content tour__content">
+
             <div class="tour__sections">
-    
+
                 <section class="tour__section tour__section--itinerary" id="itinerary">
                     <div class="container">
                         {%- assign has_itinerary_heading = false -%}
@@ -146,34 +121,34 @@ layout: default
                                 {%- endif -%}
                             </div>
                         {%- endif -%}
-    
+
                         <div class="tour__section-content tour__section-content--md">
                             {{ content }}
                         </div>
 
                         <div class="tour__section-separator tour__section-separator--thin"></div>
-    
+
                         <div class="tour__section-details">
                             {{ page.itinerary.details | markdownify }}
                         </div>
                     </div>
                 </section>
-    
+
                 {%- if page.route_map.title and page.route_map.title.size > 0 -%}
                     <div class="tour__section-separator"></div>
-        
+
                     <section class="tour__section tour__section--route-map" id="route-map">
                         <div class="container">
                             <h2 class="tour__section-header">
                                 {{- page.route_map.title -}}
                             </h2>
-        
+
                             <div class="tour__section-headings">
                                 <p class="tour__section-description centered">
                                     {{- page.route_map.description -}}
                                 </p>
                             </div>
-        
+
                             <div class="tour__section-content">
                                 <div class="tour__section-route-map-wrapper">
                                     <a data-fancybox="route-map" class="tour__section-route-map-link" href="{{- page.route_map.map.path | relative_url -}}">
@@ -187,7 +162,7 @@ layout: default
 
                 {%- if page.useful.title and page.useful.title.size > 0 -%}
                     <div class="tour__section-separator"></div>
-        
+
                     <section class="tour__section tour__section--useful" id="useful-info">
                         <div class="container">
                             <h2 class="tour__section-header">
@@ -199,9 +174,9 @@ layout: default
                         </div>
                     </section>
                 {%- endif -%}
-                
+
                 <div class="tour__section-separator"></div>
-    
+
                 <section class="tour__section tour__section--inclusions" id="inclusions">
                     <div class="container">
                         <div class="tour__inclusions-wrapper">
@@ -212,13 +187,13 @@ layout: default
                                 {%- for item in page.inclusions.included -%}
                                     <div class="tour__inclusion-item">
                                         <span class="tour__inclusion-item-icon">
-                                            {%- include svg/done.html -%}                                    
+                                            {%- include svg/done.html -%}
                                         </span>
                                         <span class="tour__inclusion-item-desc">
                                             {{- item -}}
                                         </span>
                                     </div>
-                                {%- endfor -%}                                
+                                {%- endfor -%}
                             </div>
                         </div>
                         {%- assign not_included_size = page.inclusions.not_included | size -%}
@@ -227,17 +202,17 @@ layout: default
                                 <h2 class="tour__section-header tour__section-header--exclusions">
                                     Exclusions
                                 </h2>
-                                <div class="tour__section-content">                                    
+                                <div class="tour__section-content">
                                     {%- for item in page.inclusions.not_included -%}
                                         <div class="tour__inclusion-item">
                                             <span class="tour__inclusion-item-icon">
-                                                {%- include svg/clear.html -%}                                    
+                                                {%- include svg/clear.html -%}
                                             </span>
                                             <span class="tour__inclusion-item-desc">
                                                 {{- item -}}
                                             </span>
                                         </div>
-                                    {%- endfor -%}                            
+                                    {%- endfor -%}
                                 </div>
                             </div>
                         {%- endif -%}
@@ -258,9 +233,9 @@ layout: default
                 <section class="tour__section tour-form" id="request">
                     {%- include partials/tour/form.html from_page=page_from return_to=page.url -%}
                 </section>
-    
+
                 <div class="tour__section-separator"></div>
-    
+
                 <section class="tour__section tour__section--gallery" id="gallery">
                     <h2 class="tour__section-header">
                         {{- page.gallery.title -}}
@@ -269,15 +244,15 @@ layout: default
                         {%- include partials/tour/gallery.html -%}
                     </div>
                 </section>
-    
+
             </div> {%- comment -%} tour__sections {%- endcomment -%}
-    
+
         </div>
-        
+
     </article>
 
     <div class="tour__section-separator hide-on-large-desktop"></div>
-    
+
     <aside class="tour__aside">
         <div class="container">
             <h3 class="tour-aside__title">
@@ -334,12 +309,12 @@ layout: default
                         <a class="tour-aside__btn-link tour-aside__btn-link--alt" href="{{- 'Matt_Barrett.htm' | relative_url -}}">
                             Greece Travel Guide
                         </a>
-                    </p>                    
+                    </p>
                 </div>
             </div>
         </div>
     </aside>
-    
+
 </div>
 
 {%- if page.outro and page.outro.size > 0 -%}

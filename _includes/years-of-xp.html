@@ -1,0 +1,35 @@
+{%- assign current_year = site.time | date: '%Y' -%}
+{%- assign the_years = current_year | minus: 1984 -%}
+
+{% case the_years %}
+  {% when 36 %}
+    {%- assign years_of_xp = 'Thirty-Six' -%}
+  {% when 37 %}
+    {%- assign years_of_xp = 'Thirty-Seven' -%}
+  {% when 38 %}
+    {%- assign years_of_xp = 'Thirty-Eight' -%}
+  {% when 39 %}
+    {%- assign years_of_xp = 'Thirty-Nine' -%}
+  {% when 40 %}
+    {%- assign years_of_xp = 'Forty' -%}
+  {% when 41 %}
+    {%- assign years_of_xp = 'Forty-One' -%}
+  {% when 42 %}
+    {%- assign years_of_xp = 'Forty-Two' -%}
+  {% when 43 %}
+    {%- assign years_of_xp = 'Forty-Three' -%}
+  {% when 44 %}
+    {%- assign years_of_xp = 'Forty-Four' -%}
+  {% when 45 %}
+    {%- assign years_of_xp = 'Forty-Five' -%}
+  {% when 46 %}
+    {%- assign years_of_xp = 'Forty-Six' -%}
+  {% when 47 %}
+    {%- assign years_of_xp = 'Forty-Seven' -%}
+  {% when 48 %}
+    {%- assign years_of_xp = 'Forty-Eight' -%}
+  {% when 49 %}
+    {%- assign years_of_xp = 'Forty-Nine' -%}
+  {% when 50 %}
+    {%- assign years_of_xp = 'Fifty' -%}
+{% endcase %}

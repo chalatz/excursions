@@ -8,7 +8,7 @@ layout: default
 {%- endif -%}
 {%- if has_head_photo == true -%}
     <section class="head-photo head-photo--page head-photo--{{ page.type }}{% if page.head_photo.type and page.head_photo.type.size > 0 %} head-photo--{{ page.head_photo.type }} {% endif %}">
-        {%- if page.head_photo.mobile and page.head_photo.mobile.size > 0 -%} 
+        {%- if page.head_photo.mobile and page.head_photo.mobile.size > 0 -%}
           <picture>
             <source srcset="{{- page.head_photo.mobile | relative_url -}}"
                     media="(max-width: 576px)">
@@ -34,7 +34,12 @@ layout: default
 
         {%- if page.title and page.title.size > 0 -%}
           <h1 class="page__title{% if has_subtitle == false %} page__title--no-subtitle{% endif %}">
-            {{- page.title -}}
+            {%- if page.permalink == 'experience.htm' -%}
+              {%- include years-of-xp.html -%}
+              {{- page.title | replace: '__YEARS_OF_XP__', years_of_xp | replace: '__CURRENT_YEAR__', current_year -}}
+            {%- else -%}
+              {{- page.title -}}
+            {%- endif -%}
           </h1>
         {%- endif -%}
 
@@ -90,7 +95,7 @@ layout: default
       {%- endif -%}
     </div>
 
-    
+
   </div>
 
 </article>

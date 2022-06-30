@@ -12,7 +12,7 @@ meta:
   keywords: Experienced Guides, Rhodes Shore Excursions, Greece
   description: Experienced Guides, Rhodes Shore Excursions, Greece
   abstract: Experienced Guides, Rhodes Shore Excursions, Greece
-title: Over 35 Years of Experience
+title: __YEARS_OF_XP__ Years of Quality Shore Excursions 1984 - __CURRENT_YEAR__
 intro: |-
   Beginning in 1984, tourists have been able to take advantage of our high quality private tour service.
 
