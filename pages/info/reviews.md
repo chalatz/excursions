@@ -51,6 +51,8 @@ years_list_heading: Reviews and Comments as we received them, nice to know we ar
 reviews:
 - year: "2022"
   text: |-
+    Hi Nick Thank you for arranging an amazing tour for us! We had a great time! I will be sure to write a review once I get back to the states. Thanks again, Lori H. and Family (July 2nd) New York, NY/USA
+
     Dear Nicholas and co, We're very happy of our day on the sea and Lindos. Especially the guide Kostas was great. Even the teenagers (Who first said wouldn’t come to Acropolis) said that without Kostas Lindos and Acropolis would be very boring. So, thank you for your time and care, we'll surely be in touch if coming to beautiful Rodos again, Best regards, Meri-Tuulia and group (27th June) Finland
 
     Hi Nick, we really enjoyed our tour and Manuel was great, he showed us some really interesting parts of the island and gave us the chance to personalize our tour to see more of what we were interested in. It was also nice to get to know him and learning about his time growing up on the island. We especially enjoyed seeing Kritinia, and visiting Dionysus. We will definitely recommend you to our friends and we’re really glad that we chose to come with your company! Please tell Manuel we hope his son’s basketball is going well!! Many thanks. Cat. W. & Archie (25th June) Milton Keynes UK
