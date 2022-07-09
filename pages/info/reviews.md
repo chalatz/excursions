@@ -51,6 +51,8 @@ years_list_heading: Reviews and Comments as we received them, nice to know we ar
 reviews:
 - year: "2022"
   text: |-
+    It was great! Nicholas! And Manuel was amazing. By far the best experience we had in our whole trip.  The restaurant we stopped for lunch was just superb! One of the best meals we’ve ever had.  Thank you for a great experience! Jaime V. and Family (July 9th) Redondo Beach, California, USA
+
     Dear Nicholas, Dan and I had a wonderful time exploring Rhodes. Mike was an awesome driver and guide and imparted a lot of details about Rhodes. The bays we stopped at were beautiful. We had a fun ride up the Acropolis hill on the donkeys and enjoyed wandering around on top. What a beautiful island you live on. We were also able to see the old town in the afternoon. We could have easily spent another day on Rhodes. Thank you for a lovely tour. We enjoyed every minute of it. I will certainly recommend you if I know of anyone visiting Rhodes. Bernadette and Dan B.(July 8th) Midlothian, VA, USA
 
     Hi Nick Thank you for arranging an amazing tour for us! We had a great time! I will be sure to write a review once I get back to the states. Thanks again, Lori H. and Family (July 2nd) New York, NY/USA
