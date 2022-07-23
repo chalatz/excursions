@@ -51,7 +51,7 @@ years_list_heading: Reviews and Comments as we received them, nice to know we ar
 reviews:
 - year: "2022"
   text: |-
-    Hi Nicholas, thank you again for creating an amazing experience for my husband and me! We cannot wait to return to Rhodes in the future. I have just written a TripAdvisor review to continue to add 5 stars to your company! Best, Mollisa S. (July 18th) Marietta, Georgia, USA
+    Hi Nicholas, thank you again for creating an amazing experience for my husband and me! We cannot wait to return to Rhodes in the future. I have just written a TripAdvisor review to continue to add 5 stars to your company! Best, Mollisa S. (July 18th) Marietta, Georgia, USA.
 
     It was great! Nicholas! And Manuel was amazing. By far the best experience we had in our whole trip.  The restaurant we stopped for lunch was just superb! One of the best meals we’ve ever had.  Thank you for a great experience! Jaime V. and Family (July 9th) Redondo Beach, California, USA
 
