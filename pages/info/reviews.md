@@ -51,6 +51,14 @@ years_list_heading: Reviews and Comments as we received them, nice to know we ar
 reviews:
 - year: "2022"
   text: |-
+    Hi Nicholas, thank you again for creating an amazing experience for my husband and me! We cannot wait to return to Rhodes in the future. I have just written a TripAdvisor review to continue to add 5 stars to your company! Best, Mollisa S. (July 18th) Marietta, Georgia, USA.
+
+    It was great! Nicholas! And Manuel was amazing. By far the best experience we had in our whole trip.  The restaurant we stopped for lunch was just superb! One of the best meals we’ve ever had.  Thank you for a great experience! Jaime V. and Family (July 9th) Redondo Beach, California, USA
+
+    Dear Nicholas, Dan and I had a wonderful time exploring Rhodes. Mike was an awesome driver and guide and imparted a lot of details about Rhodes. The bays we stopped at were beautiful. We had a fun ride up the Acropolis hill on the donkeys and enjoyed wandering around on top. What a beautiful island you live on. We were also able to see the old town in the afternoon. We could have easily spent another day on Rhodes. Thank you for a lovely tour. We enjoyed every minute of it. I will certainly recommend you if I know of anyone visiting Rhodes. Bernadette and Dan B.(July 8th) Midlothian, VA, USA
+
+    Hi Nick Thank you for arranging an amazing tour for us! We had a great time! I will be sure to write a review once I get back to the states. Thanks again, Lori H. and Family (July 2nd) New York, NY/USA
+
     Dear Nicholas and co, We're very happy of our day on the sea and Lindos. Especially the guide Kostas was great. Even the teenagers (Who first said wouldn’t come to Acropolis) said that without Kostas Lindos and Acropolis would be very boring. So, thank you for your time and care, we'll surely be in touch if coming to beautiful Rodos again, Best regards, Meri-Tuulia and group (27th June) Finland
 
     Hi Nick, we really enjoyed our tour and Manuel was great, he showed us some really interesting parts of the island and gave us the chance to personalize our tour to see more of what we were interested in. It was also nice to get to know him and learning about his time growing up on the island. We especially enjoyed seeing Kritinia, and visiting Dionysus. We will definitely recommend you to our friends and we’re really glad that we chose to come with your company! Please tell Manuel we hope his son’s basketball is going well!! Many thanks. Cat. W. & Archie (25th June) Milton Keynes UK
