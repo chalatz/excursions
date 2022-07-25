@@ -45,7 +45,7 @@ carousel_imgs:
 - '12'
 - '13'
 cta: Please visit the links (above and below) to read what our Valued Clients are
-  saying about us
+  saying about us.
 years_list_heading: Reviews and Comments as we received them, nice to know we are
   appreciated!!
 reviews:
