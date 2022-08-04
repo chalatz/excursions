@@ -51,6 +51,10 @@ years_list_heading: Reviews and Comments as we received them, nice to know we ar
 reviews:
 - year: "2022"
   text: |-
+    Nicholas, Heather and I had a great time with Michael and much appreciated and enjoyed his company, experience and the time taken to show us many unique aspects of Rhodes during our visit. We hope to return in 2023 and will be very pleased to use your services again:) All the best to you and your team. Thomas and Heather K. (Aug 5th) Brampton, Ontario, Canada
+
+    Dear Nicholas, thanks, it was a great tour and we have seen and learned a lot from Andrew - an excellent and friendly tour guide. Best regards, Ralf Β. (4th Aug) Herrenberg, Germany
+
     Hi Nick, I really enjoyed the day - the tour exceeded my expectations. I would love to provide a review - please send me a link. Best regards, Scott F. (Aug 1st) Ontario, Canada
 
     Hi Nicholas,  Wanted to thank you and your team again for making our customized day trip tour around northern and southern Rhodes so special. Such a great experience. Our group of 26 uniformly gave top marks for Costas, our tour guide, and Theo, our bus driver. Costas provided wonderful insights into the history of Rhodes at every turn. We also appreciated the cleanliness and high quality of the tour bus, as well as the headsets so everyone could easily hear Costas. Lunch was fabulous, too. Everyone raved about how good the food was, and really enjoyed the beautiful and relaxing setting overlooking the cove. We had a wonderful time! Sincerely, Glenn G. & AΦA Alpha Chapter Reunion Group (July 19th) USA
