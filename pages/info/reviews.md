@@ -51,6 +51,8 @@ years_list_heading: Reviews and Comments as we received them, nice to know we ar
 reviews:
 - year: "2022"
   text: |-
+    Hello Nicholas and Andrew, We wrote a review on TripAdvisor!!! Once again thank you very much for the tours. With friendly regards Hans and Yolanda C.  (12th Aug) Netherlands
+
     Nicholas, Heather and I had a great time with Michael and much appreciated and enjoyed his company, experience and the time taken to show us many unique aspects of Rhodes during our visit. We hope to return in 2023 and will be very pleased to use your services again:) All the best to you and your team. Thomas and Heather K. (Aug 5th) Brampton, Ontario, Canada
 
     Dear Nicholas, thanks, it was a great tour and we have seen and learned a lot from Andrew - an excellent and friendly tour guide. Best regards, Ralf Β. (4th Aug) Herrenberg, Germany
