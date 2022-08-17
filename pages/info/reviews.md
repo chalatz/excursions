@@ -51,6 +51,8 @@ years_list_heading: Reviews and Comments as we received them, nice to know we ar
 reviews:
 - year: "2022"
   text: |-
+    Nicholas: We had a wonderful day yesterday with John who was so kind, knowledgeable and also very accommodating. We will recommend you to anyone we know who comes to Rhodes and would like to discover its history and beauty. Wishing you a good day and all the best, Elena A. (Aug 17th) Montreal, Quebec, Canada
+
     Hello Nicholas and Andrew, We wrote a review on TripAdvisor!!! Once again thank you very much for the tours. With friendly regards Hans and Yolanda C.  (12th Aug) Netherlands
 
     Nicholas, Heather and I had a great time with Michael and much appreciated and enjoyed his company, experience and the time taken to show us many unique aspects of Rhodes during our visit. We hope to return in 2023 and will be very pleased to use your services again:) All the best to you and your team. Thomas and Heather K. (Aug 5th) Brampton, Ontario, Canada
