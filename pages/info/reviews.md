@@ -51,6 +51,10 @@ years_list_heading: Reviews and Comments as we received them, nice to know we ar
 reviews:
 - year: "2022"
   text: |-
+    Nicholas, thank you for a wonderful introduction to the beautiful island of Rhodes. We enjoyed our day of touring and especially enjoyed the extensive knowledge and friendly nature of Michael. T. Michal family (Sept 5th) Marion, Iowa, USA
+
+    Hi Nicholas. We thank YOU for the wonderful day we spent with Andrew. His friendly and caring personality made us all feel very comfortable and safe. His broad knowledge of your beautiful Rhodes Island was very enlightening! We are very pleased we found you and will be honored to pass your name on to our friends and family who will surely visit Rhodes in the future! Lots of love to Andrew! Sidney, Michele, Shelli and Ori (4th Sept) UK
+
     Hi Nicholas, we had a wonderful day seeing the sites of Rhodes. Michael did a fantastic job of sharing his passion for an island he clearly loves. Plenty of local knowledge was shared, historical information and details were perfect! The stops for figs off the tree, wine and Ouzo tasting all helped make our day memorable. We wish Michael all the best!! Donald and Karen B. (Aug 27th) USA
 
     Nicholas: We had a wonderful day yesterday with John who was so kind, knowledgeable and also very accommodating. We will recommend you to anyone we know who comes to Rhodes and would like to discover its history and beauty. Wishing you a good day and all the best, Elena A. (Aug 17th) Montreal, Quebec, Canada
