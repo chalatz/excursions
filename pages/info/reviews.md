@@ -51,6 +51,8 @@ years_list_heading: Reviews and Comments as we received them, nice to know we ar
 reviews:
 - year: "2022"
   text: |-
+    Kalimera, Nicholas, we had a wonderful time touring with Kostas and Manolis and loved everything about it. Kostas was a great tour guide and wealth of information and both he and Manolis the driver are a pleasure to be around. John’s only regret is not taking a swim with Kostas when we stopped for lunch (which was absolutely delicious). Please tell Kostas and Manolis greetings back to them as well. Best regards, Sharon B. and Group. (Sept 7th) Lady Lake, FL, USA
+
     Nicholas, thank you for a wonderful introduction to the beautiful island of Rhodes. We enjoyed our day of touring and especially enjoyed the extensive knowledge and friendly nature of Michael. T. Michal family (Sept 5th) Marion, Iowa, USA
 
     Hi Nicholas. We thank YOU for the wonderful day we spent with Andrew. His friendly and caring personality made us all feel very comfortable and safe. His broad knowledge of your beautiful Rhodes Island was very enlightening! We are very pleased we found you and will be honored to pass your name on to our friends and family who will surely visit Rhodes in the future! Lots of love to Andrew! Sidney, Michele, Shelli and Ori (4th Sept) UK
