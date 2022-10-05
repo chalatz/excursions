@@ -51,6 +51,8 @@ years_list_heading: Reviews and Comments as we received them, nice to know we ar
 reviews:
 - year: "2022"
   text: |-
+    Thank you so much Nick. I received so many compliments regarding the tour. It really was you that should receive the compliments. Everyone felt the value for the money was incredible. We loved the whole tour. Again, thank you for a wonderful tour, Kiki the tour guide and the driver Dimitris were just fantastic. Let me know where I can add my review, Enjoy your beautiful island!! Helen C. and Group (Oct 5th) Roswell, GA, USA
+
     Nicholas, my wife, kids and of course myself couldn’t stop talking about what a wonderful time we had on your island. We will definitely be returning soon. Please send our regards to Kostas he gave us a most enjoyable time. His knowledge was unbelievable and he made us feel we were in a car with family showing us around for the first time. Once again thank you. Lorraine, Gabi, Dena, and Michael B. family. (30th Sept) Southampton, UK
 
     Hi Nicholas, Emmanuel was a joy. We really enjoyed our tour through your beautiful city and I will make sure to recommend you to future travelers. Please share this photo with him. Rod, Tiffany and Randy (Sept 18th) Salem, Oregon, USA
