@@ -51,6 +51,8 @@ years_list_heading: Reviews and Comments as we received them, nice to know we ar
 reviews:
 - year: "2022"
   text: |-
+    Dear Nicholas, thanks to you and especially Emmanuel for the wonderful time that we enjoyed in Rhodes on Sunday. We shall be flying home tomorrow and, in a few days, after some rest, I shall write more about our favorite highlights in TripAdvisor. Please tell Emmanuel that all the extra help that he gave to make things easier for me are so appreciated. Best regards, Jacqueline and Manzar K. (Oct 25th) U.K.
+
     Hi Nicholas, we had a great day, Liana and Kiriakos were excellent. Where can I leave a 5-star review?  Thomas M. (Oct 24th) Valdosta Ga, USA
 
     Thank you so much Nicholas and Emmanuel! Your tour/itinerary was fabulous and your selection of restaurant, location and organization of my husband’s birthday will always be a special memory for us in Rhodes. From all the various locations we saw on our cruise, we all agreed that Rhodes was our favorite! Thank you for making it special and for Emmanuel’s wonderful hospitality and the wine as well. Best regards, Monika C. (Oct 17th) Monterey, California, USA
