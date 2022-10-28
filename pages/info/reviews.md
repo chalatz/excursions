@@ -51,6 +51,8 @@ years_list_heading: Reviews and Comments as we received them, nice to know we ar
 reviews:
 - year: "2022"
   text: |-
+    Nicholas, what a wonderful tour with Stamos on October 27, 2022. We joined our friends, Don and Sue, on Thursday their tour. Your driver was outstanding. He took care of timing just perfect. Where we stopped for lunch was superb. I have limited mobility and his concern and care for me was excellent. We will also put a most positive review on Social Media. Outstanding job! Kathi V. and Paul G. (Oct 28th) USA
+
     Dear Nicholas, thanks to you and especially Emmanuel for the wonderful time that we enjoyed in Rhodes on Sunday. We shall be flying home tomorrow and, in a few days, after some rest, I shall write more about our favorite highlights in TripAdvisor. Please tell Emmanuel that all the extra help that he gave to make things easier for me are so appreciated. Best regards, Jacqueline and Manzar K. (Oct 25th) U.K.
 
     Hi Nicholas, we had a great day, Liana and Kiriakos were excellent. Where can I leave a 5-star review?  Thomas M. (Oct 24th) Valdosta Ga, USA
