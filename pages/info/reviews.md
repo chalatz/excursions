@@ -51,6 +51,10 @@ years_list_heading: Reviews and Comments as we received them, nice to know we ar
 reviews:
 - year: "2022"
   text: |-
+    Nicholas, thank you so much for the opportunity to learn about Rhodes and visit amazing sites. Maria is knowledgeable and personable. We so enjoyed our time with her. We also appreciated Teo’s excellent driving skills. We visited many places on our travel itinerary and Rhodes was one of our favorites! We will recommend your services to our friends and family. Take care. Merry G. (Nov 18th) Dana Point, California, USA
+
+    Thanks Nick! We had a fantastic time. Greetings to Mike and you ;) Micaela F. and group (Nov 15th) Switzerland
+
     Dear Nicholas, Miranda and I returned home last night Sydney time. We waited till now to send you our thanks for the wonderful day with Kostas and Vasilis. Everything was just perfect and we could not ask for more. Please send our best wishes to both Kostas & Vasilis. Also, I have ordered the book by Roberto Timo ‘_Rhodes: The Queen of the Mediterranean and the Wall Street of its Era: 411 BC – 44 AD_’ suggested by Kostas. I’m looking forward to reading it and hopefully discussing with Kostas next time we are in Rhodes. Best Wishes Anthony & Miranda (Nov 6th) Sidney, Australia
 
     Nicholas, what a wonderful tour with Stamos on October 27, 2022. We joined our friends, Don and Sue, on Thursday their tour. Your driver was outstanding. He took care of timing just perfect. Where we stopped for lunch was superb. I have limited mobility and his concern and care for me was excellent. We will also put a most positive review on Social Media. Outstanding job! Kathi V. and Paul G. (Oct 28th) USA
