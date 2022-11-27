@@ -51,6 +51,8 @@ years_list_heading: Reviews and Comments as we received them, nice to know we ar
 reviews:
 - year: "2022"
   text: |-
+    Hello Nick, we had a wonderful day today with Michalis! I'm so glad we found you for our special day in Rhodes. We have no suggestions for improvement-- it was wonderful. Thank you! Kitt and Ned M. (Nov 26th) North Palm Beach, FL, US
+
     Nicholas, thank you so much for the opportunity to learn about Rhodes and visit amazing sites. Maria is knowledgeable and personable. We so enjoyed our time with her. We also appreciated Teo’s excellent driving skills. We visited many places on our travel itinerary and Rhodes was one of our favorites! We will recommend your services to our friends and family. Take care. Merry G. (Nov 18th) Dana Point, California, USA
 
     Thanks Nick! We had a fantastic time. Greetings to Mike and you ;) Micaela F. and group (Nov 15th) Switzerland
