@@ -51,6 +51,8 @@ years_list_heading: Reviews and Comments as we received them, nice to know we ar
 reviews:
 - year: "2022"
   text: |-
+    Thank you, Nicholas and Michael! You were wonderful and we really enjoyed all we learned from Michael about your amazing island! We will definitely recommend you and I will write a review on Trip Advisor, since also that is how I found out about your tour! Wishing you a very Merry Christmas and a Happy 2023! Tracey M (Dec 21) USA
+
     Hi Nick, you are very welcome. Stamos was an excellent guide and friend, and we truly enjoyed our time with him. I will definitely forward your details to my friends for their Greece/Rhodes travels. Kind regards, Norman T. (Dec 7th) Lockport, New York, US
 
     Hello Nick, we had a wonderful day today with Michalis! I'm so glad we found you for our special day in Rhodes. We have no suggestions for improvement-- it was wonderful. Thank you! Kitt and Ned M. (Nov 26th) North Palm Beach, FL, US
