@@ -49,6 +49,8 @@ cta: Please visit the links (above and below) to read what our Valued Clients ar
 years_list_heading: Reviews and Comments as we received them, nice to know we are
   appreciated!!
 reviews:
+- year: "2023"
+  text: ''
 - year: "2022"
   text: "Thank you, Nicholas and Michael! You were wonderful and we really enjoyed
     all we learned from Michael about your amazing island! We will definitely recommend
