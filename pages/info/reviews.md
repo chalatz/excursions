@@ -50,7 +50,11 @@ years_list_heading: Reviews and Comments as we received them, nice to know we ar
   appreciated!!
 reviews:
 - year: "2023"
-  text: ''
+  text: Nicholas Good afternoon! We had an absolutely wonderful day in Rhodes with
+    Stergos. Every aspect of our tour was perfect. Thank you, thank you. Should we
+    ever have the good fortune to return to Rhodes we will be certain to reserve another
+    tour with your company. All the best to you in 2023. Joan K. and Family (Jan 15th)
+    Allendale, New Jersey, USA
 - year: "2022"
   text: "Thank you, Nicholas and Michael! You were wonderful and we really enjoyed
     all we learned from Michael about your amazing island! We will definitely recommend
