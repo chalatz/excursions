@@ -1,25 +1,30 @@
 ---
+title: Limited Walking Mobility
+permalink: wheelchair_accessible_greece.htm
 layout: page
 type: info_page
 id: accessible
-permalink: wheelchair_accessible_greece.htm
 has_gallery: false
 has_destinations: true
 has_banners: true
 meta:
-  title: Limited Walking Mobility in Rhodes, Wheelchair Accessible Shore Excursions in Rhodes
-  http_desc: Limited Walking Mobility in Rhodes, Wheelchair Accessible Shore Excursions in Rhodes Greece, Electric Wheelchair, Motorized Scooter Handicap
-  keywords: Limited Walking Mobility in Rhodes, Wheelchair Accessible Shore Excursions in Rhodes Greece, Electric Wheelchair, Motorized Scooter Handicap
-  description: Limited Walking Mobility in Rhodes, Wheelchair Accessible Shore Excursions in Rhodes Greece, Electric Wheelchair, Motorized Scooter Handicap
+  title: Limited Walking Mobility in Rhodes, Wheelchair Accessible Shore Excursions
+    in Rhodes
+  http_desc: Limited Walking Mobility in Rhodes, Wheelchair Accessible Shore Excursions
+    in Rhodes Greece, Electric Wheelchair, Motorized Scooter Handicap
+  keywords: Limited Walking Mobility in Rhodes, Wheelchair Accessible Shore Excursions
+    in Rhodes Greece, Electric Wheelchair, Motorized Scooter Handicap
+  description: Limited Walking Mobility in Rhodes, Wheelchair Accessible Shore Excursions
+    in Rhodes Greece, Electric Wheelchair, Motorized Scooter Handicap
   abstract: Limited Walking Mobility in Rhodes
-title: Limited Walking Mobility
 subtitle: Wheelchair Accessible Shore Excursions in Rhodes Greece
 head_photo:
-  img: /img/pages/accessible/head-photo.jpg
-  mobile: /img/pages/accessible/head-photo-mobile.jpg
+  img: "/img/pages/accessible/head-photo.jpg"
+  mobile: "/img/pages/accessible/head-photo-mobile.jpg"
   alt_text: ''
 outro: Handicap Accessible Private Tours in Rhodes Island Greece
 ---
+
 This service is for those travelers who have physical limitations or an aversion to extensive walking and climbing.
 
 As a licensed transport carrier of passengers, or taxi service, we are limited by Greek legislation to providing non-adapted transport. Greek law requires that all taxis in Greece , not just on Rhodes Island , be 5-passenger sedan vehicles that allow one driver to carry four passengers.

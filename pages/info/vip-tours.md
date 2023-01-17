@@ -1,25 +1,29 @@
 ---
+title: VIP Tour Services in Rhodes Greece
+permalink: vip_tours.htm
 layout: page
 type: info_page
 id: vip
 parent: about
-permalink: vip_tours.htm
 has_gallery: false
 has_destinations: true
 has_banners: true
 meta:
   title: VIP Tours Rhodes Greece, VIP Shore Excursions
-  http_desc: VIP Tours Rhodes Greece, VIP Shore Excursions, VIP Rhodes Private Tours, Taxi Tours, VIP Tour Services
-  keywords: VIP Tours Rhodes Greece, VIP Shore Excursions, VIP Rhodes Private Tours, Taxi Tours, VIP Tour Services
-  description: VIP Tours Rhodes Greece, VIP Shore Excursions, VIP Rhodes Private Tours, Taxi Tours, VIP Tour Services
+  http_desc: VIP Tours Rhodes Greece, VIP Shore Excursions, VIP Rhodes Private Tours,
+    Taxi Tours, VIP Tour Services
+  keywords: VIP Tours Rhodes Greece, VIP Shore Excursions, VIP Rhodes Private Tours,
+    Taxi Tours, VIP Tour Services
+  description: VIP Tours Rhodes Greece, VIP Shore Excursions, VIP Rhodes Private Tours,
+    Taxi Tours, VIP Tour Services
   abstract: VIP Tours Rhodes Greece, VIP Shore Excursions
-title: VIP Tour Services in Rhodes Greece
 head_photo:
-  img: /img/pages/vip/head-photo.jpg
-  mobile: /img/pages/vip/head-photo-mobile.jpg
+  img: "/img/pages/vip/head-photo.jpg"
+  mobile: "/img/pages/vip/head-photo-mobile.jpg"
   alt_text: ''
 outro: VIP Private Tours and Shore Excursions in Rhodes Island Greece
 ---
+
 We can also provide service to those traveling by yacht or private plane. Our flexible scheduling allows us to meet all your private excursions needs, including service to and from the Port of Rhodes or the airport.
 
 Those travelers who are Diplomats, VIP guests, members of delegations, incentives, congresses, conferences, meetings, cultural and sports events, or any other special occasion, will find that Rhodes Shore Excursions goes above and beyond to provide outstanding service. We have had great success in arranging sightseeing tours for delegates of seminars and conferences.

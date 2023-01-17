@@ -1,25 +1,31 @@
 ---
+title: RHODES FAMILY TOUR
+permalink: family_tours_greece.htm
 layout: tour
 type: tour
 id: family_tours
-permalink: family_tours_greece.htm
 has_gallery: true
 has_carousel: true
 has_destinations: true
 has_banners: true
 meta:
   title: Family Tours Rhodes Greece, Kids Family Tours Greece
-  http_desc: Family Tours Rhodes Greece, Kids Family Tours Greece, Fan Family Excursions Greece
-  keywords: Family Tours Rhodes Greece, Kids Family Tours Greece, Fan Family Excursions Greece
-  description: Family Tours Rhodes Greece, Kids Family Tours Greece, Fan Family Excursions Greece
+  http_desc: Family Tours Rhodes Greece, Kids Family Tours Greece, Fan Family Excursions
+    Greece
+  keywords: Family Tours Rhodes Greece, Kids Family Tours Greece, Fan Family Excursions
+    Greece
+  description: Family Tours Rhodes Greece, Kids Family Tours Greece, Fan Family Excursions
+    Greece
   abstract: Family Tours Rhodes Greece
-title: RHODES FAMILY TOUR
-intro: |-
-  History, ostriches, butterflies? What's not for a family to like? We have designed an informative and relaxed tour that will pique the interests of children and keep them engaged. This excursion is highly recommended by families we have escorted in the past. Both parents and children will enjoy this combination of attractions and activities.
+intro: History, ostriches, butterflies? What's not for a family to like? We have designed
+  an informative and relaxed tour that will pique the interests of children and keep
+  them engaged. This excursion is highly recommended by families we have escorted
+  in the past. Both parents and children will enjoy this combination of attractions
+  and activities.
 itinerary:
   title: Excursion Itinerary
-  heading:  Rhodes City & West Coast of the Island
-  description: 'Half Day Private Shore Excursion 4:30 hours'
+  heading: Rhodes City & West Coast of the Island
+  description: Half Day Private Shore Excursion 4:30 hours
   details: |-
     **Duration:** 4:30 hours.
 
@@ -36,14 +42,12 @@ itinerary:
     **(Stop Pictures)** = Stop and get out of the car for pictures from outside of the Sight/building
 
     **(Stop Visit Pictures)** = Stop and visit - go inside the sight/building for pictures
-
 route_map:
   title: Route Map
   description: Roundtrip approximately 70km / 43miles
   map:
-    path: /img/tours/family-tours/family_tours_greece_route_map.jpg
-    alt: 'RHODES FAMILY TOUR EXCURSION - Route map'
-
+    path: "/img/tours/family-tours/family_tours_greece_route_map.jpg"
+    alt: RHODES FAMILY TOUR EXCURSION - Route map
 useful:
   title: Useful Info
   text: |-
@@ -53,71 +57,71 @@ useful:
     4. Bee Museum Entrance Fee: Adults 3 Euros, Children under 5 years Free, Children between age 6 to 18 1,50 Euros, Students 1,50 Euros, Seniors over 65 years old 1,50 Euros
     5. Rhodes known for [Traditional Appetizers](rhodes_cuisine_greece.htm), desserts, [Wines](wine_tours_greece.htm), the famous handmade [Rhodes Pottery - Ceramics](greek_pottery.htm) and the beautiful [Rhodes Beaches](./rhodes-beach-tour-excursion.htm).
     6. More info in [Rhodes Private Tours](rhodes_private_tours.htm) F.A.Q.
-
 inclusions:
   title: Inclusions
   included:
-    - Private Shore Excursion (Just your party)
-    - Free Pick up and Drop off at the Cruise Port (or anywhere else)
-    - Experienced knowledgeable Tour/Driver English Speaking
-    - Mercedes Benz Sedan Car (4 passengers plus the driver) (<a href="groups.htm">bigger group or more room?</a>)
-    - All Car and Driver Expenses (prices are per car not per person)
-    - No Stress - Back to the Ship on Time (if you are a Cruise Ship Passenger)
-    - Personalized Customer Service
-    - Free Cancelation Policy
+  - Private Shore Excursion (Just your party)
+  - Free Pick up and Drop off at the Cruise Port (or anywhere else)
+  - Experienced knowledgeable Tour/Driver English Speaking
+  - Mercedes Benz Sedan Car (4 passengers plus the driver) (<a href="groups.htm">bigger
+    group or more room?</a>)
+  - All Car and Driver Expenses (prices are per car not per person)
+  - No Stress - Back to the Ship on Time (if you are a Cruise Ship Passenger)
+  - Personalized Customer Service
+  - Free Cancelation Policy
   not_included:
-    - Entrance Fees, Food, Drinks, Gratuities (Optional)
-
+  - Entrance Fees, Food, Drinks, Gratuities (Optional)
 gallery:
   title: Gallery
   images:
-    - path: /img/tours/family-tours/1.jpg
-      thumb: /img/tours/family-tours/1-thumb.jpg
-      alt: Discount Family excursions Rhodes
-    - path: /img/tours/family-tours/2.jpg
-      thumb: /img/tours/family-tours/2-thumb.jpg
-      alt: Boutique Family excursions Rhodes
-    - path: /img/tours/family-tours/3.jpg
-      thumb: /img/tours/family-tours/3-thumb.jpg
-      alt: Kids Family Tours Greece
-    - path: /img/tours/family-tours/4.jpg
-      thumb: /img/tours/family-tours/4-thumb.jpg
-      alt: Sightseeing Family Tours in Rhodes
-    - path: /img/tours/family-tours/5.jpg
-      thumb: /img/tours/family-tours/5-thumb.jpg
-      alt: Fan Family Excursions Greece
-    - path: /img/tours/family-tours/6.jpg
-      thumb: /img/tours/family-tours/6-thumb.jpg
-      alt: Rhodes family taxi tours
-    - path: /img/tours/family-tours/7.jpg
-      thumb: /img/tours/family-tours/7-thumb.jpg
-      alt: Family Tours in a day Rhodes
-    - path: /img/tours/family-tours/8.jpg
-      thumb: /img/tours/family-tours/8-thumb.jpg
-      alt: Family Fun Tours Rhodes Greece
-    - path: /img/tours/family-tours/9.jpg
-      thumb: /img/tours/family-tours/9-thumb.jpg
-      alt: Children Tours Rhodes Greece
-    - path: /img/tours/family-tours/10.jpg
-      thumb: /img/tours/family-tours/10-thumb.jpg
-      alt: Educational Tours Rhodes Greece
-    - path: /img/tours/family-tours/11.jpg
-      thumb: /img/tours/family-tours/11-thumb.jpg
-      alt: Kids Family Tours Greece Rhodes
-    - path: /img/tours/family-tours/12.jpg
-      thumb: /img/tours/family-tours/12-thumb.jpg
-      alt: Family Excursions Greece Rhodes
-    - path: /img/tours/family-tours/13.jpg
-      thumb: /img/tours/family-tours/13-thumb.jpg
-      alt: Kids Tours Family Tours Greece
-    - path: /img/tours/family-tours/14.jpg
-      thumb: /img/tours/family-tours/14-thumb.jpg
-      alt: Family guided tours Rhodes
-    - path: /img/tours/family-tours/15.jpg
-      thumb: /img/tours/family-tours/15-thumb.jpg
-      alt: Rhodes private tours
+  - path: "/img/tours/family-tours/1.jpg"
+    thumb: "/img/tours/family-tours/1-thumb.jpg"
+    alt: Discount Family excursions Rhodes
+  - path: "/img/tours/family-tours/2.jpg"
+    thumb: "/img/tours/family-tours/2-thumb.jpg"
+    alt: Boutique Family excursions Rhodes
+  - path: "/img/tours/family-tours/3.jpg"
+    thumb: "/img/tours/family-tours/3-thumb.jpg"
+    alt: Kids Family Tours Greece
+  - path: "/img/tours/family-tours/4.jpg"
+    thumb: "/img/tours/family-tours/4-thumb.jpg"
+    alt: Sightseeing Family Tours in Rhodes
+  - path: "/img/tours/family-tours/5.jpg"
+    thumb: "/img/tours/family-tours/5-thumb.jpg"
+    alt: Fan Family Excursions Greece
+  - path: "/img/tours/family-tours/6.jpg"
+    thumb: "/img/tours/family-tours/6-thumb.jpg"
+    alt: Rhodes family taxi tours
+  - path: "/img/tours/family-tours/7.jpg"
+    thumb: "/img/tours/family-tours/7-thumb.jpg"
+    alt: Family Tours in a day Rhodes
+  - path: "/img/tours/family-tours/8.jpg"
+    thumb: "/img/tours/family-tours/8-thumb.jpg"
+    alt: Family Fun Tours Rhodes Greece
+  - path: "/img/tours/family-tours/9.jpg"
+    thumb: "/img/tours/family-tours/9-thumb.jpg"
+    alt: Children Tours Rhodes Greece
+  - path: "/img/tours/family-tours/10.jpg"
+    thumb: "/img/tours/family-tours/10-thumb.jpg"
+    alt: Educational Tours Rhodes Greece
+  - path: "/img/tours/family-tours/11.jpg"
+    thumb: "/img/tours/family-tours/11-thumb.jpg"
+    alt: Kids Family Tours Greece Rhodes
+  - path: "/img/tours/family-tours/12.jpg"
+    thumb: "/img/tours/family-tours/12-thumb.jpg"
+    alt: Family Excursions Greece Rhodes
+  - path: "/img/tours/family-tours/13.jpg"
+    thumb: "/img/tours/family-tours/13-thumb.jpg"
+    alt: Kids Tours Family Tours Greece
+  - path: "/img/tours/family-tours/14.jpg"
+    thumb: "/img/tours/family-tours/14-thumb.jpg"
+    alt: Family guided tours Rhodes
+  - path: "/img/tours/family-tours/15.jpg"
+    thumb: "/img/tours/family-tours/15-thumb.jpg"
+    alt: Rhodes private tours
 outro: Rhodes Private Shore Excursions and Private Tours in Rhodes Greece
 ---
+
 ### RHODES NEW TOWN
 
 From the cruise ship dock/pier or your chosen point, you'll be driven to the antique harbor, where according to tradition, the **Colossus of Rhodes**, **one of the seven wonders of the ancient world**, once stood. (Stop Visit Photos)\

@@ -1,24 +1,28 @@
 ---
+title: Worry-Free Shore Excursion Guarantee
+permalink: worry_free.htm
 layout: page
 type: info_page
 id: worry_free
-permalink: worry_free.htm
 has_gallery: false
 meta:
   title: Worry Free Guarantee Shore Excursions in Rhodes
-  http_desc: Worry Free Guarantee Shore Excursions in Rhodes Greece, Worry Free Guarantee Cruise Shore Excursions in Rhodes Greece
-  keywords: Worry Free Guarantee Shore Excursions in Rhodes Greece, Worry Free Guarantee Cruise Shore Excursions in Rhodes Greece
-  description: Worry Free Guarantee Shore Excursions in Rhodes Greece, Worry Free Guarantee Cruise Shore Excursions in Rhodes Greece
+  http_desc: Worry Free Guarantee Shore Excursions in Rhodes Greece, Worry Free Guarantee
+    Cruise Shore Excursions in Rhodes Greece
+  keywords: Worry Free Guarantee Shore Excursions in Rhodes Greece, Worry Free Guarantee
+    Cruise Shore Excursions in Rhodes Greece
+  description: Worry Free Guarantee Shore Excursions in Rhodes Greece, Worry Free
+    Guarantee Cruise Shore Excursions in Rhodes Greece
   abstract: Worry Free Guarantee Shore Excursions in Rhodes
-title: Worry-Free Shore Excursion Guarantee
 head_photo:
-  img: /img/pages/worry-free/head-photo.jpg
-  mobile: /img/pages/worry-free/head-photo-mobile.jpg
+  img: "/img/pages/worry-free/head-photo.jpg"
+  mobile: "/img/pages/worry-free/head-photo-mobile.jpg"
   alt_text: ''
-outro: 'Worry Free Cruise Shore Excursions in Rhodes Greece'
+outro: Worry Free Cruise Shore Excursions in Rhodes Greece
 has_destinations: true
 has_banners: true
 ---
+
 ### Back to the ship in time
 
 Enjoy a Worry-Free shore excursion in Rhodes Island with our detailed arrangements from the beginning to the end.

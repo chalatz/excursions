@@ -1,25 +1,33 @@
 ---
+title: ONE DAY IN RHODES FROM CRUISE SHIP
+permalink: rhodes_in_a_day.htm
 layout: tour
 type: tour
 id: rhodes_in_a_day
-permalink: rhodes_in_a_day.htm
 has_gallery: true
 has_carousel: true
 has_destinations: true
 has_banners: true
 meta:
-  title: One Day in Rhodes from Cruise Ship, One day in Rhodes Greece, Rhodes Shore Excursions
-  http_desc: One Day in Rhodes from Cruise Ship, One day in Rhodes Greece, Rhodes Shore Excursions
-  keywords: One Day in Rhodes from Cruise Ship, One day in Rhodes Greece, Rhodes Shore Excursions
-  description: One Day in Rhodes from Cruise Ship, One day in Rhodes Greece, Rhodes Shore Excursions
+  title: One Day in Rhodes from Cruise Ship, One day in Rhodes Greece, Rhodes Shore
+    Excursions
+  http_desc: One Day in Rhodes from Cruise Ship, One day in Rhodes Greece, Rhodes
+    Shore Excursions
+  keywords: One Day in Rhodes from Cruise Ship, One day in Rhodes Greece, Rhodes Shore
+    Excursions
+  description: One Day in Rhodes from Cruise Ship, One day in Rhodes Greece, Rhodes
+    Shore Excursions
   abstract: One Day in Rhodes from Cruise Ship, One day in Rhodes Greece
-title: ONE DAY IN RHODES FROM CRUISE SHIP
-intro: |-
-  If the **“BEST RHODES SHORE EXCURSION”** is the **hors d'oeuvres**, then this full-day private excursion is the meal. You can explore the Island until your appetite for history and natural beauty is satisfied. Halfway through the tour, you will be taken to lunch at a location overlooking the beautiful blue Mediterranean Sea. A drive through this scenic island will keep you engaged and interested, creating memories that will last long after the excursion is over.
+intro: If the **“BEST RHODES SHORE EXCURSION”** is the **hors d'oeuvres**, then this
+  full-day private excursion is the meal. You can explore the Island until your appetite
+  for history and natural beauty is satisfied. Halfway through the tour, you will
+  be taken to lunch at a location overlooking the beautiful blue Mediterranean Sea.
+  A drive through this scenic island will keep you engaged and interested, creating
+  memories that will last long after the excursion is over.
 itinerary:
   title: Excursion Itinerary
   heading: Rhodes City, East & West Coast of the Island, Lunch Break
-  description: 'Full Day Private Shore Excursion 8:00 hours'
+  description: Full Day Private Shore Excursion 8:00 hours
   details: |-
     **Duration:** 8:00 hours. Usually we spend one hour in Lindos, but it depends on you for how long you need to visit Lindos. To climb up it takes 10 - 15 min, to look 30 min.
 
@@ -41,8 +49,7 @@ route_map:
   description: Roundtrip approximately 175km / 108miles
   map:
     path: img/tours/rhodes-in-a-day/rhodes_in_a_day_route_map.jpg
-    alt: 'ONE DAY IN RHODES FROM CRUISE SHIP - Route map'
-
+    alt: ONE DAY IN RHODES FROM CRUISE SHIP - Route map
 useful:
   title: Useful Info
   text: |-
@@ -54,66 +61,66 @@ useful:
     6. You may prefer to use ATM machines when you need cash. ATMs are everywhere.
     7. Rhodes known for [Traditional Appetizers](rhodes_cuisine_greece.htm), desserts, [Wines](wine_tours_greece.htm), the famous handmade [Rhodes Pottery - Ceramics](greek_pottery.htm) and the beautiful [Rhodes Beaches](./rhodes-beach-tour-excursion.htm).
     8. More info in [Rhodes Private Tours](rhodes_private_tours.htm) F.A.Q.
-
 inclusions:
   title: Inclusions
   included:
-    - Private Shore Excursion (Just your party)
-    - Free Pick up and Drop off at the Cruise Port (or anywhere else)
-    - Experienced knowledgeable Tour/Driver English Speaking
-    - Mercedes Benz Sedan Car (4 passengers plus the driver) (<a href="groups.htm">bigger group or more room?</a>)
-    - All Car and Driver Expenses (prices are per car not per person)
-    - No Stress - Back to the Ship on Time (if you are a Cruise Ship Passenger)
-    - Personalized Customer Service
-    - Free Cancelation Policy
+  - Private Shore Excursion (Just your party)
+  - Free Pick up and Drop off at the Cruise Port (or anywhere else)
+  - Experienced knowledgeable Tour/Driver English Speaking
+  - Mercedes Benz Sedan Car (4 passengers plus the driver) (<a href="groups.htm">bigger
+    group or more room?</a>)
+  - All Car and Driver Expenses (prices are per car not per person)
+  - No Stress - Back to the Ship on Time (if you are a Cruise Ship Passenger)
+  - Personalized Customer Service
+  - Free Cancelation Policy
   not_included:
-    - Entrance Fees, Food, Drinks, Gratuities (Optional)
-
+  - Entrance Fees, Food, Drinks, Gratuities (Optional)
 gallery:
   title: Gallery
   images:
-    - path: /img/tours/rhodes-in-a-day/1.jpg
-      thumb: /img/tours/rhodes-in-a-day/1-thumb.jpg
-      alt: One Day in Rhodes from Cruise Ship, Grand Master Palace
-    - path: /img/tours/rhodes-in-a-day/2.jpg
-      thumb: /img/tours/rhodes-in-a-day/2-thumb.jpg
-      alt: One Day in Rhodes from Cruise Port, Village and Acropolis of Lindos
-    - path: /img/tours/rhodes-in-a-day/3.jpg
-      thumb: /img/tours/rhodes-in-a-day/3-thumb.jpg
-      alt: One day in Rhodes Greece - Lindos Village
-    - path: /img/tours/rhodes-in-a-day/4.jpg
-      thumb: /img/tours/rhodes-in-a-day/4-thumb.jpg
-      alt: One day discount shore excursions
-    - path: /img/tours/rhodes-in-a-day/5.jpg
-      thumb: /img/tours/rhodes-in-a-day/5-thumb.jpg
-      alt: Rhodes taxi tour full day
-    - path: /img/tours/rhodes-in-a-day/6.jpg
-      thumb: /img/tours/rhodes-in-a-day/6-thumb.jpg
-      alt: One day Sightseeing excursions Greece
-    - path: /img/tours/rhodes-in-a-day/7.jpg
-      thumb: /img/tours/rhodes-in-a-day/7-thumb.jpg
-      alt: One day Island tour
-    - path: /img/tours/rhodes-in-a-day/8.jpg
-      thumb: /img/tours/rhodes-in-a-day/8-thumb.jpg
-      alt: One day sightseeing excursion in Rhodes Greece
-    - path: /img/tours/rhodes-in-a-day/9.jpg
-      thumb: /img/tours/rhodes-in-a-day/9-thumb.jpg
-      alt: One day cruise excursions Greek isles
-    - path: /img/tours/rhodes-in-a-day/10.jpg
-      thumb: /img/tours/rhodes-in-a-day/10-thumb.jpg
-      alt: One day Shore trips in Rhodes Greece
-    - path: /img/tours/rhodes-in-a-day/11.jpg
-      thumb: /img/tours/rhodes-in-a-day/11-thumb.jpg
-      alt: One day Shore tours in Rhodes Greece
-    - path: /img/tours/rhodes-in-a-day/12.jpg
-      path_mid: /img/tours/rhodes-in-a-day/12-mid.jpg
-      thumb: /img/tours/rhodes-in-a-day/12-thumb.jpg
-      alt: One day Island tour Rhodes
-    - path: /img/tours/rhodes-in-a-day/13.jpg
-      thumb: /img/tours/rhodes-in-a-day/13-thumb.jpg
-      alt: Rhodes in one day Greece
+  - path: "/img/tours/rhodes-in-a-day/1.jpg"
+    thumb: "/img/tours/rhodes-in-a-day/1-thumb.jpg"
+    alt: One Day in Rhodes from Cruise Ship, Grand Master Palace
+  - path: "/img/tours/rhodes-in-a-day/2.jpg"
+    thumb: "/img/tours/rhodes-in-a-day/2-thumb.jpg"
+    alt: One Day in Rhodes from Cruise Port, Village and Acropolis of Lindos
+  - path: "/img/tours/rhodes-in-a-day/3.jpg"
+    thumb: "/img/tours/rhodes-in-a-day/3-thumb.jpg"
+    alt: One day in Rhodes Greece - Lindos Village
+  - path: "/img/tours/rhodes-in-a-day/4.jpg"
+    thumb: "/img/tours/rhodes-in-a-day/4-thumb.jpg"
+    alt: One day discount shore excursions
+  - path: "/img/tours/rhodes-in-a-day/5.jpg"
+    thumb: "/img/tours/rhodes-in-a-day/5-thumb.jpg"
+    alt: Rhodes taxi tour full day
+  - path: "/img/tours/rhodes-in-a-day/6.jpg"
+    thumb: "/img/tours/rhodes-in-a-day/6-thumb.jpg"
+    alt: One day Sightseeing excursions Greece
+  - path: "/img/tours/rhodes-in-a-day/7.jpg"
+    thumb: "/img/tours/rhodes-in-a-day/7-thumb.jpg"
+    alt: One day Island tour
+  - path: "/img/tours/rhodes-in-a-day/8.jpg"
+    thumb: "/img/tours/rhodes-in-a-day/8-thumb.jpg"
+    alt: One day sightseeing excursion in Rhodes Greece
+  - path: "/img/tours/rhodes-in-a-day/9.jpg"
+    thumb: "/img/tours/rhodes-in-a-day/9-thumb.jpg"
+    alt: One day cruise excursions Greek isles
+  - path: "/img/tours/rhodes-in-a-day/10.jpg"
+    thumb: "/img/tours/rhodes-in-a-day/10-thumb.jpg"
+    alt: One day Shore trips in Rhodes Greece
+  - path: "/img/tours/rhodes-in-a-day/11.jpg"
+    thumb: "/img/tours/rhodes-in-a-day/11-thumb.jpg"
+    alt: One day Shore tours in Rhodes Greece
+  - path: "/img/tours/rhodes-in-a-day/12.jpg"
+    path_mid: "/img/tours/rhodes-in-a-day/12-mid.jpg"
+    thumb: "/img/tours/rhodes-in-a-day/12-thumb.jpg"
+    alt: One day Island tour Rhodes
+  - path: "/img/tours/rhodes-in-a-day/13.jpg"
+    thumb: "/img/tours/rhodes-in-a-day/13-thumb.jpg"
+    alt: Rhodes in one day Greece
 outro: Rhodes Private Shore Excursions and Private Tours in Rhodes Greece
 ---
+
 ### RHODES MEDIEVAL CITY
 
 From the cruise ship dock/pier we drive to the **Medieval City (World Heritage Site---UNESCO)** and we will stop at the most important monuments for pictures from outside.

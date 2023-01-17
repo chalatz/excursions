@@ -1,24 +1,28 @@
 ---
+title: Rhodes on Your Own from Cruise Ship - Rhodes Cruise Port
+permalink: discount_cruise.htm
 layout: page
 type: info_page
 id: cruises_to_rhodes
-permalink: discount_cruise.htm
 has_gallery: false
 meta:
   title: Rhodes on Your Own from Cruise Ship, Rhodes Cruise Port
-  http_desc: Rhodes on Your Own from Cruise Ship, Rhodes Cruise Port, Rhodes Port Excursions, Cruise Ships Visiting Rhodes
-  keywords: Rhodes on Your Own from Cruise Ship, Rhodes Cruise Port, Rhodes Port Excursions, Cruise Ships Visiting Rhodes
-  description: Rhodes on Your Own from Cruise Ship, Rhodes Cruise Port, Rhodes Port Excursions, Cruise Ships Visiting Rhodes
+  http_desc: Rhodes on Your Own from Cruise Ship, Rhodes Cruise Port, Rhodes Port
+    Excursions, Cruise Ships Visiting Rhodes
+  keywords: Rhodes on Your Own from Cruise Ship, Rhodes Cruise Port, Rhodes Port Excursions,
+    Cruise Ships Visiting Rhodes
+  description: Rhodes on Your Own from Cruise Ship, Rhodes Cruise Port, Rhodes Port
+    Excursions, Cruise Ships Visiting Rhodes
   abstract: Rhodes on Your Own from Cruise Ship, Rhodes Cruise Port
-title: Rhodes on Your Own from Cruise Ship - Rhodes Cruise Port
 head_photo:
-  img: /img/pages/cruises-to-rhodes/head-photo.jpg
-  mobile: /img/pages/cruises-to-rhodes/head-photo-mobile.jpg
+  img: "/img/pages/cruises-to-rhodes/head-photo.jpg"
+  mobile: "/img/pages/cruises-to-rhodes/head-photo-mobile.jpg"
   alt_text: ''
 outro: Rhodes High Quality Shore Excursions
 has_destinations: true
 has_banners: true
 ---
+
 ### Cruise Ships Visiting Rhodes Greece
 
 The prime cruising season in Rhodes is May to October, with May, June, September and October being the busiest months.

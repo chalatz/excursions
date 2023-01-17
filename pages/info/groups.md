@@ -1,8 +1,9 @@
 ---
+title: Rhodes Groups Excursions
+permalink: groups.htm
 layout: page
 type: info_page
 id: groups
-permalink: groups.htm
 has_gallery: true
 has_destinations: true
 has_banners: true
@@ -12,42 +13,41 @@ meta:
   keywords: Rhodes Groups Excursions, Group Shore Excursions in Rhodes Island Greece
   description: Rhodes Groups Excursions, Group Shore Excursions in Rhodes Island Greece
   abstract: Rhodes Groups Excursions
-title: Rhodes Groups Excursions
 subtitle: ''
 head_photo:
-  img: /img/pages/groups/head-photo.jpg
-  mobile: /img/pages/groups/head-photo-mobile.jpg
+  img: "/img/pages/groups/head-photo.jpg"
+  mobile: "/img/pages/groups/head-photo-mobile.jpg"
   alt_text: ''
 outro: Group Shore Excursions in Rhodes Island Greece
 gallery:
   items_per_row: 4
   items:
-    - image:
-        thumb: '/img/pages/groups/1_thumb.jpg'
-        href: '/img/pages/groups/1.jpg'
-        alt: 'Rhodes group tours, Mercedes Minibus'
-        is_link: false
-      caption: 'Mercedes Luxury Minibus'
-    - image:
-        thumb: '/img/pages/groups/2_thumb.jpg'
-        href: '/img/pages/groups/2.jpg'
-        alt: 'Rhodes Minibus Tours, Mercedes Minibus'
-        is_link: false
-      caption: 'Mercedes Luxury Minibus'
-    - image:
-        thumb: '/img/pages/groups/3_thumb.jpg'
-        href: '/img/pages/groups/3.jpg'
-        alt: 'Rhodes Bus Tours, Mercedes minibus'
-        is_link: false
-      caption: 'Mercedes Luxury Minibus'
-    - image:
-        thumb: '/img/pages/groups/4_thumb.jpg'
-        href: '/img/pages/groups/4.jpg'
-        alt: 'Rhodes Bus Tours, Mercedes Bus'
-        is_link: false
-      caption: 'Mercedes Touring Coach'
-
+  - image:
+      thumb: "/img/pages/groups/1_thumb.jpg"
+      href: "/img/pages/groups/1.jpg"
+      alt: Rhodes group tours, Mercedes Minibus
+      is_link: false
+    caption: Mercedes Luxury Minibus
+  - image:
+      thumb: "/img/pages/groups/2_thumb.jpg"
+      href: "/img/pages/groups/2.jpg"
+      alt: Rhodes Minibus Tours, Mercedes Minibus
+      is_link: false
+    caption: Mercedes Luxury Minibus
+  - image:
+      thumb: "/img/pages/groups/3_thumb.jpg"
+      href: "/img/pages/groups/3.jpg"
+      alt: Rhodes Bus Tours, Mercedes minibus
+      is_link: false
+    caption: Mercedes Luxury Minibus
+  - image:
+      thumb: "/img/pages/groups/4_thumb.jpg"
+      href: "/img/pages/groups/4.jpg"
+      alt: Rhodes Bus Tours, Mercedes Bus
+      is_link: false
+    caption: Mercedes Touring Coach
 ---
+
 #### Experience
 
 We have dedicated ourselves to providing customized tours for private groups for over 30 years. We have accommodated small groups in our Mercedes Benz sedan cars. As larger groups, have become interested in our services, we provide Luxury Mercedes Benz Minibuses driven by Professional Drivers and hosted by Licensed Tour Guides (required by Greek law). The minibuses will be for the exclusive use of your group. No strangers in the mix - just your family and friends. The local tour guides are knowledgeable and skilled at revealing the history and beauty of each place that you visit. But underneath that knowledge is their ability to customize your tour so that every wish is fulfilled within the limits of your schedule.

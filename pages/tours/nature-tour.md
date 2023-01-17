@@ -1,24 +1,31 @@
 ---
+title: RHODES NATURE EXCURSION
+permalink: rhodes-nature-excursions.htm
 layout: tour
 type: tour
 id: nature_tour
-permalink: rhodes-nature-excursions.htm
 has_gallery: true
 has_carousel: true
 has_destinations: true
 has_banners: true
 meta:
   title: Rhodes Nature Excursion, Rhodes Shore Excursions
-  http_desc: Rhodes Nature Excursion, Rhodes Shore Excursions, Rhodes Island Nature Tours
-  keywords: Rhodes Nature Excursion, Rhodes Shore Excursions, Rhodes Island Nature Tours
-  description: Rhodes Nature Excursion, Rhodes Shore Excursions, Rhodes Island Nature Tours
+  http_desc: Rhodes Nature Excursion, Rhodes Shore Excursions, Rhodes Island Nature
+    Tours
+  keywords: Rhodes Nature Excursion, Rhodes Shore Excursions, Rhodes Island Nature
+    Tours
+  description: Rhodes Nature Excursion, Rhodes Shore Excursions, Rhodes Island Nature
+    Tours
   abstract: Rhodes Nature Excursion, Rhodes Shore Excursions
-title: RHODES NATURE EXCURSION
-intro: Rhodes Island is one of those places that must be explored completely to witness and truly appreciate the wonders of nature here. Nothing matches the natural beauty of Rhodes Island. Every turn brings you to a new and mesmerizing view, which is why we have designed our Rhodes Island nature tour to cover as many exciting and thrilling spots.
+intro: Rhodes Island is one of those places that must be explored completely to witness
+  and truly appreciate the wonders of nature here. Nothing matches the natural beauty
+  of Rhodes Island. Every turn brings you to a new and mesmerizing view, which is
+  why we have designed our Rhodes Island nature tour to cover as many exciting and
+  thrilling spots.
 itinerary:
   title: Excursion Itinerary
-  heading: 'Sea Views and Landscapes - East & West Coast of the Island'
-  description: 'Half Day Private Shore Excursion 5:00 hours'
+  heading: Sea Views and Landscapes - East & West Coast of the Island
+  description: Half Day Private Shore Excursion 5:00 hours
   details: |-
     **Duration:** 5:00 hours.
 
@@ -35,85 +42,91 @@ itinerary:
     *(**Stop Pictures)** = Stop and get out of the car for pictures from outside of the Sight/building
 
     **(Stop Visit Pictures)** = Stop and visit - go inside the sight/building for pictures
-
 route_map:
   title: Route Map
   description: Roundtrip Approximately 100km / 62miles
   map:
-    path: /img/tours/nature-tour/nature-tour-route-map.jpg
+    path: "/img/tours/nature-tour/nature-tour-route-map.jpg"
     alt: Rhodes Nature Excursion - Map
-
 useful:
   title: Useful Info
-  text: |-
-    1. Kallithea Spa: Entrance Fee 3 Euros per person
-    2. The Valley of the Butterflies. For the comfort of our travelers we drive them to the Upper Gate so they can walk down easier (one way) 30 - 40 min. The elderly people in your group they can wait down at the Main Gate, with the driver while you explore the place. There is a small cafe, a refreshment kiosk, and a little gift shop. Entrance fee: (3 Euros Low Season) (5 Euros High Season) per person. Children under 12 years old Free. (Before June 15th and after September 15th we skip the site as no butterflies)
-    3. Filerimos: to visit the Stations of the Cross, the Cross, and the panoramic vista is Free, to visit the Monastery and the Church 6 Euros per person. Children under 18 years old free. The site has a refreshment kiosk a souvenir shop and shady seating.
-    4. You may prefer to use ATM machines when you need cash. ATMs are everywhere.
-    5. Rhodes known for [Traditional Appetizers](rhodes_cuisine_greece.htm), desserts, [Wines](wine_tours_greece.htm), the famous handmade [Rhodes Pottery - Ceramics](greek_pottery.htm) and the beautiful [Rhodes Beaches](./rhodes-beach-tour-excursion.htm).
-    6. More info in [Rhodes Private Tours](rhodes_private_tours.htm) F.A.Q.    
-
+  text: "1. Kallithea Spa: Entrance Fee 3 Euros per person\n2. The Valley of the Butterflies.
+    For the comfort of our travelers we drive them to the Upper Gate so they can walk
+    down easier (one way) 30 - 40 min. The elderly people in your group they can wait
+    down at the Main Gate, with the driver while you explore the place. There is a
+    small cafe, a refreshment kiosk, and a little gift shop. Entrance fee: (3 Euros
+    Low Season) (5 Euros High Season) per person. Children under 12 years old Free.
+    (Before June 15th and after September 15th we skip the site as no butterflies)\n3.
+    Filerimos: to visit the Stations of the Cross, the Cross, and the panoramic vista
+    is Free, to visit the Monastery and the Church 6 Euros per person. Children under
+    18 years old free. The site has a refreshment kiosk a souvenir shop and shady
+    seating.\n4. You may prefer to use ATM machines when you need cash. ATMs are everywhere.\n5.
+    Rhodes known for [Traditional Appetizers](rhodes_cuisine_greece.htm), desserts, [Wines](wine_tours_greece.htm),
+    the famous handmade [Rhodes Pottery - Ceramics](greek_pottery.htm) and the beautiful [Rhodes
+    Beaches](./rhodes-beach-tour-excursion.htm).\n6. More info in [Rhodes Private
+    Tours](rhodes_private_tours.htm) F.A.Q.    "
 inclusions:
   title: Inclusions
   included:
-    - Private Shore Excursion (Just your party)
-    - Free Pick up and Drop off at the Cruise Port (or anywhere else)
-    - Experienced knowledgeable Tour/Driver English Speaking
-    - Mercedes Benz Sedan Car (4 passengers plus the driver) (<a href="groups.htm">bigger group or more room?</a>)
-    - All Car and Driver Expenses (prices are per car not per person)
-    - No Stress - Back to the Ship on Time (if you are a Cruise Ship Passenger)
-    - Personalized Customer Service
-    - Free Cancelation Policy
+  - Private Shore Excursion (Just your party)
+  - Free Pick up and Drop off at the Cruise Port (or anywhere else)
+  - Experienced knowledgeable Tour/Driver English Speaking
+  - Mercedes Benz Sedan Car (4 passengers plus the driver) (<a href="groups.htm">bigger
+    group or more room?</a>)
+  - All Car and Driver Expenses (prices are per car not per person)
+  - No Stress - Back to the Ship on Time (if you are a Cruise Ship Passenger)
+  - Personalized Customer Service
+  - Free Cancelation Policy
   not_included:
-    - Entrance Fees, Food, Drinks, Gratuities (Optional)
-
+  - Entrance Fees, Food, Drinks, Gratuities (Optional)
 gallery:
   title: Gallery
   images:
-    - thumb: "/img/tours/nature-tour/2_thumb.jpg"
-      path: "/img/tours/nature-tour/2.jpg"
-      alt: Rhodes natural wonders tours Greece
-    - thumb: "/img/tours/nature-tour/3_thumb.jpg"
-      path: "/img/tours/nature-tour/3.jpg"
-      alt: Nature tour in Rhodes Greece
-    - thumb: "/img/tours/nature-tour/4_thumb.jpg"
-      path: "/img/tours/nature-tour/4.jpg"
-      alt: Nature tours in Rhodes
-    - thumb: "/img/tours/nature-tour/5_thumb.jpg"
-      path: "/img/tours/nature-tour/5.jpg"
-      alt: Rhodes nature tours
-    - thumb: "/img/tours/nature-tour/6_thumb.jpg"
-      path: "/img/tours/nature-tour/6.jpg"
-      alt: Scenic tours in Rhodes Greece
-    - thumb: "/img/tours/nature-tour/7_thumb.jpg"
-      path: "/img/tours/nature-tour/7.jpg"
-      alt: Best nature tour in Rhodes Greece
-    - thumb: "/img/tours/nature-tour/8_thumb.jpg"
-      path: "/img/tours/nature-tour/8.jpg"
-      alt: Nature tours in Rhodes Greece
-    - thumb: "/img/tours/nature-tour/9_thumb.jpg"
-      path: "/img/tours/nature-tour/9.jpg"
-      alt: Scenic Rhodes Tours
-    - thumb: "/img/tours/nature-tour/10_thumb.jpg"
-      path: "/img/tours/nature-tour/10.jpg"
-      alt: Natural beauty Rhodes tours
-    - thumb: "/img/tours/nature-tour/11_thumb.jpg"
-      path: "/img/tours/nature-tour/11.jpg"
-      alt: Rhodes tours for natural beauty
-    - thumb: "/img/tours/nature-tour/12_thumb.jpg"
-      path: "/img/tours/nature-tour/12.jpg"
-      alt: Scenic landscape tours in Rhodes Greece
-    - thumb: "/img/tours/nature-tour/13_thumb.jpg"
-      path: "/img/tours/nature-tour/13.jpg"
-      alt: Rhodes nature tour
-    - thumb: "/img/tours/nature-tour/14_thumb.jpg"
-      path: "/img/tours/nature-tour/14.jpg"
-      alt: Natural beauty tour in Rhodes Greece
-    - thumb: "/img/tours/nature-tour/15_thumb.jpg"
-      path: "/img/tours/nature-tour/15.jpg"
-      alt: Rhodes best nature tour
+  - thumb: "/img/tours/nature-tour/2_thumb.jpg"
+    path: "/img/tours/nature-tour/2.jpg"
+    alt: Rhodes natural wonders tours Greece
+  - thumb: "/img/tours/nature-tour/3_thumb.jpg"
+    path: "/img/tours/nature-tour/3.jpg"
+    alt: Nature tour in Rhodes Greece
+  - thumb: "/img/tours/nature-tour/4_thumb.jpg"
+    path: "/img/tours/nature-tour/4.jpg"
+    alt: Nature tours in Rhodes
+  - thumb: "/img/tours/nature-tour/5_thumb.jpg"
+    path: "/img/tours/nature-tour/5.jpg"
+    alt: Rhodes nature tours
+  - thumb: "/img/tours/nature-tour/6_thumb.jpg"
+    path: "/img/tours/nature-tour/6.jpg"
+    alt: Scenic tours in Rhodes Greece
+  - thumb: "/img/tours/nature-tour/7_thumb.jpg"
+    path: "/img/tours/nature-tour/7.jpg"
+    alt: Best nature tour in Rhodes Greece
+  - thumb: "/img/tours/nature-tour/8_thumb.jpg"
+    path: "/img/tours/nature-tour/8.jpg"
+    alt: Nature tours in Rhodes Greece
+  - thumb: "/img/tours/nature-tour/9_thumb.jpg"
+    path: "/img/tours/nature-tour/9.jpg"
+    alt: Scenic Rhodes Tours
+  - thumb: "/img/tours/nature-tour/10_thumb.jpg"
+    path: "/img/tours/nature-tour/10.jpg"
+    alt: Natural beauty Rhodes tours
+  - thumb: "/img/tours/nature-tour/11_thumb.jpg"
+    path: "/img/tours/nature-tour/11.jpg"
+    alt: Rhodes tours for natural beauty
+  - thumb: "/img/tours/nature-tour/12_thumb.jpg"
+    path: "/img/tours/nature-tour/12.jpg"
+    alt: Scenic landscape tours in Rhodes Greece
+  - thumb: "/img/tours/nature-tour/13_thumb.jpg"
+    path: "/img/tours/nature-tour/13.jpg"
+    alt: Rhodes nature tour
+  - thumb: "/img/tours/nature-tour/14_thumb.jpg"
+    path: "/img/tours/nature-tour/14.jpg"
+    alt: Natural beauty tour in Rhodes Greece
+  - thumb: "/img/tours/nature-tour/15_thumb.jpg"
+    path: "/img/tours/nature-tour/15.jpg"
+    alt: Rhodes best nature tour
 outro: Rhodes Private Shore Excursions and Private Tours in Rhodes Greece
 ---
+
 ### KALLITHEA SPA
 
 The tour begins at the Kallithea Spa (Springs), which is located on the East Coast of the island. We will drive you to this spa from your selected pickup location. The Kallithea Spa dates back to the Classical Antiquity times. Ever since its renovation, the majestic monument has gained popularity as a tourist spot and wedding destination.   The mesmerizing place even captured the attention of Hollywood directors. Various Greek and international productions, including *"Escape to Athena,"* starring Roger Moore and Telly Savalas, are filmed here. Kallithea Spa can also be seen in a few scenes from "*The Guns of Navarone."*

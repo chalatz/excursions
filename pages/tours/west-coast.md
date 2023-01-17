@@ -1,25 +1,30 @@
 ---
+title: RHODES WEST COAST
+permalink: rhodes_west_coast.htm
 layout: tour
 type: tour
 id: rhodes_west_coast
-permalink: rhodes_west_coast.htm
 has_gallery: true
 has_carousel: true
 has_destinations: true
 has_banners: true
 meta:
   title: Rhodes West Coast, Rhodes West Coast Greece
-  http_desc: Rhodes West Coast, Rhodes West Coast Greece, West Coast Rhodes, Shore Excursions Greece
-  keywords: Rhodes West Coast, Rhodes West Coast Greece, West Coast Rhodes, Shore Excursions Greece
-  description: Rhodes West Coast, Rhodes West Coast Greece, West Coast Rhodes, Shore Excursions Greece
+  http_desc: Rhodes West Coast, Rhodes West Coast Greece, West Coast Rhodes, Shore
+    Excursions Greece
+  keywords: Rhodes West Coast, Rhodes West Coast Greece, West Coast Rhodes, Shore
+    Excursions Greece
+  description: Rhodes West Coast, Rhodes West Coast Greece, West Coast Rhodes, Shore
+    Excursions Greece
   abstract: Rhodes West Coast, Rhodes West Coast Greece
-title: RHODES WEST COAST
-intro: |-
-  This excursion is an opportunity to travel through time. You will see many sites from different periods in Rhodes' history: ancient, medieval and modern. When you return to your ship, you will have a significantly broadened understanding of our beautiful island.
+intro: 'This excursion is an opportunity to travel through time. You will see many
+  sites from different periods in Rhodes'' history: ancient, medieval and modern.
+  When you return to your ship, you will have a significantly broadened understanding
+  of our beautiful island.'
 itinerary:
   title: Excursion Itinerary
-  heading:  Rhodes City & West Coast of the Island
-  description: 'Half Day Private Shore Excursion 5:30 hours'
+  heading: Rhodes City & West Coast of the Island
+  description: Half Day Private Shore Excursion 5:30 hours
   details: |-
     **Duration:** 5:30 hours
 
@@ -36,14 +41,12 @@ itinerary:
     **(Stop Pictures)** = Stop and get out of the car for pictures from outside of the Sight/building
 
     **(Stop Visit Pictures)** = Stop and visit - go inside the sight/building for pictures
-
 route_map:
   title: Route Map
   description: Roundtrip approximately 100km / 62miles
   map:
-    path: /img/tours/rhodes-west-coast/rhodes_west_coast_route_map.jpg
-    alt: 'RHODES WEST COAST EXCURSION - Route map'
-
+    path: "/img/tours/rhodes-west-coast/rhodes_west_coast_route_map.jpg"
+    alt: RHODES WEST COAST EXCURSION - Route map
 useful:
   title: Useful Info
   text: |-
@@ -53,71 +56,71 @@ useful:
     4. You may prefer to use ATM machines when you need cash. ATMs are everywhere.
     5. Rhodes known for [Traditional Appetizers](rhodes_cuisine_greece.htm), desserts, [Wines](wine_tours_greece.htm), the famous handmade [Rhodes Pottery - Ceramics](greek_pottery.htm) and the beautiful [Rhodes Beaches](./rhodes-beach-tour-excursion.htm).
     6. More info in [Rhodes Private Tours](rhodes_private_tours.htm) F.A.Q.
-
 inclusions:
   title: Inclusions
   included:
-    - Private Shore Excursion (Just your party)
-    - Free Pick up and Drop off at the Cruise Port (or anywhere else)
-    - Experienced knowledgeable Tour/Driver English Speaking
-    - Mercedes Benz Sedan Car (4 passengers plus the driver) (<a href="groups.htm">bigger group or more room?</a>)
-    - All Car and Driver Expenses (prices are per car not per person)
-    - No Stress - Back to the Ship on Time (if you are a Cruise Ship Passenger)
-    - Personalized Customer Service
-    - Free Cancelation Policy
+  - Private Shore Excursion (Just your party)
+  - Free Pick up and Drop off at the Cruise Port (or anywhere else)
+  - Experienced knowledgeable Tour/Driver English Speaking
+  - Mercedes Benz Sedan Car (4 passengers plus the driver) (<a href="groups.htm">bigger
+    group or more room?</a>)
+  - All Car and Driver Expenses (prices are per car not per person)
+  - No Stress - Back to the Ship on Time (if you are a Cruise Ship Passenger)
+  - Personalized Customer Service
+  - Free Cancelation Policy
   not_included:
-    - Entrance Fees, Food, Drinks, Gratuities (Optional)
-
+  - Entrance Fees, Food, Drinks, Gratuities (Optional)
 gallery:
   title: Gallery
   images:
-    - path: /img/tours/rhodes-west-coast/1.jpg
-      thumb: /img/tours/rhodes-west-coast/1-thumb.jpg
-      alt: West Coast Rhodes Greece, Gate of the Old Town
-    - path: /img/tours/rhodes-west-coast/2.jpg
-      thumb: /img/tours/rhodes-west-coast/2-thumb.jpg
-      alt: Rhodes West Coast Greece, the Administration Building
-    - path: /img/tours/rhodes-west-coast/3.jpg
-      thumb: /img/tours/rhodes-west-coast/3-thumb.jpg
-      alt: Shore Tours in Rhodes Island Greece
-    - path: /img/tours/rhodes-west-coast/4.jpg
-      thumb: /img/tours/rhodes-west-coast/4-thumb.jpg
-      alt: West Coast of Rhodes Island Greece
-    - path: /img/tours/rhodes-west-coast/5.jpg
-      thumb: /img/tours/rhodes-west-coast/5-thumb.jpg
-      alt: Taxi tours of the West Coast in Rhodes
-    - path: /img/tours/rhodes-west-coast/6.jpg
-      thumb: /img/tours/rhodes-west-coast/6-thumb.jpg
-      alt: Daily tours of the west coast
-    - path: /img/tours/rhodes-west-coast/7.jpg
-      thumb: /img/tours/rhodes-west-coast/7-thumb.jpg
-      alt: Rhodes Sightseeing excursions
-    - path: /img/tours/rhodes-west-coast/8.jpg
-      thumb: /img/tours/rhodes-west-coast/8-thumb.jpg
-      alt: Discount shore excursions Rhodes
-    - path: /img/tours/rhodes-west-coast/9.jpg
-      thumb: /img/tours/rhodes-west-coast/9-thumb.jpg
-      alt: Boutique excursions in Rhodes
-    - path: /img/tours/rhodes-west-coast/10.jpg
-      thumb: /img/tours/rhodes-west-coast/10-thumb.jpg
-      alt: Cruise excursions Greek isles
-    - path: /img/tours/rhodes-west-coast/11.jpg
-      thumb: /img/tours/rhodes-west-coast/11-thumb.jpg
-      alt: Sightseeing excursions of the west coast
-    - path: /img/tours/rhodes-west-coast/12.jpg
-      thumb: /img/tours/rhodes-west-coast/12-thumb.jpg
-      alt: Private group tours of Rhodes west coast
-    - path: /img/tours/rhodes-west-coast/13.jpg
-      thumb: /img/tours/rhodes-west-coast/13-thumb.jpg
-      alt: West Coast of Rhodos,  Rodos Island
-    - path: /img/tours/rhodes-west-coast/14.jpg
-      thumb: /img/tours/rhodes-west-coast/14-thumb.jpg
-      alt: Rhodes West coast shore trips
-    - path: /img/tours/rhodes-west-coast/15.jpg
-      thumb: /img/tours/rhodes-west-coast/15-thumb.jpg
-      alt: West coast discount shore excursions
+  - path: "/img/tours/rhodes-west-coast/1.jpg"
+    thumb: "/img/tours/rhodes-west-coast/1-thumb.jpg"
+    alt: West Coast Rhodes Greece, Gate of the Old Town
+  - path: "/img/tours/rhodes-west-coast/2.jpg"
+    thumb: "/img/tours/rhodes-west-coast/2-thumb.jpg"
+    alt: Rhodes West Coast Greece, the Administration Building
+  - path: "/img/tours/rhodes-west-coast/3.jpg"
+    thumb: "/img/tours/rhodes-west-coast/3-thumb.jpg"
+    alt: Shore Tours in Rhodes Island Greece
+  - path: "/img/tours/rhodes-west-coast/4.jpg"
+    thumb: "/img/tours/rhodes-west-coast/4-thumb.jpg"
+    alt: West Coast of Rhodes Island Greece
+  - path: "/img/tours/rhodes-west-coast/5.jpg"
+    thumb: "/img/tours/rhodes-west-coast/5-thumb.jpg"
+    alt: Taxi tours of the West Coast in Rhodes
+  - path: "/img/tours/rhodes-west-coast/6.jpg"
+    thumb: "/img/tours/rhodes-west-coast/6-thumb.jpg"
+    alt: Daily tours of the west coast
+  - path: "/img/tours/rhodes-west-coast/7.jpg"
+    thumb: "/img/tours/rhodes-west-coast/7-thumb.jpg"
+    alt: Rhodes Sightseeing excursions
+  - path: "/img/tours/rhodes-west-coast/8.jpg"
+    thumb: "/img/tours/rhodes-west-coast/8-thumb.jpg"
+    alt: Discount shore excursions Rhodes
+  - path: "/img/tours/rhodes-west-coast/9.jpg"
+    thumb: "/img/tours/rhodes-west-coast/9-thumb.jpg"
+    alt: Boutique excursions in Rhodes
+  - path: "/img/tours/rhodes-west-coast/10.jpg"
+    thumb: "/img/tours/rhodes-west-coast/10-thumb.jpg"
+    alt: Cruise excursions Greek isles
+  - path: "/img/tours/rhodes-west-coast/11.jpg"
+    thumb: "/img/tours/rhodes-west-coast/11-thumb.jpg"
+    alt: Sightseeing excursions of the west coast
+  - path: "/img/tours/rhodes-west-coast/12.jpg"
+    thumb: "/img/tours/rhodes-west-coast/12-thumb.jpg"
+    alt: Private group tours of Rhodes west coast
+  - path: "/img/tours/rhodes-west-coast/13.jpg"
+    thumb: "/img/tours/rhodes-west-coast/13-thumb.jpg"
+    alt: West Coast of Rhodos,  Rodos Island
+  - path: "/img/tours/rhodes-west-coast/14.jpg"
+    thumb: "/img/tours/rhodes-west-coast/14-thumb.jpg"
+    alt: Rhodes West coast shore trips
+  - path: "/img/tours/rhodes-west-coast/15.jpg"
+    thumb: "/img/tours/rhodes-west-coast/15-thumb.jpg"
+    alt: West coast discount shore excursions
 outro: Rhodes Private Shore Excursions and Private Tours in Rhodes Greece
 ---
+
 ### RHODES MEDIEVAL CITY
 
 From the cruise ship dock/pier we drive to the **Medieval City (World Heritage Site---UNESCO)** and we will stop at the most important monuments for pictures from outside.

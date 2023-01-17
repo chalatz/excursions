@@ -1,8 +1,9 @@
 ---
+title: Rick Steves
+permalink: rick_steves.htm
 layout: page
 type: info_page
 id: rick_steves
-permalink: rick_steves.htm
 has_gallery: true
 has_destinations: false
 has_banners: false
@@ -12,35 +13,35 @@ meta:
   keywords: Rick Steves in Rhodes Greece, Rhodes Shore Excursions with Rick Steves
   description: Rick Steves in Rhodes Greece, Rhodes Shore Excursions with Rick Steves
   abstract: Rick Steves in Rhodes Greece, Rhodes Shore Excursions with Rick Steves
-title: Rick Steves
 subtitle: The best-known American guidebook and travel expert!
 head_photo:
-  img: /img/pages/rick-steves/head-photo.jpg
-  mobile: /img/pages/rick-steves/head-photo-mobile.jpg
+  img: "/img/pages/rick-steves/head-photo.jpg"
+  mobile: "/img/pages/rick-steves/head-photo-mobile.jpg"
   alt_text: ''
 gallery:
   items_per_row: 4
   items:
-    - image:
-        thumb: /img/pages/rick-steves/rick_steves_1.jpg
-        href: /img/pages/rick-steves/rick_steves_1.jpg
-        alt: Nicholas and Rick Steves on Rhodes Island Greece
-      caption: Nicholas and Rick Steves on Rhodes island
-    - image:
-        thumb: /img/pages/rick-steves/rick_steves_2.jpg
-        href: /img/pages/rick-steves/rick_steves_2.jpg
-        alt: Nicholas with Rick Steves' crew in Rhodes Greece
-      caption: Nicholas with Rick Steves' crew, watching what they'd filmed
-    - image:
-        thumb: /img/pages/rick-steves/rick_steves_3.jpg
-        href: /img/pages/rick-steves/rick_steves_3.jpg
-        alt: Rick Steves in Rhodes Greece
-      caption: It was a very busy and productive day... Thank you, Rick, for showing Rhodes on your program. It was a pleasure working with you!
-    - image:
-        thumb: /img/pages/rick-steves/rick_steves_4.jpg
-        href: /img/pages/rick-steves/rick_steves_4.jpg
-        alt: Rick Steves' New Episode about Rhodes Greece
-      caption: Rick Steves' New Episode
+  - image:
+      thumb: "/img/pages/rick-steves/rick_steves_1.jpg"
+      href: "/img/pages/rick-steves/rick_steves_1.jpg"
+      alt: Nicholas and Rick Steves on Rhodes Island Greece
+    caption: Nicholas and Rick Steves on Rhodes island
+  - image:
+      thumb: "/img/pages/rick-steves/rick_steves_2.jpg"
+      href: "/img/pages/rick-steves/rick_steves_2.jpg"
+      alt: Nicholas with Rick Steves' crew in Rhodes Greece
+    caption: Nicholas with Rick Steves' crew, watching what they'd filmed
+  - image:
+      thumb: "/img/pages/rick-steves/rick_steves_3.jpg"
+      href: "/img/pages/rick-steves/rick_steves_3.jpg"
+      alt: Rick Steves in Rhodes Greece
+    caption: It was a very busy and productive day... Thank you, Rick, for showing
+      Rhodes on your program. It was a pleasure working with you!
+  - image:
+      thumb: "/img/pages/rick-steves/rick_steves_4.jpg"
+      href: "/img/pages/rick-steves/rick_steves_4.jpg"
+      alt: Rick Steves' New Episode about Rhodes Greece
+    caption: Rick Steves' New Episode
 footer:
   centered: true
   text: |-
@@ -52,6 +53,7 @@ footer:
 
     <iframe class="centered" src="https://www.youtube.com/embed/HZOuDhwzsq0?modestbranding=1&amp;showinfo=0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" width="672" height="378" frameborder="0"></iframe>
 ---
+
 Rick Steves is an American travel writer and television personality. He debuted his first television show in America in 1991, a series which ran until 1998. Since 2000, he has been the host of a travel documentary series called Rick Steves' Europe on America's Public Broadcasting Service (PBS). He also has a public radio travel show called Travel with Rick Steves. In addition to those activities, he has expanded into newspapers and the Internet. Rick encourages travelers to enter countries through the "back door," not just visiting big cities but venturing out to experience small towns and villages away from popular tourist sites. Since his first book came out in 1980, Steves has written many popular guidebooks. His books aren't simply lists of good hotels and restaurants. They include collections of personal anecdotes from his many years of travel which make his writing both informative and entertaining.
 
 ### Rick Steves in Rhodes Island

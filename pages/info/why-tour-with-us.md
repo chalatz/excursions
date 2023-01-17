@@ -1,8 +1,9 @@
 ---
+title: Booking Independent Shore Excursions in Rhodes Greece
+permalink: Independent_greece.htm
 layout: page
 type: info_page
 id: why_us
-permalink: Independent_greece.htm
 has_gallery: false
 has_destinations: true
 has_banners: false
@@ -12,14 +13,14 @@ meta:
   keywords: Independent Shore Excursions in Rhodes Greece
   description: Independent Shore Excursions in Rhodes Greece
   abstract: Independent Shore Excursions in Rhodes Greece
-title: Booking Independent Shore Excursions in Rhodes Greece
 subtitle: Why Tour With Us
 head_photo:
-  img: /img/pages/why-tour-with-us/head-photo.jpg
-  mobile: /img/pages/why-tour-with-us/head-photo-mobile.jpg
+  img: "/img/pages/why-tour-with-us/head-photo.jpg"
+  mobile: "/img/pages/why-tour-with-us/head-photo-mobile.jpg"
   alt_text: ''
 outro: ''
 ---
+
 #### Direct Local Price
 
 {:.centered}

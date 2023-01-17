@@ -1,24 +1,28 @@
 ---
+title: Quick Facts about Rhodes Island and Greece
+permalink: greece.htm
 layout: page
 type: info_page
 id: quick_facts
-permalink: greece.htm
 has_gallery: false
 meta:
   title: Quick Facts about Rhodes Island and Greece, Rhodes Shore Excursions
-  http_desc: Quick Facts about Rhodes Island and Greece, Rhodes Shore Excursions, Rhodes Fast Facts
-  keywords: Quick Facts about Rhodes Island and Greece, Rhodes Shore Excursions, Rhodes Fast Facts
-  description: Quick Facts about Rhodes Island and Greece, Rhodes Shore Excursions, Rhodes Fast Facts
+  http_desc: Quick Facts about Rhodes Island and Greece, Rhodes Shore Excursions,
+    Rhodes Fast Facts
+  keywords: Quick Facts about Rhodes Island and Greece, Rhodes Shore Excursions, Rhodes
+    Fast Facts
+  description: Quick Facts about Rhodes Island and Greece, Rhodes Shore Excursions,
+    Rhodes Fast Facts
   abstract: Quick Facts about Rhodes Island and Greece
-title: Quick Facts about Rhodes Island and Greece
 head_photo:
-  img: /img/pages/quick-facts/head-photo.jpg
-  mobile: /img/pages/quick-facts/head-photo-mobile.jpg
+  img: "/img/pages/quick-facts/head-photo.jpg"
+  mobile: "/img/pages/quick-facts/head-photo-mobile.jpg"
   alt_text: ''
-outro: 'Quick Facts about Rhodes Greece'
+outro: Quick Facts about Rhodes Greece
 has_destinations: true
 has_banners: true
 ---
+
 **Rhodes - Lindos:** The Lindians were the first to draw up a code of maritime law, known as the Rhodian law. This later became the basis for Roman maritime law. Emperor Antoninus (reigned ad 138--161) wrote: "I am indeed lord of the world, but the Law is the lord of the sea. This matter must be decided by the maritime law of the Rhodians..."
 
 After the Acropolis in Athens, the **Acropolis of Lindos** is the second most visited Acropolis in Greece!

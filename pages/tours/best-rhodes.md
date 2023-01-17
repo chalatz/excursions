@@ -1,25 +1,30 @@
 ---
+title: BEST RHODES SHORE EXCURSION
+permalink: best_rhodes_greece.htm
 layout: tour
 type: tour
 id: best_rhodes
-permalink: best_rhodes_greece.htm
 has_gallery: true
 has_carousel: true
 has_destinations: true
 has_banners: true
 meta:
-  title: Best Shore Excursions in Rhodes Greece, Best Rhodes Shore Excursions, Cruise Shore Excursions
-  http_desc: Best Rhodes Shore Excursions, Greece, Best Shore Excursions in Rhodes Greece, Best Cruise Shore Excursions
-  keywords: Best Rhodes Shore Excursions, Best Shore Excursions in Rhodes Greece, Best Cruise Shore Excursions
-  description: Best Rhodes Shore Excursions, Best Shore Excursions in Rhodes Greece, Best Cruise Shore Excursions
+  title: Best Shore Excursions in Rhodes Greece, Best Rhodes Shore Excursions, Cruise
+    Shore Excursions
+  http_desc: Best Rhodes Shore Excursions, Greece, Best Shore Excursions in Rhodes
+    Greece, Best Cruise Shore Excursions
+  keywords: Best Rhodes Shore Excursions, Best Shore Excursions in Rhodes Greece,
+    Best Cruise Shore Excursions
+  description: Best Rhodes Shore Excursions, Best Shore Excursions in Rhodes Greece,
+    Best Cruise Shore Excursions
   abstract: Best Cruise Shore Excursions in Rhodes Greece
-title: BEST RHODES SHORE EXCURSION
-intro: |-
-  This 5:00 hour adventure is the best introduction to Rhodes that these excursions have to offer. Your thirst for history will be slaked, your desire for beautiful scenery will be fulfilled and you will be back at your ship on time.
+intro: This 5:00 hour adventure is the best introduction to Rhodes that these excursions
+  have to offer. Your thirst for history will be slaked, your desire for beautiful
+  scenery will be fulfilled and you will be back at your ship on time.
 itinerary:
   title: Excursion Itinerary
   heading: Rhodes City, East Coast of the Island and Lindos
-  description: 'Half Day Private Shore Excursion 5:00 hours'
+  description: Half Day Private Shore Excursion 5:00 hours
   details: |-
     **Duration:** 5:00 hours. Usually we spend one hour in Lindos, but it depends on you for how long you need to visit Lindos. To climb up it takes 10 - 15 min, to look 30 min.
 
@@ -40,9 +45,8 @@ route_map:
   title: Route Map
   description: Roundtrip Approximately 120km / 74,5miles
   map:
-    path: /img/tours/best-rhodes/best_rhodes_greece_route_map_new.jpg
-    alt: 'BEST RHODES SHORE EXCURSION - Route map'
-
+    path: "/img/tours/best-rhodes/best_rhodes_greece_route_map_new.jpg"
+    alt: BEST RHODES SHORE EXCURSION - Route map
 useful:
   title: Useful Info
   text: |-
@@ -54,71 +58,71 @@ useful:
     6. You may prefer to use ATM machines when you need cash. ATMs are everywhere.
     7. Rhodes known for [Traditional Appetizers](rhodes_cuisine_greece.htm), desserts, [Wines](wine_tours_greece.htm), the famous handmade [Rhodes Pottery - Ceramics](greek_pottery.htm) and the beautiful [Rhodes Beaches](./rhodes-beach-tour-excursion.htm).
     8. More info in [Rhodes Private Tours](rhodes_private_tours.htm) F.A.Q.
-
 inclusions:
   title: Inclusions
   included:
-    - Private Shore Excursion (Just your party)
-    - Free Pick up and Drop off at the Cruise Port (or anywhere else)
-    - Experienced knowledgeable Tour/Driver English Speaking
-    - Mercedes Benz Sedan Car (4 passengers plus the driver) (<a href="groups.htm">bigger group or more room?</a>)
-    - All Car and Driver Expenses (prices are per car not per person)
-    - No Stress - Back to the Ship on Time (if you are a Cruise Ship Passenger)
-    - Personalized Customer Service
-    - Free Cancelation Policy
+  - Private Shore Excursion (Just your party)
+  - Free Pick up and Drop off at the Cruise Port (or anywhere else)
+  - Experienced knowledgeable Tour/Driver English Speaking
+  - Mercedes Benz Sedan Car (4 passengers plus the driver) (<a href="groups.htm">bigger
+    group or more room?</a>)
+  - All Car and Driver Expenses (prices are per car not per person)
+  - No Stress - Back to the Ship on Time (if you are a Cruise Ship Passenger)
+  - Personalized Customer Service
+  - Free Cancelation Policy
   not_included:
-    - Entrance Fees, Food, Drinks, Gratuities (Optional)
-
+  - Entrance Fees, Food, Drinks, Gratuities (Optional)
 gallery:
   title: Gallery
   images:
-    - path: /img/tours/best-rhodes/1.jpg
-      thumb: /img/tours/best-rhodes/1-thumb.jpg
-      alt: Best of Rhodes Greece Excursions
-    - path: /img/tours/best-rhodes/2.jpg
-      thumb: /img/tours/best-rhodes/2-thumb.jpg
-      alt: Best Rhodes Private Tours Greece
-    - path: /img/tours/best-rhodes/3.jpg
-      thumb: /img/tours/best-rhodes/3-thumb.jpg
-      alt: Best Shore Trips Rhodes Greece
-    - path: /img/tours/best-rhodes/4.jpg
-      thumb: /img/tours/best-rhodes/4-thumb.jpg
-      alt: Best Shore Trips Rhodes Greece
-    - path: /img/tours/best-rhodes/5.jpg
-      thumb: /img/tours/best-rhodes/5-thumb.jpg
-      alt: Best Private Shore Excursions in Rhodes Greece
-    - path: /img/tours/best-rhodes/6.jpg
-      thumb: /img/tours/best-rhodes/6-thumb.jpg
-      alt: Best Private Tours in Rhodes Greece
-    - path: /img/tours/best-rhodes/7.jpg
-      thumb: /img/tours/best-rhodes/7-thumb.jpg
-      alt: Best Cruise Excursions in Rhodes Greece
-    - path: /img/tours/best-rhodes/8.jpg
-      thumb: /img/tours/best-rhodes/8-thumb.jpg
-      alt: Best Shore Trips Rhodes Greece
-    - path: /img/tours/best-rhodes/9.jpg
-      thumb: /img/tours/best-rhodes/9-thumb.jpg
-      alt: Best Taxi Tours in Rhodes Greece
-    - path: /img/tours/best-rhodes/10.jpg
-      thumb: /img/tours/best-rhodes/10-thumb.jpg
-      alt: Best of Rhodes Shore Excursions Greece
-    - path: /img/tours/best-rhodes/11.jpg
-      thumb: /img/tours/best-rhodes/11-thumb.jpg
-      alt: Best Cruise Excursions in Rhodes Greece
-    - path: /img/tours/best-rhodes/12.jpg
-      thumb: /img/tours/best-rhodes/12-thumb.jpg
-      alt: Best Sightseeing Excursions in Rhodes
-    - path: /img/tours/best-rhodes/13.jpg
-      thumb: /img/tours/best-rhodes/13-thumb.jpg
-      alt: Best Sightseeing Excursions in Rhodes
-    - path: /img/tours/best-rhodes/14.jpg
-      thumb: /img/tours/best-rhodes/14-thumb.jpg
-      alt: Best Shore Trips Rhodes Greece
-    - path: /img/tours/best-rhodes/15.jpg
-      thumb: /img/tours/best-rhodes/15-thumb.jpg
-      alt: Best Shore Tours in Rhodes Greece
+  - path: "/img/tours/best-rhodes/1.jpg"
+    thumb: "/img/tours/best-rhodes/1-thumb.jpg"
+    alt: Best of Rhodes Greece Excursions
+  - path: "/img/tours/best-rhodes/2.jpg"
+    thumb: "/img/tours/best-rhodes/2-thumb.jpg"
+    alt: Best Rhodes Private Tours Greece
+  - path: "/img/tours/best-rhodes/3.jpg"
+    thumb: "/img/tours/best-rhodes/3-thumb.jpg"
+    alt: Best Shore Trips Rhodes Greece
+  - path: "/img/tours/best-rhodes/4.jpg"
+    thumb: "/img/tours/best-rhodes/4-thumb.jpg"
+    alt: Best Shore Trips Rhodes Greece
+  - path: "/img/tours/best-rhodes/5.jpg"
+    thumb: "/img/tours/best-rhodes/5-thumb.jpg"
+    alt: Best Private Shore Excursions in Rhodes Greece
+  - path: "/img/tours/best-rhodes/6.jpg"
+    thumb: "/img/tours/best-rhodes/6-thumb.jpg"
+    alt: Best Private Tours in Rhodes Greece
+  - path: "/img/tours/best-rhodes/7.jpg"
+    thumb: "/img/tours/best-rhodes/7-thumb.jpg"
+    alt: Best Cruise Excursions in Rhodes Greece
+  - path: "/img/tours/best-rhodes/8.jpg"
+    thumb: "/img/tours/best-rhodes/8-thumb.jpg"
+    alt: Best Shore Trips Rhodes Greece
+  - path: "/img/tours/best-rhodes/9.jpg"
+    thumb: "/img/tours/best-rhodes/9-thumb.jpg"
+    alt: Best Taxi Tours in Rhodes Greece
+  - path: "/img/tours/best-rhodes/10.jpg"
+    thumb: "/img/tours/best-rhodes/10-thumb.jpg"
+    alt: Best of Rhodes Shore Excursions Greece
+  - path: "/img/tours/best-rhodes/11.jpg"
+    thumb: "/img/tours/best-rhodes/11-thumb.jpg"
+    alt: Best Cruise Excursions in Rhodes Greece
+  - path: "/img/tours/best-rhodes/12.jpg"
+    thumb: "/img/tours/best-rhodes/12-thumb.jpg"
+    alt: Best Sightseeing Excursions in Rhodes
+  - path: "/img/tours/best-rhodes/13.jpg"
+    thumb: "/img/tours/best-rhodes/13-thumb.jpg"
+    alt: Best Sightseeing Excursions in Rhodes
+  - path: "/img/tours/best-rhodes/14.jpg"
+    thumb: "/img/tours/best-rhodes/14-thumb.jpg"
+    alt: Best Shore Trips Rhodes Greece
+  - path: "/img/tours/best-rhodes/15.jpg"
+    thumb: "/img/tours/best-rhodes/15-thumb.jpg"
+    alt: Best Shore Tours in Rhodes Greece
 outro: Rhodes Private Shore Excursions and Private Tours in Rhodes Greece
 ---
+
 ### RHODES MEDIEVAL CITY
 
 From the cruise ship dock/pier we drive to the **Medieval City (World Heritage Site---UNESCO)**. We will stop at the most important monuments of the Medieval City for pictures from outside. The Archaeological Museum, The Street of the Knights, The Grand Master Palace, The Ruins of Sent John Cathedral and The D'Amboise Gate

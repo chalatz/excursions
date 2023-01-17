@@ -1,23 +1,26 @@
 ---
+title: Private Shore Excursions on Rhodes Greece
+permalink: private-shore-excursions-rhodes-greece.htm
 layout: page
 type: info_page
 id: our_story
 parent: about
-permalink: private-shore-excursions-rhodes-greece.htm
 has_gallery: true
 has_destinations: true
 has_banners: true
 meta:
   title: Private Shore Excursions on Rhodes Greece
-  http_desc: Private Shore Excursions on Rhodes Greece, Shore Excursions on Rhodes Island Greece
-  keywords: Private Shore Excursions on Rhodes Greece, Shore Excursions on Rhodes Island Greece
-  description: Private Shore Excursions on Rhodes Greece, Shore Excursions on Rhodes Island Greece
+  http_desc: Private Shore Excursions on Rhodes Greece, Shore Excursions on Rhodes
+    Island Greece
+  keywords: Private Shore Excursions on Rhodes Greece, Shore Excursions on Rhodes
+    Island Greece
+  description: Private Shore Excursions on Rhodes Greece, Shore Excursions on Rhodes
+    Island Greece
   abstract: Private Shore Excursions on Rhodes Greece
-title: Private Shore Excursions on Rhodes Greece
 subtitle: ''
 head_photo:
-  img: /img/pages/about/head-photo.jpg
-  mobile: /img/pages/about/head-photo-mobile.jpg
+  img: "/img/pages/about/head-photo.jpg"
+  mobile: "/img/pages/about/head-photo-mobile.jpg"
   alt_text: ''
 profile:
   title: Biography
@@ -28,7 +31,7 @@ profile:
 
     Both Nick and Michael are fluent in Greek, speak and write near-perfect English and Arabic, speak comprehensible Spanish, German, and Italian, and can even manage a bit of French---enough for basic conversation.
   image:
-    image: /img/pages/about/nicholas.jpg
+    image: "/img/pages/about/nicholas.jpg"
     alt_text: Nicholas - Rhodes Private Day Tours
 gallery:
   items_per_row: 5
@@ -71,8 +74,8 @@ gallery:
         Guides, while filming in Rhodes
     caption: Nicholas with India Pearson, the Production Manager of "Holiday Extras
       Travel Guides", while filming in Rhodes
-
 ---
+
 **We have been in business since 1984, (online since 1998) providing outstanding Private Tour Services to travelers from all over the world.** We are extremely proud of our rich, cultural heritage, and we delight in sharing our island's natural beauty with you. We have accommodated small groups in our Mercedes Benz sedan cars. As larger groups, have become interested in our services, we provide Luxury Mercedes Benz Minibuses driven by Professional Drivers and hosted by Licensed Tour Guides, required by Greek law. [Private Group Shore Excursions](./groups.htm)
 
 #### Our Primary Reason for Operating this Travel Agency

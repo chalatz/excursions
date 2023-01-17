@@ -1,25 +1,32 @@
 ---
+title: RHODES JEWISH TOUR
+permalink: jewish_tours_greece.htm
 layout: tour
 type: tour
 id: jewish_tours
-permalink: jewish_tours_greece.htm
 has_gallery: true
 has_carousel: true
 has_destinations: true
 has_banners: true
 meta:
   title: Rhodes Jewish Tour, Jewish Tours in Rhodes Greece
-  http_desc: Rhodes Jewish Tour, Jewish Tours in Rhodes Greece, Rhodes Jewish Shore Excursions
-  keywords: Rhodes Jewish Tour, Jewish Tours in Rhodes Greece, Rhodes Jewish Shore Excursions
-  description: Rhodes Jewish Tour, Jewish Tours in Rhodes Greece, Rhodes Jewish Shore Excursions
+  http_desc: Rhodes Jewish Tour, Jewish Tours in Rhodes Greece, Rhodes Jewish Shore
+    Excursions
+  keywords: Rhodes Jewish Tour, Jewish Tours in Rhodes Greece, Rhodes Jewish Shore
+    Excursions
+  description: Rhodes Jewish Tour, Jewish Tours in Rhodes Greece, Rhodes Jewish Shore
+    Excursions
   abstract: Rhodes Jewish Tour, Jewish Tours in Rhodes Greece
-title: RHODES JEWISH TOUR
-intro: |-
-  During this excursion, you will learn about a vibrant Jewish community that was wiped out in World War II. The impact this group of people had on the history of Rhodes will be apparent when you tour the Juderia (the Jewish Quarter of the Medieval City) and other Jewish sites. Among other things, you will leave this tour with a greater insight into a unique population and an appreciation of the efforts to preserve its history.
+intro: During this excursion, you will learn about a vibrant Jewish community that
+  was wiped out in World War II. The impact this group of people had on the history
+  of Rhodes will be apparent when you tour the Juderia (the Jewish Quarter of the
+  Medieval City) and other Jewish sites. Among other things, you will leave this tour
+  with a greater insight into a unique population and an appreciation of the efforts
+  to preserve its history.
 itinerary:
   title: Excursion Itinerary
   heading: Jewish Heritage, Rhodes Town, East Coast, Lindos
-  description: 'Private Shore Excursion 6:00 hours'
+  description: Private Shore Excursion 6:00 hours
   details: |-
     **Duration:** 6:00 hours
 
@@ -40,87 +47,91 @@ route_map:
   title: Route Map
   description: Roundtrip approximately 128km / 79,53miles
   map:
-    path: /img/tours/jewish-tours/jewish_tours_greece_route_map.jpg
-    alt: 'BEST RHODES SHORE EXCURSION - Route map'
-
+    path: "/img/tours/jewish-tours/jewish_tours_greece_route_map.jpg"
+    alt: BEST RHODES SHORE EXCURSION - Route map
 useful:
   title: Useful Info
-  text: |-
-    1. The Synagogue and the Museum are closed on Saturdays. The Jewish Cemetery closed on Saturdays and Sundays. Entrance fee in the Synagogue and the Jewish Museum is 4 Euros per person
-    2. To reach the Acropolis of Lindos you will be required to climb 292 steps, or ride on a donkey.
-    3. If you have elderly people in your group, we can drive them down on the beautiful beach of Lindos have a drink and a nice discuss with the driver and enjoy the panoramic view while they are waiting for you to climb up the Acropolis of Lindos.
-    4. Entrance fee Acropolis of Lindos 12 Euros per person, Seniors (with Id or Passport) 6 Euros per person, Children under 18 years old free, No charge to enter Lindos village. 
-    5. You may prefer to use ATM machines when you need cash. ATMs are everywhere.
-    6. Rhodes known for [Traditional Appetizers](rhodes_cuisine_greece.htm), desserts, [Wines](wine_tours_greece.htm), the famous handmade [Rhodes Pottery - Ceramics](greek_pottery.htm) and the beautiful [Rhodes Beaches](./rhodes-beach-tour-excursion.htm).
-    7. More [Rhodes Private Tours](rhodes_private_tours.htm) F.A.Q.
-
+  text: "1. The Synagogue and the Museum are closed on Saturdays. The Jewish Cemetery
+    closed on Saturdays and Sundays. Entrance fee in the Synagogue and the Jewish
+    Museum is 4 Euros per person\n2. To reach the Acropolis of Lindos you will be
+    required to climb 292 steps, or ride on a donkey.\n3. If you have elderly people
+    in your group, we can drive them down on the beautiful beach of Lindos have a
+    drink and a nice discuss with the driver and enjoy the panoramic view while they
+    are waiting for you to climb up the Acropolis of Lindos.\n4. Entrance fee Acropolis
+    of Lindos 12 Euros per person, Seniors (with Id or Passport) 6 Euros per person,
+    Children under 18 years old free, No charge to enter Lindos village. \n5. You
+    may prefer to use ATM machines when you need cash. ATMs are everywhere.\n6. Rhodes
+    known for [Traditional Appetizers](rhodes_cuisine_greece.htm), desserts, [Wines](wine_tours_greece.htm),
+    the famous handmade [Rhodes Pottery - Ceramics](greek_pottery.htm) and the beautiful [Rhodes
+    Beaches](./rhodes-beach-tour-excursion.htm).\n7. More [Rhodes Private Tours](rhodes_private_tours.htm) F.A.Q."
 inclusions:
   title: Inclusions
   included:
-    - Private Shore Excursion (Just your party)
-    - Free Pick up and Drop off at the Cruise Port (or anywhere else)
-    - Experienced knowledgeable Tour/Driver English Speaking
-    - Mercedes Benz Sedan Car (4 passengers plus the driver) (<a href="groups.htm">bigger group or more room?</a>)
-    - All Car and Driver Expenses (prices are per car not per person)
-    - No Stress - Back to the Ship on Time (if you are a Cruise Ship Passenger)
-    - Personalized Customer Service
-    - Free Cancelation Policy
+  - Private Shore Excursion (Just your party)
+  - Free Pick up and Drop off at the Cruise Port (or anywhere else)
+  - Experienced knowledgeable Tour/Driver English Speaking
+  - Mercedes Benz Sedan Car (4 passengers plus the driver) (<a href="groups.htm">bigger
+    group or more room?</a>)
+  - All Car and Driver Expenses (prices are per car not per person)
+  - No Stress - Back to the Ship on Time (if you are a Cruise Ship Passenger)
+  - Personalized Customer Service
+  - Free Cancelation Policy
   not_included:
-    - Entrance Fees, Food, Drinks, Gratuities (Optional)
-
+  - Entrance Fees, Food, Drinks, Gratuities (Optional)
 gallery:
   title: Gallery
   images:
-    - path: /img/tours/jewish-tours/1.jpg
-      thumb: /img/tours/jewish-tours/1-thumb.jpg
-      alt: Jewish Tours of Rhodos, Rodos Island
-    - path: /img/tours/jewish-tours/2.jpg
-      thumb: /img/tours/jewish-tours/2-thumb.jpg
-      alt: Rhodes taxi tours
-    - path: /img/tours/jewish-tours/3.jpg
-      thumb: /img/tours/jewish-tours/3-thumb.jpg
-      alt: Cruise excursions Greek isles
-    - path: /img/tours/jewish-tours/4.jpg
-      thumb: /img/tours/jewish-tours/4-thumb.jpg
-      alt: Jewish Heritage Greece Rhodes
-    - path: /img/tours/jewish-tours/5.jpg
-      thumb: /img/tours/jewish-tours/5-thumb.jpg
-      alt: Discount Jewish excursions Rhodes
-    - path: /img/tours/jewish-tours/6.jpg
-      thumb: /img/tours/jewish-tours/6-thumb.jpg
-      alt: Jewish Travel Tours Greece Rhodes
-    - path: /img/tours/jewish-tours/7.jpg
-      thumb: /img/tours/jewish-tours/7-thumb.jpg
-      alt: Jewish heritage boutique excursions
-    - path: /img/tours/jewish-tours/8.jpg
-      thumb: /img/tours/jewish-tours/8-thumb.jpg
-      alt: Jewish History Tours Greece Rhodes
-    - path: /img/tours/jewish-tours/9.jpg
-      thumb: /img/tours/jewish-tours/9-thumb.jpg
-      alt: Cruise excursions and Jewish travel
-    - path: /img/tours/jewish-tours/10.jpg
-      thumb: /img/tours/jewish-tours/10-thumb.jpg
-      alt: Rhodes Jewish guided tours
-    - path: /img/tours/jewish-tours/11.jpg
-      thumb: /img/tours/jewish-tours/11-thumb.jpg
-      alt: Jewish excursion in one day
-    - path: /img/tours/jewish-tours/12.jpg
-      thumb: /img/tours/jewish-tours/12-thumb.jpg
-      alt: Rhodes Private Jewish Tours
-    - path: /img/tours/jewish-tours/13.jpg
-      thumb: /img/tours/jewish-tours/13-thumb.jpg
-      alt: Rhodes Greece Jewish Tours
-    - path: /img/tours/jewish-tours/14.jpg
-      thumb: /img/tours/jewish-tours/14-thumb.jpg
-      alt: Best Jewish Tours of Rhodes Greece
-    - path: /img/tours/jewish-tours/15.jpg
-      thumb: /img/tours/jewish-tours/15-thumb.jpg
-      alt: Jewish daily tours in Rhodes Greece
-    - path: /img/tours/jewish-tours/16.jpg
-      thumb: /img/tours/jewish-tours/16-thumb.jpg
-      alt: Jewish group tours in Rhodes Greece
+  - path: "/img/tours/jewish-tours/1.jpg"
+    thumb: "/img/tours/jewish-tours/1-thumb.jpg"
+    alt: Jewish Tours of Rhodos, Rodos Island
+  - path: "/img/tours/jewish-tours/2.jpg"
+    thumb: "/img/tours/jewish-tours/2-thumb.jpg"
+    alt: Rhodes taxi tours
+  - path: "/img/tours/jewish-tours/3.jpg"
+    thumb: "/img/tours/jewish-tours/3-thumb.jpg"
+    alt: Cruise excursions Greek isles
+  - path: "/img/tours/jewish-tours/4.jpg"
+    thumb: "/img/tours/jewish-tours/4-thumb.jpg"
+    alt: Jewish Heritage Greece Rhodes
+  - path: "/img/tours/jewish-tours/5.jpg"
+    thumb: "/img/tours/jewish-tours/5-thumb.jpg"
+    alt: Discount Jewish excursions Rhodes
+  - path: "/img/tours/jewish-tours/6.jpg"
+    thumb: "/img/tours/jewish-tours/6-thumb.jpg"
+    alt: Jewish Travel Tours Greece Rhodes
+  - path: "/img/tours/jewish-tours/7.jpg"
+    thumb: "/img/tours/jewish-tours/7-thumb.jpg"
+    alt: Jewish heritage boutique excursions
+  - path: "/img/tours/jewish-tours/8.jpg"
+    thumb: "/img/tours/jewish-tours/8-thumb.jpg"
+    alt: Jewish History Tours Greece Rhodes
+  - path: "/img/tours/jewish-tours/9.jpg"
+    thumb: "/img/tours/jewish-tours/9-thumb.jpg"
+    alt: Cruise excursions and Jewish travel
+  - path: "/img/tours/jewish-tours/10.jpg"
+    thumb: "/img/tours/jewish-tours/10-thumb.jpg"
+    alt: Rhodes Jewish guided tours
+  - path: "/img/tours/jewish-tours/11.jpg"
+    thumb: "/img/tours/jewish-tours/11-thumb.jpg"
+    alt: Jewish excursion in one day
+  - path: "/img/tours/jewish-tours/12.jpg"
+    thumb: "/img/tours/jewish-tours/12-thumb.jpg"
+    alt: Rhodes Private Jewish Tours
+  - path: "/img/tours/jewish-tours/13.jpg"
+    thumb: "/img/tours/jewish-tours/13-thumb.jpg"
+    alt: Rhodes Greece Jewish Tours
+  - path: "/img/tours/jewish-tours/14.jpg"
+    thumb: "/img/tours/jewish-tours/14-thumb.jpg"
+    alt: Best Jewish Tours of Rhodes Greece
+  - path: "/img/tours/jewish-tours/15.jpg"
+    thumb: "/img/tours/jewish-tours/15-thumb.jpg"
+    alt: Jewish daily tours in Rhodes Greece
+  - path: "/img/tours/jewish-tours/16.jpg"
+    thumb: "/img/tours/jewish-tours/16-thumb.jpg"
+    alt: Jewish group tours in Rhodes Greece
 outro: Rhodes Private Shore Excursions and Private Tours in Rhodes Greece
 ---
+
 ### RHODES NEW TOWN
 
 From the cruise ship dock/pier we drive to the historical buildings where the Venetian, Gothic and Oriental elements blend:

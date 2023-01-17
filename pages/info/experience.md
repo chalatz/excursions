@@ -1,8 +1,9 @@
 ---
+title: __YEARS_OF_XP__ Years of Quality Shore Excursions 1984 - __CURRENT_YEAR__
+permalink: experience.htm
 layout: page
 type: info_page
 id: rick_steves
-permalink: experience.htm
 has_gallery: true
 has_destinations: false
 has_banners: false
@@ -12,13 +13,12 @@ meta:
   keywords: Experienced Guides, Rhodes Shore Excursions, Greece
   description: Experienced Guides, Rhodes Shore Excursions, Greece
   abstract: Experienced Guides, Rhodes Shore Excursions, Greece
-title: __YEARS_OF_XP__ Years of Quality Shore Excursions 1984 - __CURRENT_YEAR__
 intro: |-
   Beginning in 1984, tourists have been able to take advantage of our high quality private tour service.
 
   Our online presence dates back to 1998.
-
 ---
+
 ### We are knowledgeable
 
 We know everything there is to know about Rhodes. As you drive around the Island with us, you will find that we are well-informed about the history and culture of the places you visit. Our tours are not quick drive-throughs. They are excursions into the past and expeditions into the present. You will leave your tour with a deeper understanding and appreciation of this beautiful place.

@@ -1,19 +1,24 @@
 ---
+permalink: index.htm
 layout: home
 type: home
-permalink: index.htm
 id: home
 head_photo:
-  img: /img/home/head-photo.jpg?v1_5
-  mobile: /img/home/head-photo-mobile.jpg?v1_5
-  img_webp: /img/home/head-photo.webp
-  mobile_webp: /img/home/head-photo-mobile.webp
+  img: "/img/home/head-photo.jpg?v1_5"
+  mobile: "/img/home/head-photo-mobile.jpg?v1_5"
+  img_webp: "/img/home/head-photo.webp"
+  mobile_webp: "/img/home/head-photo-mobile.webp"
   alt_text: ''
 meta:
-  title: Rhodes Shore Excursions Greece, Shore Excursions in Rhodes Greece, Rhodes Private Tours
-  http_desc: Rhodes Shore Excursions Greece, Shore Excursions in Rhodes Greece, Rhodes Private Tours, Rhodes Cruise Excursions, Best Shore Excursions in Rhodes Greece
-  keywords: Rhodes Shore Excursions Greece, Shore Excursions in Rhodes Greece, Rhodes Private Tours, Rhodes Cruise Excursions, Best Shore Excursions in Rhodes Greece
-  description: Rhodes Shore Excursions Greece, Shore Excursions in Rhodes Greece, Rhodes Private Tours, Rhodes Cruise Excursions, Best Shore Excursions in Rhodes Greece
+  title: Rhodes Shore Excursions Greece, Shore Excursions in Rhodes Greece, Rhodes
+    Private Tours
+  http_desc: Rhodes Shore Excursions Greece, Shore Excursions in Rhodes Greece, Rhodes
+    Private Tours, Rhodes Cruise Excursions, Best Shore Excursions in Rhodes Greece
+  keywords: Rhodes Shore Excursions Greece, Shore Excursions in Rhodes Greece, Rhodes
+    Private Tours, Rhodes Cruise Excursions, Best Shore Excursions in Rhodes Greece
+  description: Rhodes Shore Excursions Greece, Shore Excursions in Rhodes Greece,
+    Rhodes Private Tours, Rhodes Cruise Excursions, Best Shore Excursions in Rhodes
+    Greece
   abstract: Rhodes Shore Excursions Greece, Rhodes Private Tours
 intro: |-
   Are you a cruiser and first-time visitor to Rhodes? Looking for a way to maximize your short time on the island?
@@ -21,6 +26,7 @@ intro: |-
   If Yes, then you came to the right place. **Welcome to Rhodes Shore Excursions!**
 has_emergency: true
 ---
+
 {:.centered}
 **Get help from true insiders.**
 

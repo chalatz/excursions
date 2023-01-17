@@ -1,8 +1,9 @@
 ---
+title: Rhodes Greece Shore Excursions
+permalink: rhodes-greece-shore-excursions.htm
 layout: page
 type: info_page
 id: ptivacy
-permalink: rhodes-greece-shore-excursions.htm
 has_gallery: false
 has_destinations: false
 has_banners: false
@@ -12,7 +13,6 @@ meta:
   keywords: Rhodes Greece Shore Excursions, Rhodes Greece Shore Tours
   description: Rhodes Greece Shore Excursions, Rhodes Greece Shore Tours
   abstract: Limited Walking Mobility in Rhodes
-title: Rhodes Greece Shore Excursions
 subtitle: ''
 head_photo:
   img: ''
@@ -20,6 +20,7 @@ head_photo:
   alt_text: ''
 outro: ''
 ---
+
 ##### PRIVACY POLICY
 
 {:.centered}

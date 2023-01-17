@@ -1,8 +1,9 @@
 ---
+title: Rhodes Beach Tour - Excursion
+permalink: rhodes-beach-tour-excursion.htm
 layout: tour
 type: tour
 id: beaches_tour
-permalink: rhodes-beach-tour-excursion.htm
 has_gallery: true
 has_carousel: true
 has_destinations: true
@@ -13,7 +14,6 @@ meta:
   keywords: Rhodes Beach Tour Excursion, Beach Tours Excursions in Rhodes Greece
   description: Rhodes Beach Tour Excursion, Beach Tours Excursions in Rhodes Greece
   abstract: Rhodes Beach Tour Excursion, Beach Tours Excursions in Rhodes Greece
-title: Rhodes Beach Tour - Excursion
 intro: |-
   A trip to an island is never complete without visiting the beautiful beaches. Allow us to take you on a beach adventure and show you the most beautiful beaches of Rhodes Island. This is your chance to see the immense natural beauty of Rhodes Island. You will also get to visit Lindos Village and Acropolis on the way.
 
@@ -21,7 +21,7 @@ intro: |-
 itinerary:
   title: Excursion Itinerary
   heading: Best Beaches of the East Coast of the island & Sea Bath
-  description: 'Half Day Private Shore Excursion 5:00 hours'
+  description: Half Day Private Shore Excursion 5:00 hours
   details: |-
     **Duration:** 5:00 hours. Usually we spend one hour in Lindos, but it depends on you for how long you need to visit Lindos. To climb up it takes 10 - 15 min, to look 30 min.
 
@@ -38,14 +38,12 @@ itinerary:
     **(Stop Pictures)** = Stop and get out of the car for pictures from outside of the Sight/building
 
     **(Stop Visit Pictures)** = Stop and visit - go inside the sight/building for pictures
-
 route_map:
   title: Route Map
   description: Roundtrip Approximately 145km / 90miles
   map:
-    path: /img/tours/beaches-tour/rhodes-beaches-route-map.jpg
-    alt: 'Rhodes Beach Tour - Excursion - Route map'
-
+    path: "/img/tours/beaches-tour/rhodes-beaches-route-map.jpg"
+    alt: Rhodes Beach Tour - Excursion - Route map
 useful:
   title: Useful Info
   text: |-
@@ -56,71 +54,71 @@ useful:
     5. You may prefer to use ATM machines when you need cash. ATMs are everywhere.
     6. Rhodes known for [Traditional Appetizers](rhodes_cuisine_greece.htm), desserts, [Wines](wine_tours_greece.htm), the famous handmade [Rhodes Pottery - Ceramics](greek_pottery.htm) and the beautiful [Rhodes Beaches](./rhodes-beach-tour-excursion.htm).
     7. More info in [Rhodes Private Tours](rhodes_private_tours.htm) F.A.Q.
-
 inclusions:
   title: Inclusions
   included:
-    - Private Shore Excursion (Just your party)
-    - Free Pick up and Drop off at the Cruise Port (or anywhere else)
-    - Experienced knowledgeable Tour/Driver English Speaking
-    - Mercedes Benz Sedan Car (4 passengers plus the driver) (<a href="groups.htm">bigger group or more room?</a>)
-    - All Car and Driver Expenses (prices are per car not per person)
-    - No Stress - Back to the Ship on Time (if you are a Cruise Ship Passenger)
-    - Personalized Customer Service
-    - Free Cancelation Policy
+  - Private Shore Excursion (Just your party)
+  - Free Pick up and Drop off at the Cruise Port (or anywhere else)
+  - Experienced knowledgeable Tour/Driver English Speaking
+  - Mercedes Benz Sedan Car (4 passengers plus the driver) (<a href="groups.htm">bigger
+    group or more room?</a>)
+  - All Car and Driver Expenses (prices are per car not per person)
+  - No Stress - Back to the Ship on Time (if you are a Cruise Ship Passenger)
+  - Personalized Customer Service
+  - Free Cancelation Policy
   not_included:
-    - Entrance Fees, Food, Drinks, Gratuities (Optional)
-
+  - Entrance Fees, Food, Drinks, Gratuities (Optional)
 gallery:
   title: Gallery
   images:
-    - path: /img/tours/beaches-tour/1.jpg
-      thumb: /img/tours/beaches-tour/1-thumb.jpg
-      alt: ''
-    - path: /img/tours/beaches-tour/2.jpg
-      thumb: /img/tours/beaches-tour/2-thumb.jpg
-      alt: ''
-    - path: /img/tours/beaches-tour/3.jpg
-      thumb: /img/tours/beaches-tour/3-thumb.jpg
-      alt: ''
-    - path: /img/tours/beaches-tour/4.jpg
-      thumb: /img/tours/beaches-tour/4-thumb.jpg
-      alt: ''
-    - path: /img/tours/beaches-tour/5.jpg
-      thumb: /img/tours/beaches-tour/5-thumb.jpg
-      alt: ''
-    - path: /img/tours/beaches-tour/6.jpg
-      thumb: /img/tours/beaches-tour/6-thumb.jpg
-      alt: ''
-    - path: /img/tours/beaches-tour/7.jpg
-      thumb: /img/tours/beaches-tour/7-thumb.jpg
-      alt: ''
-    - path: /img/tours/beaches-tour/8.jpg
-      thumb: /img/tours/beaches-tour/8-thumb.jpg
-      alt: ''
-    - path: /img/tours/beaches-tour/9.jpg
-      thumb: /img/tours/beaches-tour/9-thumb.jpg
-      alt: ''
-    - path: /img/tours/beaches-tour/10.jpg
-      thumb: /img/tours/beaches-tour/10-thumb.jpg
-      alt: ''
-    - path: /img/tours/beaches-tour/11.jpg
-      thumb: /img/tours/beaches-tour/11-thumb.jpg
-      alt: ''
-    - path: /img/tours/beaches-tour/12.jpg
-      thumb: /img/tours/beaches-tour/12-thumb.jpg
-      alt: ''
-    - path: /img/tours/beaches-tour/13.jpg
-      thumb: /img/tours/beaches-tour/13-thumb.jpg
-      alt: ''
-    - path: /img/tours/beaches-tour/14.jpg
-      thumb: /img/tours/beaches-tour/14-thumb.jpg
-      alt: ''
-    - path: /img/tours/beaches-tour/15.jpg
-      thumb: /img/tours/beaches-tour/15-thumb.jpg
-      alt: ''
+  - path: "/img/tours/beaches-tour/1.jpg"
+    thumb: "/img/tours/beaches-tour/1-thumb.jpg"
+    alt: ''
+  - path: "/img/tours/beaches-tour/2.jpg"
+    thumb: "/img/tours/beaches-tour/2-thumb.jpg"
+    alt: ''
+  - path: "/img/tours/beaches-tour/3.jpg"
+    thumb: "/img/tours/beaches-tour/3-thumb.jpg"
+    alt: ''
+  - path: "/img/tours/beaches-tour/4.jpg"
+    thumb: "/img/tours/beaches-tour/4-thumb.jpg"
+    alt: ''
+  - path: "/img/tours/beaches-tour/5.jpg"
+    thumb: "/img/tours/beaches-tour/5-thumb.jpg"
+    alt: ''
+  - path: "/img/tours/beaches-tour/6.jpg"
+    thumb: "/img/tours/beaches-tour/6-thumb.jpg"
+    alt: ''
+  - path: "/img/tours/beaches-tour/7.jpg"
+    thumb: "/img/tours/beaches-tour/7-thumb.jpg"
+    alt: ''
+  - path: "/img/tours/beaches-tour/8.jpg"
+    thumb: "/img/tours/beaches-tour/8-thumb.jpg"
+    alt: ''
+  - path: "/img/tours/beaches-tour/9.jpg"
+    thumb: "/img/tours/beaches-tour/9-thumb.jpg"
+    alt: ''
+  - path: "/img/tours/beaches-tour/10.jpg"
+    thumb: "/img/tours/beaches-tour/10-thumb.jpg"
+    alt: ''
+  - path: "/img/tours/beaches-tour/11.jpg"
+    thumb: "/img/tours/beaches-tour/11-thumb.jpg"
+    alt: ''
+  - path: "/img/tours/beaches-tour/12.jpg"
+    thumb: "/img/tours/beaches-tour/12-thumb.jpg"
+    alt: ''
+  - path: "/img/tours/beaches-tour/13.jpg"
+    thumb: "/img/tours/beaches-tour/13-thumb.jpg"
+    alt: ''
+  - path: "/img/tours/beaches-tour/14.jpg"
+    thumb: "/img/tours/beaches-tour/14-thumb.jpg"
+    alt: ''
+  - path: "/img/tours/beaches-tour/15.jpg"
+    thumb: "/img/tours/beaches-tour/15-thumb.jpg"
+    alt: ''
 outro: Rhodes Private Shore Excursions and Private Tours in Rhodes Greece
 ---
+
 ### Faliraki Beach
 
 Located around 14 km / 8.6 miles from Rhodes Town, Faliraki beach is the perfect place to get that perfect golden tan. The natural beauty of the beach is simply unmatched, making it one of the most beautiful beaches of Rhodes. The beach stretches on for around 4Km with crystal clear blue water that will make you want to jump right in. You can also indulge in multiple water sports activities, including banana rides, jet skiing, paragliding, rings, pedalos, and even bungee jumping! (Stop Visit Photos)
