@@ -5,12 +5,13 @@ collections:
   posts:
     title: Posts
     output: true
+  reviews:
+    title: Reviews
+    output: false
+    sort_by: year
   uploads:
     title: Uploads
     output: true
-  reviews:
-    title: Reviews
-    sort_by: year
 defaults:
 - scope:
     path: pages/tours
