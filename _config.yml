@@ -8,6 +8,9 @@ collections:
   uploads:
     title: Uploads
     output: true
+  reviews:
+    title: Reviews
+    sort_by: year
 defaults:
 - scope:
     path: pages/tours
