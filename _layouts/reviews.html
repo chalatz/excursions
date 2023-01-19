@@ -98,8 +98,8 @@ layout: default
             </h3>
 
             <ul class="reviews__years-list">
-                {%- for review in page.reviews -%}
-                    {%- if review.text and review.text.size > 0 -%}
+                {%- for review in site.reviews reversed -%}
+                    {%- if review.content and review.content.size > 0 -%}
                         <li class="reviews__years-list-item">
                             <a href="#{{- review.year -}}" class="reviews__years-list-link">
                                 {{- review.year -}}
@@ -115,15 +115,15 @@ layout: default
     <section class="section">
         <div class="container reviews__list">
 
-            {%- for review in page.reviews -%}
-                {%- if review.text and review.text.size > 0 -%}
+            {%- for review in site.reviews reversed -%}
+                {%- if review.content and review.content.size > 0 -%}
                     <div class="reviews__list-item">
                         <span class="anchor-section" id="{{- review.year -}}"></span>
                         <h3 class="reviews__list-item-heading">
                             REVIEWS - TESTIMONIALS {{ review.year }}
                         </h3>
                         <div class="reviews__list-item-content">
-                            {{ review.text | markdownify }}
+                            {{ review.content | markdownify }}
                         </div>
                         <div class="reviews__go-to-top">
                             <a href="#reviews-top" class="reviews__go-to-top-link">
