@@ -99,7 +99,7 @@ layout: default
 
             <ul class="reviews__years-list">
                 {%- for review in site.reviews reversed -%}
-                    {%- if review.content and review.content.size > 0 -%}
+                    {%- if review.content and review.content.size > 1 -%}
                         <li class="reviews__years-list-item">
                             <a href="#{{- review.year -}}" class="reviews__years-list-link">
                                 {{- review.year -}}
@@ -116,7 +116,7 @@ layout: default
         <div class="container reviews__list">
 
             {%- for review in site.reviews reversed -%}
-                {%- if review.content and review.content.size > 0 -%}
+                {%- if review.content and review.content.size > 1 -%}
                     <div class="reviews__list-item">
                         <span class="anchor-section" id="{{- review.year -}}"></span>
                         <h3 class="reviews__list-item-heading">
