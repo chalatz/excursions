@@ -86,4 +86,4 @@ If you are experiencing any issues or problems during the tour, please call us a
  
 If you have any questions regarding our Terms and Conditions, or there is something you do not understand, please feel free to ask us via email and we will be more than happy to answer any questions you may have. info@RhodesShoreExcursions.com
  
-Last Updated: October 26, 2020
+Last Updated: February 6, 2023
