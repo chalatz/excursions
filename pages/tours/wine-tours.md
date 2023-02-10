@@ -90,6 +90,29 @@ itinerary:
           href: img/tours/wine-tours/content/08.jpg
           alt: Best Wineries in Rhodes Greece
           is_link: false
+    stafylos:
+      items_per_row: 4
+      items:
+      - image:
+          thumb: img/tours/wine-tours/content/thumb-stafylos-1.jpg
+          href: img/tours/wine-tours/content/stafylos-1.jpg
+          alt: Rhodes Taxi Tours
+          is_link: false
+      - image:
+          thumb: img/tours/wine-tours/content/thumb-stafylos-2.jpg
+          href: img/tours/wine-tours/content/stafylos-2.jpg
+          alt: Private wine tours in Rhodes
+          is_link: false
+      - image:
+          thumb: img/tours/wine-tours/content/thumb-stafylos-3.jpg
+          href: img/tours/wine-tours/content/stafylos-3.jpg
+          alt: Discount shore excursions Rhodes
+          is_link: false
+      - image:
+          thumb: img/tours/wine-tours/content/thumb-stafylos-4.jpg
+          href: img/tours/wine-tours/content/stafylos-4.jpg
+          alt: Boutique excursions in Rhodes Greece
+          is_link: false
     merkouris:
       items_per_row: 4
       items:
@@ -286,6 +309,12 @@ On the way we stop near the Valley of the Butterflies at the small **Wine factor
 ### EMBONAS VILLAGE
 
 We continue along the mountain’s path south west to **Embonas Village**, the most important grape-producing village on the island. Embona is a mountainous village halfway up the Attavyros Mountain, it is the highest village at 800m / 2.600f. above sea level, situated in immense natural beauty and the views of the surrounding areas are awesome. Attavyros is the highest mountain on the island of Rhodes, it rises to a height of 1,215m. / 3.980f. and it lies to the south of the village, most of the vineyards are planted on its slopes and foothills.
+
+### CAVA STAFYLOS
+
+Once we arrive at Embona village we visit the **Cava Stafylos**, here you can taste some of the best local wines and liqueurs made by Logothetis family, Giannis and Andonis (Father and Son).  Their winery is only three years old, but the family's experience with the vineyards began about three generations ago and they still make their own wines to these days.  Their goal is to produce high quality wines in affordable prices. You can also taste Olive Oil, Honey and Spices.  (Stop Visit Taste Photos)
+
+{% include partials/content-gallery.html the_gallery= page.itinerary.galleries.stafylos %}
 
 ### MERKOURIS FAMILY WINERY
 
