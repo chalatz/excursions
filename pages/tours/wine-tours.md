@@ -214,9 +214,7 @@ inclusions:
   - Free Cancelation Policy
   not_included:
   - Entrance Fees, Food, Drinks, Gratuities (Optional)
-  footer: The Wine Tour got 5 euros per person entrance fee to Anastasia Winery and
-    5 euros to Kounakis Winery, the rest of the wine tasting is FREE. The food and
-    the drinks in the restaurant are not included in the tour price.
+  footer: The Wine Tour got 5 euros per person entrance fee to Anastasia Winery, 5 euros to Cava Stafylos, and 5 euros to Kounakis Winery, the rest of the wine tasting is FREE. The food and the drinks in the restaurant are not included in the tour price.
 gallery:
   title: Gallery
   images:
@@ -291,13 +289,13 @@ We continue along the mountain’s path south west to **Embonas Village**, the m
 
 ### MERKOURIS FAMILY WINERY
 
-We continue with **Dionysos** Free Wine Tasting. Here you can taste a big variety of fresh wines without chemical interventions and the strong local spirit **Souma** (Souma from their grapes production in the traditional way of distillation). You are also offered olives, tomatoes, cheese, village bread and local fruits, usually grapes.
+We continue with **Dionysos** Free Wine Tasting. Here you can taste a big variety of fresh wines without chemical interventions and the strong local spirit **Souma** (Souma from their grapes production in the traditional way of distillation). You are also offered olives, tomatoes, cheese, village bread and local fruits, usually grapes. (Stop Visit Taste Photos)
 
 {% include partials/content-gallery.html the_gallery= page.itinerary.galleries.merkouris %}
 
 ### KOUNAKI WINERY
 
-We visit the **Kounaki Winery**. It produces about 10 different types of wine that are available in very small quantities (2000 to 5000 bottles per label). Kounaki winery cultivates Greek varieties but also European varieties such as **Cabernet Sauvignon**, **Merlot**, **Syrah**, **Chardonnay**, **Tempranillo**. During the season, the winery is open to visitors and offers products for testing for free. The winery is staffed with oenologist and all necessary and qualified personnel for vinification, viticulture and visitor service (Stop Visit Taste Photos)
+We visit the **Kounaki Winery**. It produces about 10 different types of wine that are available in very small quantities (2000 to 5000 bottles per label). Kounaki winery cultivates Greek varieties but also European varieties such as **Cabernet Sauvignon**, **Merlot**, **Syrah**, **Chardonnay**, **Tempranillo**. During the season, the winery is open to visitors and offers products for testing for free. The winery is staffed with oenologist and all necessary and qualified personnel for vinification, viticulture and visitor service. (Stop Visit Taste Photos)
 
 {% include partials/content-gallery.html the_gallery= page.itinerary.galleries.kounakis %}
 
