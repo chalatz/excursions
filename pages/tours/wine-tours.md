@@ -237,7 +237,10 @@ inclusions:
   - Free Cancelation Policy
   not_included:
   - Entrance Fees, Food, Drinks, Gratuities (Optional)
-  footer: The Wine Tour got 5 euros per person entrance fee to Anastasia Winery, 5 euros to Cava Stafylos, and 5 euros to Kounakis Winery, the rest of the wine tasting is FREE. The food and the drinks in the restaurant are not included in the tour price.
+  footer: The Wine Tour got 5 euros per person entrance fee to Anastasia Winery, 5
+    euros to Cava Stafylos, and 5 euros to Kounakis Winery, the rest of the wine tasting
+    is FREE. The food and the drinks in the restaurant are not included in the tour
+    price.
 gallery:
   title: Gallery
   images:
