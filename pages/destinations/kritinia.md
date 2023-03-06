@@ -25,7 +25,7 @@ sections:
 - title: Kritinia Castle
   text: While the small village has its charm, it is the castle that lies near it
     and attracts tourists in droves each year. Erected in 1472 under the authority
-    of Grand Master Giovanni Basttista degli Orsini, the castle was meant to protect
+    of Grand Master Giovanni Battista degli Orsini, the castle was meant to protect
     villagers from Ottoman fleets. The castle was built under the advice of the Knights
     of the Order of St. John Hospitaller because of its ideal strategic location.
     That’s because the castle provided them a complete 360° view of the sea which

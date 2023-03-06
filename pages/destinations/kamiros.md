@@ -81,7 +81,7 @@ sections:
         thumb: "/img/pages/ancient-kamiros/6-thumb.jpg"
         href: "/img/pages/ancient-kamiros/6.jpg"
         alt: Kamiros Main Street and Houses from Rhodes Tourist port
-      caption: The Main Street and Houses
+      caption: Houses of the Hellenistic period
     - image:
         thumb: "/img/pages/ancient-kamiros/7-thumb.jpg"
         href: "/img/pages/ancient-kamiros/7.jpg"
