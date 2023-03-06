@@ -155,9 +155,9 @@ sections:
         alt: Lindos Shore Excursions
       caption: ''
 - title: Temple of Athina Lindia
-  text: The Doric Temple of Athena Lindia - dating from 300 BC, built on the site of
-    an earlier temple. Inside the temple is the altar and the base of the cult statue
-    of Athena.
+  text: The Doric Temple of Athena Lindia - dating from 300 BC, built on the site
+    of an earlier temple. Inside the temple is the altar and the base of the cult
+    statue of Athena.
   gallery:
     items_per_row: 4
     items:
