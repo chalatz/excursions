@@ -1,5 +1,5 @@
 ---
-title: Rhodes Old Town Tour
+title: Rhodes Old Town – The Wall 
 permalink: old_town.htm
 layout: gallery-page
 type: gallery-page
@@ -8,23 +8,16 @@ has_gallery: true
 has_destinations: true
 has_banners: false
 meta:
-  title: Rhodes Old Town Tour, Rhodes Old Town Excursion
-  http_desc: Rhodes Old Town Tour, Rhodes Old Town Excursion, Medieval City of Rhodes
-    Tour, Rhodes Medieval city Excursions
-  keywords: Rhodes Old Town Tour, Rhodes Old Town Excursion, Medieval City, Excursions
-  description: Rhodes Old Town Tour, Rhodes Old Town Excursion, Medieval City of Rhodes
-    Tour, Rhodes Medieval city Excursions
-  abstract: Rhodes Old Town Tour, Rhodes Old Town Excursion
+  title: Rhodes Old Town – The Wall
+  http_desc: Rhodes Old Town The Wall, Medieval City of Rhodes Tour, Rhodes Medieval city Excursions
+  keywords: Rhodes Old Town The Wall, Medieval City of Rhodes Tour, Rhodes Medieval city Excursions
+  description: Rhodes Old Town The Wall, Medieval City of Rhodes Tour, Rhodes Medieval city Excursions
+  abstract: Rhodes Old Town – The Wall
 head_photo:
   img: "/img/pages/old-town/head-photo.jpg"
   mobile: "/img/pages/old-town/head-photo-mobile.jpg"
   alt_text: ''
 sections:
-- text: The old town of Rhodes is contained within the 4 km / 2.5 miles of defensive
-    walls that the Knights of St John built on Byzantine fortification. A typical
-    example of the techniques of fortification of the 14th - 15th century. Massive
-    towers and bastions project from several place and they are decorated with elaborate
-    stonework, while a wide dry moat provided the first line of defence.
 - title: The Wall
   text: The old town of Rhodes is contained within the 4 km / 2.5 miles of defensive
     walls that the Knights of St John built on Byzantine fortification. A typical
