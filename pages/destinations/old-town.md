@@ -1,5 +1,5 @@
 ---
-title: Rhodes Old Town – The Wall 
+title: Rhodes Old Town – The Wall
 permalink: old_town.htm
 layout: gallery-page
 type: gallery-page
@@ -9,9 +9,12 @@ has_destinations: true
 has_banners: false
 meta:
   title: Rhodes Old Town – The Wall
-  http_desc: Rhodes Old Town The Wall, Medieval City of Rhodes Tour, Rhodes Medieval city Excursions
-  keywords: Rhodes Old Town The Wall, Medieval City of Rhodes Tour, Rhodes Medieval city Excursions
-  description: Rhodes Old Town The Wall, Medieval City of Rhodes Tour, Rhodes Medieval city Excursions
+  http_desc: Rhodes Old Town The Wall, Medieval City of Rhodes Tour, Rhodes Medieval
+    city Excursions
+  keywords: Rhodes Old Town The Wall, Medieval City of Rhodes Tour, Rhodes Medieval
+    city Excursions
+  description: Rhodes Old Town The Wall, Medieval City of Rhodes Tour, Rhodes Medieval
+    city Excursions
   abstract: Rhodes Old Town – The Wall
 head_photo:
   img: "/img/pages/old-town/head-photo.jpg"
