@@ -23,8 +23,24 @@
     visibility: hidden;
 }
 
+.bold {
+    font-weight: bold;
+}
+
+.italic {
+    font-style: italic;
+}
+
 .oblique {
     font-style: oblique;
+}
+
+.underline {
+    text-decoration: underline;
+}
+
+.text-blue {
+    color: $blue;
 }
 
 .mobile-only {
