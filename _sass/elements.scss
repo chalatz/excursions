@@ -46,6 +46,15 @@ img {
     }
 }
 
+.line-separator {
+    border-top: 2px solid;
+    margin: 2rem auto;
+    width: 90%;
+    &--blue {
+        border-color: $blue;
+    }
+}
+
 .anchor-section {
     display: block;
     height: 30px;

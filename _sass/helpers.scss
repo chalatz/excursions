@@ -58,6 +58,21 @@
     }
 }
 
+.small-tablet-only {
+    &--inline {
+        display: inline !important;
+    }
+    &--block {
+        display: block !important;
+    }
+    &--inline-block {
+        display: inline-block !important;
+    }
+    @include breakpoint(medium) {
+        display: none !important;
+    }
+}
+
 .tablet-only {
     display: none !important;
     &--block {
