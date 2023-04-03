@@ -56,7 +56,7 @@ sections:
   text: |-
     When you order your meal, it might be easier if you order by section of the menu. First your appetizers (mezedes), then the main dish and the drinks. Dessert is ordered at the end of the meal.
 
-    **In Fish Restaurant:** If you wish to order **Fresh Fish "Fresko Psari"**, then you ask to see the fish, and also the waiter will take you to the place where the "catch of the day" is displayed, usually within the kitchen.  Thereyou'll be able to inquire about what kind of fish is displayed, the price per kilo (2, 20 pounds) and you order the amount you want to eat. The waiters will give you the cost information and also the cooking details. The Rhodian waiters are very experienced, patient and more than happy to make your lunch a true pleasure (even during the peak season when the island is full of tourists).
+    **In Fish Restaurant:** If you wish to order **Fresh Fish "Fresko Psari"**, then you ask to see the fish, and also the waiter will take you to the place where the "catch of the day" is displayed, usually within the kitchen.  There you'll be able to inquire about what kind of fish is displayed, the price per kilo (2, 20 pounds) and you order the amount you want to eat. The waiters will give you the cost information and also the cooking details. The Rhodian waiters are very experienced, patient and more than happy to make your lunch a true pleasure (even during the peak season when the island is full of tourists).
   gallery:
     items_per_row: 4
     items:
