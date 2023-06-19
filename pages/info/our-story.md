@@ -42,15 +42,15 @@ gallery:
       href: "/img/pages/about/1.jpg"
       alt: Nicholas with Rick Steves in Rhodes island while planning, writing and
         filming for the TV show Rick Steves Europe
-    caption: 'Nicholas with Rick Steves in Rhodes island while planning, writing and
-      filming for the TV show "Rick Steves Europe"'
+    caption: Nicholas with Rick Steves in Rhodes island while planning, writing and
+      filming for the TV show "Rick Steves Europe"
   - image:
       thumb: "/img/pages/about/2-thumb.jpg"
       href: "/img/pages/about/2.jpg"
       alt: Nicholas and Michael helped Matt Barrett (the Greece Travel Expert) to
         explore Rhodes island for his Greece Travel Guide
-    caption: 'Nicholas and Michael helped Matt Barrett (the Greece Travel Expert) to
-      explore Rhodes island for his "Greece Travel Guide"'
+    caption: Nicholas and Michael helped Matt Barrett (the Greece Travel Expert) to
+      explore Rhodes island for his "Greece Travel Guide"
   - image:
       thumb: "/img/pages/about/4-thumb.jpg"
       href: "/img/pages/about/4.jpg"
