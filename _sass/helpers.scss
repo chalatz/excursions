@@ -43,6 +43,10 @@
     color: $blue;
 }
 
+.nowrap{
+    white-space: nowrap;
+}
+
 .mobile-only {
     &--inline {
         display: inline !important;
