@@ -15,6 +15,7 @@ meta:
   abstract: RHODES GREECE, POST-FIRE SITUATION
 subtitle: ''
 ---
+
 Recently, our customers have been asking us about the fires in Rhodes and the burned areas.  They are wondering if there is something left to visit, or if Rhodes has been reduced to an island of burned landscapes and ash.  Let us reassure you that this is not the case.
 
 1) In the 12 days during which the wildfires raged, only 15% of the landscape burned, not the whole island. The fire started on southwest and extended southeast (11 mi / 18 km south of Lindos) to an area called Kiotari.  But Rhodes is still beautiful, with all the important areas to explore.

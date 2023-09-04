@@ -1,7 +1,7 @@
 ---
-published: false
 title: COVID-19 RHODES GREECE, TRAVEL RESTRICTIONS
 permalink: covid19-rhodes.htm
+published: false
 layout: page
 type: info_page
 id: covid_19
