@@ -26,18 +26,18 @@ outro: Handicap Accessible Private Tours in Rhodes Island Greece
 injected_gallery:
   items_per_row: 4
   items:
-  - image:
-      thumb: "/img/pages/accessible/1.jpg"
-      alt: Shore Excursions in Rhodes with wheelchair accessible minibus
-  - image:
-      thumb: "/img/pages/accessible/2.jpg"
-      alt: accessible minibus for wheelchair users for Shore Excursions
-  - image:
-      thumb: "/img/pages/accessible/3.jpg"
-      alt: wheelchair accessible minibus with full lift for Rhodes Excursions
-  - image:
-      thumb: "/img/pages/accessible/4.jpg"
-      alt: Rhodes wheelchair accessible minibus with disabled lift
+    - image:
+        thumb: "/img/pages/accessible/1.jpg"
+        alt: Shore Excursions in Rhodes with wheelchair accessible minibus
+    - image:
+        thumb: "/img/pages/accessible/2.jpg"
+        alt: accessible minibus for wheelchair users for Shore Excursions
+    - image:
+        thumb: "/img/pages/accessible/3.jpg"
+        alt: wheelchair accessible minibus with full lift for Rhodes Excursions
+    - image:
+        thumb: "/img/pages/accessible/4.jpg"
+        alt: Rhodes wheelchair accessible minibus with disabled lift
 ---
 
 This service is for those travelers who have physical limitations or an aversion to extensive walking and climbing.
