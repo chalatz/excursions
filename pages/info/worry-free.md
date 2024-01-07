@@ -20,7 +20,7 @@ head_photo:
   alt_text: ''
 outro: Worry Free Cruise Shore Excursions in Rhodes Greece
 has_destinations: true
-has_banners: true
+has_banners: false
 ---
 
 ### Back to the ship in time

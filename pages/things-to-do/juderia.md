@@ -6,7 +6,7 @@ type: gallery-page
 id: juderia
 has_gallery: true
 has_destinations: true
-has_banners: true
+has_banners: false
 meta:
   title: Jewish Quarter Rhodes Synagogue and Jewish Museum, Jewish Cemetery Rhodes
     Greece

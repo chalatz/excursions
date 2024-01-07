@@ -18,7 +18,7 @@ head_photo:
   alt_text: ''
 outro: Rhodes High Quality Shore Excursions
 has_destinations: true
-has_banners: true
+has_banners: false
 ---
 
 Our mission is to provide high quality customer service and reliability. Our associate experienced knowledgeable tour/drivers and tour guides specialize in private and customized shore excursions, they have all lived and worked on the island of Rhodes for many years and have exceptional background knowledge of the island and its cultures and traditions.

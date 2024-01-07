@@ -20,7 +20,7 @@ head_photo:
   alt_text: ''
 outro: Rhodes High Quality Shore Excursions
 has_destinations: true
-has_banners: true
+has_banners: false
 ---
 
 ### Cruise Ships Visiting Rhodes Greece

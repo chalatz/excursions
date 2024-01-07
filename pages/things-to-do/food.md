@@ -6,7 +6,7 @@ type: gallery-page
 id: food
 has_gallery: true
 has_destinations: true
-has_banners: true
+has_banners: false
 meta:
   title: Rhodes Food Tour, Rhodes Cuisine Greece, Greek Food in Rhodes Island
   http_desc: Rhodes Food Tour, Rhodes Cuisine Greece, Greek Food in Rhodes Island,

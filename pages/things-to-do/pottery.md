@@ -6,7 +6,7 @@ type: gallery-page
 id: pottery
 has_gallery: true
 has_destinations: true
-has_banners: true
+has_banners: false
 meta:
   title: Rhodes Ceramics, Rhodes Lindos Pottery, Rhodes Pottery Greece
   http_desc: Rhodes Ceramics, Rhodes Lindos Pottery, Rhodes Pottery Greece, Handmade

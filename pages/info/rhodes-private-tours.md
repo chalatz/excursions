@@ -25,7 +25,7 @@ head_photo:
   alt_text: ''
 outro: ''
 has_destinations: true
-has_banners: true
+has_banners: false
 faq:
   sections:
   - title: What to Know Before You Go...

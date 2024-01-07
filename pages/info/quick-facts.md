@@ -20,7 +20,7 @@ head_photo:
   alt_text: ''
 outro: Quick Facts about Rhodes Greece
 has_destinations: true
-has_banners: true
+has_banners: false
 ---
 
 **Rhodes - Lindos:** The Lindians were the first to draw up a code of maritime law, known as the Rhodian law. This later became the basis for Roman maritime law. Emperor Antoninus (reigned ad 138--161) wrote: "I am indeed lord of the world, but the Law is the lord of the sea. This matter must be decided by the maritime law of the Rhodians..."
