@@ -15,8 +15,8 @@ meta:
   abstract: Rhodes Groups Excursions
 subtitle: ''
 head_photo:
-  img: "/img/pages/groups/head-photo.jpg"
-  mobile: "/img/pages/groups/head-photo-mobile.jpg"
+  img: "/img/pages/groups/head-photo-group-tours.jpg"
+  mobile: "/img/pages/groups/head-photo-group-tours-mobile.jpg"
   alt_text: ''
 outro: Group Shore Excursions in Rhodes Island Greece
 gallery:
