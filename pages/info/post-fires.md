@@ -1,7 +1,7 @@
 ---
-published: false
 title: RHODES GREECE, POST-FIRE SITUATION
 permalink: rhodes-greece-post-fire-situation.htm
+published: false
 layout: page
 type: info_page
 id: post_fire
