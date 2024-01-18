@@ -18,7 +18,7 @@
                     {%- endif -%}
                 {%- endif -%}
 
-                {%- if item.parent_name == 'cruises' and page.type == 'tour' -%}
+                {%- if item.parent_name == 'cruises' and page.type == 'tour' and page.id != 'walking_excursions' -%}
                     {%- assign is_active = true -%}
                 {%- endif -%}
 
