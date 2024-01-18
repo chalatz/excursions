@@ -17,24 +17,18 @@ meta:
 intro: The tour caters to those with a keen appreciation for medieval history. Rhodes Old Town, recognized as Europe's oldest continuously inhabited medieval town and designated a UNESCO World Heritage Site, boasts distinctive architecture.
 itinerary:
   title: Excursion Itinerary
-  heading: Rhodes City, East Coast of the Island and Lindos
-  description: Half Day Private Shore Excursion 5:00 hours
+  heading: Medieval City of Rhodes
+  description:  Half Day Private Shore Excursion 3:00 hours
   details: |-
-    **Duration:** 5:00 hours. Usually we spend one hour in Lindos, but it depends on you for how long you need to visit Lindos. To climb up it takes 10 - 15 min, to look 30 min.
+    **Duration:** 3:00 hours.
 
     **Availability:** All the year round.
 
-    **Activity Level:** Moderate (or "Easy" if you skip the Acropolis of Lindos).
+    **Activity Level:** Moderate.
 
-    **Departure Time:** Depend on your cruise ship dock time. If the ship arrives late into port, we'll adjust our schedules, and the rental time will start from the moment you meet your driver.
+    **Departure Time:** Depend on your cruise ship dock time.
 
     **Starting Point:** We meet at the pier/dock. (or anywhere else)
-
-    **Excursion Extensions:** You may extend this excursion and add lunch time at a seaside village at the Mediterranean Sea right on the water's edge (scenic) with fresh seafood, Rhodian cuisine and excellent local wines. Or just extend it for a swim (June - September) at a sandy established beach with facilities for changing clothes.
-
-    **(Stop Pictures)** = Stop and get out of the car for pictures from outside of the Sight/building
-
-    **(Stop Visit Pictures)** = Stop and visit - go inside the sight/building for pictures
 route_map:
   title: Route Map
   description: Roundtrip Approximately 120km / 74,5miles
@@ -44,26 +38,18 @@ route_map:
 useful:
   title: Useful Info
   text: |-
-    1. Usually, we spend 1:00 hour in Lindos, but it depends on you for how long you need to visit the site. To climb up to acropolis of Lindos it takes 15 min, to take a look 30min. In case you need more time, please let us know and we’ll modify the tour to your needs.  However, the tour is 100% flexible, you may extend the tour on the go (as the tour running) please speak to your tour/driver.
-    2. Entrance Fees Acropolis of Lindos 12 Euros per person, Seniors 6 Euros per person, Children under 18 years old free, No charge to enter Lindos village.
-    3. To reach the Acropolis of Lindos you will be required to climb 292 steps, or ride on a donkey. The donkey does not eliminate all the steps, there are over 80 to go when you get off the donkey. The donkeys go by a slightly different path so the stairs, and the soles of your shoes, will be quite clean if you wish to walk up. The risers of the stairs are 5-7 inches and the treads 18-24 inches. No handrail on either side.
-    4. If you have elderly people in your group, we can drive them down on the beautiful beach of Lindos have a drink and a nice discuss with the driver and enjoy the panoramic view while they are waiting for you to climb up the Acropolis of Lindos.
-    5. If you have kids in your group the "**Best of Rhodes Shore Excursion**" it is also an Educational and Entertainment Excursion, and of course they will love the donkey ride up to the Acropolis of Lindos!!
-    6. You may prefer to use ATM machines when you need cash. ATMs are everywhere.
-    7. Rhodes known for [Traditional Appetizers](rhodes_cuisine_greece.htm), desserts, [Wines](wine_tours_greece.htm), the famous handmade [Rhodes Pottery - Ceramics](greek_pottery.htm) and the beautiful [Rhodes Beaches](./rhodes-beach-tour-excursion.htm).
-    8. More info in [Rhodes Private Tours](rhodes_private_tours.htm) F.A.Q.
+    1. Entrance Fees to Grand Masters Palace 8 Euros per person, Children under 18 years old free (In Off Season 4 Euros per person)
+    2. If you have elderly people in your group, you can have more short breaks (Please let us know, and we’ll adjust the tour accordingly) 
+    3. For individuals using wheelchairs, we recommend omitting the visit to the Grand Masters Palace, as it involves numerous steps that may pose accessibility challenges.
 inclusions:
   title: Inclusions
   included:
-  - Private Shore Excursion (Just your party)
-  - Free Pick up and Drop off at the Cruise Port (or anywhere else)
-  - Experienced knowledgeable Tour/Driver English Speaking
-  - Mercedes Benz Sedan Car (4 passengers plus the driver) (<a href="groups.htm">bigger
-    group or more room?</a>)
-  - All Car and Driver Expenses (prices are per car not per person)
-  - No Stress - Back to the Ship on Time (if you are a Cruise Ship Passenger)
+  - Private Tour (Only your Party)
+  - Professional Licensed Tour Guide English-Speaking
+  - Full Narration & Guided Tours on Sights
+  - Wireless Headsets for Guided Walking Tour Groups
   - Personalized Customer Service
-  - Free Cancelation Policy
+  - Flexible Cancelation Policy
   not_included:
   - Entrance Fees, Food, Drinks, Gratuities (Optional)
 gallery:
@@ -117,57 +103,34 @@ gallery:
 outro: Rhodes Private Shore Excursions and Private Tours in Rhodes Greece
 ---
 
-### RHODES MEDIEVAL CITY
+### VISITING THE MEDIEVAL CITY
 
-From the cruise ship dock/pier we drive to the **Medieval City (World Heritage Site---UNESCO)**. We will stop at the most important monuments of the Medieval City for pictures from outside. The Archaeological Museum, The Street of the Knights, The Grand Master Palace, The Ruins of Sent John Cathedral and The D'Amboise Gate
+Embark on your journey from the Cruise Port where your guided tour through the Medieval City begins. Passing through the St. Catherine Gate, you'll delve into the heart of the Burgos (town) to explore its most significant monuments, capturing memorable moments with photo stops along the way.
 
-### RHODES NEW TOWN
+### THE EXTERIORS WALLS
 
-We continue out of the Medieval City to the **"New Town"**. Here we will see:
+The ancient enclave of Rhodes Old Town is enclosed by a formidable 4 km / 2.5 miles of defensive walls constructed by the Knights of St. John on the foundation of Byzantine fortifications. This stands as a prime illustration of the sophisticated fortification methods employed during the 14th to 15th centuries.
 
-The historical buildings where the Venetian, Gothic and Oriental elements blend:
+### THE INTERIOR WALL
 
-- The **City Hall**, the **Administration building** or **Governor's Palace** a Venetian Gothic and Renaissance style with details of the Doges' Palace in Venice (today the offices of the Prefecture of the Dodecanese), The **National Theatre of Rhodes**, and the **"Hotel of the Roses" **(today the Casino of Rhodes).
-- The **Old Harbor**, where according to tradition, the **Colossus of Rhodes, one of the Seven Wonders of the Ancient World**, once stood (two bronze deer statues mark the site). (Stop Visit Photos)
-- The **Church of the Annunciation (Evangelismos)**, an example of Medieval Catholic design with amazing wall paintings and impressive chandeliers, that today is the Orthodox town's cathedral. (Stop Visit Photos)
-- The **North Point of the island** where the East Coast's Mediterranean Sea, and the West Coast's Aegean Sea meet.
+The Medieval City was divided by an east-west interior wall, with the Collachium to the north and the larger Burgo to the south. A vibrant melting pot, the Burgo was home to people from various backgrounds, with the Greeks being the predominant residents
 
-### MONTE SMITH
+### QUALITY GUIDING SERVICE
 
-We drive up the hillside to **Monte Smith**, (although named after a 19th century British admiral, this is the site of ancient Rhodes) the **Acropolis of Rhodes City** which overlooks the Old and the New Town. Enjoy excellent views of the city and both East and West Coast. (Stop Visit Photos). We also visit the **Temple of Apollo**, the **Ancient Stadium of Rhodes**, and the restored marble **Hellenistic Theater**. (Stop Visit Photos)
+Your amiable and enthusiastic **knowledgeable tour guide** will provide a brief history lesson, narrating tales of the medieval neighborhoods, impressive buildings, and the diverse time periods that shaped Rhodes. The city's evolution is evident in the churches, mosques, and synagogues that span centuries, creating a rich tapestry of history (photo stops included).
 
-### THE JOURNEY TO LINDOS
+### OPTIONAL SHORT BREAK
 
-The drive continues 50 kilometers / 32 miles southeast to **Lindos**. You'll pass small picturesque villages and enjoy dramatic views of the sea and the beautiful landscape of orange and lemon groves, and olive trees.
+Midway through the tour, enjoy an optional short break for refreshing beverages and coffee.
 
-### ANTHONY QUINN BAY
+### COLLACHIO & GRAND MASTERS PALACE
 
-On the way you visit the Anthony Quinn Bay - Takes its name from the famous Hollywood actor, who owns a large property in this area. Since filming the Guns of Navarone in Rhodes Island - scenic (Stop Visit Photos). We continue south east to Lindos, a short stop at a vantage point for the panoramic view of Tsambica beach - scenic (Stop Photos)
+Proceeding towards the Collachio, the smaller northern section of the medieval city, you'll encounter the **Castello -- Grand Masters Palace**, once home to the Grand Masters and the **Administration of the Knights of St. John** (photo stops and a walking tour inside the Grand Master Palace).
 
-### RHODES TRADITIONAL POTTERY ART
+### COLLACHIO & THE STREET OF THE KNIGHTS
 
-On the way to Lindos, you can choose an optional short stop at a pottery workshop where the traditional pottery of Rhodes is made. You can even learn the mystery of the Pythagorean cup. Just let your tour/driver know that you wish to make this short stop.
+Descending towards the remarkable **Street of the Knights**, linking the Grand Master Palace to the **New Hospital of the Knights** (now the Archaeological Museum of Rhodes), you'll witness the **Our Lady of the Castel**, now known as the Byzantine Museum (photo stops).
 
-### PANORAMIC VIEW OF LINDOS
+### THE MARINE GATE 
 
-One mile before Lindos we stop at a vantage point for a panoramic view of the acropolis, the village, and the port of Lindos. (Stop Photos)
-
-### ST PAUL'S BAY
-
-Next, we drive down to **St. Paul's Bay**, a site of incredible wild beauty. Here is where the apostle is said to have landed in the year 51 AD to preach Christianity to the Rhodians. From this point, you can also view the cave where **"The Guns of Navarone"** was filmed. (Stop Visit Photos)
-
-### LINDOS VILLAGE AND ACROPOLIS
-
-Then we drive you to the **main square of Lindos village**, so you can explore the white village and climb up the **Acropolis of Lindos**, (passing colorful storefronts and whitewashed elaborately decorated homes) to see the magnificent remains of past civilizations: the **4th century BC Doric Temple of Athena Lindia**, **a double-winged portico**, **a Byzantine church and the fortifications of the Knights of St John**.
-
-Don't want to walk? Take a "Lindos Taxi"---a donkey! The vantage point from the Acropolis affords you breath-taking views of a great expanse of the Mediterranean Sea, the St. Paul's Bay, and the white village of Lindos. (Stop Visit Photos)
-
-Or you may skip the climb up to Acropolis of Lindos and just explore the white village.
-
-### COAST ROAD OF FALIRAKI AND KALLITHEA
-
-Later we will meet you at the main square of Lindos village (**at the prearranged time**) for the return trip, the last 14 kilometers / 8 miles we drive through the coastal road of Faliraki Beach and Kallithea Spa.
-
-### BACK TO THE SHIP (or to the starting point)
-
-We will take you back to your cruise ship. If you prefer to be taken to the Medieval City for independent browsing, you will be responsible for returning on foot to the ship, docked about a quarter-mile away.
+The tour concludes at the Marine Gate, providing the option to be dropped back to your hotel, ship, or to explore the Old Town independently. The Cruise Port is conveniently located within a 10-minute walk from the Old Town.
