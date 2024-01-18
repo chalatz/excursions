@@ -31,7 +31,6 @@ intro:
 carousel_imgs:
 - '0_5'
 - '0_6'
-- '1'
 - '2'
 - '3'
 - '4'
@@ -44,6 +43,11 @@ carousel_imgs:
 - '11'
 - '12'
 - '13'
+- '14'
+- '15'
+- '16'
+- '17'
+- '18'
 cta: Please visit the links (above and below) to read what our Valued Clients are
   saying about us.
 years_list_heading: Reviews and Comments as we received them, nice to know we are
