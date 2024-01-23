@@ -30,8 +30,8 @@ itinerary:
 
     **Starting Point:** We meet at the pier/dock. (or anywhere else)
 route_map:
-  title: Medieval City of Rhodes
-  description: Half Day Private Shore Excursion 3:00 hours
+  title: Route Map
+  description: ''
   map:
     path: "/img/tours/walking/old-town-map.png"
     alt: WALKING SHORE EXCURSION - Rhodes Old Town
@@ -100,7 +100,7 @@ gallery:
   - path: "/img/tours/walking/15.jpg"
     thumb: "/img/tours/walking/15.jpg"
     alt: Best Shore Tours in Rhodes Greece
-outro: Rhodes Private Shore Excursions and Private Tours in Rhodes Greece
+outro: WALKING PRIVATE SHORE EXCURSIONS IN RHODES
 ---
 
 ### VISITING THE MEDIEVAL CITY
