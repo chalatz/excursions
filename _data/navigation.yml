@@ -16,6 +16,9 @@ main:
         - title: VIP Tour Services
           url: vip_tours.htm
           parent: about
+        - title: Accessible
+          url: wheelchair_accessible_greece.htm
+          parent: about         
     - title: Private Excursions
       url: rhodes-cruise-excursions.htm
       type: parent
@@ -45,11 +48,10 @@ main:
       url: groups.htm
       type: single
       id: groups
-      sublinks: []
-    - title: Accessible
-      url: wheelchair_accessible_greece.htm
+    - title: Walking Excursions
+      url: walking-shore-excursion-of-Rhodes-old-town.htm
       type: single
-      id: accessible
+      id: walking_excursions
       sublinks: []
     - title: Reviews
       url: reviews_tripadvisor.htm
