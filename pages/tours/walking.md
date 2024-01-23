@@ -30,11 +30,11 @@ itinerary:
 
     **Starting Point:** We meet at the pier/dock. (or anywhere else)
 route_map:
-  title: Route Map
-  description: Roundtrip Approximately 120km / 74,5miles
+  title: Medieval City of Rhodes
+  description: Half Day Private Shore Excursion 3:00 hours
   map:
-    path: "/img/tours/best-rhodes/best_rhodes_greece_route_map_new.jpg"
-    alt: BEST RHODES SHORE EXCURSION - Route map
+    path: "/img/tours/walking/old-town-map.png"
+    alt: WALKING SHORE EXCURSION - Rhodes Old Town
 useful:
   title: Useful Info
   text: |-
@@ -55,50 +55,50 @@ inclusions:
 gallery:
   title: Gallery
   images:
-  - path: "/img/tours/best-rhodes/1.jpg"
-    thumb: "/img/tours/best-rhodes/1-thumb.jpg"
+  - path: "/img/tours/walking/1.jpg"
+    thumb: "/img/tours/walking/1.jpg"
     alt: Best of Rhodes Greece Excursions
-  - path: "/img/tours/best-rhodes/2.jpg"
-    thumb: "/img/tours/best-rhodes/2-thumb.jpg"
+  - path: "/img/tours/walking/2.jpg"
+    thumb: "/img/tours/walking/2.jpg"
     alt: Best Rhodes Private Tours Greece
-  - path: "/img/tours/best-rhodes/3.jpg"
-    thumb: "/img/tours/best-rhodes/3-thumb.jpg"
+  - path: "/img/tours/walking/3.jpg"
+    thumb: "/img/tours/walking/3.jpg"
     alt: Best Shore Trips Rhodes Greece
-  - path: "/img/tours/best-rhodes/4.jpg"
-    thumb: "/img/tours/best-rhodes/4-thumb.jpg"
+  - path: "/img/tours/walking/4.jpg"
+    thumb: "/img/tours/walking/4.jpg"
     alt: Best Shore Trips Rhodes Greece
-  - path: "/img/tours/best-rhodes/5.jpg"
-    thumb: "/img/tours/best-rhodes/5-thumb.jpg"
+  - path: "/img/tours/walking/5.jpg"
+    thumb: "/img/tours/walking/5.jpg"
     alt: Best Private Shore Excursions in Rhodes Greece
-  - path: "/img/tours/best-rhodes/6.jpg"
-    thumb: "/img/tours/best-rhodes/6-thumb.jpg"
+  - path: "/img/tours/walking/6.jpg"
+    thumb: "/img/tours/walking/6.jpg"
     alt: Best Private Tours in Rhodes Greece
-  - path: "/img/tours/best-rhodes/7.jpg"
-    thumb: "/img/tours/best-rhodes/7-thumb.jpg"
+  - path: "/img/tours/walking/7.jpg"
+    thumb: "/img/tours/walking/7.jpg"
     alt: Best Cruise Excursions in Rhodes Greece
-  - path: "/img/tours/best-rhodes/8.jpg"
-    thumb: "/img/tours/best-rhodes/8-thumb.jpg"
+  - path: "/img/tours/walking/8.jpg"
+    thumb: "/img/tours/walking/8.jpg"
     alt: Best Shore Trips Rhodes Greece
-  - path: "/img/tours/best-rhodes/9.jpg"
-    thumb: "/img/tours/best-rhodes/9-thumb.jpg"
+  - path: "/img/tours/walking/9.jpg"
+    thumb: "/img/tours/walking/9.jpg"
     alt: Best Taxi Tours in Rhodes Greece
-  - path: "/img/tours/best-rhodes/10.jpg"
-    thumb: "/img/tours/best-rhodes/10-thumb.jpg"
+  - path: "/img/tours/walking/10.jpg"
+    thumb: "/img/tours/walking/10.jpg"
     alt: Best of Rhodes Shore Excursions Greece
-  - path: "/img/tours/best-rhodes/11.jpg"
-    thumb: "/img/tours/best-rhodes/11-thumb.jpg"
+  - path: "/img/tours/walking/11.jpg"
+    thumb: "/img/tours/walking/11.jpg"
     alt: Best Cruise Excursions in Rhodes Greece
-  - path: "/img/tours/best-rhodes/12.jpg"
-    thumb: "/img/tours/best-rhodes/12-thumb.jpg"
+  - path: "/img/tours/walking/12.jpg"
+    thumb: "/img/tours/walking/12.jpg"
     alt: Best Sightseeing Excursions in Rhodes
-  - path: "/img/tours/best-rhodes/13.jpg"
-    thumb: "/img/tours/best-rhodes/13-thumb.jpg"
+  - path: "/img/tours/walking/13.jpg"
+    thumb: "/img/tours/walking/13.jpg"
     alt: Best Sightseeing Excursions in Rhodes
-  - path: "/img/tours/best-rhodes/14.jpg"
-    thumb: "/img/tours/best-rhodes/14-thumb.jpg"
+  - path: "/img/tours/walking/14.jpg"
+    thumb: "/img/tours/walking/14.jpg"
     alt: Best Shore Trips Rhodes Greece
-  - path: "/img/tours/best-rhodes/15.jpg"
-    thumb: "/img/tours/best-rhodes/15-thumb.jpg"
+  - path: "/img/tours/walking/15.jpg"
+    thumb: "/img/tours/walking/15.jpg"
     alt: Best Shore Tours in Rhodes Greece
 outro: Rhodes Private Shore Excursions and Private Tours in Rhodes Greece
 ---
