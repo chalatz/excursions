@@ -58,7 +58,7 @@ inclusions:
   - Personalized Customer Service
   - Flexible Cancelation Policy
   not_included:
-  - Entrance Fees, Food, Drinks, Gratuities (Optional)
+  - Entrance Fees, Personal Expenses, Drinks, Gratuities (Optional)
 gallery:
   title: Gallery
   images:
