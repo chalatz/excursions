@@ -1,7 +1,11 @@
 {%- unless include.show_header == false -%}
     <header class="tour-form__header">
         <div class="container">
-            For additional information about this excursion / prices / cost / extensions / or to make future reservations, please submit an online request. If you book now, your PRIVATE SHORE EXCURSION will be confirmed within 24 hours.
+            {%- if page.id == 'walking_excursions' -%}
+                For additional information about this excursion / prices / cost / extensions / or to make future reservations, please submit an online request. If you book now, your WALKING PRIVATE SHORE EXCURSION will be confirmed within 24 hours.
+            {%- else -%}
+                For additional information about this excursion / prices / cost / extensions / or to make future reservations, please submit an online request. If you book now, your PRIVATE SHORE EXCURSION will be confirmed within 24 hours.
+            {%- endif -%}
         </div>
     </header>
 {%- endunless -%}
