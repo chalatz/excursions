@@ -25,7 +25,7 @@ intro: This excursion is for everyone, not just those who take a special interes
   ways than one.
 itinerary:
   title: Excursion Itinerary
-  heading: Rhodes New Town, West Coast of the Island, Free Wine Tasting, Lunch Break
+  heading: Rhodes New Town, West Coast of the Island, Wine Tasting, Lunch Break
   description: Private Shore Excursion 6:00 hours
   details: |-
     **Duration:** 6:00 hours.
@@ -305,7 +305,7 @@ The drive continues 55 kilometres / 37 miles, from the north east to the south w
 
 ### WINE FACTORY ESTATE OF ANASTASIA
 
-On the way we stop near the Valley of the Butterflies at the small **Wine factory Estate of Anastasia Triantafillou** where they make high quality **Organic Wines** from the local white Athiri grape and the red Mandilari grape as well as **Cabernet Sauvignon, Merlot, Grenache Rouge** and **Moschatel**. They have a limited supply but you can sample their wines (free tasting), usually they offer you village bread with olive oil. You can also have a free olive oil tasting and honey tasting. You can get pictures of the ageing facilities as well. (Stop Visit Taste Photos)
+On the way we stop near the Valley of the Butterflies at the small **Wine factory Estate of Anastasia Triantafillou** where they make high quality **Organic Wines** from the local white Athiri grape and the red Mandilari grape as well as **Cabernet Sauvignon, Merlot, Grenache Rouge** and **Moschatel**. They have a limited supply but you can sample their wines (tasting), usually they offer you village bread with olive oil. You can also have an olive oil tasting and honey tasting. You can get pictures of the ageing facilities as well. (Stop Visit Taste Photos)
 
 {% include partials/content-gallery.html the_gallery= page.itinerary.galleries.anastasia %}
 
@@ -315,7 +315,7 @@ We continue along the mountain’s path south west to **Embonas Village**, the m
 
 ### CAVA STAFYLOS
 
-Once we arrive at Embona village we visit the **Cava Stafylos**, here you can taste some of the best local wines and liqueurs made by Logothetis family, Giannis and Andonis (Father and Son).  Their winery is only three years old, but the family's experience with the vineyards began about three generations ago and they still make their own wines to these days.  Their goal is to produce high quality wines in affordable prices. You can also taste Olive Oil, Honey and Spices.  (Stop Visit Taste Photos)
+Once we arrive at Embona village we visit the **Cava Stafylos**, here you can taste some of the best local wines and liqueurs made by Logothetis family, Giannis and Andonis (Father and Son).  Their winery is only five years old, but the family's experience with the vineyards began about three generations ago and they still make their own wines to these days.  Their goal is to produce high quality wines in affordable prices. You can also taste Olive Oil, Honey and Spices.  (Stop Visit Taste Photos)
 
 {% include partials/content-gallery.html the_gallery= page.itinerary.galleries.stafylos %}
 
@@ -327,7 +327,7 @@ We continue with **Dionysos** Free Wine Tasting. Here you can taste a big variet
 
 ### KOUNAKI WINERY
 
-We visit the **Kounaki Winery**. It produces about 10 different types of wine that are available in very small quantities (2000 to 5000 bottles per label). Kounaki winery cultivates Greek varieties but also European varieties such as **Cabernet Sauvignon**, **Merlot**, **Syrah**, **Chardonnay**, **Tempranillo**. During the season, the winery is open to visitors and offers products for testing for free. The winery is staffed with oenologist and all necessary and qualified personnel for vinification, viticulture and visitor service. (Stop Visit Taste Photos)
+We visit the **Kounaki Winery**. It produces about 10 different types of wine that are available in very small quantities (2000 to 5000 bottles per label). Kounaki winery cultivates Greek varieties but also European varieties such as **Cabernet Sauvignon**, **Merlot**, **Syrah**, **Chardonnay**, **Tempranillo**. During the season, the winery is open to visitors and offers products for testing. The winery is staffed with oenologist and all necessary and qualified personnel for vinification, viticulture and visitor service. (Stop Visit Taste Photos)
 
 {% include partials/content-gallery.html the_gallery= page.itinerary.galleries.kounakis %}
 
