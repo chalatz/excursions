@@ -118,8 +118,6 @@ Embark on your journey from the Cruise Port where your guided tour through the M
 
 The ancient enclave of Rhodes Old Town is enclosed by a formidable 4 km / 2.5 miles of defensive walls constructed by the Knights of St. John on the foundation of Byzantine fortifications. This stands as a prime illustration of the sophisticated fortification methods employed during the 14th to 15th centuries.
 
-### THE INTERIOR WALL
-
 The Medieval City was divided by an east-west interior wall, with the Collachium to the north and the larger Burgo to the south. A vibrant melting pot, the Burgo was home to people from various backgrounds, with the Greeks being the predominant residents
 
 ### QUALITY GUIDING SERVICE
