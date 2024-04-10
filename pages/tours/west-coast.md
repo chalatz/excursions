@@ -24,7 +24,7 @@ intro: 'This excursion is an opportunity to travel through time. You will see ma
 itinerary:
   title: Excursion Itinerary
   heading: Rhodes City & West Coast of the Island
-  description: Half Day Private Shore Excursion 6:00 hours
+  description: Private Shore Excursion 6:00 hours
   details: |-
     **Duration:** 6:00 hours
 
