@@ -86,4 +86,9 @@
     </script>
 {%- endif -%}
 
-<script src="{{- '/js/scripts.js' | relative_url -}}"></script>
+{%- if jekyll.environment == 'production' -%}
+    <script src="{{- '/js/scripts.min.js' | relative_url -}}"></script>
+{%- else -%}
+    <script src="{{- '/js/scripts.js' | relative_url -}}"></script>
+{%- endif -%}
+
