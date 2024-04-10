@@ -24,9 +24,9 @@ intro: 'This excursion is an opportunity to travel through time. You will see ma
 itinerary:
   title: Excursion Itinerary
   heading: Rhodes City & West Coast of the Island
-  description: Half Day Private Shore Excursion 5:30 hours
+  description: Half Day Private Shore Excursion 6:00 hours
   details: |-
-    **Duration:** 5:30 hours
+    **Duration:** 6:00 hours
 
     **Availability:** May to mid-October.
 
@@ -53,9 +53,10 @@ useful:
     1. Ancient Kamiros entrance fee: 6 Euros per person. Seniors (with Id or Passport) 3 Euros per person. Children under 18 years old free
     2. The Valley of the Butterflies. For the comfort of our travelers we drive them to the Secondary Gate - upper gate so they can walk down easier (one way) 30 - 40 min. The elderly people in your group they can wait down at the Main Gate, with the driver while you explore the place. There is a small cafe, a refreshment kiosk, and a little gift shop.  Entrance fee: (3 Euros Low Season) (5 Euros High Season) per person. Children under 12 years old Free. (Before June 15th and after September 15th we skip the site as no butterflies)
     3. Filerimos: to visit the Stations of the Cross, the Cross, and the panoramic vista is Free, to visit the Monastery and the Church 6 Euros per person. Seniors (with Id or Passport) 3 Euros per person. Children under 18 years old free. The site has a refreshment kiosk a souvenir shop and shady seating.
-    4. You may prefer to use ATM machines when you need cash. ATMs are everywhere.
-    5. Rhodes known for [Traditional Appetizers](rhodes_cuisine_greece.htm), desserts, [Wines](wine_tours_greece.htm), the famous handmade [Rhodes Pottery - Ceramics](greek_pottery.htm) and the beautiful [Rhodes Beaches](./rhodes-beach-tour-excursion.htm).
-    6. More info in [Rhodes Private Tours](rhodes_private_tours.htm) F.A.Q.
+    4. At the Traditional Winery there is a 5 euros entrance fee per person. You can skip this stop if you wish
+    5. You may prefer to use ATM machines when you need cash. ATMs are everywhere.
+    6. Rhodes known for [Traditional Appetizers](rhodes_cuisine_greece.htm), desserts, [Wines](wine_tours_greece.htm), the famous handmade [Rhodes Pottery - Ceramics](greek_pottery.htm) and the beautiful [Rhodes Beaches](./rhodes-beach-tour-excursion.htm).
+    7. More info in [Rhodes Private Tours](rhodes_private_tours.htm) F.A.Q.
 inclusions:
   title: Inclusions
   included:
@@ -155,7 +156,7 @@ On the way back, you visit the **Valley of the Butterflies**. The valley is a un
 
 ### THE TRADITIONAL WINERY
 
-We stop at a **traditional (boutique) winery for free wine tasting**. Athiri, Red Wine Mandilari, Muscat, Cabernet Sauvignon...Souma (distillate of wine). Winemakers are using organic growth and organic process for the vineyards and wines. Here you can also get your pictures of the ageing facilities. (Stop Visit Taste Photos)
+We stop at a **traditional (boutique) winery for wine tasting**. Athiri, Red Wine Mandilari, Muscat, Cabernet Sauvignon...Souma (distillate of wine). Winemakers are using organic growth and organic process for the vineyards and wines. Here you can also get your pictures of the ageing facilities. (Stop Visit Taste Photos – Entrance Fee 5 euros per person)  You can skip this stop if you wish.
 
 ### FILERIMOS MONASTERY
 
