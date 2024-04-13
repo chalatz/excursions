@@ -124,15 +124,15 @@ outro: Rhodes Private Shore Excursions and Private Tours in Rhodes Greece
 
 ### RHODES MEDIEVAL CITY
 
-From the cruise ship dock/pier we drive to the **Medieval City (World Heritage Site---UNESCO)** and we will stop at the most important monuments for pictures from outside.
+Starting from the pier or your chosen departure point, we will drive you to the Medieval City. Here, you'll have the opportunity to capture photos of the walls and significant gates from outside. We’ll conclude the tour at one of the Old Town gates, allowing you the freedom to explore independently and stroll back to the ship. The walk from the Medieval City to the Cruise Port takes just 10 minutes, enabling you to save both time and money by avoiding any waiting-time charges for the driver.
 
 ### RHODES NEW TOWN
 
-We continue out of the Medieval City to the **"New Town"**. Here we will see:
+We continue to the **"New Town"**. Here we will see/visit:
 
 - The historical buildings where the Venetian, Gothic and Arabic elements blend:
 
-- The **Old Harbor**, where according to tradition, the **Colossus of Rhodes**, one of the Seven Wonders of the Ancient World, once stood. (Stop Visit Photos).
+- The **Mandraki Old Harbor**, where according to tradition, the **Colossus of Rhodes**, one of the Seven Wonders of the Ancient World, once stood. (Stop Visit Photos).
 
 - The **Church of the Annunciation**, an example of Medieval Catholic design with amazing wall paintings and impressive chandeliers, that today is the Orthodox town's cathedral. (Stop Visit Photos)
 
@@ -140,7 +140,7 @@ We continue out of the Medieval City to the **"New Town"**. Here we will see:
 
 ### MONTE SMITH
 
-We drive up the hillside to **Monte Smith**, **Acropolis of Rhodes City**, which offers a panoramic view of the city, the **Temple of Apollo**, the **Hellenistic Stadium**, and the **Ancient Theater**. (Stop Visit Photos)
+We drive up the hillside to **Monte Smith**, **Acropolis of Rhodes City**, which offers a panoramic view of the city. (Stop Visit Photos) You can also see from a distance the **Temple of Apollo**, the **Ancient Stadium of Rhodes**, and the restored marble **Hellenistic Theater**. (Stop Photos)
 
 ### THE JOURNEY TO SOUTH WEST
 

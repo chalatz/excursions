@@ -21,9 +21,9 @@ intro: |-
 itinerary:
   title: Excursion Itinerary
   heading: Best Beaches of the East Coast of the island & Sea Bath
-  description: Half Day Private Shore Excursion 5:00 hours
+  description: Private Shore Excursion 6:00 hours
   details: |-
-    **Duration:** 5:00 hours. Usually we spend one hour in Lindos, but it depends on you for how long you need to visit Lindos. To climb up it takes 10 - 15 min, to look 30 min.
+    **Duration:** 6:00 hours. Usually we spend one hour in Lindos, but it depends on you for how long you need to visit Lindos. To climb up it takes 15 min, to look 30 min.
 
     **Availability:** June - September.
 
@@ -49,7 +49,7 @@ useful:
   text: |-
     1. Entrance fees to all beaches is free, but you will have to pay only if you rent a sun bed.
     2. Entrance Fees Acropolis of Lindos 12 Euros per person, Seniors 6 Euros per person, Children under 18 years old free, No charge to enter Lindos village.
-    3. To reach the Acropolis of Lindos you will be required to climb 292 steps, or ride on a donkey. The donkey does not eliminate all the steps, there are over 80 to go when you get off the donkey.
+    3. To reach the Acropolis of Lindos you will be required to climb 292 steps.
     4. Usually we spend one hour in Lindos, but it depends on you for how long you need to visit Lindos. To climb up it takes 15 min, to take a look 30min.
     5. You may prefer to use ATM machines when you need cash. ATMs are everywhere.
     6. Rhodes known for [Traditional Appetizers](rhodes_cuisine_greece.htm), desserts, [Wines](wine_tours_greece.htm), the famous handmade [Rhodes Pottery - Ceramics](greek_pottery.htm) and the beautiful [Rhodes Beaches](./rhodes-beach-tour-excursion.htm).

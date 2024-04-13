@@ -293,7 +293,7 @@ outro: Rhodes Private Shore Excursions and Private Tours in Rhodes Greece
 
 From the cruise ship dock/pier we drive up the hillside to **Monte Smith**, **Acropolis of Rhodes City**, for a panoramic view of the city. (Stop Visit Photos)
 
-On the way we visit the Old Harbor, (atop tall columns, stand the two-bronze deer - characteristic landmarks of the island) where according to tradition, the **Colossus of Rhodes**, **one of the seven wonders of the ancient world**, once stood. (Stop Visit Photos)
+On the way we visit the **Mandraki Old Harbor**, (atop tall columns, stand the two-bronze deer - characteristic landmarks of the island) where according to tradition, the **Colossus of Rhodes**, **one of the seven wonders of the ancient world**, once stood. (Stop Visit Photos)
 
 We will also view the north point of the island where the **Mediterranean Sea** (east coast) and the **Aegean Sea**(west coast) meet.
 

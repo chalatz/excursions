@@ -125,22 +125,26 @@ outro: Rhodes Private Shore Excursions and Private Tours in Rhodes Greece
 
 ### RHODES MEDIEVAL CITY
 
-From the cruise ship dock/pier we drive to the **Medieval City (World Heritage Site---UNESCO)**. We will stop at the most important monuments of the Medieval City for pictures from outside. The Archaeological Museum, The Street of the Knights, The Grand Master Palace, The Ruins of Sent John Cathedral and The D'Amboise Gate
+Starting from the pier or your chosen departure point, we will transport you to the Medieval City, a designated World Heritage Site. Here, you'll have the opportunity to capture photos of the walls and significant gates from outside.  
+
+Due to a recent traffic regulation, vehicles are restricted from entering the Old Town, making it accessible only to pedestrians.
+
+However, we can conclude the tour at one of the Old Town gates, allowing you the freedom to explore independently and stroll back to the ship. The walk from the Medieval City to the Cruise Port takes just 10 minutes, enabling you to save both time and money by avoiding any waiting-time charges for the driver.
 
 ### RHODES NEW TOWN
 
-We continue out of the Medieval City to the **"New Town"**. Here we will see:
+We continue to the **"New Town"**. Here we will see/visit:
 
 The historical buildings where the Venetian, Gothic and Oriental elements blend:
 
-- The **City Hall**, the **Administration building** or **Governor's Palace** a Venetian Gothic and Renaissance style with details of the Doges' Palace in Venice (today the offices of the Prefecture of the Dodecanese), The **National Theatre of Rhodes**, and the **"Hotel of the Roses" **(today the Casino of Rhodes).
-- The **Old Harbor**, where according to tradition, the **Colossus of Rhodes, one of the Seven Wonders of the Ancient World**, once stood (two bronze deer statues mark the site). (Stop Visit Photos)
+- The **Mandraki** **Old Harbor**, where according to tradition, the **Colossus of Rhodes, one of the Seven Wonders of the Ancient World**, once stood (two bronze deer statues mark the site). (Stop Visit Photos)
 - The **Church of the Annunciation (Evangelismos)**, an example of Medieval Catholic design with amazing wall paintings and impressive chandeliers, that today is the Orthodox town's cathedral. (Stop Visit Photos)
+- The **City Hall**, the **Administration building** or **Governor's Palace** a Venetian Gothic and Renaissance style with details of the Doges' Palace in Venice (today the offices of the Prefecture of the Dodecanese), The **National Theatre of Rhodes**, and the **"Hotel of the Roses" **(today the Casino of Rhodes).
 - The **North Point of the island** where the East Coast's Mediterranean Sea, and the West Coast's Aegean Sea meet.
 
 ### MONTE SMITH
 
-We drive up the hillside to **Monte Smith**, (although named after a 19th century British admiral, this is the site of ancient Rhodes) the **Acropolis of Rhodes City** which overlooks the Old and the New Town. Enjoy excellent views of the city and both East and West Coast. (Stop Visit Photos). We also visit the **Temple of Apollo**, the **Ancient Stadium of Rhodes**, and the restored marble **Hellenistic Theater**. (Stop Visit Photos)
+We drive up the hillside to **Monte Smith**, (although named after a 19th century British admiral, this is the site of ancient Rhodes) the **Acropolis of Rhodes City** which overlooks the Old and the New Town. Enjoy excellent views of the city and both East and West Coast. (Stop Visit Photos). You can also see from a distance the **Temple of Apollo**, the **Ancient Stadium of Rhodes**, and the restored marble **Hellenistic Theater**. (Stop Photos)
 
 ### THE JOURNEY TO LINDOS
 

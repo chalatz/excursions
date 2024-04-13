@@ -123,13 +123,13 @@ outro: Rhodes Private Shore Excursions and Private Tours in Rhodes Greece
 
 ### RHODES MEDIEVAL CITY
 
-From the cruise ship dock/pier we drive to the **Medieval City (World Heritage Site---UNESCO)** and we will stop at the most important monuments for pictures from outside.
+From the cruise ship dock/pier we drive to the **Medieval City (World Heritage Site---UNESCO)**. Here, you'll have the opportunity to capture photos of the walls and significant gates from outside. Vehicles are restricted from entering the Old Town. However, we can conclude the tour at one of the Old Town gates, allowing you the freedom to explore independently and stroll back to the ship. The walk from the Medieval City to the Cruise Port takes just 10 minutes.
 
 ### RHODES NEW TOWN
 
-- We continue out of the Medieval City and visit: **"Rhodes New Town"**
+- We continue and visit: **"Rhodes New Town"**
 
-- The **Old Harbor** and the **Historical buildings**. (Stop Visit Photos)
+- The **Mandraki Old Harbor** and the **Historical buildings**. (Stop Visit Photos)
 
 - The **North Point of the Island**
 

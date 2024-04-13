@@ -136,7 +136,7 @@ outro: Rhodes Private Shore Excursions and Private Tours in Rhodes Greece
 
 From the cruise ship dock/pier we drive to the historical buildings where the Venetian, Gothic and Oriental elements blend:
 
-- The **Old Harbor**, where according to tradition, the **Colossus of Rhodes, one of the Seven Wonders of the Ancient World**, once stood. (Stop Visit Photos).
+- The **Mandraki Old Harbor**, where according to tradition, the **Colossus of Rhodes, one of the Seven Wonders of the Ancient World**, once stood. (Stop Visit Photos).
 
 - The **North Point of the island** where the East Coast's Mediterranean Sea and the West Coast's Aegean Sea meet.
 
