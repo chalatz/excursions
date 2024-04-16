@@ -53,7 +53,7 @@ useful:
   title: Useful Info
   text: "1. The Synagogue and the Museum are closed on Saturdays. The Jewish Cemetery
     closed on Saturdays and Sundays. Entrance fee in the Synagogue and the Jewish
-    Museum is 4 Euros per person\n2. To reach the Acropolis of Lindos you will be
+    Museum is 6 Euros per person\n2. To reach the Acropolis of Lindos you will be
     required to climb 292 steps, or ride on a donkey.\n3. If you have elderly people
     in your group, we can drive them down on the beautiful beach of Lindos have a
     drink and a nice discuss with the driver and enjoy the panoramic view while they
