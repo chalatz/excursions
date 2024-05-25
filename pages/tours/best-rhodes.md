@@ -64,7 +64,7 @@ inclusions:
   - Private Shore Excursion (Just your party)
   - Free Pick up and Drop off at the Cruise Port (or anywhere else)
   - Experienced knowledgeable Tour/Driver English Speaking
-  - Mercedes Benz Sedan Car (4 passengers plus the driver) (<a href="groups.htm">bigger
+  - Mercedes Benz E Class Sedan Car (4 passengers plus the driver) (<a href="groups.htm">bigger
     group or more room?</a>)
   - All Car and Driver Expenses (prices are per car not per person)
   - No Stress - Back to the Ship on Time (if you are a Cruise Ship Passenger)
