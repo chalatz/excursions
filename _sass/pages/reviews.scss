@@ -12,18 +12,7 @@
         display: inline-block;
         text-align: center;
         text-decoration: none;
-
-        &--first {
-            @include breakpoint(smaller) {
-                margin-right: 12px;
-            }
-            @include breakpoint(small) {
-                margin-right: 50px;
-            }
-            @include breakpoint(medium) {
-                margin-right: 100px;
-            }
-        }
+        margin: 0 3%;
     }
 
     &__icon-text {

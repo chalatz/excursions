@@ -20,6 +20,10 @@ intro:
 
      We are listed on TripAdvisor as **"Rhodes Private Tours"**.
   icons:
+  - path: img/trip-advisor/trip-advisor-2024.png
+    text: ''
+    url: https://www.tripadvisor.com/Attraction_Review-g635613-d2645553-Reviews-Rhodes_Private_Tours-Rhodes_Town_Rhodes_Dodecanese_South_Aegean.html
+    alt_text: Tripadvisor Travellers' Choice 2024
   - path: img/trip-advisor/trip-advisor-2020.png
     text: ''
     url: https://www.tripadvisor.com/Attraction_Review-g635613-d2645553-Reviews-Rhodes_Private_Tours-Rhodes_Town_Rhodes_Dodecanese_South_Aegean.html
