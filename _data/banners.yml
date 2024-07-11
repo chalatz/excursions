@@ -6,11 +6,11 @@ items:
       height: 85
     url: rick_steves.htm
   - image:
-      path: /img/home/banners/trip-advisor-2024.png
+      path: /img/trip-advisor/trip-advisor-2024.png
       alt: Rhodes Shore Excursions, Rhodes Private Tours Greece, Private Excursions
-      width: 150
-      height: 100
-      style: 'border: 1px solid #34e0a1;padding:0;'
+      width: 156
+      height: 161
+      style: 'width:130px'
     url: reviews_tripadvisor.htm
   - image:
       path: /img/home/banners/thirty_years_experience_small.png
