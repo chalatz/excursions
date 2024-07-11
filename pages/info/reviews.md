@@ -61,6 +61,6 @@ Recently, our customers have been wondering - **Why no more awards from TripAdvi
 
 TripAdvisor started as a ranking site to review activities but now they have turned into a booking platform with reviews.  TripAdvisor is no longer responsible for tours. Another site, Viator (their partner), does those, of course you can still write/read reviews on TripAdvisor, but the management belongs to Viator.
 
-As you may have noticed, you’ll not see any more “*Certificate of Excellent*” or “*Hall of Fame*”, and if you listed your tours on TripAdvisor you don’t see even the “*Travelers Choice*”.  In addition, TripAdvisor has been changing policies and their whole business model in the last couple of years.  We are fine with that because our achievements are shown on our website and on many other sites as well.
+As you may have noticed, you’ll not see any more *“Certificate of Excellence”* or *“Hall of Fame”*, but you see *“Travelers Choice”*. In addition, TripAdvisor has been changing policies and their whole business model in the last years. We are fine with that because our achievements are shown on our website and on many other sites as well.
 
 Our three greatest strengths: **Quality**, **Personal Touch**, and **Direct Local Price** are a source of tremendous pride for us. By booking directly with us, you’ll always get a better price... Hope to see you in Rhodes for your next vacation.
