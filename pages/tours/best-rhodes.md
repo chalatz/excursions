@@ -170,8 +170,6 @@ Next, we drive down to **St. Paul's Bay**, a site of incredible wild beauty. He
 
 Then we drive you to the **main square of Lindos village**, so you can explore the white village and climb up the **Acropolis of Lindos**, (passing colorful storefronts and whitewashed elaborately decorated homes) to see the magnificent remains of past civilizations: the **4th century BC Doric Temple of Athena Lindia**, **a double-winged portico**, **a Byzantine church and the fortifications of the Knights of St John**.
 
-Don't want to walk? Take a "Lindos Taxi"---a donkey! The vantage point from the Acropolis affords you breath-taking views of a great expanse of the Mediterranean Sea, the St. Paul's Bay, and the white village of Lindos. (Stop Visit Photos)
-
 Or you may skip the climb up to Acropolis of Lindos and just explore the white village.
 
 ### COAST ROAD OF FALIRAKI AND KALLITHEA
