@@ -6,6 +6,7 @@ vendor
 node_modules
 dist
 Gemfile.lock
+_smtp_key.php
 _recaptcha_key.php
 _infodb_key.php
 _geo_api_key.php
