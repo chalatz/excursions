@@ -196,9 +196,12 @@ function passed_recaptcha(){
 
 $address = "request@rhodesshoreexcursions.com";
 $from_address = "smtp@rhodesshoreexcursions.com";
+
+$mail->Sender= $from_address;
+$mail->SetFrom($e_mail, $e_mail, FALSE);
+
 $mail->addReplyTo($e_mail, $e_mail);
 
-$mail->setFrom($from_address);
 $mail->addAddress($address);
 
 $mail->isHTML(false);
