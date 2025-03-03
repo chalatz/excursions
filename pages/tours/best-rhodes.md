@@ -51,13 +51,12 @@ useful:
   title: Useful Info
   text: |-
     1. Usually, we spend 1:00 hour in Lindos, but it depends on you for how long you need to visit the site. To climb up to acropolis of Lindos it takes 15 min, to take a look 30min. In case you need more time, please let us know and we’ll modify the tour to your needs.  However, the tour is 100% flexible, you may extend the tour on the go (as the tour running) please speak to your tour/driver.
-    2. Entrance Fees Acropolis of Lindos 12 Euros per person, Seniors 6 Euros per person, Children under 18 years old free, No charge to enter Lindos village.
+    2. **Entrance Fees Acropolis of Lindos:** 20 Euros per person, Children under 18 years old free, No charge to enter Lindos village.
     3. To reach the Acropolis of Lindos you will be required to climb 292 steps, or ride on a donkey. The donkey does not eliminate all the steps, there are over 80 to go when you get off the donkey. The donkeys go by a slightly different path so the stairs, and the soles of your shoes, will be quite clean if you wish to walk up. The risers of the stairs are 5-7 inches and the treads 18-24 inches. No handrail on either side.
     4. If you have elderly people in your group, we can drive them down on the beautiful beach of Lindos have a drink and a nice discuss with the driver and enjoy the panoramic view while they are waiting for you to climb up the Acropolis of Lindos.
-    5. If you have kids in your group the "**Best of Rhodes Shore Excursion**" it is also an Educational and Entertainment Excursion, and of course they will love the donkey ride up to the Acropolis of Lindos!!
-    6. You may prefer to use ATM machines when you need cash. ATMs are everywhere.
-    7. Rhodes known for [Traditional Appetizers](rhodes_cuisine_greece.htm), desserts, [Wines](wine_tours_greece.htm), the famous handmade [Rhodes Pottery - Ceramics](greek_pottery.htm) and the beautiful [Rhodes Beaches](./rhodes-beach-tour-excursion.htm).
-    8. More info in [Rhodes Private Tours](rhodes_private_tours.htm) F.A.Q.
+    5. You may prefer to use ATM machines when you need cash. ATMs are everywhere.
+    6. Rhodes known for [Traditional Appetizers](rhodes_cuisine_greece.htm), desserts, [Wines](wine_tours_greece.htm), the famous handmade [Rhodes Pottery - Ceramics](greek_pottery.htm) and the beautiful [Rhodes Beaches](./rhodes-beach-tour-excursion.htm).
+    7. More info in [Rhodes Private Tours](rhodes_private_tours.htm) F.A.Q.
 inclusions:
   title: Inclusions
   included:
@@ -168,9 +167,13 @@ Next, we drive down to **St. Paul's Bay**, a site of incredible wild beauty. He
 
 ### LINDOS VILLAGE AND ACROPOLIS
 
-Then we drive you to the **main square of Lindos village**, so you can explore the white village and climb up the **Acropolis of Lindos**, (passing colorful storefronts and whitewashed elaborately decorated homes) to see the magnificent remains of past civilizations: the **4th century BC Doric Temple of Athena Lindia**, **a double-winged portico**, **a Byzantine church and the fortifications of the Knights of St John**.
+Next, we take you to the main square of Lindos Village, where you have two options:
 
-Or you may skip the climb up to Acropolis of Lindos and just explore the white village.
+**Option 1:**<br>
+Wander through the charming whitewashed village, passing colorful storefronts and beautifully decorated homes, before ascending to the Acropolis of Lindos. Explore the awe-inspiring remnants of ancient civilizations, including the 4th-century BC Doric Temple of Athena Lindia, a double-winged portico, a Byzantine church, and the impressive fortifications built by the Knights of St. John. (Stop, Visit, Pictures)
+
+**Option 2:**<br>
+If you'd rather avoid the climb up 292 steps, your tour driver can take you to scenic vantage points for stunning views and photos of the Acropolis from a distance. This way, you can skip the crowds and heat while enjoying more time exploring the picturesque white village. (Stop, Visit, Pictures)
 
 ### COAST ROAD OF FALIRAKI AND KALLITHEA
 

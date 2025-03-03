@@ -53,11 +53,11 @@ route_map:
 useful:
   title: Useful Info
   text: |-
-    1. Entrance Fees Acropolis of Lindos 12 Euros per person, Seniors 6 Euros per person, Children under 18 years old free, No charge to enter Lindos village.
+    1. **Entrance Fees Acropolis of Lindos:** 20 Euros per person, Children under 18 years old free, No charge to enter Lindos village.
     2. To reach the Acropolis of Lindos you will be required to climb 292 steps, or ride on a donkey. The donkey does not eliminate all the steps, there are over 80 to go when you get off the donkey. The donkeys go by a slightly different path so the stairs, and the soles of your shoes, will be quite clean if you wish to walk up. The risers of the stairs are 5-7 inches and the treads 18-24 inches. No handrail on either side.
     3. If you have elderly people in your group, we can drive them down on the beautiful beach of Lindos have a drink and a nice discuss with the driver and enjoy the panoramic view while they are waiting for you to climb up the Acropolis of Lindos.
-    4. The Valley of the Butterflies actually it is a hillside with two gates. The lower gate is the Main Gate, and the upper gate is the Secondary Gate. You can have a quick look using the Main Gate for around 10 min, but if you want to climb up there is about 60 min of walking time (up and down). For the comfort of our travelers we drive them to the Secondary Gate - upper gate so they can walk down easier (one way) 30 - 40 min. The elderly people in your group they can wait down at the Main Gate, with the driver while you explore the place. There is a small cafe, a refreshment kiosk, and a little gift shop.  Entrance fee: (3 Euros Low Season) (5 Euros High Season) per person. Children under 12 years old Free. (Before June 15th and after September 15th we skip the site as no butterflies)
-    5. Filerimos: to visit the Stations of the Cross, the Cross, and the Panoramic Vista is free, to visit the Monastery and the Church, 6 Euros per person, Seniors (with Id or Passport) 3 Euros per person. Children under 18 years old free.
+    4. **The Valley of the Butterflies** is actually a hillside with two gates. The lower gate is the Main Gate, and the upper gate is the Secondary Gate. You can have a quick look using the Main Gate for around 10 min, but if you want to climb up there is about 60 min of walking time (up and down). For the comfort of our travelers we drive them to the Secondary Gate - upper gate so they can walk down easier (one way) 30 - 40 min. The elderly people in your group they can wait down at the Main Gate, with the driver while you explore the place. There is a small cafe, a refreshment kiosk, and a little gift shop. **Valley of the Butterflies Entrance fee:**  6 Euros per person. Children under 12 years old Free. (Before June 15th and after September 15th we skip the site as no butterflies)
+    5. **Filerimos:** to visit the Stations of the Cross, the Cross, and the Panoramic Vista is free, **Entrance Fee to Monastery and the Church:** 10 Euros per person, Children under 18 years old free.
     6. You may prefer to use ATM machines when you need cash. ATMs are everywhere.
     7. Rhodes known for [Traditional Appetizers](rhodes_cuisine_greece.htm), desserts, [Wines](wine_tours_greece.htm), the famous handmade [Rhodes Pottery - Ceramics](greek_pottery.htm) and the beautiful [Rhodes Beaches](./rhodes-beach-tour-excursion.htm).
     8. More info in [Rhodes Private Tours](rhodes_private_tours.htm) F.A.Q.
@@ -137,9 +137,17 @@ From the cruise ship dock/pier we drive to the **Medieval City (World Heritage 
 
 The **Acropolis of Rhodes**, the **temple of Apollo**, the **Greek Stadium**, and **Ancient Theatre**. (Stop Visit Photos)
 
-### ST PAUL'S BAY - VILLAGE AND ACROPOLIS OF LINDOS
+### ST PAUL’S BAY - LINDOS VILLAGE AND ACROPOLIS
 
-We will then drive 50 kilometers / 32 miles southeast to Lindos, where will visit the **St. Paul's Bay**, the village, and the **Acropolis of Lindos**. (Stop Visit Photos)
+Next, we drive **50 km (32 miles) southeast** to Lindos, where you'll have the opportunity to visit **St. Paul's Bay**, the charming whitewashed village, and the **Acropolis of Lindos**. *(Stop, Visit, Photos)*
+
+In Lindos, you can choose between two options:
+
+**Option 1:**<br>
+Explore the **village** and climb up to the **Acropolis of Lindos**, where you'll witness the impressive ruins of ancient civilizations.
+
+**Option 2:**<br>
+**Skip the** **292-step** climb to the Acropolis and instead **explore only the village**. Your tour driver will take you to scenic vantage points, allowing you to admire the Acropolis from a distance and capture stunning photos---all while avoiding the crowds and heat.
 
 ### RHODES TRADITIONAL POTTERY ART
 

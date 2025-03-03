@@ -52,9 +52,9 @@ useful:
   title: Useful Info
   text: |-
     1. There is no entrance fee in the Acropolis of Rhodes
-    2. Valley of the Butterflies Entrance Fee: Low season Adults 3 Euros, High season Adults 5 Euros, Kids under 12 years old free. There is a small cafe, a refreshment kiosk, and a little gift shop.
-    3. Ostrich Farm Entrance Fee: Adults 7 Euros, Children under 12 years 4 Euros (Kids under 3 years Free) also has a café and refreshment kiosk, and a gift shop.
-    4. Bee Museum Entrance Fee: Adults 3 Euros, Children under 5 years Free, Children between age 6 to 18 1,50 Euros, Students 1,50 Euros, Seniors over 65 years old 1,50 Euros
+    2. **Valley of the Butterflies Entrance Fee:** 6 Euros per person, Kids under 12 years old free. There is a small cafe, a refreshment kiosk, and a little gift shop.
+    3. **Ostrich Farm Entrance Fee:**  Adults 17 Euros, Children under 12 years 12 Euros (Kids under 3 years Free) also has a café and refreshment kiosk, and a gift shop.
+    4. **Bee Museum Entrance Fee:** Adults 4 Euros, Children under 12 years Free
     5. Rhodes known for [Traditional Appetizers](rhodes_cuisine_greece.htm), desserts, [Wines](wine_tours_greece.htm), the famous handmade [Rhodes Pottery - Ceramics](greek_pottery.htm) and the beautiful [Rhodes Beaches](./rhodes-beach-tour-excursion.htm).
     6. More info in [Rhodes Private Tours](rhodes_private_tours.htm) F.A.Q.
 inclusions:
@@ -147,7 +147,7 @@ We continue our drive to the **Valley of the Butterflies**. This site is beautif
 
 ### BEE MUSEUM
 
-Next stop is the **"Bee Museum"** Here you can see the life circle of the bees and their caste system in transparent hives and learn everything about the honey. You can have a free honey tasting and the "melekounia" (traditional snack) They also have different types of honey products as cosmetics
+Next stop is the **"Bee Museum"** Here you can see the life circle of the bees and their caste system in transparent hives and learn everything about the honey. You can have a free honey tasting and the "melekounia" (traditional snack) They also have different types of honey products as cosmetics.
 
 ### BACK TO THE SHIP (or to the STARTING POINT)
 

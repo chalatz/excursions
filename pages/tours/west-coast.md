@@ -50,9 +50,9 @@ route_map:
 useful:
   title: Useful Info
   text: |-
-    1. Ancient Kamiros entrance fee: 6 Euros per person. Seniors (with Id or Passport) 3 Euros per person. Children under 18 years old free
-    2. The Valley of the Butterflies. For the comfort of our travelers we drive them to the Secondary Gate - upper gate so they can walk down easier (one way) 30 - 40 min. The elderly people in your group they can wait down at the Main Gate, with the driver while you explore the place. There is a small cafe, a refreshment kiosk, and a little gift shop.  Entrance fee: (3 Euros Low Season) (5 Euros High Season) per person. Children under 12 years old Free. (Before June 15th and after September 15th we skip the site as no butterflies)
-    3. Filerimos: to visit the Stations of the Cross, the Cross, and the panoramic vista is Free, to visit the Monastery and the Church 6 Euros per person. Seniors (with Id or Passport) 3 Euros per person. Children under 18 years old free. The site has a refreshment kiosk a souvenir shop and shady seating.
+    1. **Ancient Kamiros Entrance Fee:** 10 Euros per person, Children under 18 years old free 
+    2. **Valley of the Butterflies:** For your convenience, we drive travelers to the Secondary (upper) Gate, allowing for an easier one-way walk downhill (approximately 30–40 minutes). Elderly members of your group may wait at the Main Gate with the driver while you explore. At the main entrance, you'll find a small café, a refreshment kiosk, and a gift shop. **Valley of the Butterflies Entrance Fee:** 6 Euros per person, Children under 12: Free. **Note:** The site is skipped before June 15th and after September 15th, as no butterflies are present.
+    3. Filerimos: Visiting the Stations of the Cross, the Cross, and the panoramic viewpoint is free of charge. **Entrance Fee Filerimos Monastery and Church:** 10 Euros per person, Children under 18 can enter for free. The site features a refreshment kiosk, a souvenir shop, and shaded seating areas for your comfort.
     4. At the Traditional Winery there is a 5 euros entrance fee per person. You can skip this stop if you wish
     5. You may prefer to use ATM machines when you need cash. ATMs are everywhere.
     6. Rhodes known for [Traditional Appetizers](rhodes_cuisine_greece.htm), desserts, [Wines](wine_tours_greece.htm), the famous handmade [Rhodes Pottery - Ceramics](greek_pottery.htm) and the beautiful [Rhodes Beaches](./rhodes-beach-tour-excursion.htm).
@@ -124,19 +124,19 @@ outro: Rhodes Private Shore Excursions and Private Tours in Rhodes Greece
 
 ### RHODES MEDIEVAL CITY
 
-Starting from the pier or your chosen departure point, we will drive you to the Medieval City. Here, you'll have the opportunity to capture photos of the walls and significant gates from outside. We’ll conclude the tour at one of the Old Town gates, allowing you the freedom to explore independently and stroll back to the ship. The walk from the Medieval City to the Cruise Port takes just 10 minutes, enabling you to save both time and money by avoiding any waiting-time charges for the driver.
+Beginning at the pier or your selected departure point, we will transport you to the Medieval City. Along the way, you'll have the chance to take photos of the impressive walls and notable gates from the outside. The tour will conclude at one of the Old Town gates, giving you the flexibility to explore at your own pace and walk back to the ship. The journey from the Medieval City to the Cruise Port is just a 10-minute walk, allowing you to save both time and money by avoiding additional driver waiting fees.
 
 ### RHODES NEW TOWN
 
 We continue to the **"New Town"**. Here we will see/visit:
 
-- The historical buildings where the Venetian, Gothic and Arabic elements blend:
+  - **The Historic Buildings** - Where Venetian, Gothic, and Oriental architectural elements seamlessly blend, creating a unique and captivating aesthetic.
 
-- The **Mandraki Old Harbor**, where according to tradition, the **Colossus of Rhodes**, one of the Seven Wonders of the Ancient World, once stood. (Stop Visit Photos).
+  - **Mandraki Old Harbor** -- Traditionally believed to be the site where the Colossus of Rhodes, one of the Seven Wonders of the Ancient World, once stood. (Stop, Visit, Photos)
 
-- The **Church of the Annunciation**, an example of Medieval Catholic design with amazing wall paintings and impressive chandeliers, that today is the Orthodox town's cathedral. (Stop Visit Photos)
+  - **Church of the Annunciation** -- A stunning example of medieval Catholic architecture, now serving as the Orthodox town's cathedral. Admire its remarkable wall paintings and impressive chandeliers. (Stop, Visit, Photos)
 
-- The **North Point of the island** where the East Coast's Mediterranean Sea and the West Coast's Aegean Sea meet.
+  - **North Point of the Island** -- The meeting point of the Mediterranean Sea on the East Coast and the Aegean Sea on the West Coast, offering a breathtaking natural spectacle.
 
 ### MONTE SMITH
 

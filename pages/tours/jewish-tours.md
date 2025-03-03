@@ -57,9 +57,7 @@ useful:
     required to climb 292 steps, or ride on a donkey.\n3. If you have elderly people
     in your group, we can drive them down on the beautiful beach of Lindos have a
     drink and a nice discuss with the driver and enjoy the panoramic view while they
-    are waiting for you to climb up the Acropolis of Lindos.\n4. Entrance fee Acropolis
-    of Lindos 12 Euros per person, Seniors (with Id or Passport) 6 Euros per person,
-    Children under 18 years old free, No charge to enter Lindos village. \n5. You
+    are waiting for you to climb up the Acropolis of Lindos.\n4. **Entrance fee Acropolis of Lindos:**  20 Euros per person, Children under 18 years old free, No charge to enter Lindos village. \n5. You
     may prefer to use ATM machines when you need cash. ATMs are everywhere.\n6. Rhodes
     known for [Traditional Appetizers](rhodes_cuisine_greece.htm), desserts, [Wines](wine_tours_greece.htm),
     the famous handmade [Rhodes Pottery - Ceramics](greek_pottery.htm) and the beautiful [Rhodes
@@ -185,7 +183,13 @@ Next, we drive down to **St. Paul's Bay**, a site of incredible wild beauty. Fro
 
 ### LINDOS VILLAGE AND ACROPOLIS
 
-Then we drive you to the main square of **Lindos Village**, so you can explore the white village and climb up the **Acropolis of Lindos** or take a "Lindos Taxi"---a donkey! The view from the top is truly extraordinary.
+We will take you to the main square of Lindos Village, where you can choose from two options:
+
+**Option 1:**<br>
+Wander through the charming whitewashed village and climb up to the Acropolis of Lindos, where you'll be rewarded with breathtaking panoramic views.
+
+**Option 2:**<br>
+Your tour guide/driver can take you to scenic vantage points, allowing you to admire the Acropolis from a distance and capture stunning photos.
 
 ### THE COASTAL ROAD OF FALIRAKI AND KALLITHEA
 

@@ -50,17 +50,7 @@ route_map:
     alt: Rhodes Nature Excursion - Map
 useful:
   title: Useful Info
-  text: "1. Kallithea Spa: Entrance Fee 3 Euros per person\n2. The Valley of the Butterflies.
-    For the comfort of our travelers we drive them to the Upper Gate so they can walk
-    down easier (one way) 30 - 40 min. The elderly people in your group they can wait
-    down at the Main Gate, with the driver while you explore the place. There is a
-    small cafe, a refreshment kiosk, and a little gift shop. Entrance fee: (3 Euros
-    Low Season) (5 Euros High Season) per person. Children under 12 years old Free.
-    (Before June 15th and after September 15th we skip the site as no butterflies)\n3.
-    Filerimos: to visit the Stations of the Cross, the Cross, and the panoramic vista
-    is Free, to visit the Monastery and the Church 6 Euros per person. Children under
-    18 years old free. The site has a refreshment kiosk a souvenir shop and shady
-    seating.\n4. You may prefer to use ATM machines when you need cash. ATMs are everywhere.\n5.
+  text: "1. **Kallithea Spa Entrance Fee:**  5 Euros per person\n2. **Valley of the Butterflies.** For your convenience, we drive travelers to the Secondary (Upper) Gate, making for an easier one-way downhill walk (approximately 30--40 minutes). Elderly members of your group may wait at the Main Gate with the driver while you explore. At the main entrance, you'll find a small café, a refreshment kiosk, and a gift shop.  **Valley of the Butterflies** **Entrance Fee:** 6 Euros per person, Children under 12: Free.   **Note:** The site is skipped before June 15th and after September 15th, as no butterflies are present.\n3. **Filerimos:** to visit the Stations of the Cross, the Cross, and the panoramic vista is Free. **Filerimos Monastery and Church, Entrance Fee:**  10 Euros per person. Children under 18 years old free. The site has a refreshment kiosk a souvenir shop and shady seating.\n4. You may prefer to use ATM machines when you need cash. ATMs are everywhere.\n5.
     Rhodes known for [Traditional Appetizers](rhodes_cuisine_greece.htm), desserts, [Wines](wine_tours_greece.htm),
     the famous handmade [Rhodes Pottery - Ceramics](greek_pottery.htm) and the beautiful [Rhodes
     Beaches](./rhodes-beach-tour-excursion.htm).\n6. More info in [Rhodes Private
