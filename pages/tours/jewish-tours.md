@@ -57,11 +57,13 @@ useful:
     required to climb 292 steps, or ride on a donkey.\n3. If you have elderly people
     in your group, we can drive them down on the beautiful beach of Lindos have a
     drink and a nice discuss with the driver and enjoy the panoramic view while they
-    are waiting for you to climb up the Acropolis of Lindos.\n4. **Entrance fee Acropolis of Lindos:**  20 Euros per person, Children under 18 years old free, No charge to enter Lindos village. \n5. You
-    may prefer to use ATM machines when you need cash. ATMs are everywhere.\n6. Rhodes
-    known for [Traditional Appetizers](rhodes_cuisine_greece.htm), desserts, [Wines](wine_tours_greece.htm),
-    the famous handmade [Rhodes Pottery - Ceramics](greek_pottery.htm) and the beautiful [Rhodes
-    Beaches](./rhodes-beach-tour-excursion.htm).\n7. More [Rhodes Private Tours](rhodes_private_tours.htm) F.A.Q."
+    are waiting for you to climb up the Acropolis of Lindos.\n4. **Entrance fee Acropolis
+    of Lindos:**  20 Euros per person, Children under 18 years old free, No charge
+    to enter Lindos village. \n5. You may prefer to use ATM machines when you need
+    cash. ATMs are everywhere.\n6. Rhodes known for [Traditional Appetizers](rhodes_cuisine_greece.htm),
+    desserts, [Wines](wine_tours_greece.htm), the famous handmade [Rhodes Pottery
+    - Ceramics](greek_pottery.htm) and the beautiful [Rhodes Beaches](./rhodes-beach-tour-excursion.htm).\n7.
+    More [Rhodes Private Tours](rhodes_private_tours.htm) F.A.Q."
 inclusions:
   title: Inclusions
   included:

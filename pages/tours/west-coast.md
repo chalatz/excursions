@@ -49,14 +49,24 @@ route_map:
     alt: RHODES WEST COAST EXCURSION - Route map
 useful:
   title: Useful Info
-  text: |-
-    1. **Ancient Kamiros Entrance Fee:** 10 Euros per person, Children under 18 years old free 
-    2. **Valley of the Butterflies:** For your convenience, we drive travelers to the Secondary (upper) Gate, allowing for an easier one-way walk downhill (approximately 30–40 minutes). Elderly members of your group may wait at the Main Gate with the driver while you explore. At the main entrance, you'll find a small café, a refreshment kiosk, and a gift shop. **Valley of the Butterflies Entrance Fee:** 6 Euros per person, Children under 12: Free. **Note:** The site is skipped before June 15th and after September 15th, as no butterflies are present.
-    3. Filerimos: Visiting the Stations of the Cross, the Cross, and the panoramic viewpoint is free of charge. **Entrance Fee Filerimos Monastery and Church:** 10 Euros per person, Children under 18 can enter for free. The site features a refreshment kiosk, a souvenir shop, and shaded seating areas for your comfort.
-    4. At the Traditional Winery there is a 5 euros entrance fee per person. You can skip this stop if you wish
-    5. You may prefer to use ATM machines when you need cash. ATMs are everywhere.
-    6. Rhodes known for [Traditional Appetizers](rhodes_cuisine_greece.htm), desserts, [Wines](wine_tours_greece.htm), the famous handmade [Rhodes Pottery - Ceramics](greek_pottery.htm) and the beautiful [Rhodes Beaches](./rhodes-beach-tour-excursion.htm).
-    7. More info in [Rhodes Private Tours](rhodes_private_tours.htm) F.A.Q.
+  text: "1. **Ancient Kamiros Entrance Fee:** 10 Euros per person, Children under
+    18 years old free \n2. **Valley of the Butterflies:** For your convenience, we
+    drive travelers to the Secondary (upper) Gate, allowing for an easier one-way
+    walk downhill (approximately 30–40 minutes). Elderly members of your group may
+    wait at the Main Gate with the driver while you explore. At the main entrance,
+    you'll find a small café, a refreshment kiosk, and a gift shop. **Valley of the
+    Butterflies Entrance Fee:** 6 Euros per person, Children under 12: Free. **Note:**
+    The site is skipped before June 15th and after September 15th, as no butterflies
+    are present.\n3. Filerimos: Visiting the Stations of the Cross, the Cross, and
+    the panoramic viewpoint is free of charge. **Entrance Fee Filerimos Monastery
+    and Church:** 10 Euros per person, Children under 18 can enter for free. The site
+    features a refreshment kiosk, a souvenir shop, and shaded seating areas for your
+    comfort.\n4. At the Traditional Winery there is a 5 euros entrance fee per person.
+    You can skip this stop if you wish\n5. You may prefer to use ATM machines when
+    you need cash. ATMs are everywhere.\n6. Rhodes known for [Traditional Appetizers](rhodes_cuisine_greece.htm),
+    desserts, [Wines](wine_tours_greece.htm), the famous handmade [Rhodes Pottery
+    - Ceramics](greek_pottery.htm) and the beautiful [Rhodes Beaches](./rhodes-beach-tour-excursion.htm).\n7.
+    More info in [Rhodes Private Tours](rhodes_private_tours.htm) F.A.Q."
 inclusions:
   title: Inclusions
   included:
