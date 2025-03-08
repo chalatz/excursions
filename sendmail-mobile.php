@@ -40,20 +40,27 @@ $regionName = $api_result['region'];
 $cityName = $api_result['city'];
 $zipCode = $api_result['zip'];
 
+function test_input($data) {
+    $data = trim($data);
+    $data = stripslashes($data);
+    $data = htmlspecialchars($data);
+    return $data;
+}
+
 if(isset($_POST['return_to'])){
-    $return_to = $_POST['return_to'];
+    $return_to = test_input($_POST['return_to']);
 }
 if(isset($_POST['from_page'])){
-    $from_page = $_POST['from_page'];
+    $from_page = test_input($_POST['from_page']);
 }
 if(isset($_POST['first_last_name'])){
-    $first_last_name = $_POST['first_last_name'];
+    $first_last_name = test_input($_POST['first_last_name']);
 }
 if(isset($_POST['e_mail'])){
-    $e_mail = $_POST['e_mail'];
+    $e_mail = test_input($_POST['e_mail']);
 }
 if(isset( $_POST['comments'])){
-    $comments = $_POST['comments'];
+    $comments = test_input($_POST['comments']);
 }
 
 function passed(){

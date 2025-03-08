@@ -50,6 +50,13 @@ $regionName = $api_result['region'];
 $cityName = $api_result['city'];
 $zipCode = $api_result['zip'];
 
+function test_input($data) {
+    $data = trim($data);
+    $data = stripslashes($data);
+    $data = htmlspecialchars($data);
+    return $data;
+}
+
 if(isset($_POST['return_to'])){
     $return_to = $_POST['return_to'];
 }
