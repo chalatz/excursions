@@ -237,10 +237,7 @@ inclusions:
   - Free Cancelation Policy
   not_included:
   - Entrance Fees, Food, Drinks, Gratuities (Optional)
-  footer: The Wine Tour got 5 euros per person entrance fee to Anastasia Winery, 5
-    euros to Cava Stafylos, and 5 euros to Kounakis Winery, the rest of the wine tasting
-    is FREE. The food and the drinks in the restaurant are not included in the tour
-    price.
+  footer: ''
 gallery:
   title: Gallery
   images:
@@ -303,37 +300,35 @@ We will also view the north point of the island where the **Mediterranean Sea** 
 
 The drive continues 55 kilometres / 37 miles, from the north east to the south west coast, using an inland route. The road passes through villages and densely wooded areas.
 
-### WINE FACTORY ESTATE OF ANASTASIA
-
-On the way we stop near the Valley of the Butterflies at the small **Wine factory Estate of Anastasia Triantafillou** where they make high quality **Organic Wines** from the local white Athiri grape and the red Mandilari grape as well as **Cabernet Sauvignon, Merlot, Grenache Rouge** and **Moschatel**. They have a limited supply but you can sample their wines (tasting), usually they offer you village bread with olive oil. You can also have an olive oil tasting and honey tasting. You can get pictures of the ageing facilities as well. (Stop Visit Taste Photos)
-
-{% include partials/content-gallery.html the_gallery= page.itinerary.galleries.anastasia %}
-
 ### EMBONAS VILLAGE
 
-We continue along the mountain’s path south west to **Embonas Village**, the most important grape-producing village on the island. Embona is a mountainous village halfway up the Attavyros Mountain, it is the highest village at 800m / 2.600f. above sea level, situated in immense natural beauty and the views of the surrounding areas are awesome. Attavyros is the highest mountain on the island of Rhodes, it rises to a height of 1,215m. / 3.980f. and it lies to the south of the village, most of the vineyards are planted on its slopes and foothills.
+The drive to Embonas Village spans 55 kilometers (37 miles), stretching from the northeast to the southwest coast via an inland route. Along the way, the road winds through charming villages and dense woodlands, offering a scenic and tranquil journey.
+
+**Embonas** is the most significant grape-producing village on the island, nestled halfway up **Attavyros Mountain**. It stands as the highest village on Rhodes, perched at an elevation of 800 meters (2,600 feet) above sea level, surrounded by breathtaking natural beauty. The panoramic views of the landscape are truly awe-inspiring.
+
+**Attavyros**, the tallest mountain on the island, soars to 1,215 meters (3,980 feet) and is located just south of the village. The mountain's slopes and foothills provide fertile ground for the region’s vineyards, making Embonas a renowned hub for wine production.
 
 ### CAVA STAFYLOS
 
-Once we arrive at Embona village we visit the **Cava Stafylos**, here you can taste some of the best local wines and liqueurs made by Logothetis family, Giannis and Andonis (Father and Son).  Their winery is only five years old, but the family's experience with the vineyards began about three generations ago and they still make their own wines to these days.  Their goal is to produce high quality wines in affordable prices. You can also taste Olive Oil, Honey and Spices.  (Stop Visit Taste Photos)
+Once we arrive at Embona village we visit the **Cava Stafylos**, here you can taste some of the best local wines and liqueurs made by Logothetis family, Giannis and Andonis (Father and Son).  Their winery is only five years old, but the family's experience with the vineyards began about three generations ago and they still make their own wines to these days. Their goal is to produce high quality wines in affordable prices. You can also taste Olive Oil, Honey and Spices. (Entrance Fee: 5 Euros per person)
 
 {% include partials/content-gallery.html the_gallery= page.itinerary.galleries.stafylos %}
 
 ### MERKOURIS FAMILY WINERY
 
-We continue with **Dionysos** Free Wine Tasting. Here you can taste a big variety of fresh wines without chemical interventions and the strong local spirit **Souma** (Souma from their grapes production in the traditional way of distillation). You are also offered olives, tomatoes, cheese, village bread and local fruits, usually grapes. (Stop Visit Taste Photos)
+We continue with **Dionysos** Free Wine Tasting. Here you can taste a big variety of fresh wines without chemical interventions and the strong local spirit **Souma** (Souma from their grapes production in the traditional way of distillation). You are also offered olives, tomatoes, cheese, village bread and local fruits, usually grapes. (Entrance Fee: 3 Euros per person)
 
 {% include partials/content-gallery.html the_gallery= page.itinerary.galleries.merkouris %}
 
 ### KOUNAKI WINERY
 
-We visit the **Kounaki Winery**. It produces about 10 different types of wine that are available in very small quantities (2000 to 5000 bottles per label). Kounaki winery cultivates Greek varieties but also European varieties such as **Cabernet Sauvignon**, **Merlot**, **Syrah**, **Chardonnay**, **Tempranillo**. During the season, the winery is open to visitors and offers products for testing. The winery is staffed with oenologist and all necessary and qualified personnel for vinification, viticulture and visitor service. (Stop Visit Taste Photos)
+We visit the **Kounaki Winery**. It produces about 10 different types of wine that are available in very small quantities (2000 to 5000 bottles per label). Kounaki winery cultivates Greek varieties but also European varieties such as **Cabernet Sauvignon**, **Merlot**, **Syrah**, **Chardonnay**, **Tempranillo**. During the season, the winery is open to visitors and offers products for testing. The winery is staffed with oenologist and all necessary and qualified personnel for vinification, viticulture and visitor service. (Entrance Fee: 5 Euros per person)
 
 {% include partials/content-gallery.html the_gallery= page.itinerary.galleries.kounakis %}
 
 ### ALEXANDRIS WINERY
 
-We visit **Alexandris Winery**. Here the philosophy of the winemaking focuses on the production of high quality wine that is bind by the ecosystem of mount Ataviros and expresses the uniqueness of the natural surroundings. To achieve this goal, the cultivation and vinification take place under special catering, using not only the knowledge but also by merging tradition with technology. (Stop Visit Taste Photos)
+We visit **Alexandris Winery**. Here the philosophy of the winemaking focuses on the production of high quality wine that is bind by the ecosystem of mount Ataviros and expresses the uniqueness of the natural surroundings. To achieve this goal, the cultivation and vinification take place under special catering, using not only the knowledge but also by merging tradition with technology. (Entrance Fee: 5 Euros per person) If they are close when you visit them, you can taste their wines at DIONYSOS WINES - MERKOURIS FAMILY.
 
 {% include partials/content-gallery.html the_gallery= page.itinerary.galleries.alexandris %}
 
