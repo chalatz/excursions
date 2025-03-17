@@ -296,17 +296,13 @@ We will also view the north point of the island where the **Mediterranean Sea** 
 
 {% include partials/content-gallery.html the_gallery= page.itinerary.galleries.new_town %}
 
-### THE JOURNEY TO SOUTH WEST
-
-The drive continues 55 kilometres / 37 miles, from the north east to the south west coast, using an inland route. The road passes through villages and densely wooded areas.
-
-### EMBONAS VILLAGE
+### THE JOURNEY TO EMBONAS VILLAGE
 
 The drive to Embonas Village spans 55 kilometers (37 miles), stretching from the northeast to the southwest coast via an inland route. Along the way, the road winds through charming villages and dense woodlands, offering a scenic and tranquil journey.
 
 **Embonas** is the most significant grape-producing village on the island, nestled halfway up **Attavyros Mountain**. It stands as the highest village on Rhodes, perched at an elevation of 800 meters (2,600 feet) above sea level, surrounded by breathtaking natural beauty. The panoramic views of the landscape are truly awe-inspiring.
 
-**Attavyros**, the tallest mountain on the island, soars to 1,215 meters (3,980 feet) and is located just south of the village. The mountain's slopes and foothills provide fertile ground for the region’s vineyards, making Embonas a renowned hub for wine production.
+**Attavyros**, the tallest mountain on the island, soars to 1,215 meters (3,980 feet) and is located just south of the village. The mountain's slopes and foothills provide fertile ground for the region's vineyards, making Embonas a renowned hub for wine production.
 
 ### CAVA STAFYLOS
 
@@ -314,7 +310,7 @@ Once we arrive at Embona village we visit the **Cava Stafylos**, here you can ta
 
 {% include partials/content-gallery.html the_gallery= page.itinerary.galleries.stafylos %}
 
-### MERKOURIS FAMILY WINERY
+### DIONYSOS WINES - MERKOURIS FAMILY
 
 We continue with **Dionysos** Free Wine Tasting. Here you can taste a big variety of fresh wines without chemical interventions and the strong local spirit **Souma** (Souma from their grapes production in the traditional way of distillation). You are also offered olives, tomatoes, cheese, village bread and local fruits, usually grapes. (Entrance Fee: 3 Euros per person)
 
