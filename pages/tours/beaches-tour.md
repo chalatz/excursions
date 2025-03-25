@@ -145,7 +145,13 @@ It is said that St Paul’s Bay is the place where Apostle landed in 51 AD. The 
 
 ### Lindos Village and Acropolis
 
-You can have a lot of fun in Lindos. We travel to the Central Square of Lindos, which is the perfect place to explore the village. You can also spend time riding donkeys, more commonly known as the taxis of Lindos! You can enjoy and relax in the village (or you can climb up to acropolis) and then meet up with your driver at the main square at the prearranged time. (Stop Visit Photos)
+Upon arriving in Lindos, you have the following options:
+
+-   **Option 1:** Drive to the main square of Lindos, explore the village, and climb 292 steps to the Acropolis for stunning views. *(Stop, Visit, Photos)*
+
+-   **Option 2:** Drive to the main square of Lindos and explore the charming whitewashed village without climbing to the Acropolis. *(Stop, Visit, Photos)*
+
+-   **Option 3:** Skip the village and Acropolis entirely. Instead, your driver will take you to scenic viewpoints for breathtaking photos from a distance. This option avoids crowds and heat while giving you more time for a refreshing swim.
 
 ### Swimming in the Mediterranean Sea
 
