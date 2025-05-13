@@ -157,6 +157,10 @@ On the way you can choose an optional short stop at a pottery workshop where the
 
 On the way back from Lindos, we stop for a relaxing lunch right on the water's edge at a seaside village restaurant on the Mediterranean Sea, which offers fresh seafood, Rhodian cuisine, and excellent local wines, there are also vegetarian options or dishes.
 
+### OLIVE OIL & WINE TASTING EXPERIENCE
+
+A short drive takes us to an optional stop where you can enjoy a charming wine and olive oil tasting experience. Sample an array of locally crafted wines that reflect the rich character of the region, and savor premium olive oils infused with aromatic dried herbs. This visit offers a perfect chance to immerse yourself in the authentic tastes of Rhodes (Stop  Visit  Taste  Photos – Entrance Fee 3 Euros / person)
+
 ### SCENIC DRIVE FROM THE EAST TO THE WEST COAST
 
 Our tour resumes with a **scenic drive** through the Island from the **East to the West Coast**, stopping at:
@@ -165,9 +169,6 @@ Our tour resumes with a **scenic drive** through the Island from the **East to t
 
 The **Valley of the Butterflies**, one of the most attractive destinations on the island and one of the most unusual biotopes in Europe. This site is beautifully arranged with wooden bridges. From Mid-June to Mid-September thousands of multi-colored butterflies of the genus Panaxia come here to reproduce. (We drive you to the upper gate so you can walk downhill, easier). (Stop Visit Photos)
 
-### FREE WINE TASTING
-
-**A traditional (boutique) winery for free wine tasting**, Athiri, Red Wine Mandilari, Muscat, Cabernet Sauvignon...Souma (distillate of wine). Winemakers are using organic growth and organic process for the vineyards and wines. Here you can get your pictures of the ageing facilities. (Stop Visit Taste Photos)
 
 ### FILERIMOS MONASTERY
 
