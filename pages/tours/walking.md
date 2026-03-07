@@ -42,8 +42,8 @@ route_map:
     alt: WALKING SHORE EXCURSION - Rhodes Old Town
 useful:
   title: Useful Info
-  text: "1. Entrance Fees to Grand Masters Palace 8 Euros per person, Children under
-    18 years old free (In Off Season 4 Euros per person)\n2. If you have elderly people
+  text: "1. Entrance Fees to Grand Masters Palace 20 Euros per person, Children under
+    18 years old free. If you have elderly people
     in your group, you can have more short breaks (Please let us know, and we’ll adjust
     the tour accordingly) \n3. For individuals using wheelchairs, we recommend omitting
     the visit to the Grand Masters Palace, as it involves numerous steps that may
