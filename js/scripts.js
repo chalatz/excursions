@@ -228,6 +228,21 @@
         });
     };
 
+    var collapse_sibling = function(){
+        var button = $('.collapse-sibling');
+
+        button.on('click', function(){
+            var $this = $(this),
+                content = $('.collapsible-sibling'),
+                icon = $this.find('.tour__read-more-arrow-icon');
+            
+            content.slideToggle(500);
+            console.log(content);
+            icon.toggleClass('icon-rotate-180');
+        });
+
+    };
+
     handle_menu();
     handle_submenu();
 
@@ -240,5 +255,7 @@
     handle_contact_form_post();
 
     handle_form_loader();
+
+    collapse_sibling();
 
 })(jQuery);
