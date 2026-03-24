@@ -136,8 +136,6 @@ outro: Rhodes Private Shore Excursions and Private Tours in Rhodes Greece
 
 Beginning at the pier or your selected departure point, we will transport you to the Medieval City. Along the way, you'll have the chance to take photos of the impressive walls and notable gates from the outside. The tour will conclude at one of the Old Town gates, giving you the flexibility to explore at your own pace and walk back to the ship. The journey from the Medieval City to the Cruise Port is just a 10-minute walk, allowing you to save both time and money by avoiding additional driver waiting fees.
 
-{% include partials/collapsible-md-content.html %}
-
 ### RHODES NEW TOWN
 
 We continue to the **"New Town"**. Here we will see/visit:

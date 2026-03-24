@@ -130,8 +130,6 @@ Due to a recent traffic regulation, vehicles are restricted from entering the Ol
 
 However, we can conclude the tour at one of the Old Town gates, allowing you the freedom to explore independently and stroll back to the ship. The walk from the Medieval City to the Cruise Port takes just 10 minutes, enabling you to save both time and money by avoiding any waiting-time charges for the driver.
 
-{% include partials/collapsible-md-content.html %}
-
 ### RHODES NEW TOWN
 
 We continue to the **"New Town"**. Here we will see/visit:
