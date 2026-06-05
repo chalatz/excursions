@@ -67,8 +67,6 @@ footer:
 
     {:.text-left}
     Collaborating with Rick Steves for a second time was truly rewarding. His decision to revisit Rhodes after so many years highlights the island’s enduring appeal, and I am thankful to have been part of creating another meaningful experience for him.
-
-
 ---
 
 Rick Steves is an American travel writer and television personality. He debuted his first television show in America in 1991, a series which ran until 1998. Since 2000, he has been the host of a travel documentary series called Rick Steves' Europe on America's Public Broadcasting Service (PBS). He also has a public radio travel show called Travel with Rick Steves. In addition to those activities, he has expanded into newspapers and the Internet. Rick encourages travelers to enter countries through the "back door," not just visiting big cities but venturing out to experience small towns and villages away from popular tourist sites. Since his first book came out in 1980, Steves has written many popular guidebooks. His books aren't simply lists of good hotels and restaurants. They include collections of personal anecdotes from his many years of travel which make his writing both informative and entertaining.
