@@ -51,7 +51,7 @@ footer:
 
     **Discover Rhodes in an episode of Rick Steves’ Europe, where he journeys through the island’s medieval Old Town, uncovers the history of the Knights of St. John, reflects on the legend of the Colossus of Rhodes, and visits the charming whitewashed streets of Lindos.**
 
-    <iframe class="centered" src="https://www.youtube.com/embed/AyFtN9qy2K0?modestbranding=1&amp;showinfo=0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" width="672" height="378" frameborder="0"></iframe>
+    <iframe class="centered" src="https://www.youtube.com/embed/AyFtN9qy2K0?modestbranding=1&amp;showinfo=0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" width="800" height="450" frameborder="0"></iframe>
 
     {:._mt-3rem}
     ### RICK STEVES REVISITS RHODES & SYMI
