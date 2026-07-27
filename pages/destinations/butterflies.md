@@ -22,13 +22,10 @@ head_photo:
   mobile: "/img/pages/valley-of-the-butterflies/head-photo-mobile.jpg"
   alt_text: ''
 sections:
-- text: Known as the Petaloudes Valley in Greek, the Butterfly Valley is located on
-    the western side of Rhodes. What makes it special is that it is home to a diverse
-    range of species of Jersey Tiger moths. Every year, colorful moths and butterflies
-    cover the land from mid-June to mid-September. They are attracted to the region
-    due to highly humid weather conditions. The Oriental Sweetgum trees in the valley
-    give off a faint, distinctive scent that attracts moths and butterflies, creating
-    an exceptional biotope.
+- text: |-
+    The Valley of the Butterflies is **located 26.4 km (16.4 miles)** **from Rhodes Cruise Port** on the western side of Rhodes. Please note that the Valley of the Butterflies is now **open daily from 9:00 AM to 6:00 PM**, as these are the **new opening hours**, replacing the previous 8:00 AM opening time.
+
+    Known as the **Petaloudes Valley** in Greek, the Butterfly Valley is home to a diverse range of species of **Jersey Tiger moths**. Every year, colorful moths and butterflies cover the land from mid-June to mid-September. They are attracted to the region due to highly humid weather conditions. The Oriental Sweetgum trees in the valley give off a faint, distinctive scent that attracts moths and butterflies, creating an exceptional biotope.
   gallery:
     items_per_row: 4
     items:
